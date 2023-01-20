@@ -63,10 +63,12 @@ def create_cluster(df):
     # Run PCA to reduce number of features
     pca = PCA(n_components=len(skills_matrix), random_state=42)
     comps = pca.fit_transform(skills_matrix)
+    print("Comps :",comps.shape)
     save_model(pca,os.path.join(outdir,'pca_vector.sav') )
     # Put the components into a dataframe
     comps = pd.DataFrame(comps)
-    comps.to_csv(os.path.join(outdirforcsv,'Clustered Components.csv') )
+    print(len(skills_matrix))
+    comps.to_csv(os.path.join(outdirforcsv,'Clustered Components.csv'))
     # Cluster job titles based on components derived from feature matrix
     cltr = AgglomerativeClustering(n_clusters=5)
     cltr.fit(comps)
@@ -76,7 +78,8 @@ def create_cluster(df):
 
 
 def main():
-    df=pd.read_csv(os.path.join(outdirforcsv, 'Skill Extract.csv') )
+    df=pd.read_csv(os.path.join(outdirforcsv, 'Skill Extract.csv'))
+    df.drop(df.columns[df.columns.str.contains('unnamed',case = False)],axis = 1, inplace = True)
     create_cluster(df)
 
 

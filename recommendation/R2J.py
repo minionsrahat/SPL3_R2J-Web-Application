@@ -1,5 +1,3 @@
-from sklearn.feature_extraction.text import TfidfVectorizer
-from sklearn.decomposition import PCA
 import pandas as pd
 import joblib
 from sklearn.metrics.pairwise import cosine_similarity
@@ -19,22 +17,27 @@ def get_recommendations(resume_text):
     pca=load_model(os.path.join(outdirmodel,'pca_vector.sav'))
     model=load_model(os.path.join(outdirmodel,'R2J_Logistic_Cls.sav'))
     df=pd.read_csv(os.path.join(outdirforcsv,'Clustered Jobs.csv'))
+    df.drop(df.columns[df.columns.str.contains('unnamed',case = False)],axis = 1, inplace = True)
     comps = pd.read_csv(os.path.join(outdirforcsv,'Clustered Components.csv'))
+    comps.drop(comps.columns[comps.columns.str.contains('unnamed',case = False)],axis = 1, inplace = True)
+    comps['cluster_no'] = df['cluster_no']
+    comps.set_index('cluster_no', inplace=True)
 
     skillz = pd.DataFrame(vec.transform([resume_text]).todense())
     skillz.columns = vec.get_feature_names()
     # Tranform feature matrix with pca
     user_comps = pd.DataFrame(pca.transform(skillz))
-    print(user_comps.shape)
+
+    
     # Predict cluster for user and print cluster number
     cluster = model.predict(user_comps)[0]
     print ('CLUSTER NUMBER', cluster, '\n\n')
 
     # Calculate cosine similarity
     cos_sim = pd.DataFrame(cosine_similarity(user_comps,comps[comps.index==cluster]))
-
     # Get job titles from sample2 to associate cosine similarity scores with jobs
     samp_for_cluster = df[df['cluster_no']==cluster]
+    # print(samp_for_cluster.head(10))
     cos_sim = cos_sim.T.set_index(samp_for_cluster.position)
     cos_sim.columns = ['score']
 

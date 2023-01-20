@@ -32,7 +32,7 @@ def submit_data():
         f.save(os.path.join(outdir, f.filename))
     
     #Parse Resume
-    resume_text=resume_parser.extract_attributes(f.filename)
+    resume_text=resume_parser.parser(f.filename)
 
     #Job Vacancy Recommendations
     recommend_jobs=R2J.get_recommendations(resume_text)

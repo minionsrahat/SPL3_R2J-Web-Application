@@ -1,11 +1,15 @@
 from pyresparser import ResumeParser
+import os
+
+outdir = './Dataset/Resume files'
 
 def extract_attributes(data):
     skills=(','.join(word for word in data['skills']))
     return skills
 
 def parser(resume_file):
-    data=ResumeParser(resume_file).get_extracted_data()
+    print("Resume Name"+resume_file)
+    data=ResumeParser(os.path.join(outdir,resume_file)).get_extracted_data()
     skills=extract_attributes(data)
     return skills
 

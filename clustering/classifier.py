@@ -15,7 +15,10 @@ def save_model(model,filename):
 
 def logistic_regression():
     df=pd.read_csv(os.path.join(outdirforcsv,'Clustered Jobs.csv'))
+    df.drop(df.columns[df.columns.str.contains('unnamed',case = False)],axis = 1, inplace = True)
     X = pd.read_csv(os.path.join(outdirforcsv,'Clustered Components.csv'))
+    X.drop(X.columns[X.columns.str.contains('unnamed',case = False)],axis = 1, inplace = True)
+    print("Comps :",X.shape)
     y = df['cluster_no']
     lr = LogisticRegression(C=10, penalty='l2', multi_class='multinomial', solver='sag', max_iter=1000)
     lr.fit(X, y)
