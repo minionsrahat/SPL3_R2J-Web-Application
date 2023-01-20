@@ -42,6 +42,6 @@ def get_recommendations(resume_text):
     cos_sim.columns = ['score']
 
     # Print the top ten suggested jobs for the user's cluster
-    print ('Top ten suggested for your cluster', '\n', cos_sim.sort_values('score', ascending=False)[:10], '\n\n')
+    # print ('Top ten suggested for your cluster', '\n', cos_sim.sort_values('score', ascending=False)[:10], '\n\n')
 
     return cos_sim

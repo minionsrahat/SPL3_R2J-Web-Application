@@ -47,19 +47,24 @@
                     </tr>
                     {% for row in row_data %}
                     <tr>
-                        {% for col, row_ in zip(column_names, row) %}
-                        {% if col == link_column %}
                         <td>
-                            <a href="{{row_}}">
+                            {{row[0]}}
+                        </td>
+                        <td>
+                            {{row[2]}}
+                        </td>
+                        <td>
+                            {{row[3]}}
+                        </td>
+                        <td>
+                            <a href="{{row[5]}}">
                                 <button type="submit" value={{ row_ }} name="link" form="link_form" class="link_button">
                                     Apply
                                 </button>
                             </a>
                         </td>
-                        {% else %}
-                        <td>{{row_}}</td>
-                        {% endif %}
-                        {% endfor %}
+                       
+                       
                     </tr>
                     {% endfor %}
                 
