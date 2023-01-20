@@ -43,7 +43,7 @@ def extract_skills(des):
 
 
 def main():
-    df=pd.read_csv('../Dataset/Scraped Jobs.csv')
+    df=pd.read_csv(os.path.join(outdir, 'Scraped Jobs.csv') )
     df['skill']=df['description'].apply(extract_skills)
     df.to_csv(fullname)
 

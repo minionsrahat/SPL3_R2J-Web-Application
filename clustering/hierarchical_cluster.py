@@ -52,7 +52,6 @@ def save_model(model,filename):
 def load_model(filename):
     return joblib.load(filename)
 
-
 def create_cluster(df):
     test_df = tokenizer(df)
     voc = test_df['skill'].unique()
@@ -74,3 +73,15 @@ def create_cluster(df):
     # Add new column containing cluster number to sample, comps, and feature matrix dataframes
     df['cluster_no'] = cltr.labels_
     df.to_csv(os.path.join(outdirforcsv,'Clustered Jobs.csv') )
+
+
+def main():
+    df=pd.read_csv(os.path.join(outdirforcsv, 'Skill Extract.csv') )
+    create_cluster(df)
+
+
+
+if __name__ == '__main__':
+      main()
+      print('-----------Hirerarchical clustering of job data is complete. Check the csv file.-----------')
+    

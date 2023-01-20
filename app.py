@@ -1,30 +1,15 @@
-import os
 import pandas as pd
 from flask import Flask,render_template,redirect,request
+import os
+from resume_screening import resume_parser
+from recommendation import R2J
 
-from resume_screening import resparser, match
-
-import nltk
-#nltk.download('punkt')
-#nltk.download('averaged_perceptron_tagger')
-#nltk.download('universal_tagset')
-#nltk.download('maxent_ne_chunker')
-#nltk.download('stopwords')
-#nltk.download('wordnet')
-#nltk.download('brown')
-
-from nltk.corpus import stopwords
-stopw  = set(stopwords.words('english'))
-job = pd.read_csv('indeed_data.csv')
-job['test'] = job['description'].apply(lambda x: ' '.join([word for word in str(x).split() if len(word)>2 and word not in (stopw)]))
-df = job.drop_duplicates(subset='test').reset_index(drop=True)
-df['clean'] = df['test'].apply(match.preprocessing)
-jobdesc = (df['clean'].values.astype('U'))
-
+outdir = './Dataset/Resume files'
+outdirforcsv='./Dataset/'
+if not os.path.exists(outdir):
+    os.mkdir(outdir)
 
 app=Flask(__name__)
-
-os.makedirs(os.path.join(app.instance_path, 'resume_files'), exist_ok=True)
 
 @app.route('/') 
 def index():
@@ -44,26 +29,20 @@ def home():
 def submit_data():
     if request.method == 'POST':        
         f=request.files['userfile']
-        f.save(os.path.join(app.instance_path, 'resume_files', f.filename))
-        
-    skills = resparser.skill('instance/resume_files/{}'.format(f.filename))
-    skills.append(match.preprocessing(skills[0]))
-    del skills[0]
-
-    count_matrix = match.vectorizing(skills[0], jobdesc)
-    matchPercentage = match.coSim(count_matrix)
-    matchPercentage = pd.DataFrame(matchPercentage, columns=['Skills Match'])
+        f.save(os.path.join(outdir, f.filename))
+    
+    #Parse Resume
+    resume_text=resume_parser.extract_attributes(f.filename)
 
     #Job Vacancy Recommendations
-    result_cosine = df[['title','company','link']]
-    result_cosine = result_cosine.join(matchPercentage)
-    result_cosine = result_cosine[['title','company','Skills Match','link']]
-    result_cosine.columns = ['Job Title','Company','Skills Match','Link']
-    result_cosine = result_cosine.sort_values('Skills Match', ascending=False).reset_index(drop=True).head(20)
-
-    return render_template('index.html', column_names=result_cosine.columns.values, row_data=list(result_cosine.values.tolist()),
-                           link_column="Link", zip=zip)
-
+    recommend_jobs=R2J.get_recommendations(resume_text)
+    scraped_jobs=pd.read_csv(os.path.join(outdirforcsv,'Clustered Jobs.csv'))
+    scraped_jobs.set_index(scraped_jobs.position,inplace=True)
+    recommend_jobs=recommend_jobs.join(scraped_jobs)
+    recommend_jobs=recommend_jobs.sort_values('score',ascending=False).reset_index(drop=True).head(20)
+    column_names=['score','position','company','link']
+    return render_template('index.html', column_names=column_names, row_data=list(recommend_jobs.values.tolist()),
+                           link_column="link", zip=zip)
 
 if __name__ =="__main__":
     app.run(debug=True)
