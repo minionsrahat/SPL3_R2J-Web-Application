@@ -64,6 +64,7 @@ def create_cluster(df):
     # Run PCA to reduce number of features
     pca = PCA(n_components=len(skills_matrix), random_state=42)
     comps = pca.fit_transform(skills_matrix)
+    save_model(pca,os.path.join(outdir,'pca_vector.sav') )
     # Put the components into a dataframe
     comps = pd.DataFrame(comps)
     comps.to_csv(os.path.join(outdirforcsv,'Clustered Components.csv') )
