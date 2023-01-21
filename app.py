@@ -4,6 +4,8 @@ import os
 from resume_screening import resume_parser
 from recommendation import R2J
 
+
+
 outdir = './Dataset/Resume files'
 outdirforcsv='./Dataset/'
 if not os.path.exists(outdir):
