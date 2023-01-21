@@ -4,6 +4,8 @@ from sklearn.decomposition import PCA
 from nltk.corpus import stopwords
 import pandas as pd
 import joblib
+from sklearn.metrics import silhouette_score
+from kneed import  KneeLocator
 import os
 
 outdir = './Dataset/Model'
@@ -52,6 +54,22 @@ def save_model(model,filename):
 def load_model(filename):
     return joblib.load(filename)
 
+def calculate_optimal_cluster(model,X,range):
+    clusters = range(2, 15)
+    wcss = []
+    for i in clusters:
+        hieratchical = AgglomerativeClustering(n_clusters=i)
+        hieratchical.fit(X)
+        score = silhouette_score(X, hieratchical.labels_)
+        wcss.append(score)
+    
+    # create a knee locator object
+    kl = KneeLocator(clusters, wcss, curve='convex', direction='decreasing')
+
+    # get the optimal number of clusters
+    optimal_clusters = kl.elbow
+    return optimal_clusters
+
 def create_cluster(df):
     test_df = tokenizer(df)
     voc = test_df['skill'].unique()
@@ -70,7 +88,8 @@ def create_cluster(df):
     print(len(skills_matrix))
     comps.to_csv(os.path.join(outdirforcsv,'Clustered Components.csv'))
     # Cluster job titles based on components derived from feature matrix
-    cltr = AgglomerativeClustering(n_clusters=5)
+    k=calculate_optimal_cluster('hierarchical',comps,10)
+    cltr = AgglomerativeClustering(n_clusters=k)
     cltr.fit(comps)
     # Add new column containing cluster number to sample, comps, and feature matrix dataframes
     df['cluster_no'] = cltr.labels_
