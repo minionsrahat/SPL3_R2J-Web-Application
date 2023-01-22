@@ -1,6 +1,9 @@
 import requests
 from bs4 import BeautifulSoup
 import urllib
+from requests.adapters import HTTPAdapter
+from urllib3.util.retry import Retry
+import time
 
 headers = {
         'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,'
@@ -41,9 +44,15 @@ def get_job_links_from_carrierbuilder(keyword,limit):
       return links
 
 def parse_job_carrier_builder(url,index):
-    r = requests.get(url,headers = headers)
-    soup = BeautifulSoup(r.content, 'html.parser')
     try:
+        print(index)
+        # session = requests.Session()
+        # retry = Retry(connect=3, backoff_factor=0.5)
+        # adapter = HTTPAdapter(max_retries=retry)
+        # session.mount('http://', adapter)
+        # session.mount('https://', adapter)
+        r = requests.get(url,verify=False, timeout=5)
+        soup = BeautifulSoup(r.content, 'html.parser')
         title ="R2J_"+str(index)+"_"+soup.select_one('.jdp_title_header').getText().strip()
         desc = soup.select_one('.jdp-description-details>.col-2>.jdp-left-content').getText().strip()
         company = soup.select_one('.data-details').getText().strip()
@@ -55,6 +64,7 @@ def parse_job_carrier_builder(url,index):
             }
         return jobs
     except:
+        time.sleep(3)
         print("Not Found")
 
 

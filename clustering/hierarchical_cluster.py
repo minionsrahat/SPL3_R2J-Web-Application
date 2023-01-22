@@ -54,8 +54,8 @@ def save_model(model,filename):
 def load_model(filename):
     return joblib.load(filename)
 
-def calculate_optimal_cluster(model,X,range):
-    clusters = range(2, 15)
+def calculate_optimal_cluster(model,X,limit):
+    clusters = range(2, limit)
     wcss = []
     for i in clusters:
         hieratchical = AgglomerativeClustering(n_clusters=i)
@@ -88,7 +88,7 @@ def create_cluster(df):
     print(len(skills_matrix))
     comps.to_csv(os.path.join(outdirforcsv,'Clustered Components.csv'))
     # Cluster job titles based on components derived from feature matrix
-    k=calculate_optimal_cluster('hierarchical',comps,10)
+    k=calculate_optimal_cluster('hierarchical',comps,15)
     cltr = AgglomerativeClustering(n_clusters=k)
     cltr.fit(comps)
     # Add new column containing cluster number to sample, comps, and feature matrix dataframes

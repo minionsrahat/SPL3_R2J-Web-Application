@@ -15,7 +15,7 @@ def get_jobs_links(keywords,limit,jobsite):
         if(jobsite=='carrierbuilder'):
             temp_job=scraping.get_job_links_from_carrierbuilder(keywords[i],limit)
         job_links.extend(temp_job)
-    return job_links
+    return list(set(job_links))
 
 def parse_job_links(job_links):
     job_details=[]
@@ -37,10 +37,11 @@ def main():
       "Software Quality Engineer", "Software Requirements Engineer",
       "IT Cybersecurity Analyst","Business Systems Analyst", "Business Intelligence Analyst",
       "QA Engineer","Data Architect", "Data Mining Engineer","Data Analyst" ]
-
       job_links = get_jobs_links(keywords,3,'carrierbuilder')
-      job_details=parse_job_links(job_links)
-      save_processed_dataframe(job_details)
+      print("Total Job Links:",len(job_links))
+      print(job_links)
+    #   job_details=parse_job_links(job_links)
+    #   save_processed_dataframe(job_details)
 
 if __name__ == '__main__':
       main()
