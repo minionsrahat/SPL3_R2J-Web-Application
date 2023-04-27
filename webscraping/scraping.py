@@ -46,11 +46,6 @@ def get_job_links_from_carrierbuilder(keyword,limit):
 def parse_job_carrier_builder(url,index):
     try:
         print(index)
-        # session = requests.Session()
-        # retry = Retry(connect=3, backoff_factor=0.5)
-        # adapter = HTTPAdapter(max_retries=retry)
-        # session.mount('http://', adapter)
-        # session.mount('https://', adapter)
         r = requests.get(url,verify=False, timeout=5)
         soup = BeautifulSoup(r.content, 'html.parser')
         title ="R2J_"+str(index)+"_"+soup.select_one('.jdp_title_header').getText().strip()
