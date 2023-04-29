@@ -15,6 +15,7 @@ def save_model(model,filename):
 
 def logistic_regression():
     df=pd.read_csv(os.path.join(outdirforcsv,'Clustered Jobs.csv'))
+    df=df.reset_index(drop=True)
     df.drop(df.columns[df.columns.str.contains('unnamed',case = False)],axis = 1, inplace = True)
     X = pd.read_csv(os.path.join(outdirforcsv,'Clustered Components.csv'))
     X.drop(X.columns[X.columns.str.contains('unnamed',case = False)],axis = 1, inplace = True)

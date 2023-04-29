@@ -39,12 +39,12 @@ def submit_file():
         f.save(os.path.join(outdir, f.filename))
 
     # Parse Resume
-    resume_text = resume_parser.parser(f.filename)
+    resume_details= resume_parser.parser(f.filename)
     # Job Vacancy Recommendations
-    recommendation_response = R2J.get_recommendations(resume_text)
+    recommendation_response = R2J.give_recommendations(resume_details,[0.8,0.1,0.1])
     # Convert dictionary to JSON string
     response = {
-        'resume_text': resume_text,
+        'resume_text': resume_details['skills'],
         # 'recommendation': recommendation_response['recommend_jobs'],
         'all_cluster_jobs': recommendation_response['all_cluster_jobs'],
         'total_cluster': recommendation_response['total_cluster'],

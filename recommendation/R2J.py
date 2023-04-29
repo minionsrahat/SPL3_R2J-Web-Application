@@ -2,12 +2,15 @@ import pandas as pd
 import joblib
 from sklearn.metrics.pairwise import cosine_similarity
 import os
-import matching_rule as utils
+import sys
+from os import path
+sys.path.append( path.dirname( path.dirname( path.abspath(__file__) ) ) )
+from recommendation import matching_rule as utils
 import numpy as np
+from resume_screening import resume_parser
 
 outdirmodel = './Dataset/Model'
 outdirforcsv = './Dataset'
-
 
 def load_model(filename):
     return joblib.load(filename)
@@ -19,6 +22,7 @@ def give_recommendations(resume,similarity_weights):
     pca = load_model(os.path.join(outdirmodel, 'pca_vector.sav'))
     model = load_model(os.path.join(outdirmodel, 'R2J_Logistic_Cls.sav'))
     df = pd.read_csv(os.path.join(outdirforcsv, 'Clustered Jobs.csv'))
+    df = df.fillna("")
     df=df.reset_index(drop=True)
     df.drop(df.columns[df.columns.str.contains(
         'unnamed', case=False)], axis=1, inplace=True)
@@ -29,7 +33,7 @@ def give_recommendations(resume,similarity_weights):
         'unnamed', case=False)], axis=1, inplace=True)
     comps=comps.reset_index(drop=True)
     comps['cluster_no'] = df['cluster_no']
-    skillz = pd.DataFrame(vec.transform([resume['skill']]).todense())
+    skillz = pd.DataFrame(vec.transform([resume['skills']]).todense())
     skillz.columns = vec.get_feature_names()
     # Tranform feature matrix with pca
     user_comps = pd.DataFrame(pca.transform(skillz))
@@ -57,7 +61,7 @@ def give_recommendations(resume,similarity_weights):
         # Sort the job dataframe by similarity score in descending order
         similarity = similarity.sort_values(
             'score', ascending=False).reset_index(drop=True).head(10)
-        all_cluster_jobs.append(cluster.to_dict(orient='records'))
+        all_cluster_jobs.append(similarity.to_dict(orient='records'))
     recommendation['all_cluster_jobs']=all_cluster_jobs
     return recommendation
 
@@ -121,3 +125,15 @@ def get_recommendations(resume_text):
     # print ('Top ten suggested for your cluster', '\n', cos_sim.sort_values('score', ascending=False)[:10], '\n\n')
 
     return recommendation
+
+
+def main():
+     resume_file="Arbi Dwi.pdf"
+     details=resume_parser.parser(resume_file)
+     recommendation=give_recommendations(details,[0.8,0.1,0.1])
+     print(recommendation)
+     
+if __name__ == '__main__':
+      main()
+      print('-----------Job Recommendation.-----------')
+    

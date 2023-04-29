@@ -1,5 +1,5 @@
 from spacy.matcher import Matcher
-import utils as utils
+from . import utils 
 import spacy
 # init params of skill extractor
 nlp = spacy.load("en_core_web_lg")
@@ -24,7 +24,7 @@ def parser(resume_file):
             'experience'        : None,
             'majors'            : None,
         }
-        text_raw    = utils.extract_text_from_file(resume_file)
+        text_raw    = utils.extract_text_from_file(os.path.join(resume_dir, resume_file))
         text        = ' '.join(text_raw.split())
         __nlp         = nlp(text)
         name       = utils.extract_name(__nlp, matcher=matcher)
@@ -48,7 +48,7 @@ def parser(resume_file):
 
 def main():
      resume_file="ASH1825022M-Rahat Uddin Azad.pdf"
-     details=parser(os.path.join(resume_dir, resume_file))
+     details=parser(resume_file)
      skills_weight=0.4
      degree_weight=0.15
      majors_weight=0.15

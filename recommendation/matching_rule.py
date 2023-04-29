@@ -25,8 +25,8 @@ def assign_degree_match(match_scores):
 def degree_matching(resume, job):
         """calculate the final degree matching scores between resumes and job description"""
         score=1
-        if len(job['degrees'])!=0:
-            job_min_degree = DEGREES_IMPORTANCE[job['degrees']]
+        if len(job['Minimum degree level'])!=0:
+            job_min_degree = DEGREES_IMPORTANCE[job['Minimum degree level']]
             match_scores = []
             for j in resume['degrees']:
                     score = DEGREES_IMPORTANCE[j] - job_min_degree
@@ -36,8 +36,8 @@ def degree_matching(resume, job):
 
  # majors matching
 def get_major_category(major):
-        """get a major's category"""
-        with open('Resources/data/labels.json') as fp:
+        """get a major's category"""   
+        with open(os.path.join(outdir, 'Resources/data/labels.json')) as fp:
             labels = json.load(fp)
         categories = labels['MAJOR'].keys()
         for c in categories:
@@ -46,7 +46,7 @@ def get_major_category(major):
 
 def get_job_acceptable_majors(job):
         """get acceptable job majors"""
-        job_majors = job['majors']
+        job_majors = job['Acceptable majors']
         job_majors_categories = []
         for i in job_majors:
             job_majors_categories.append(get_major_category(i))
@@ -68,7 +68,7 @@ def get_major_score(resume, job):
 def major_matching(resume, job):
         """calculate major matching score for all resumes"""
         score=0
-        if len(job['majors'])==0:
+        if len(job['Acceptable majors'])==0:
             score=1
         elif len(resume['majors'])!=0:
             score=get_major_score(resume ,job)

@@ -4,7 +4,7 @@ import re
 import nltk
 import spacy
 import docx2txt
-import constants as cs
+from . import constants as cs
 from pdfminer.converter import TextConverter
 from pdfminer.pdfinterp import PDFPageInterpreter
 from pdfminer.pdfinterp import PDFResourceManager

@@ -97,7 +97,7 @@ def create_cluster(df):
 
 
 def main():
-    df=pd.read_csv(os.path.join(outdirforcsv, 'Skill Extract.csv'))
+    df=pd.read_csv(os.path.join(outdirforcsv, 'Extracted Jobs Info.csv'))
     df.drop(df.columns[df.columns.str.contains('unnamed',case = False)],axis = 1, inplace = True)
     df=df.reset_index(drop=True)
     create_cluster(df)
