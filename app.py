@@ -31,15 +31,29 @@ def home():
     return redirect('/')
 
 
-@app.route('/submitFile', methods=['POST'])
-def submit_file():
-    print("Got the request")
+@app.route("/extract_resume_info",methods=['POST'])
+def extract_resume_info():
     if request.method == 'POST':
         f = request.files['resume_file']
         f.save(os.path.join(outdir, f.filename))
 
     # Parse Resume
     resume_details= resume_parser.parser(f.filename)
+    resume_score=resume_parser.resume_score(resume_details)
+    print("Resume Score:" ,str(resume_score))
+    response={
+        'resume':resume_details,
+        'score':resume_score
+    }
+    json_response = json.dumps(response)
+    return json_response
+
+@app.route('/get_recommendation', methods=['POST'])
+def get_recommendation():
+    print("Got the request")
+    if request.method == 'POST':
+         data = request.get_json()
+         resume_details = json.loads(data['resume'])
     # Job Vacancy Recommendations
     recommendation_response = R2J.give_recommendations(resume_details,[0.8,0.1,0.1])
     # Convert dictionary to JSON string

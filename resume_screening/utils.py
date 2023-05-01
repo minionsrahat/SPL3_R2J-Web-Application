@@ -224,7 +224,7 @@ def extract_designation(text):
         for match_id, start, end in matches:
             span = __nlp[start:end]
             job_titles.append(span.text)
-        job_titles = set(job_titles)
+        job_titles = list(set(job_titles))
         return job_titles
 
 def get_full_match(annotations):
