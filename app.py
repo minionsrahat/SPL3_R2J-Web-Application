@@ -26,9 +26,15 @@ def about():
     return render_template('about.html')
 
 
-@app.route("/home")
-def home():
-    return redirect('/')
+@app.route("/get_jobs")
+def get_jobs():
+
+    response={
+        'jobs':''
+    }
+    json_response = json.dumps(response)
+    return json_response
+
 
 
 @app.route("/extract_resume_info",methods=['POST'])
@@ -67,32 +73,6 @@ def get_recommendation():
     json_response = json.dumps(response)
     return json_response
 
-
-
-
-@app.route('/submit', methods=['POST'])
-def submit_data():
-    if request.method == 'POST':
-        f = request.files['userfile']
-        f.save(os.path.join(outdir, f.filename))
-
-    # Parse Resume
-    resume_text = resume_parser.parser(f.filename)
-    print(resume_text)
-
-    # Job Vacancy Recommendations
-    recommendation_response = R2J.get_recommendations(resume_text)
-    recommend_jobs = recommendation_response['recommend_jobs']
-    # recommend_jobs=R2J.get_recommendations(resume_text)
-    scraped_jobs = pd.read_csv(os.path.join(
-        outdirforcsv, 'Clustered Jobs.csv'))
-    scraped_jobs.set_index(scraped_jobs.position, inplace=True)
-    recommend_jobs = recommend_jobs.join(scraped_jobs)
-    recommend_jobs = recommend_jobs.sort_values(
-        'score', ascending=False).reset_index(drop=True).head(20)
-    column_names = ['score', 'position', 'company', 'link']
-    return render_template('index.html', column_names=column_names, row_data=list(recommend_jobs.values.tolist()),
-                           link_column="link", zip=zip)
 
 
 if __name__ == "__main__":
