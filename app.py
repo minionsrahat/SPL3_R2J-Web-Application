@@ -4,6 +4,7 @@ import os
 import json
 from resume_screening import resume_parser
 from recommendation import R2J
+from recommendation import search_jobs
 from flask_cors import CORS
 
 
@@ -26,15 +27,14 @@ def about():
     return render_template('about.html')
 
 
-@app.route("/get_jobs")
+@app.route("/get_jobs",methods=['GET'])
 def get_jobs():
 
     response={
-        'jobs':''
+        'jobs':search_jobs.get_cluster_wise_jobs()
     }
     json_response = json.dumps(response)
     return json_response
-
 
 
 @app.route("/extract_resume_info",methods=['POST'])

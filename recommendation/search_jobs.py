@@ -22,12 +22,15 @@ def get_cluster_wise_jobs():
      df=df.reset_index(drop=True)
      df.drop(df.columns[df.columns.str.contains(
         'unnamed', case=False)], axis=1, inplace=True)
+     df=df[['position','company','skill','link','Minimum degree level','cluster_no']]
      total_cluster = df['cluster_no'].nunique()
      jobs={}
+     jobs['total_cluster'] = int(total_cluster)
      all_cluster_jobs = []
      for i in range(total_cluster):
         samp_for_cluster = df[df['cluster_no']==i]
         samp_for_cluster=samp_for_cluster.head(100)
         all_cluster_jobs.append(samp_for_cluster.to_dict(orient='records'))
      jobs['all_cluster_jobs']=all_cluster_jobs
+     return jobs
 
