@@ -1,0 +1,1624 @@
+Category,Resume,candidate_num
+Database,"TECHNICAL EXPERTISE â¢ DB Languages: SQL â¢ Database Tools: SQL Server 2014/ 2017 Postgresql 9.5, 9.6, Oracle 11gR2 â¢ Operating Systems: Redhat Linux, Oracle Linux, Windows Server 2012/ 2016 OTHER TECHNICAL SKILLS ORACLE 11G R2 â¢ Proficient in Oracle Database Software Installation, Creation of Database using GUI/Silent DBCA, Architecture, File management, Space Management, User Management, Creating Roles and assigning Privileges/Roles in 11gR2 and troubleshooting them. â¢ Hands on experience Control files/Redolog/Archive/Undo Management â¢ Configuring Listener.ora/Tnsnames.ora file using Netmgr/netca â¢ Generating AWR reports, ADDM, ASH reports to diagnose the problems â¢ Database Backup, Cloning/Duplicate using hot & cold backups using RMAN. â¢ Knowledge in Flashback Technologies & Expdp/Impdp â¢ Implemented Oracle11gR2 RAC on Oracle Linux Platform and knowledge of services for troubleshooting RAC (CRSCTL, SRVCTL) â¢ Knowledge on installation and configuration of RAC. Add/Remove Nodes on RAC â¢ Configuration of physical standby database (Data guard) â¢ Successfully upgraded from 11.2.0.1 to 11.2.0.4 & PSU patching using O patch. STRENGTHS â¢ Good Communication skills. â¢ Self-confident and can adapt myself to all work environments. â¢ Enjoy responsibilities as lead and team player. â¢ Patient listener & quick learner. â¢ Capable of explaining issues & solving them.Education Details 
+ B.E Computer Engineering Mumbai, Maharashtra Mumbai University
+ Higher Secondary Certificate   Dr. DY Patil Jr College
+Database Administrator 
+
+Database Administrator - DBA in Marketplace Technologies Ltd
+Skill Details 
+DATABASE- Exprience - 61 months
+BACKUPS- Exprience - 48 months
+LINUX- Exprience - 48 months
+MS SQL SERVER- Exprience - 48 months
+SQL- Exprience - 48 monthsCompany Details 
+company - DBA in Marketplace Technologies Ltd
+description - Project Title: EBoss, Datafeed, MFDB, RTRMS, IndiaINX
+company - Standard & Enterprise
+description - Redhat Linux 7.4, Postgresql 9.5, 9.6
+Duration: Feb 2017 - till date
+Description: Bombay Stock Exchange BSE  is Asia's first & the Fastest Stock Exchange in world with the speed of 6 micro seconds and one of India's leading exchange groups provides an efficient and transparent market for trading in equity, currencies, debt instruments, derivatives, mutual funds. BSE SME is India's largest SME platform which has listed over 250 companies and continues to grow at a steady pace.
+
+JOB ROLES & RESPONSIBILITIES
+POSTGRESQL - â¢ Worked on Redhat Linux OS Cluster with Postgresql for High Availability (HA) using Pacemaker.
+â¢ Coordinated with Developers/Linux teams for database knowledge and support.
+â¢ Participated in implementation of new releases into production.
+â¢ Installed /Configured Postgresql from source or packages on Redhat Linux servers.
+â¢ Performed Postgresql Server Management tasks i.e. Backup & Restore, Configuration, Roles, Blockings, Tablespace creation and Troubleshooting.
+â¢ Worked with Storage team for Disaster Recovery DR setup built on SAN using EMC technology â¢ Configured LDAP authentication & GSSAPI Authentication from Windows to Linux for Postgresql.
+â¢ Configured logical replication for Database servers, hot standby Postgresql servers, faster database backup methods, schema and tablespace backups.
+â¢ Configured maximum connections to database on Linux servers.
+â¢ Installed tds_fdw from source for linked servers to connect to heterogeneous databases & other required extensions, backup configuration, PITR using base backups.
+
+MSSQL - â¢ Day-to-day administration of live SQL Servers.
+â¢ Participated in Live Primary Recovery PR & Disaster Recovery DR activities.
+â¢ Participated in PR & DR mocks for new releases into production.
+â¢ Configured Linked Servers, Transactional replication, Maintenance tasks like database backup & restore, recovery, scheduled jobs, maintenance plans.
+â¢ Installed & Configured SQL server 2014, 2017 standalone and SQL Cluster servers.
+â¢ Maintained the security of the database by providing appropriate SQL roles, logins and permissions to the users on demand.
+â¢ Worked with teams on application rollouts, application issues and SQL server migrations.
+â¢ Exposure in handling production system with skills and understand client's requirement.
+â¢ Performed SQL Server service pack upgrades and hot fixes.
+â¢ Handled multiple SQL Instances on Windows SQL Cluster environment built on  EMC SAN.
+â¢ Worked on MSSQL DB clusters with active/active & active passive servers, Always-On Availability Groups (AAG) and HA/DR Setup.
+â¢ Have experience on SAN and RAID levels and building and supporting SQL Cluster servers on SAN Environments.
+company - BSE Bombay Stock Exchange
+description - Environment: Windows server 2008 R2, 2012 R2, 2016 Enterprise & Standard,",Applicant 1
+Database,"Technical Expertise Operating Systems Microsoft Window Server 2003/2008/2008 R2/2012 Database Technologies SQL Server, Sybase ASE Server, Oracle, MongoDB Monitoring and Ticketing Tools HP Service Manager 7.0/9.0, Solar winds DPA, JIRA and MongoDB OPS manager Web Server IIS 7.0 Database Tools SSMS, DBArtisan, Studio 3T, SnapShot Manager for SQL ServerEducation Details 
+ B. Tech Computer Science Gulbarga, Karnataka PDACOE, Gulbarga, Autonomous Institution
+Database Administrator II 
+
+Database Administrator III - BNY Mellon International Operations (India) PVT. LTD
+Skill Details 
+Sql Dba- Exprience - Less than 1 year monthsCompany Details 
+company - BNY Mellon International Operations (India) PVT. LTD
+description - SQL Server :
+ï	Installation, configuration of database servers using slipstream and setup all the maintenance jobs as per the standard policy on standalone as well as cluster environments with latest service packs
+ï	Installation of SSRS, uploading of .rdls and assigning correct data sources to reports. Grant necessary access to users & developers on reporting website. Aware of SSIS and designing packages as well.
+ï	Create and manage logins, users for database applications, assigning permissions as per requests, resolving user login issues.
+ï	Migration of all SQL server 2005/2008 servers to higher versions.
+ï	Setup of database refresh jobs on QA, DEV and UAT environments and fixing orphaned users.
+ï	Troubleshoot performance related issues. 
+ï	Part of multiple projects to work with developers and provide all required support for testing in QA, UAT & DEV environment. 
+ï	Lead the DR tests for database team.
+ï	Participate in database purge and archive activities.
+ï	Writing codes for automating database administration tasks.
+ï	Worked on automating DR tasks to start the agent jobs on multiple servers, restore databases for log shipped databases without manual intervention for online databases post DR activities.
+ï	Provide support to vendor databases, follow up with the vendor calls and timely escalate to next level when there is no update in predefined timeline.
+ï	Installation and configuration of smsql on windows server. Schedule jobs for creation and deletion of clones on sql server. Maintain backups using smsql.
+
+MongoDB Server:
+ï	Installation and configuration of MongoDB server.
+ï	Creation of databases and collection.
+ï	Creation new user and grant access using Ops manager.
+ï	Monitor database servers using Ops manager.
+Oracle & Sybase Server
+ï	Managing and maintaining multiple instances of Databases on Linux and windows servers.
+ï	Monitoring daily jobs includes backups, refresh and maintenance jobs.
+company - Hewlett-Packard India Sales PVT. LTD. On the payroll of Softenger India PVT. LTD
+description - ï	Installation of SQL Server on standalone as well as windows cluster environments with latest service packs
+ï	SQL server installation using slipstream.
+ï	Installation of reporting services
+ï	Creating logins and users, assigning permissions as per requests.
+ï	Security audit for all logins includes maintenance of unused and orphan user logins
+ï	Create & Maintain daily and weekly jobs/maintenance plans includes backup, index rebuild/reorganize , update statistics and database consistency check
+ï	Create linked servers and ensure connectivity between servers
+ï	Monitor disk space proactively & Space management using data and log file shrinking
+ï	Monitor blocking, deadlocks, open transactions and slow running queries during performance issues and highlight costly queries to developers.
+ï	Configure alerts for deadlock and blocking to maintain performance
+ï	Implementing high availability technologies like log shipping, AlwaysON, mirroring and its troubleshooting, also have knowledge on replication
+ï	Successfully completed migration of Databases from one server to another
+ï	Performing DR drills (Online/Offline) on quarterly basis
+ï	Power shell scripting to monitor, restart SQL service and get Email alert for the service status.
+ï	Maintain TNS entries for oracle client as per client requests.
+ï	Interacting with customers for requirements
+ï	Contacting customer to update the status of handling issues and service requests at every stage of resolution
+ï	Managing proper escalation and notification matrix for all support levels",Applicant 2
+Database,"TECHNICAL SKILLS Operating Systems MS Windows Server 2012/2008/XP Software and Tools MS LiteSpeed, Idera SQL Safe, SSMS, Upgrade Advisor, SQL Server Profiler, SCOM, Diagnostic Manager, Remedy, Jira, Infopacc, Tivoli TDP backup tool, SQL Pack DatabasesMS SQL Server 2016/2014/2012/ 2008 R2/ 2008, Oracle 10g, Netezza Microsoft azure Education Details 
+ Masters of Science Computer Science Pune, Maharashtra Indira College, Pune University
+Lead database administrator 
+
+Microsoft Certified Professional with 11 years of experience in database administration on MS SQL Server 2016/2014/2012/2008 R2/ 2008
+Skill Details 
+MS SQL SERVER- Exprience - 110 months
+Microsoft azure- Exprience - Less than 1 year months
+Always on availabiity group- Exprience - Less than 1 year months
+Database mirroring- Exprience - Less than 1 year months
+Performance tuning- Exprience - Less than 1 year months
+Log shipping- Exprience - Less than 1 year months
+Installation , upgrade, migration and patching- Exprience - Less than 1 year monthsCompany Details 
+company - Ensono
+description - Employment transfer as a part of project acquisition to Ensono from Wipro.
+SQL Server Database Administration
+company - Wipro Technologies
+description - Microsoft Certified Professional with 11 years of experience in database administration on MS SQL Server 2016/2014/2012/2008 R2/ 2008.
+Experience with MS SQL Server 2016/2014/2012/2008 R2/ 2008 installation, upgrade, and administration
+Microsoft Azure certified.
+Have understanding of Azure VM, Azure Storage, Azure network, Azure AD and Azure SQL database.Â 
+Incident management, change management and Problem management for SQL Server Database team.
+Participating in meetings, conference calls with client, Service Delivery Manager and Application team for System improvements.
+Participated in quarterly DR activity.
+Involved in creation of SIP - Service Improvement Plans
+Involved in handling of high severity issues and provided RCA for the same.
+Worked on Always on availability groups, database mirroring, replication, clustering and log shipping.
+Have basic understanding of Oracle and Netezza.
+Provided on- call support during out of office hours and weekends.
+Resource & shift management of 5 SQL DBAs from offshore in multi-client environment for Data center services.
+Provided KT to team members, monitor and guide trainees.
+company - Wipro Technologies
+description - Responsibilities: â¢ MS SQL Server 2016/2014/2012/ 2008 R2/ 2008 installation, configuration, and administration.
+â¢ Worked on Always on availability groups, log shipping, database mirroring and clustering.
+â¢ Participated in  PCI scan report to perform installation of security hot fixes, service packs for SQL servers to remove vulnerability.
+â¢ Participated in Holmes BOTS automation implementation of SQL Pack tool.
+â¢ Worked on service requests, incidents and critical issues.
+â¢ Involved in conference calls to provide DBA support for critical issues.
+â¢ Performance tuning.
+Environment: SQL Server 2016/2014/2012/2008R2/2008, Windows Server 2012/2008R2/2008
+company - Mphasis
+description - 
+company - Mphasis
+description - Responsibilities: â¢ MS SQL Server 2012/ 2008 R2/ 2008  installation, configuration, and administration.
+â¢ Worked on Always on availability groups, log shipping, database mirroring and clustering.
+â¢ Performed SQL server patching activity â¢ Worked on daily reports like cluster failover, backup, AG/LS/Mirror report and server disk space report.
+â¢ Worked on service requests, incidents and critical issues.
+â¢ Participated in quarterly DR activity.
+â¢ Involved in conference calls to provide DBA support for critical issues.
+â¢ Provided support to windows team during patching for AG-mirror-cluster failover/failback and database health check.
+â¢ Performed all the health checks for market open servers and provided update in market open call â¢ Deeply involved in   resolution of the issue and finding the root cause analysis of the issue â¢ Performance tuning.
+Environment: SQL Server 2012/2008R2/2008, Windows Server 2008R2/2008
+company - Synechron Technologies Pvt. Ltd
+description - Responsibilities: â¢ SQL server, Oracle and Netezza databases support tasks.
+â¢ MS SQL Server 2008 R2/ 2008 installation, upgrade, and administration.
+â¢ Done capacity planning for database growth for all SQL servers.
+â¢ Troubleshooting alerts.
+â¢ Worked on log shipping and mirroring.
+Environment: SQL Server 2008R2/2008, Windows Server 2008R2/2008, Oracle 10g/RAC
+company - Synechron Technologies Pvt. Ltd
+description - 
+company - Synechron Technologies Pvt. Ltd
+description - Responsibilities: â¢ Pursued in-depth training on Oracle 11g Architecture and SQL Server.
+Environment: SQL Server 2008R2/2008, Windows Server 2008R2/2008, Oracle 10g
+company - Synechron Technologies Pvt. Ltd
+description - Responsibilities: â¢ Carried out version changes for schemas from PE8 version to EE11 version as per the process given
+Environment: Oracle 11g
+company - Mastek Ltd
+description - Responsibilities: â¢ SQL Server 2008 R2/ 2008 installation, upgrade, and administration â¢ database backup/restore.
+â¢ Performed MS SQL Server audits â¢ Worked with database mirroring, replication, log shipping and clustering.
+â¢ Supported UAT and PROD environments â¢ Performed deployment document review.
+â¢ Carried out deployments for different applications
+Environment: SQL Server 2008R2/2008, Windows Server 2008R2/2008
+company - Mastek Ltd
+description - 
+company - PP Software and Systems Ltd
+description - 
+company - PP Software and Systems Ltd
+description - Description: The system provides Master Data Management and Procurement modules for dairy industry.
+Responsibilities: â¢ Designed, coded, and tested â¢ Customized ERP system as per the requirement
+Environment: Core Java, PostgreSQL",Applicant 3
+Database,"SKILLSET Oracle DBA, MySQL, MARIADB, PostgreSQL Database Administration ITSKILLS SQL Oracle 10g, 11g, MYSQL, MariaDB, postgreSQL Windows, Linux Putty Education Details 
+January 2018 MCS  Pune, Maharashtra Pune University
+Database administrator 
+
+Database administrator  - Infiniteworx Omnichannel Pvt. Ltd
+Skill Details 
+DATABASE- Exprience - 17 months
+MYSQL- Exprience - 17 months
+ORACLE- Exprience - 17 months
+SQL- Exprience - 17 months
+DATABASE ADMINISTRATION- Exprience - 6 monthsCompany Details 
+company - Infiniteworx Omnichannel Pvt. Ltd
+description - Pune Sept 2017 to Present
+
+RESPONSIBILITIES:
+â¢ Creating tablespaces and planning the location of data, monitoring the tablespaces growth periodically.
+â¢ All replication setup
+â¢ Moved database Schema changes to stage.
+â¢ Dba support query resolution.
+â¢ Creating user and giving specific privileges
+â¢ Database management.
+â¢ Database recovery, moving data files to different locations.
+â¢ Planning the backup policies and Backup/ Recovery of databases based on the criticality.
+â¢ IMPORT/EXPORT.
+â¢ Degine schemas
+
+Key Result Areas:
+
+â¢ Providing 24 /7 support to resolve database performance issues, Job failures, Sessions & diagnose root causes
+â¢ Installation, configuring and updating Oracle server software and related Oracle products. Installation, configuraing and updating Mysql, Sql server, MariaDB, MongoDB
+â¢ Supported multiple databases and administered Oracle Databases of Large DB Sizes for production, development & test setups.
+
+â¢ Maintaining table spaces & data files, Control files, Online Redo log files
+
+â¢ Creating Users, granting Roles & Privileges to users and managing tablespaces for different users by granting quota on Default & Temporary tablespaces.
+
+â¢ Taking Oracle RMAN Backups (Scheduling for day wise backup)
+
+â¢ Implementing the incremental, cumulative and full RMAN backup for each database to have space management and effective recovery.
+â¢ Logical Backup Using Export & Import/datapump Export of important tables at regular intervals.
+
+â¢ Regular checking of trace, alert log file, all ORA errors
+
+â¢ Working on incidents like User creation/deletion incidents, backup failed incidents.
+â¢ Checking Listener Status, connectivity Troubleshooting and fixing database listener issues.
+â¢ Look for any new alert / error log entries / errors, error details in Trace files generated. Executing DDL & DML scripts as per customer requirements
+
+â¢ Mentoring, coaching and appraising team members with active involvement in the recruitment process
+
+â¢ Contributing in Project Documentation and generating daily reports
+
+â¢ Ensuring compliance to quality norms and taking steps for any non-conformance Spearheading complete project activities ensuring timely completion of project
+â¢ Implementing security policies on different database systems with granting and revoking privileges to the users
+
+â¢ Following change management processes and participated in related meetings
+
+â¢ Verifying all Instances/DB are running, Tablespaces are online, Monitor Backround processes and status.
+company - InnovativeTechnologies
+description - Clients: BANKING DOMAIN",Applicant 4
+Database,"Education Details 
+January 2016 BSc.  Mumbai, Maharashtra Mumbai University
+January 2013 H.S.C.   Maharashtra Board
+January 2011 S.S.C.   Maharashtra Board
+MySQL Database Administrator 
+
+2+ Years of experience in MySQL Database Administrator ( MySQL DBA)
+Skill Details 
+MySQL DBA , Centos , Backup , Restore , Replication , Query Optimazation- Exprience - 24 monthsCompany Details 
+company - Trimax IT Infrastructure & Services Ltd
+description - Â·Â Â Â Â Â Â Â MYSQL Installation, maintenance and Upgrades (Version 5.5 , 5.6)
+Â·Â Â Â Â Â Â Â MySQL database administration on a large scale MySQL installation
+Â·Â Â Â Â Â Â Â Experience with MySQL on both Linux and Windows
+Â·Â Â Â Â Â Â Â MySQL processes, security management and queries optimization.
+Â·Â Â Â Â Â Â Â Performed query analysis for slow and problematic queries.
+Â·Â Â Â Â Â Â Â Performed Structural changes to Database like creating tables, adding columns according to business requirement
+Â·Â Â Â Â Â Â Â Creating and MaintainingÂ Database Maintenance Plans.
+
+
+
+Â·Â Â Â Â Â Â Â Writing scripts to Create Jobs for Backup & Restore Plans.
+Â·Â Â Â Â Â Â Â Working on MYISAM to INNODB engine.
+Â·Â Â Â Â Â Â Â Working on Server shifting , tuning parameter , database purging
+Â·Â Â Â Â Â Â Â Working on Mysql master slave Replication
+Â·Â Â Â Â Â Â Â Handling Release management and user acceptance.
+Â·Â Â Â Â Â Â Â Restore using xtrabackup.
+Â·Â Â Â Â Â Â Â Responsibilities include monitoring daily, weekly and monthly system maintenance tasks such as database backup, replication verification, database integrity verification and indexing updates
+Â·Â Â Â Â Â Â Â Work in 24/7 production database support.
+company - Trimax IT Infrastructure & Services Ltd
+description - Â·Â Â Â Â Â Â Â MYSQL Installation, maintenance and Upgrades (Version 5.5 , 5.6)
+Â·Â Â Â Â Â Â Â MySQL database administration on a large scale MySQL installation
+Â·Â Â Â Â Â Â Â Experience with MySQL on both Linux and Windows
+Â·Â Â Â Â Â Â Â MySQL processes, security management and queries optimization.
+Â·Â Â Â Â Â Â Â Performed query analysis for slow and problematic queries.
+Â·Â Â Â Â Â Â Â Performed Structural changes to Database like creating tables, adding columns according to business requirement
+Â·Â Â Â Â Â Â Â Creating and MaintainingÂ Database Maintenance Plans.
+
+
+
+Â·Â Â Â Â Â Â Â Writing scripts to Create Jobs for Backup & Restore Plans.
+Â·Â Â Â Â Â Â Â Working on MYISAM to INNODB engine.
+Â·Â Â Â Â Â Â Â Working on Server shifting , tuning parameter , database purging
+Â·Â Â Â Â Â Â Â Working on Mysql master slave Replication
+Â·Â Â Â Â Â Â Â Handling Release management and user acceptance.
+Â·Â Â Â Â Â Â Â Restore using xtrabackup.
+Â·Â Â Â Â Â Â Â Responsibilities include monitoring daily, weekly and monthly system maintenance tasks such as database backup, replication verification, database integrity verification and indexing updates
+Â·Â Â Â Â Â Â Â Work in 24/7 production database support.",Applicant 5
+Database,"TECHNICAL SKILL: Operating System LINUX, Windows Server 2012 R2, Windows 98, Windows 2000/ XP Tools & Utility Packages SQL* Loader, SQL*PLUS, OEM, Datapump, expdp/impdp, PLSQL Developer, Jenkins Database Oracle 10g, Oracle 11g, Oracle 12c Scripting UNIX Shell Scripting Language SQL Education Details 
+January 2011 M.B.A.  Amravati, Maharashtra Amravati University
+January 2007 B.C.A.  Nagpur, Maharashtra Nagpur University
+Oracle Database Administrator 
+
+ORACLE DATABASE ADMINISTRATOR ON LINUX/MICROSOFT WITH 4 YEARS EXPERIENCE.
+Skill Details 
+ORACLE- Exprience - 48 months
+LINUX- Exprience - 6 months
+ORACLE DBA- Exprience - Less than 1 year months
+RAC- Exprience - Less than 1 year months
+GOLDEN GATE- Exprience - Less than 1 year months
+ASM- Exprience - Less than 1 year months
+DATAGUARD- Exprience - Less than 1 year monthsCompany Details 
+company - TIETO INDIA PVT. LTD
+description - Pune From February 2015 till present
+
+Project Profile:
+Oil and Gas unit of Tieto India Pvt. Ltd. is working for Environmental Components (EC) application. Tieto is the authorized service provider in EC. Energy Components is a complete end-to-end hydrocarbon accounting solution following the hydrocarbons from production to transport, sales and revenue recognition. Globally market-leading hydrocarbon accounting software with functionality coverage exceeding other available solutions. Modern, flexible and scalable technology platform. Selected as the global standard and best practice by oil & gas super majors.
+Responsibilities: â¢ Oracle Database Administration 11g R2, 12c and 18c â¢ Supporting databases in 24x7 environments and coordinate with Application, OS, Storage and Development Teams. Test and Production environments â¢ Regularly monitoring the trace files and Alert log files for database related issues.
+â¢ Experience in monitoring the CPU usage, IO and memory utilization at OS level.
+â¢ Checking the Alert log file to analyze the ORA errors if any to raise SR with Oracle.
+â¢ Monitoring the log files, backups, database space usage and the use of system resources.
+â¢ Configuring Backup (RMAN) for database and restoring database.
+â¢ Installation, configuring and updating Oracle server software and related Oracle products of 11g and 12C.
+â¢ Oracle Server installation, client installation and configuration, PLSQL developer installation.
+â¢ Creating database using DBCA and manually.
+â¢ Creating of Oracle user and granting proper privileges to user as per request.
+â¢ Creating AWR, ASH and ADDM reports for database performance analysis.
+â¢ Handling space management and performance issues in Oracle databases.
+â¢ Creating remote database link.
+â¢ Renaming and resizing of data files in Oracle database if needed.
+â¢ Tablespace shrinking with regular time interval to reclaim server space.
+â¢ Expertise in Export and Import using data pump in Oracle database.
+â¢ Expertise in Configuration of Listener and Tnsnames through NETMGR and NETCA and statically also.
+â¢ Managing Oracle Listener and Oracle Network Files.
+â¢ Creating user Profiles, granting specific privileges and roles to the users in Oracle database.
+â¢ Maintaining tablespaces & data files, Control files, Online Redo log files in Oracle database.
+â¢ Worked on AWS cloud services like EC2, S3, RDS, ELB, EBS, VPC, Route53, Auto, Cloud watch, Cloud Front, IAM for installing configuring and troubleshooting on various Amazon images for server migration from physical into cloud.",Applicant 6
+Database,"Technical Skills Databases: Oracle RDBMS- 10g, 11g & 12c Technology/utilities: Data Pump, RMAN, Data guard, ASM, RAC, Golden Gate Tools: OCC, PUTTY, SQLPLUS, SQL Developer, Netbackup, SCOM, SCCM, VMWare Vsphere Operating Systems: RHEL 6.0, RHEL 6.5, UNIX and Microsoft WindowsEducation Details 
+
+Database Administrator 
+
+Database Administrator - BNY Mellon
+Skill Details 
+DATABASES- Exprience - 24 months
+ORACLE- Exprience - 24 months
+RMAN- Exprience - 24 months
+NETBACKUP- Exprience - 24 months
+SCOM- Exprience - 24 monthsCompany Details 
+company - BNY Mellon
+description - Databases: 600+
+Team Size: 8
+Duration: Jan 2017 - Till Date
+Clients: Over 130+ investment banking organizations who are hosted with Eagle
+
+Responsibilities: Database Management (Support and managing critical production, Pre-production, test and reporting databases in different platforms), Capacity Management Upgrades.
+â¢ Handling day to day database activities monitoring and incident management.
+â¢ Building new databases as per the requirement and prepare them for go live with the help of multiple teams.
+â¢ Working on scheduled activity of database patching (CPU, PSU) â¢ Installing latest path on production, Dev and Test databases as per the suggestion from Oracle support.
+â¢ Database Upgrade from 11g and to 12c.
+â¢ Adding disks to ASM disk groups.
+â¢ Building DR database using Active Data guard, Make it sync with prod and resolving issues if persists â¢ Data Guard Management- Checking lagging status, removing lagging of archives, checking processes like RFS/MRP, Archives Management â¢ Working on tablespace related issues â¢ Managing user access and profiles â¢ Importing and exporting using datapump â¢ Maintaining inventory of all databases in the single centralize database â¢ Refreshing test environment from production database.
+â¢ Working with Oracle Support to resolve oracle errors.
+â¢ Schedule daily and weekly databases backup using RMAN, Troubleshooting in RMAN issues.
+â¢ Database cloning using RMAN.
+â¢ Take part in cutover to upgrade application to higher version.
+â¢ Strictly following ITIL process in incident management and change management.
+â¢ Providing weekly report of issues in team meeting also participating and suggesting service improvement plans.
+â¢ Database Migrations from one server to another or to different platforms â¢ RCA and impact analysis reporting during any production outage.
+
+Previous Organization: Brose India
+Project I: Central IT Management
+company - 
+description - Responsibilities: Managing our internal databases and servers of Brose global.
+â¢ Providing 24x7 on-call support in the rotational shifts.
+â¢ Performing day-to-day database activity â¢ Monitoring and responding DBA group Mails for all alerts, issues and ad-hoc business user requests, etc.
+â¢ Database creation, patching â¢ Backup of Database in frequent cycles using Data pump/RMAN.
+â¢ Database refreshes using RMAN, Datapump.
+â¢ Recovery using copy of data / RMAN â¢ Monitoring logs and trace for resolving issues.
+â¢ Creating new VM servers and prepare it for go live, Also decommissioning as per requirements.
+â¢ Weekly patching of windows servers using SCCM and taking actions for patching if needed â¢ Monitoring and troubleshooting of daily and weekly OS backup using Symantec Netbackup â¢ Managing user accounts of OS users and database users â¢ Monitoring OS level alerts using SCOM
+
+Project II: Data Center Migration (Onsite Project)
+Responsibilities: Data center migration was one of activity for migration of our datacenter from one location to another. Where our all servers and databases were moved successfully.
+â¢ Installation of Oracle 11g on Linux platforms â¢ Worked on service requests (Incidents / Change / Request) â¢ Creation of users, managing user privileges â¢ Configured RMAN backup for databases â¢ Patching of databases â¢ Configuring physical standby database using Dataguard â¢ Cloning of servers and migrate to another cluster
+
+ACADEMIA / PERSONAL DETAILS â¢ Bachelor of Engineering (B.E.) in Computer Science and Engineering From SGBAU Amravati University, Amravati in 2014 with CGPA of 7.21
+
+Current Address:-       Mr. Yogesh Tikhat, C/O: Raj Ahmad, Flat# G2-702, Dreams Aakruti, Kalepadal, Hadapsar, Pune - 411028
+Highest Qualification   BE (cse)
+
+PAN: -                  AOFPT5052C",Applicant 7
+Database,"Software Skills: * RDBMS: MS SQL SERVER 2000/2005/2008 & 2012, 2014 * Operating Systems: WINDOWS XP/7, WINDOWS SERVER 2008, 12 * Fundamentals: MS Office 03/07 * Tools: SSMS, Performance Monitor, Sql profiler, SQL lite speed. Company name: Barclays Technology Centre India. Team Size: 24 Role: Database Administrator Support Description: Barclays Technology is a UK based retail & invest bank and 300 years of old bank.. It has operations in over 40 countries and employs approximately 120, 000 people. Barclays is organised into four core businesses: Personal & Corporate (Personal Banking, Corporate Banking, Wealth & Investment Management), Barclaycard, Investment Banking. Responsibilities: â Attending various calls from all over the world on various database issues. â Working on Web Gui alerts and resolving incident tickets within the time lines. â Troubleshoooting log shipping issues and fixing the related alerts. â Identifying and Resolving Blocking and locking related issues. â Configuration and monitoring Replication, Log shipping and mirroring setup. â Working on replication issues and Always ON issue. â Granting and revoking permissions on various account provisioning tasks. â Working on call support during the weekend and performing DR test's. and working on weekly maintenance jobs and weekend change requests. Education Details 
+ B.Sc. Maths  Kakatiya University Board secured
+SQL server database administrator 
+
+Database administrator
+Skill Details 
+DATABASE- Exprience - 120 months
+DATABASE ADMINISTRATOR- Exprience - 72 months
+MAINTENANCE- Exprience - 48 months
+MS SQL SERVER- Exprience - 48 months
+REPLICATION- Exprience - 48 monthsCompany Details 
+company - Barclays global services centre
+description - SQL server databases implementation and maintenances
+
+Log shipping, replication, High availability, clustering, performance tuning, database mirroring, Installation, configuration, upgradation, migration
+company - Wipro Infotech Pvt Ltd
+description - SQL server database administrator
+company - CITI Bank
+description - Worked as Database Support at Accord Fintech, Sanpada from Sep 2008 to 2013 Feb.
+company - 
+description - 2012.
+â¢     Sound knowledge in Database Backup, Restore, Attach, and Detach and Disaster Recovery procedures.
+â¢     Developed backup and recovery strategies for production environment.
+â¢     Ensuring data consistency in the database through DBCC and DMV commands.
+â¢     Experience in query tuning and stored procedures and troubleshooting performance issues.
+â¢     Having hands on experience in DR process including log shipping and database mirroring.
+â¢     Experience in scheduling   monitoring of Jobs.
+â¢     Experience in configure and troubleshooting in Always ON.
+â¢     Creating and Maintaining of Maintenance Plan.
+â¢     Expertise in planning and implementing MS SQL Server Security and Database permissions.
+â¢     Clear understanding of Implementation of Log Shipping, Replication and mirroring of databases between the servers.
+â¢     Performance Tuning (Performance Monitor, SQL Profiler Query Analyzer) â¢     Security for server & Databases Implementing security by creating roles/users,
+Added users in roles, assigning rights to roles.
+â¢     Create and maintaining the linked servers between sql Instances.
+â¢     Create and maintaining and Database mail.
+â¢     Monitor and troubleshoot database issues.
+â¢     Creating DTS packages for executing the required tasks.
+â¢     Experts in create indexes, Maintaining indexes and rebuilds and reorganizes.
+â¢     Daily Maintenance of SQL Servers included reviewing
+SQL error logs, Event Viewer.",Applicant 8
+Database,"Areas of Expertise â¢ Oracle Databases 12c, 11g, 10g â¢ Weblogic 12c, 11g â¢ Grid Infrastructure â¢ RMAN â¢ ASM â¢ Middleware: OIM, OAM, SOA â¢ Shell Scripts â¢ DataGuard â¢ Web servers - OHS, Apache â¢ Architecture Designs â¢ Proof of Concepts â¢ DevOpsEducation Details 
+January 2007 Bachelor of Engineering Information Technology Sangli, Maharashtra Walchand College
+January 2004 Diploma Computer Engineering Jalgaon, Maharashtra Govt. Polytechnic
+Lead Database Administrator 
+
+Lead Database Administrator - Tieto Software
+Skill Details 
+DATABASES- Exprience - 108 months
+MIDDLEWARE- Exprience - 96 months
+RMAN- Exprience - 84 months
+SHELL SCRIPTS- Exprience - 48 monthsCompany Details 
+company - Tieto Software
+description - As a part of AO (Application Operations) team, scope in project is quite wide than typical database administration. Range of accomplishments are extended right from Data Tier to Middle Tier & Application Tier:
+- Maximized availability of applications from 99.3% to 99.8%
+- Raised business by presenting Proof of Concepts for 10+ cases
+- Delivered upgrades of various applications time to time to keep it on supported platform
+- Saved SLAs as per contract by means of handling P1, P2 issues effectively
+- Produced Capacity reports comprising all layers (Data, Middleware, Web) of various applications
+- Generated Work Orders as per customer need
+company - Tieto Software
+description - - Designed databases of various applications
+- Planned RMAN backup and recovery, BCP strategies
+- Executed Business Continuity Testing for various applications
+- Introduced Zero Cost high availability solutions - Active-Passive Failover
+- Optimized performance by means of scripting automation
+- Established cloning procedures for all layers of various applications
+- Delivered Infrastructure changes, like FW Openings & LoadBalancer configuration for new applications
+- Eliminated downtime by troubleshoot issues for Middleware products - OIM, OAM, SOA
+- Contributed to build & maintain Integration Layer- SMTP, ftp, Reverse Proxy, OCM
+company - Tieto Software
+description - - Provided database support to environments - PROD, UAT, TEST, DEV
+- Performed Database Refresh/Cloning from production to development and support databases
+- Reduced risk level by means of upgrading & patching databases time to time
+- Protected databases by assigning appropriate roles and privileges as per SOD
+- Generated & maintained Middleware schemas using RCU
+- Exceeded scope of work by supporting & maintaining WebLogic platform - installation, patching, troubleshooting issues
+- Expanded duty scope to web servers: Install & maintain- OHS, apache, tomcat
+company - HSBC Software
+description - Being part of project supporting HSBC Bank France, I achieved:
+- Handled incidents & service requests as Day to day database administration tasks
+- Delivered basic implementation services - Database installation, patching, upgrades
+- Performed capacity planning - managing tablespaces, compressions
+- Contributed in maintaining quality of databases - managing instances, indexes, re-organization, performance monitoring & tuning using AWR, ADDM reports
+- Maintained backups & recovery of database - logical backups (exp/imp), datapump (expdp/impdp), cold backups, hot backups, RMAN backup/restore, RMAN Duplication
+- Reduced efforts by automation - Value add initiatives which includes writing shell scripts for automated housekeeping operations, scheduling backups, use crontab/at to schedule tasks
+- Implemented high availability solutions - Dataguard",Applicant 9
+Database,"Education Details 
+May 2011 to May 2014 Bachelor of science Information technology Mumbai, Maharashtra Mumbai university
+Oracle DBA 
+
+Oracle database administrator
+Skill Details 
+Installation of Oracle on RH Linux & Windows. Creating/Managing user profiles and analyzing their privileges and tablespace quotas Backup of database Logical and Physical procedures. Recovery of database in case of database crash, disk/media failure, etc. Standard DBA functions like space management, Rollback segments, Extents. Database Management and Monitoring the database. Willing to learn new things. Being a constructive team member, contributing practically to the success of the team.- Exprience - 48 monthsCompany Details 
+company - Accelya kale solutions ltd
+description - Database Administrator working in 24*7 support environment maintaining Databases running on Oracle 11g, 12c.
+Database Up-gradation from Oracle 11g to Oracle 12c.
+Installation of Database critical patches.
+Taking cold and hot backups on scheduled times and monitoring backups.
+Importing the export dump to another database as per demands.
+Automating most of the daily activities through cronjobs, shell scripts or schedulers.
+Making Plan of Actions for Various Activities.
+Raising SR with Oracle Support for different severity issues.
+Handling the Userâs request and proper client interaction.
+Monitoring & managing database growth, tablespaces, adding ,resizing and renaming the datafiles.
+Restoration of database using RMAN backups for backup consistency checks.
+Migration of Database using export / import and RMAN backups.
+Configuring & managing Physical Standby database.
+Creating database links, Tablespaces, database directories.
+Managing network settings through listener.ora and tnsnames.ora files.
+Restoration of data using old logical backup as per client request.
+Schema replication across databases through data pump tool.
+Taking cold and hot backups on scheduled times and monitoring backups
+Taking EXPDP of database, database objects and a particular schema
+Using SCP ticketing tool in order keeping track of client requests.Â 
+Performing Maintenance Activities such as Index Rebuilding and stats gather.
+Troubleshooting the Basic LevelÂ performance issuesÂ 
+Setting up a new environmentÂ from database perspective within the requested timelines
+Adding/Deleting disks in ASM and monitoring the ASM diskgroups.
+Creating users & privileges with appropriate roles and levels of security.Â 
+Database Administrator working in 24*7 support environment maintaining Databases running on Oracle 11g, 12c.
+Performing database online and offline database re-organization for database enhancement.Â 
+Migrating database from Non-ASM to ASM file system.
+Grid up-gradation from 11g to 12C.
+company - Insolutions Global Ltd
+description - Oracle software installation(graphical/silent),Database upgrade,Patch upgrade.
+Maintaining around 80+ UAT DB servers, 40 production DB and 28 standby/DR DB.
+Managing/creating DR & standby servers, DB sync.
+Backup and recovery (RMAN/ Datapump).
+Performing activities like switchover and failover .
+Allocating system storage and planning future storage requirements for the database system
+Enrolling users and maintaining system security.
+Monitoring Alert log, Snap ID generation, db size, Server space, OEM reports, User validity.
+Controlling and monitoring user access to the database .
+Scheduling shell scripts or dbms_jobs using Crontab or DBMS_SCHEDULER (monitoring script, listener check, backup script, AWR reports) etc.
+Planning for backup and recovery of database.
+Managing the production database for Oracle and SQL Server and resize the space of database/Datafiles/Tablespace/Transactional Logs.
+Managing Temp and Undo tablespaces.
+Creating primary database storage structures (tablespaces) after application developers have designed an application.",Applicant 10
+Database,"TECHNICAL SKILLS â¢ SQL â¢ Oracle v10, v11, v12 â¢ R programming, Python, linear regression, machine learning and statistical modelling techniques(obtained certification through Edvancer Eduventures training institute) KEY SKILLS â¢ Multitasking, working to meet client SLA in high pressure scenarios, handling sensitive clients along with improved skills at being a team player. â¢ Excellent communication skills and quick learner. â¢ Leadership qualities, team networking and courage to take up the problems proactively.Education Details 
+June 2012    Sadvidya Pre-University College
+Application Database Administrator-DBMS (Oracle) 
+
+Application Database Administrator-DBMS (Oracle) - IBM India Pvt Ltd
+Skill Details 
+CLIENTS- Exprience - 30 months
+MACHINE LEARNING- Exprience - 30 months
+ORACLE- Exprience - 30 months
+SQL- Exprience - 30 months
+EXCELLENT COMMUNICATION SKILLS- Exprience - 6 monthsCompany Details 
+company - IBM India Pvt Ltd
+description - Client: Blue Cross Blue Shield MA: Massachusetts Health Insurance
+â¢   Used Oracle SQL to store and organize data. This includes capacity planning, installation, configuration, database
+design, migration, security, troubleshooting, backup and data recovery.
+â¢   Worked with client databases installed on Oracle v10, v11, v12 on a Linux platform.
+
+â¢   Proficient communication with clients across locations facilitating data elicitation.
+
+â¢   Handling numerous business requests and solving them diligently within the given time frame and responding quickly and effectively to production issues within SLA.
+
+â¢   Leading a team in co ordination with business to conduct weekly checkouts of the database servers and systems
+
+IBM Certifications
+Statistics 101, Applied Data Science with R, Big Data Foundations, Data Science Foundations
+
+Business Analytics Certification (Pune)
+Worked on Retail and Banking projects, to design a predictive business model using machine learning techniques in
+R programming for an efficient business and marketing strategy.",Applicant 11
+Database,"TECHNICAL EXPERTISE â¢ DB Languages: SQL â¢ Database Tools: SQL Server 2014/ 2017 Postgresql 9.5, 9.6, Oracle 11gR2 â¢ Operating Systems: Redhat Linux, Oracle Linux, Windows Server 2012/ 2016 OTHER TECHNICAL SKILLS ORACLE 11G R2 â¢ Proficient in Oracle Database Software Installation, Creation of Database using GUI/Silent DBCA, Architecture, File management, Space Management, User Management, Creating Roles and assigning Privileges/Roles in 11gR2 and troubleshooting them. â¢ Hands on experience Control files/Redolog/Archive/Undo Management â¢ Configuring Listener.ora/Tnsnames.ora file using Netmgr/netca â¢ Generating AWR reports, ADDM, ASH reports to diagnose the problems â¢ Database Backup, Cloning/Duplicate using hot & cold backups using RMAN. â¢ Knowledge in Flashback Technologies & Expdp/Impdp â¢ Implemented Oracle11gR2 RAC on Oracle Linux Platform and knowledge of services for troubleshooting RAC (CRSCTL, SRVCTL) â¢ Knowledge on installation and configuration of RAC. Add/Remove Nodes on RAC â¢ Configuration of physical standby database (Data guard) â¢ Successfully upgraded from 11.2.0.1 to 11.2.0.4 & PSU patching using O patch. STRENGTHS â¢ Good Communication skills. â¢ Self-confident and can adapt myself to all work environments. â¢ Enjoy responsibilities as lead and team player. â¢ Patient listener & quick learner. â¢ Capable of explaining issues & solving them.Education Details 
+ B.E Computer Engineering Mumbai, Maharashtra Mumbai University
+ Higher Secondary Certificate   Dr. DY Patil Jr College
+Database Administrator 
+
+Database Administrator - DBA in Marketplace Technologies Ltd
+Skill Details 
+DATABASE- Exprience - 61 months
+BACKUPS- Exprience - 48 months
+LINUX- Exprience - 48 months
+MS SQL SERVER- Exprience - 48 months
+SQL- Exprience - 48 monthsCompany Details 
+company - DBA in Marketplace Technologies Ltd
+description - Project Title: EBoss, Datafeed, MFDB, RTRMS, IndiaINX
+company - Standard & Enterprise
+description - Redhat Linux 7.4, Postgresql 9.5, 9.6
+Duration: Feb 2017 - till date
+Description: Bombay Stock Exchange BSE  is Asia's first & the Fastest Stock Exchange in world with the speed of 6 micro seconds and one of India's leading exchange groups provides an efficient and transparent market for trading in equity, currencies, debt instruments, derivatives, mutual funds. BSE SME is India's largest SME platform which has listed over 250 companies and continues to grow at a steady pace.
+
+JOB ROLES & RESPONSIBILITIES
+POSTGRESQL - â¢ Worked on Redhat Linux OS Cluster with Postgresql for High Availability (HA) using Pacemaker.
+â¢ Coordinated with Developers/Linux teams for database knowledge and support.
+â¢ Participated in implementation of new releases into production.
+â¢ Installed /Configured Postgresql from source or packages on Redhat Linux servers.
+â¢ Performed Postgresql Server Management tasks i.e. Backup & Restore, Configuration, Roles, Blockings, Tablespace creation and Troubleshooting.
+â¢ Worked with Storage team for Disaster Recovery DR setup built on SAN using EMC technology â¢ Configured LDAP authentication & GSSAPI Authentication from Windows to Linux for Postgresql.
+â¢ Configured logical replication for Database servers, hot standby Postgresql servers, faster database backup methods, schema and tablespace backups.
+â¢ Configured maximum connections to database on Linux servers.
+â¢ Installed tds_fdw from source for linked servers to connect to heterogeneous databases & other required extensions, backup configuration, PITR using base backups.
+
+MSSQL - â¢ Day-to-day administration of live SQL Servers.
+â¢ Participated in Live Primary Recovery PR & Disaster Recovery DR activities.
+â¢ Participated in PR & DR mocks for new releases into production.
+â¢ Configured Linked Servers, Transactional replication, Maintenance tasks like database backup & restore, recovery, scheduled jobs, maintenance plans.
+â¢ Installed & Configured SQL server 2014, 2017 standalone and SQL Cluster servers.
+â¢ Maintained the security of the database by providing appropriate SQL roles, logins and permissions to the users on demand.
+â¢ Worked with teams on application rollouts, application issues and SQL server migrations.
+â¢ Exposure in handling production system with skills and understand client's requirement.
+â¢ Performed SQL Server service pack upgrades and hot fixes.
+â¢ Handled multiple SQL Instances on Windows SQL Cluster environment built on  EMC SAN.
+â¢ Worked on MSSQL DB clusters with active/active & active passive servers, Always-On Availability Groups (AAG) and HA/DR Setup.
+â¢ Have experience on SAN and RAID levels and building and supporting SQL Cluster servers on SAN Environments.
+company - BSE Bombay Stock Exchange
+description - Environment: Windows server 2008 R2, 2012 R2, 2016 Enterprise & Standard,",Applicant 12
+Database,"Technical Expertise Operating Systems Microsoft Window Server 2003/2008/2008 R2/2012 Database Technologies SQL Server, Sybase ASE Server, Oracle, MongoDB Monitoring and Ticketing Tools HP Service Manager 7.0/9.0, Solar winds DPA, JIRA and MongoDB OPS manager Web Server IIS 7.0 Database Tools SSMS, DBArtisan, Studio 3T, SnapShot Manager for SQL ServerEducation Details 
+ B. Tech Computer Science Gulbarga, Karnataka PDACOE, Gulbarga, Autonomous Institution
+Database Administrator II 
+
+Database Administrator III - BNY Mellon International Operations (India) PVT. LTD
+Skill Details 
+Sql Dba- Exprience - Less than 1 year monthsCompany Details 
+company - BNY Mellon International Operations (India) PVT. LTD
+description - SQL Server :
+ï	Installation, configuration of database servers using slipstream and setup all the maintenance jobs as per the standard policy on standalone as well as cluster environments with latest service packs
+ï	Installation of SSRS, uploading of .rdls and assigning correct data sources to reports. Grant necessary access to users & developers on reporting website. Aware of SSIS and designing packages as well.
+ï	Create and manage logins, users for database applications, assigning permissions as per requests, resolving user login issues.
+ï	Migration of all SQL server 2005/2008 servers to higher versions.
+ï	Setup of database refresh jobs on QA, DEV and UAT environments and fixing orphaned users.
+ï	Troubleshoot performance related issues. 
+ï	Part of multiple projects to work with developers and provide all required support for testing in QA, UAT & DEV environment. 
+ï	Lead the DR tests for database team.
+ï	Participate in database purge and archive activities.
+ï	Writing codes for automating database administration tasks.
+ï	Worked on automating DR tasks to start the agent jobs on multiple servers, restore databases for log shipped databases without manual intervention for online databases post DR activities.
+ï	Provide support to vendor databases, follow up with the vendor calls and timely escalate to next level when there is no update in predefined timeline.
+ï	Installation and configuration of smsql on windows server. Schedule jobs for creation and deletion of clones on sql server. Maintain backups using smsql.
+
+MongoDB Server:
+ï	Installation and configuration of MongoDB server.
+ï	Creation of databases and collection.
+ï	Creation new user and grant access using Ops manager.
+ï	Monitor database servers using Ops manager.
+Oracle & Sybase Server
+ï	Managing and maintaining multiple instances of Databases on Linux and windows servers.
+ï	Monitoring daily jobs includes backups, refresh and maintenance jobs.
+company - Hewlett-Packard India Sales PVT. LTD. On the payroll of Softenger India PVT. LTD
+description - ï	Installation of SQL Server on standalone as well as windows cluster environments with latest service packs
+ï	SQL server installation using slipstream.
+ï	Installation of reporting services
+ï	Creating logins and users, assigning permissions as per requests.
+ï	Security audit for all logins includes maintenance of unused and orphan user logins
+ï	Create & Maintain daily and weekly jobs/maintenance plans includes backup, index rebuild/reorganize , update statistics and database consistency check
+ï	Create linked servers and ensure connectivity between servers
+ï	Monitor disk space proactively & Space management using data and log file shrinking
+ï	Monitor blocking, deadlocks, open transactions and slow running queries during performance issues and highlight costly queries to developers.
+ï	Configure alerts for deadlock and blocking to maintain performance
+ï	Implementing high availability technologies like log shipping, AlwaysON, mirroring and its troubleshooting, also have knowledge on replication
+ï	Successfully completed migration of Databases from one server to another
+ï	Performing DR drills (Online/Offline) on quarterly basis
+ï	Power shell scripting to monitor, restart SQL service and get Email alert for the service status.
+ï	Maintain TNS entries for oracle client as per client requests.
+ï	Interacting with customers for requirements
+ï	Contacting customer to update the status of handling issues and service requests at every stage of resolution
+ï	Managing proper escalation and notification matrix for all support levels",Applicant 13
+Database,"TECHNICAL SKILLS Operating Systems MS Windows Server 2012/2008/XP Software and Tools MS LiteSpeed, Idera SQL Safe, SSMS, Upgrade Advisor, SQL Server Profiler, SCOM, Diagnostic Manager, Remedy, Jira, Infopacc, Tivoli TDP backup tool, SQL Pack DatabasesMS SQL Server 2016/2014/2012/ 2008 R2/ 2008, Oracle 10g, Netezza Microsoft azure Education Details 
+ Masters of Science Computer Science Pune, Maharashtra Indira College, Pune University
+Lead database administrator 
+
+Microsoft Certified Professional with 11 years of experience in database administration on MS SQL Server 2016/2014/2012/2008 R2/ 2008
+Skill Details 
+MS SQL SERVER- Exprience - 110 months
+Microsoft azure- Exprience - Less than 1 year months
+Always on availabiity group- Exprience - Less than 1 year months
+Database mirroring- Exprience - Less than 1 year months
+Performance tuning- Exprience - Less than 1 year months
+Log shipping- Exprience - Less than 1 year months
+Installation , upgrade, migration and patching- Exprience - Less than 1 year monthsCompany Details 
+company - Ensono
+description - Employment transfer as a part of project acquisition to Ensono from Wipro.
+SQL Server Database Administration
+company - Wipro Technologies
+description - Microsoft Certified Professional with 11 years of experience in database administration on MS SQL Server 2016/2014/2012/2008 R2/ 2008.
+Experience with MS SQL Server 2016/2014/2012/2008 R2/ 2008 installation, upgrade, and administration
+Microsoft Azure certified.
+Have understanding of Azure VM, Azure Storage, Azure network, Azure AD and Azure SQL database.Â 
+Incident management, change management and Problem management for SQL Server Database team.
+Participating in meetings, conference calls with client, Service Delivery Manager and Application team for System improvements.
+Participated in quarterly DR activity.
+Involved in creation of SIP - Service Improvement Plans
+Involved in handling of high severity issues and provided RCA for the same.
+Worked on Always on availability groups, database mirroring, replication, clustering and log shipping.
+Have basic understanding of Oracle and Netezza.
+Provided on- call support during out of office hours and weekends.
+Resource & shift management of 5 SQL DBAs from offshore in multi-client environment for Data center services.
+Provided KT to team members, monitor and guide trainees.
+company - Wipro Technologies
+description - Responsibilities: â¢ MS SQL Server 2016/2014/2012/ 2008 R2/ 2008 installation, configuration, and administration.
+â¢ Worked on Always on availability groups, log shipping, database mirroring and clustering.
+â¢ Participated in  PCI scan report to perform installation of security hot fixes, service packs for SQL servers to remove vulnerability.
+â¢ Participated in Holmes BOTS automation implementation of SQL Pack tool.
+â¢ Worked on service requests, incidents and critical issues.
+â¢ Involved in conference calls to provide DBA support for critical issues.
+â¢ Performance tuning.
+Environment: SQL Server 2016/2014/2012/2008R2/2008, Windows Server 2012/2008R2/2008
+company - Mphasis
+description - 
+company - Mphasis
+description - Responsibilities: â¢ MS SQL Server 2012/ 2008 R2/ 2008  installation, configuration, and administration.
+â¢ Worked on Always on availability groups, log shipping, database mirroring and clustering.
+â¢ Performed SQL server patching activity â¢ Worked on daily reports like cluster failover, backup, AG/LS/Mirror report and server disk space report.
+â¢ Worked on service requests, incidents and critical issues.
+â¢ Participated in quarterly DR activity.
+â¢ Involved in conference calls to provide DBA support for critical issues.
+â¢ Provided support to windows team during patching for AG-mirror-cluster failover/failback and database health check.
+â¢ Performed all the health checks for market open servers and provided update in market open call â¢ Deeply involved in   resolution of the issue and finding the root cause analysis of the issue â¢ Performance tuning.
+Environment: SQL Server 2012/2008R2/2008, Windows Server 2008R2/2008
+company - Synechron Technologies Pvt. Ltd
+description - Responsibilities: â¢ SQL server, Oracle and Netezza databases support tasks.
+â¢ MS SQL Server 2008 R2/ 2008 installation, upgrade, and administration.
+â¢ Done capacity planning for database growth for all SQL servers.
+â¢ Troubleshooting alerts.
+â¢ Worked on log shipping and mirroring.
+Environment: SQL Server 2008R2/2008, Windows Server 2008R2/2008, Oracle 10g/RAC
+company - Synechron Technologies Pvt. Ltd
+description - 
+company - Synechron Technologies Pvt. Ltd
+description - Responsibilities: â¢ Pursued in-depth training on Oracle 11g Architecture and SQL Server.
+Environment: SQL Server 2008R2/2008, Windows Server 2008R2/2008, Oracle 10g
+company - Synechron Technologies Pvt. Ltd
+description - Responsibilities: â¢ Carried out version changes for schemas from PE8 version to EE11 version as per the process given
+Environment: Oracle 11g
+company - Mastek Ltd
+description - Responsibilities: â¢ SQL Server 2008 R2/ 2008 installation, upgrade, and administration â¢ database backup/restore.
+â¢ Performed MS SQL Server audits â¢ Worked with database mirroring, replication, log shipping and clustering.
+â¢ Supported UAT and PROD environments â¢ Performed deployment document review.
+â¢ Carried out deployments for different applications
+Environment: SQL Server 2008R2/2008, Windows Server 2008R2/2008
+company - Mastek Ltd
+description - 
+company - PP Software and Systems Ltd
+description - 
+company - PP Software and Systems Ltd
+description - Description: The system provides Master Data Management and Procurement modules for dairy industry.
+Responsibilities: â¢ Designed, coded, and tested â¢ Customized ERP system as per the requirement
+Environment: Core Java, PostgreSQL",Applicant 14
+Database,"SKILLSET Oracle DBA, MySQL, MARIADB, PostgreSQL Database Administration ITSKILLS SQL Oracle 10g, 11g, MYSQL, MariaDB, postgreSQL Windows, Linux Putty Education Details 
+January 2018 MCS  Pune, Maharashtra Pune University
+Database administrator 
+
+Database administrator  - Infiniteworx Omnichannel Pvt. Ltd
+Skill Details 
+DATABASE- Exprience - 17 months
+MYSQL- Exprience - 17 months
+ORACLE- Exprience - 17 months
+SQL- Exprience - 17 months
+DATABASE ADMINISTRATION- Exprience - 6 monthsCompany Details 
+company - Infiniteworx Omnichannel Pvt. Ltd
+description - Pune Sept 2017 to Present
+
+RESPONSIBILITIES:
+â¢ Creating tablespaces and planning the location of data, monitoring the tablespaces growth periodically.
+â¢ All replication setup
+â¢ Moved database Schema changes to stage.
+â¢ Dba support query resolution.
+â¢ Creating user and giving specific privileges
+â¢ Database management.
+â¢ Database recovery, moving data files to different locations.
+â¢ Planning the backup policies and Backup/ Recovery of databases based on the criticality.
+â¢ IMPORT/EXPORT.
+â¢ Degine schemas
+
+Key Result Areas:
+
+â¢ Providing 24 /7 support to resolve database performance issues, Job failures, Sessions & diagnose root causes
+â¢ Installation, configuring and updating Oracle server software and related Oracle products. Installation, configuraing and updating Mysql, Sql server, MariaDB, MongoDB
+â¢ Supported multiple databases and administered Oracle Databases of Large DB Sizes for production, development & test setups.
+
+â¢ Maintaining table spaces & data files, Control files, Online Redo log files
+
+â¢ Creating Users, granting Roles & Privileges to users and managing tablespaces for different users by granting quota on Default & Temporary tablespaces.
+
+â¢ Taking Oracle RMAN Backups (Scheduling for day wise backup)
+
+â¢ Implementing the incremental, cumulative and full RMAN backup for each database to have space management and effective recovery.
+â¢ Logical Backup Using Export & Import/datapump Export of important tables at regular intervals.
+
+â¢ Regular checking of trace, alert log file, all ORA errors
+
+â¢ Working on incidents like User creation/deletion incidents, backup failed incidents.
+â¢ Checking Listener Status, connectivity Troubleshooting and fixing database listener issues.
+â¢ Look for any new alert / error log entries / errors, error details in Trace files generated. Executing DDL & DML scripts as per customer requirements
+
+â¢ Mentoring, coaching and appraising team members with active involvement in the recruitment process
+
+â¢ Contributing in Project Documentation and generating daily reports
+
+â¢ Ensuring compliance to quality norms and taking steps for any non-conformance Spearheading complete project activities ensuring timely completion of project
+â¢ Implementing security policies on different database systems with granting and revoking privileges to the users
+
+â¢ Following change management processes and participated in related meetings
+
+â¢ Verifying all Instances/DB are running, Tablespaces are online, Monitor Backround processes and status.
+company - InnovativeTechnologies
+description - Clients: BANKING DOMAIN",Applicant 15
+Database,"Education Details 
+January 2016 BSc.  Mumbai, Maharashtra Mumbai University
+January 2013 H.S.C.   Maharashtra Board
+January 2011 S.S.C.   Maharashtra Board
+MySQL Database Administrator 
+
+2+ Years of experience in MySQL Database Administrator ( MySQL DBA)
+Skill Details 
+MySQL DBA , Centos , Backup , Restore , Replication , Query Optimazation- Exprience - 24 monthsCompany Details 
+company - Trimax IT Infrastructure & Services Ltd
+description - Â·Â Â Â Â Â Â Â MYSQL Installation, maintenance and Upgrades (Version 5.5 , 5.6)
+Â·Â Â Â Â Â Â Â MySQL database administration on a large scale MySQL installation
+Â·Â Â Â Â Â Â Â Experience with MySQL on both Linux and Windows
+Â·Â Â Â Â Â Â Â MySQL processes, security management and queries optimization.
+Â·Â Â Â Â Â Â Â Performed query analysis for slow and problematic queries.
+Â·Â Â Â Â Â Â Â Performed Structural changes to Database like creating tables, adding columns according to business requirement
+Â·Â Â Â Â Â Â Â Creating and MaintainingÂ Database Maintenance Plans.
+
+
+
+Â·Â Â Â Â Â Â Â Writing scripts to Create Jobs for Backup & Restore Plans.
+Â·Â Â Â Â Â Â Â Working on MYISAM to INNODB engine.
+Â·Â Â Â Â Â Â Â Working on Server shifting , tuning parameter , database purging
+Â·Â Â Â Â Â Â Â Working on Mysql master slave Replication
+Â·Â Â Â Â Â Â Â Handling Release management and user acceptance.
+Â·Â Â Â Â Â Â Â Restore using xtrabackup.
+Â·Â Â Â Â Â Â Â Responsibilities include monitoring daily, weekly and monthly system maintenance tasks such as database backup, replication verification, database integrity verification and indexing updates
+Â·Â Â Â Â Â Â Â Work in 24/7 production database support.
+company - Trimax IT Infrastructure & Services Ltd
+description - Â·Â Â Â Â Â Â Â MYSQL Installation, maintenance and Upgrades (Version 5.5 , 5.6)
+Â·Â Â Â Â Â Â Â MySQL database administration on a large scale MySQL installation
+Â·Â Â Â Â Â Â Â Experience with MySQL on both Linux and Windows
+Â·Â Â Â Â Â Â Â MySQL processes, security management and queries optimization.
+Â·Â Â Â Â Â Â Â Performed query analysis for slow and problematic queries.
+Â·Â Â Â Â Â Â Â Performed Structural changes to Database like creating tables, adding columns according to business requirement
+Â·Â Â Â Â Â Â Â Creating and MaintainingÂ Database Maintenance Plans.
+
+
+
+Â·Â Â Â Â Â Â Â Writing scripts to Create Jobs for Backup & Restore Plans.
+Â·Â Â Â Â Â Â Â Working on MYISAM to INNODB engine.
+Â·Â Â Â Â Â Â Â Working on Server shifting , tuning parameter , database purging
+Â·Â Â Â Â Â Â Â Working on Mysql master slave Replication
+Â·Â Â Â Â Â Â Â Handling Release management and user acceptance.
+Â·Â Â Â Â Â Â Â Restore using xtrabackup.
+Â·Â Â Â Â Â Â Â Responsibilities include monitoring daily, weekly and monthly system maintenance tasks such as database backup, replication verification, database integrity verification and indexing updates
+Â·Â Â Â Â Â Â Â Work in 24/7 production database support.",Applicant 16
+Database,"TECHNICAL SKILL: Operating System LINUX, Windows Server 2012 R2, Windows 98, Windows 2000/ XP Tools & Utility Packages SQL* Loader, SQL*PLUS, OEM, Datapump, expdp/impdp, PLSQL Developer, Jenkins Database Oracle 10g, Oracle 11g, Oracle 12c Scripting UNIX Shell Scripting Language SQL Education Details 
+January 2011 M.B.A.  Amravati, Maharashtra Amravati University
+January 2007 B.C.A.  Nagpur, Maharashtra Nagpur University
+Oracle Database Administrator 
+
+ORACLE DATABASE ADMINISTRATOR ON LINUX/MICROSOFT WITH 4 YEARS EXPERIENCE.
+Skill Details 
+ORACLE- Exprience - 48 months
+LINUX- Exprience - 6 months
+ORACLE DBA- Exprience - Less than 1 year months
+RAC- Exprience - Less than 1 year months
+GOLDEN GATE- Exprience - Less than 1 year months
+ASM- Exprience - Less than 1 year months
+DATAGUARD- Exprience - Less than 1 year monthsCompany Details 
+company - TIETO INDIA PVT. LTD
+description - Pune From February 2015 till present
+
+Project Profile:
+Oil and Gas unit of Tieto India Pvt. Ltd. is working for Environmental Components (EC) application. Tieto is the authorized service provider in EC. Energy Components is a complete end-to-end hydrocarbon accounting solution following the hydrocarbons from production to transport, sales and revenue recognition. Globally market-leading hydrocarbon accounting software with functionality coverage exceeding other available solutions. Modern, flexible and scalable technology platform. Selected as the global standard and best practice by oil & gas super majors.
+Responsibilities: â¢ Oracle Database Administration 11g R2, 12c and 18c â¢ Supporting databases in 24x7 environments and coordinate with Application, OS, Storage and Development Teams. Test and Production environments â¢ Regularly monitoring the trace files and Alert log files for database related issues.
+â¢ Experience in monitoring the CPU usage, IO and memory utilization at OS level.
+â¢ Checking the Alert log file to analyze the ORA errors if any to raise SR with Oracle.
+â¢ Monitoring the log files, backups, database space usage and the use of system resources.
+â¢ Configuring Backup (RMAN) for database and restoring database.
+â¢ Installation, configuring and updating Oracle server software and related Oracle products of 11g and 12C.
+â¢ Oracle Server installation, client installation and configuration, PLSQL developer installation.
+â¢ Creating database using DBCA and manually.
+â¢ Creating of Oracle user and granting proper privileges to user as per request.
+â¢ Creating AWR, ASH and ADDM reports for database performance analysis.
+â¢ Handling space management and performance issues in Oracle databases.
+â¢ Creating remote database link.
+â¢ Renaming and resizing of data files in Oracle database if needed.
+â¢ Tablespace shrinking with regular time interval to reclaim server space.
+â¢ Expertise in Export and Import using data pump in Oracle database.
+â¢ Expertise in Configuration of Listener and Tnsnames through NETMGR and NETCA and statically also.
+â¢ Managing Oracle Listener and Oracle Network Files.
+â¢ Creating user Profiles, granting specific privileges and roles to the users in Oracle database.
+â¢ Maintaining tablespaces & data files, Control files, Online Redo log files in Oracle database.
+â¢ Worked on AWS cloud services like EC2, S3, RDS, ELB, EBS, VPC, Route53, Auto, Cloud watch, Cloud Front, IAM for installing configuring and troubleshooting on various Amazon images for server migration from physical into cloud.",Applicant 17
+Database,"Technical Skills Databases: Oracle RDBMS- 10g, 11g & 12c Technology/utilities: Data Pump, RMAN, Data guard, ASM, RAC, Golden Gate Tools: OCC, PUTTY, SQLPLUS, SQL Developer, Netbackup, SCOM, SCCM, VMWare Vsphere Operating Systems: RHEL 6.0, RHEL 6.5, UNIX and Microsoft WindowsEducation Details 
+
+Database Administrator 
+
+Database Administrator - BNY Mellon
+Skill Details 
+DATABASES- Exprience - 24 months
+ORACLE- Exprience - 24 months
+RMAN- Exprience - 24 months
+NETBACKUP- Exprience - 24 months
+SCOM- Exprience - 24 monthsCompany Details 
+company - BNY Mellon
+description - Databases: 600+
+Team Size: 8
+Duration: Jan 2017 - Till Date
+Clients: Over 130+ investment banking organizations who are hosted with Eagle
+
+Responsibilities: Database Management (Support and managing critical production, Pre-production, test and reporting databases in different platforms), Capacity Management Upgrades.
+â¢ Handling day to day database activities monitoring and incident management.
+â¢ Building new databases as per the requirement and prepare them for go live with the help of multiple teams.
+â¢ Working on scheduled activity of database patching (CPU, PSU) â¢ Installing latest path on production, Dev and Test databases as per the suggestion from Oracle support.
+â¢ Database Upgrade from 11g and to 12c.
+â¢ Adding disks to ASM disk groups.
+â¢ Building DR database using Active Data guard, Make it sync with prod and resolving issues if persists â¢ Data Guard Management- Checking lagging status, removing lagging of archives, checking processes like RFS/MRP, Archives Management â¢ Working on tablespace related issues â¢ Managing user access and profiles â¢ Importing and exporting using datapump â¢ Maintaining inventory of all databases in the single centralize database â¢ Refreshing test environment from production database.
+â¢ Working with Oracle Support to resolve oracle errors.
+â¢ Schedule daily and weekly databases backup using RMAN, Troubleshooting in RMAN issues.
+â¢ Database cloning using RMAN.
+â¢ Take part in cutover to upgrade application to higher version.
+â¢ Strictly following ITIL process in incident management and change management.
+â¢ Providing weekly report of issues in team meeting also participating and suggesting service improvement plans.
+â¢ Database Migrations from one server to another or to different platforms â¢ RCA and impact analysis reporting during any production outage.
+
+Previous Organization: Brose India
+Project I: Central IT Management
+company - 
+description - Responsibilities: Managing our internal databases and servers of Brose global.
+â¢ Providing 24x7 on-call support in the rotational shifts.
+â¢ Performing day-to-day database activity â¢ Monitoring and responding DBA group Mails for all alerts, issues and ad-hoc business user requests, etc.
+â¢ Database creation, patching â¢ Backup of Database in frequent cycles using Data pump/RMAN.
+â¢ Database refreshes using RMAN, Datapump.
+â¢ Recovery using copy of data / RMAN â¢ Monitoring logs and trace for resolving issues.
+â¢ Creating new VM servers and prepare it for go live, Also decommissioning as per requirements.
+â¢ Weekly patching of windows servers using SCCM and taking actions for patching if needed â¢ Monitoring and troubleshooting of daily and weekly OS backup using Symantec Netbackup â¢ Managing user accounts of OS users and database users â¢ Monitoring OS level alerts using SCOM
+
+Project II: Data Center Migration (Onsite Project)
+Responsibilities: Data center migration was one of activity for migration of our datacenter from one location to another. Where our all servers and databases were moved successfully.
+â¢ Installation of Oracle 11g on Linux platforms â¢ Worked on service requests (Incidents / Change / Request) â¢ Creation of users, managing user privileges â¢ Configured RMAN backup for databases â¢ Patching of databases â¢ Configuring physical standby database using Dataguard â¢ Cloning of servers and migrate to another cluster
+
+ACADEMIA / PERSONAL DETAILS â¢ Bachelor of Engineering (B.E.) in Computer Science and Engineering From SGBAU Amravati University, Amravati in 2014 with CGPA of 7.21
+
+Current Address:-       Mr. Yogesh Tikhat, C/O: Raj Ahmad, Flat# G2-702, Dreams Aakruti, Kalepadal, Hadapsar, Pune - 411028
+Highest Qualification   BE (cse)
+
+PAN: -                  AOFPT5052C",Applicant 18
+Database,"Software Skills: * RDBMS: MS SQL SERVER 2000/2005/2008 & 2012, 2014 * Operating Systems: WINDOWS XP/7, WINDOWS SERVER 2008, 12 * Fundamentals: MS Office 03/07 * Tools: SSMS, Performance Monitor, Sql profiler, SQL lite speed. Company name: Barclays Technology Centre India. Team Size: 24 Role: Database Administrator Support Description: Barclays Technology is a UK based retail & invest bank and 300 years of old bank.. It has operations in over 40 countries and employs approximately 120, 000 people. Barclays is organised into four core businesses: Personal & Corporate (Personal Banking, Corporate Banking, Wealth & Investment Management), Barclaycard, Investment Banking. Responsibilities: â Attending various calls from all over the world on various database issues. â Working on Web Gui alerts and resolving incident tickets within the time lines. â Troubleshoooting log shipping issues and fixing the related alerts. â Identifying and Resolving Blocking and locking related issues. â Configuration and monitoring Replication, Log shipping and mirroring setup. â Working on replication issues and Always ON issue. â Granting and revoking permissions on various account provisioning tasks. â Working on call support during the weekend and performing DR test's. and working on weekly maintenance jobs and weekend change requests. Education Details 
+ B.Sc. Maths  Kakatiya University Board secured
+SQL server database administrator 
+
+Database administrator
+Skill Details 
+DATABASE- Exprience - 120 months
+DATABASE ADMINISTRATOR- Exprience - 72 months
+MAINTENANCE- Exprience - 48 months
+MS SQL SERVER- Exprience - 48 months
+REPLICATION- Exprience - 48 monthsCompany Details 
+company - Barclays global services centre
+description - SQL server databases implementation and maintenances
+
+Log shipping, replication, High availability, clustering, performance tuning, database mirroring, Installation, configuration, upgradation, migration
+company - Wipro Infotech Pvt Ltd
+description - SQL server database administrator
+company - CITI Bank
+description - Worked as Database Support at Accord Fintech, Sanpada from Sep 2008 to 2013 Feb.
+company - 
+description - 2012.
+â¢     Sound knowledge in Database Backup, Restore, Attach, and Detach and Disaster Recovery procedures.
+â¢     Developed backup and recovery strategies for production environment.
+â¢     Ensuring data consistency in the database through DBCC and DMV commands.
+â¢     Experience in query tuning and stored procedures and troubleshooting performance issues.
+â¢     Having hands on experience in DR process including log shipping and database mirroring.
+â¢     Experience in scheduling   monitoring of Jobs.
+â¢     Experience in configure and troubleshooting in Always ON.
+â¢     Creating and Maintaining of Maintenance Plan.
+â¢     Expertise in planning and implementing MS SQL Server Security and Database permissions.
+â¢     Clear understanding of Implementation of Log Shipping, Replication and mirroring of databases between the servers.
+â¢     Performance Tuning (Performance Monitor, SQL Profiler Query Analyzer) â¢     Security for server & Databases Implementing security by creating roles/users,
+Added users in roles, assigning rights to roles.
+â¢     Create and maintaining the linked servers between sql Instances.
+â¢     Create and maintaining and Database mail.
+â¢     Monitor and troubleshoot database issues.
+â¢     Creating DTS packages for executing the required tasks.
+â¢     Experts in create indexes, Maintaining indexes and rebuilds and reorganizes.
+â¢     Daily Maintenance of SQL Servers included reviewing
+SQL error logs, Event Viewer.",Applicant 19
+Database,"Areas of Expertise â¢ Oracle Databases 12c, 11g, 10g â¢ Weblogic 12c, 11g â¢ Grid Infrastructure â¢ RMAN â¢ ASM â¢ Middleware: OIM, OAM, SOA â¢ Shell Scripts â¢ DataGuard â¢ Web servers - OHS, Apache â¢ Architecture Designs â¢ Proof of Concepts â¢ DevOpsEducation Details 
+January 2007 Bachelor of Engineering Information Technology Sangli, Maharashtra Walchand College
+January 2004 Diploma Computer Engineering Jalgaon, Maharashtra Govt. Polytechnic
+Lead Database Administrator 
+
+Lead Database Administrator - Tieto Software
+Skill Details 
+DATABASES- Exprience - 108 months
+MIDDLEWARE- Exprience - 96 months
+RMAN- Exprience - 84 months
+SHELL SCRIPTS- Exprience - 48 monthsCompany Details 
+company - Tieto Software
+description - As a part of AO (Application Operations) team, scope in project is quite wide than typical database administration. Range of accomplishments are extended right from Data Tier to Middle Tier & Application Tier:
+- Maximized availability of applications from 99.3% to 99.8%
+- Raised business by presenting Proof of Concepts for 10+ cases
+- Delivered upgrades of various applications time to time to keep it on supported platform
+- Saved SLAs as per contract by means of handling P1, P2 issues effectively
+- Produced Capacity reports comprising all layers (Data, Middleware, Web) of various applications
+- Generated Work Orders as per customer need
+company - Tieto Software
+description - - Designed databases of various applications
+- Planned RMAN backup and recovery, BCP strategies
+- Executed Business Continuity Testing for various applications
+- Introduced Zero Cost high availability solutions - Active-Passive Failover
+- Optimized performance by means of scripting automation
+- Established cloning procedures for all layers of various applications
+- Delivered Infrastructure changes, like FW Openings & LoadBalancer configuration for new applications
+- Eliminated downtime by troubleshoot issues for Middleware products - OIM, OAM, SOA
+- Contributed to build & maintain Integration Layer- SMTP, ftp, Reverse Proxy, OCM
+company - Tieto Software
+description - - Provided database support to environments - PROD, UAT, TEST, DEV
+- Performed Database Refresh/Cloning from production to development and support databases
+- Reduced risk level by means of upgrading & patching databases time to time
+- Protected databases by assigning appropriate roles and privileges as per SOD
+- Generated & maintained Middleware schemas using RCU
+- Exceeded scope of work by supporting & maintaining WebLogic platform - installation, patching, troubleshooting issues
+- Expanded duty scope to web servers: Install & maintain- OHS, apache, tomcat
+company - HSBC Software
+description - Being part of project supporting HSBC Bank France, I achieved:
+- Handled incidents & service requests as Day to day database administration tasks
+- Delivered basic implementation services - Database installation, patching, upgrades
+- Performed capacity planning - managing tablespaces, compressions
+- Contributed in maintaining quality of databases - managing instances, indexes, re-organization, performance monitoring & tuning using AWR, ADDM reports
+- Maintained backups & recovery of database - logical backups (exp/imp), datapump (expdp/impdp), cold backups, hot backups, RMAN backup/restore, RMAN Duplication
+- Reduced efforts by automation - Value add initiatives which includes writing shell scripts for automated housekeeping operations, scheduling backups, use crontab/at to schedule tasks
+- Implemented high availability solutions - Dataguard",Applicant 20
+Database,"Education Details 
+May 2011 to May 2014 Bachelor of science Information technology Mumbai, Maharashtra Mumbai university
+Oracle DBA 
+
+Oracle database administrator
+Skill Details 
+Installation of Oracle on RH Linux & Windows. Creating/Managing user profiles and analyzing their privileges and tablespace quotas Backup of database Logical and Physical procedures. Recovery of database in case of database crash, disk/media failure, etc. Standard DBA functions like space management, Rollback segments, Extents. Database Management and Monitoring the database. Willing to learn new things. Being a constructive team member, contributing practically to the success of the team.- Exprience - 48 monthsCompany Details 
+company - Accelya kale solutions ltd
+description - Database Administrator working in 24*7 support environment maintaining Databases running on Oracle 11g, 12c.
+Database Up-gradation from Oracle 11g to Oracle 12c.
+Installation of Database critical patches.
+Taking cold and hot backups on scheduled times and monitoring backups.
+Importing the export dump to another database as per demands.
+Automating most of the daily activities through cronjobs, shell scripts or schedulers.
+Making Plan of Actions for Various Activities.
+Raising SR with Oracle Support for different severity issues.
+Handling the Userâs request and proper client interaction.
+Monitoring & managing database growth, tablespaces, adding ,resizing and renaming the datafiles.
+Restoration of database using RMAN backups for backup consistency checks.
+Migration of Database using export / import and RMAN backups.
+Configuring & managing Physical Standby database.
+Creating database links, Tablespaces, database directories.
+Managing network settings through listener.ora and tnsnames.ora files.
+Restoration of data using old logical backup as per client request.
+Schema replication across databases through data pump tool.
+Taking cold and hot backups on scheduled times and monitoring backups
+Taking EXPDP of database, database objects and a particular schema
+Using SCP ticketing tool in order keeping track of client requests.Â 
+Performing Maintenance Activities such as Index Rebuilding and stats gather.
+Troubleshooting the Basic LevelÂ performance issuesÂ 
+Setting up a new environmentÂ from database perspective within the requested timelines
+Adding/Deleting disks in ASM and monitoring the ASM diskgroups.
+Creating users & privileges with appropriate roles and levels of security.Â 
+Database Administrator working in 24*7 support environment maintaining Databases running on Oracle 11g, 12c.
+Performing database online and offline database re-organization for database enhancement.Â 
+Migrating database from Non-ASM to ASM file system.
+Grid up-gradation from 11g to 12C.
+company - Insolutions Global Ltd
+description - Oracle software installation(graphical/silent),Database upgrade,Patch upgrade.
+Maintaining around 80+ UAT DB servers, 40 production DB and 28 standby/DR DB.
+Managing/creating DR & standby servers, DB sync.
+Backup and recovery (RMAN/ Datapump).
+Performing activities like switchover and failover .
+Allocating system storage and planning future storage requirements for the database system
+Enrolling users and maintaining system security.
+Monitoring Alert log, Snap ID generation, db size, Server space, OEM reports, User validity.
+Controlling and monitoring user access to the database .
+Scheduling shell scripts or dbms_jobs using Crontab or DBMS_SCHEDULER (monitoring script, listener check, backup script, AWR reports) etc.
+Planning for backup and recovery of database.
+Managing the production database for Oracle and SQL Server and resize the space of database/Datafiles/Tablespace/Transactional Logs.
+Managing Temp and Undo tablespaces.
+Creating primary database storage structures (tablespaces) after application developers have designed an application.",Applicant 21
+Database,"TECHNICAL SKILLS â¢ SQL â¢ Oracle v10, v11, v12 â¢ R programming, Python, linear regression, machine learning and statistical modelling techniques(obtained certification through Edvancer Eduventures training institute) KEY SKILLS â¢ Multitasking, working to meet client SLA in high pressure scenarios, handling sensitive clients along with improved skills at being a team player. â¢ Excellent communication skills and quick learner. â¢ Leadership qualities, team networking and courage to take up the problems proactively.Education Details 
+June 2012    Sadvidya Pre-University College
+Application Database Administrator-DBMS (Oracle) 
+
+Application Database Administrator-DBMS (Oracle) - IBM India Pvt Ltd
+Skill Details 
+CLIENTS- Exprience - 30 months
+MACHINE LEARNING- Exprience - 30 months
+ORACLE- Exprience - 30 months
+SQL- Exprience - 30 months
+EXCELLENT COMMUNICATION SKILLS- Exprience - 6 monthsCompany Details 
+company - IBM India Pvt Ltd
+description - Client: Blue Cross Blue Shield MA: Massachusetts Health Insurance
+â¢   Used Oracle SQL to store and organize data. This includes capacity planning, installation, configuration, database
+design, migration, security, troubleshooting, backup and data recovery.
+â¢   Worked with client databases installed on Oracle v10, v11, v12 on a Linux platform.
+
+â¢   Proficient communication with clients across locations facilitating data elicitation.
+
+â¢   Handling numerous business requests and solving them diligently within the given time frame and responding quickly and effectively to production issues within SLA.
+
+â¢   Leading a team in co ordination with business to conduct weekly checkouts of the database servers and systems
+
+IBM Certifications
+Statistics 101, Applied Data Science with R, Big Data Foundations, Data Science Foundations
+
+Business Analytics Certification (Pune)
+Worked on Retail and Banking projects, to design a predictive business model using machine learning techniques in
+R programming for an efficient business and marketing strategy.",Applicant 22
+Database,"TECHNICAL EXPERTISE â¢ DB Languages: SQL â¢ Database Tools: SQL Server 2014/ 2017 Postgresql 9.5, 9.6, Oracle 11gR2 â¢ Operating Systems: Redhat Linux, Oracle Linux, Windows Server 2012/ 2016 OTHER TECHNICAL SKILLS ORACLE 11G R2 â¢ Proficient in Oracle Database Software Installation, Creation of Database using GUI/Silent DBCA, Architecture, File management, Space Management, User Management, Creating Roles and assigning Privileges/Roles in 11gR2 and troubleshooting them. â¢ Hands on experience Control files/Redolog/Archive/Undo Management â¢ Configuring Listener.ora/Tnsnames.ora file using Netmgr/netca â¢ Generating AWR reports, ADDM, ASH reports to diagnose the problems â¢ Database Backup, Cloning/Duplicate using hot & cold backups using RMAN. â¢ Knowledge in Flashback Technologies & Expdp/Impdp â¢ Implemented Oracle11gR2 RAC on Oracle Linux Platform and knowledge of services for troubleshooting RAC (CRSCTL, SRVCTL) â¢ Knowledge on installation and configuration of RAC. Add/Remove Nodes on RAC â¢ Configuration of physical standby database (Data guard) â¢ Successfully upgraded from 11.2.0.1 to 11.2.0.4 & PSU patching using O patch. STRENGTHS â¢ Good Communication skills. â¢ Self-confident and can adapt myself to all work environments. â¢ Enjoy responsibilities as lead and team player. â¢ Patient listener & quick learner. â¢ Capable of explaining issues & solving them.Education Details 
+ B.E Computer Engineering Mumbai, Maharashtra Mumbai University
+ Higher Secondary Certificate   Dr. DY Patil Jr College
+Database Administrator 
+
+Database Administrator - DBA in Marketplace Technologies Ltd
+Skill Details 
+DATABASE- Exprience - 61 months
+BACKUPS- Exprience - 48 months
+LINUX- Exprience - 48 months
+MS SQL SERVER- Exprience - 48 months
+SQL- Exprience - 48 monthsCompany Details 
+company - DBA in Marketplace Technologies Ltd
+description - Project Title: EBoss, Datafeed, MFDB, RTRMS, IndiaINX
+company - Standard & Enterprise
+description - Redhat Linux 7.4, Postgresql 9.5, 9.6
+Duration: Feb 2017 - till date
+Description: Bombay Stock Exchange BSE  is Asia's first & the Fastest Stock Exchange in world with the speed of 6 micro seconds and one of India's leading exchange groups provides an efficient and transparent market for trading in equity, currencies, debt instruments, derivatives, mutual funds. BSE SME is India's largest SME platform which has listed over 250 companies and continues to grow at a steady pace.
+
+JOB ROLES & RESPONSIBILITIES
+POSTGRESQL - â¢ Worked on Redhat Linux OS Cluster with Postgresql for High Availability (HA) using Pacemaker.
+â¢ Coordinated with Developers/Linux teams for database knowledge and support.
+â¢ Participated in implementation of new releases into production.
+â¢ Installed /Configured Postgresql from source or packages on Redhat Linux servers.
+â¢ Performed Postgresql Server Management tasks i.e. Backup & Restore, Configuration, Roles, Blockings, Tablespace creation and Troubleshooting.
+â¢ Worked with Storage team for Disaster Recovery DR setup built on SAN using EMC technology â¢ Configured LDAP authentication & GSSAPI Authentication from Windows to Linux for Postgresql.
+â¢ Configured logical replication for Database servers, hot standby Postgresql servers, faster database backup methods, schema and tablespace backups.
+â¢ Configured maximum connections to database on Linux servers.
+â¢ Installed tds_fdw from source for linked servers to connect to heterogeneous databases & other required extensions, backup configuration, PITR using base backups.
+
+MSSQL - â¢ Day-to-day administration of live SQL Servers.
+â¢ Participated in Live Primary Recovery PR & Disaster Recovery DR activities.
+â¢ Participated in PR & DR mocks for new releases into production.
+â¢ Configured Linked Servers, Transactional replication, Maintenance tasks like database backup & restore, recovery, scheduled jobs, maintenance plans.
+â¢ Installed & Configured SQL server 2014, 2017 standalone and SQL Cluster servers.
+â¢ Maintained the security of the database by providing appropriate SQL roles, logins and permissions to the users on demand.
+â¢ Worked with teams on application rollouts, application issues and SQL server migrations.
+â¢ Exposure in handling production system with skills and understand client's requirement.
+â¢ Performed SQL Server service pack upgrades and hot fixes.
+â¢ Handled multiple SQL Instances on Windows SQL Cluster environment built on  EMC SAN.
+â¢ Worked on MSSQL DB clusters with active/active & active passive servers, Always-On Availability Groups (AAG) and HA/DR Setup.
+â¢ Have experience on SAN and RAID levels and building and supporting SQL Cluster servers on SAN Environments.
+company - BSE Bombay Stock Exchange
+description - Environment: Windows server 2008 R2, 2012 R2, 2016 Enterprise & Standard,",Applicant 23
+Database,"Technical Expertise Operating Systems Microsoft Window Server 2003/2008/2008 R2/2012 Database Technologies SQL Server, Sybase ASE Server, Oracle, MongoDB Monitoring and Ticketing Tools HP Service Manager 7.0/9.0, Solar winds DPA, JIRA and MongoDB OPS manager Web Server IIS 7.0 Database Tools SSMS, DBArtisan, Studio 3T, SnapShot Manager for SQL ServerEducation Details 
+ B. Tech Computer Science Gulbarga, Karnataka PDACOE, Gulbarga, Autonomous Institution
+Database Administrator II 
+
+Database Administrator III - BNY Mellon International Operations (India) PVT. LTD
+Skill Details 
+Sql Dba- Exprience - Less than 1 year monthsCompany Details 
+company - BNY Mellon International Operations (India) PVT. LTD
+description - SQL Server :
+ï	Installation, configuration of database servers using slipstream and setup all the maintenance jobs as per the standard policy on standalone as well as cluster environments with latest service packs
+ï	Installation of SSRS, uploading of .rdls and assigning correct data sources to reports. Grant necessary access to users & developers on reporting website. Aware of SSIS and designing packages as well.
+ï	Create and manage logins, users for database applications, assigning permissions as per requests, resolving user login issues.
+ï	Migration of all SQL server 2005/2008 servers to higher versions.
+ï	Setup of database refresh jobs on QA, DEV and UAT environments and fixing orphaned users.
+ï	Troubleshoot performance related issues. 
+ï	Part of multiple projects to work with developers and provide all required support for testing in QA, UAT & DEV environment. 
+ï	Lead the DR tests for database team.
+ï	Participate in database purge and archive activities.
+ï	Writing codes for automating database administration tasks.
+ï	Worked on automating DR tasks to start the agent jobs on multiple servers, restore databases for log shipped databases without manual intervention for online databases post DR activities.
+ï	Provide support to vendor databases, follow up with the vendor calls and timely escalate to next level when there is no update in predefined timeline.
+ï	Installation and configuration of smsql on windows server. Schedule jobs for creation and deletion of clones on sql server. Maintain backups using smsql.
+
+MongoDB Server:
+ï	Installation and configuration of MongoDB server.
+ï	Creation of databases and collection.
+ï	Creation new user and grant access using Ops manager.
+ï	Monitor database servers using Ops manager.
+Oracle & Sybase Server
+ï	Managing and maintaining multiple instances of Databases on Linux and windows servers.
+ï	Monitoring daily jobs includes backups, refresh and maintenance jobs.
+company - Hewlett-Packard India Sales PVT. LTD. On the payroll of Softenger India PVT. LTD
+description - ï	Installation of SQL Server on standalone as well as windows cluster environments with latest service packs
+ï	SQL server installation using slipstream.
+ï	Installation of reporting services
+ï	Creating logins and users, assigning permissions as per requests.
+ï	Security audit for all logins includes maintenance of unused and orphan user logins
+ï	Create & Maintain daily and weekly jobs/maintenance plans includes backup, index rebuild/reorganize , update statistics and database consistency check
+ï	Create linked servers and ensure connectivity between servers
+ï	Monitor disk space proactively & Space management using data and log file shrinking
+ï	Monitor blocking, deadlocks, open transactions and slow running queries during performance issues and highlight costly queries to developers.
+ï	Configure alerts for deadlock and blocking to maintain performance
+ï	Implementing high availability technologies like log shipping, AlwaysON, mirroring and its troubleshooting, also have knowledge on replication
+ï	Successfully completed migration of Databases from one server to another
+ï	Performing DR drills (Online/Offline) on quarterly basis
+ï	Power shell scripting to monitor, restart SQL service and get Email alert for the service status.
+ï	Maintain TNS entries for oracle client as per client requests.
+ï	Interacting with customers for requirements
+ï	Contacting customer to update the status of handling issues and service requests at every stage of resolution
+ï	Managing proper escalation and notification matrix for all support levels",Applicant 24
+Database,"TECHNICAL SKILLS Operating Systems MS Windows Server 2012/2008/XP Software and Tools MS LiteSpeed, Idera SQL Safe, SSMS, Upgrade Advisor, SQL Server Profiler, SCOM, Diagnostic Manager, Remedy, Jira, Infopacc, Tivoli TDP backup tool, SQL Pack DatabasesMS SQL Server 2016/2014/2012/ 2008 R2/ 2008, Oracle 10g, Netezza Microsoft azure Education Details 
+ Masters of Science Computer Science Pune, Maharashtra Indira College, Pune University
+Lead database administrator 
+
+Microsoft Certified Professional with 11 years of experience in database administration on MS SQL Server 2016/2014/2012/2008 R2/ 2008
+Skill Details 
+MS SQL SERVER- Exprience - 110 months
+Microsoft azure- Exprience - Less than 1 year months
+Always on availabiity group- Exprience - Less than 1 year months
+Database mirroring- Exprience - Less than 1 year months
+Performance tuning- Exprience - Less than 1 year months
+Log shipping- Exprience - Less than 1 year months
+Installation , upgrade, migration and patching- Exprience - Less than 1 year monthsCompany Details 
+company - Ensono
+description - Employment transfer as a part of project acquisition to Ensono from Wipro.
+SQL Server Database Administration
+company - Wipro Technologies
+description - Microsoft Certified Professional with 11 years of experience in database administration on MS SQL Server 2016/2014/2012/2008 R2/ 2008.
+Experience with MS SQL Server 2016/2014/2012/2008 R2/ 2008 installation, upgrade, and administration
+Microsoft Azure certified.
+Have understanding of Azure VM, Azure Storage, Azure network, Azure AD and Azure SQL database.Â 
+Incident management, change management and Problem management for SQL Server Database team.
+Participating in meetings, conference calls with client, Service Delivery Manager and Application team for System improvements.
+Participated in quarterly DR activity.
+Involved in creation of SIP - Service Improvement Plans
+Involved in handling of high severity issues and provided RCA for the same.
+Worked on Always on availability groups, database mirroring, replication, clustering and log shipping.
+Have basic understanding of Oracle and Netezza.
+Provided on- call support during out of office hours and weekends.
+Resource & shift management of 5 SQL DBAs from offshore in multi-client environment for Data center services.
+Provided KT to team members, monitor and guide trainees.
+company - Wipro Technologies
+description - Responsibilities: â¢ MS SQL Server 2016/2014/2012/ 2008 R2/ 2008 installation, configuration, and administration.
+â¢ Worked on Always on availability groups, log shipping, database mirroring and clustering.
+â¢ Participated in  PCI scan report to perform installation of security hot fixes, service packs for SQL servers to remove vulnerability.
+â¢ Participated in Holmes BOTS automation implementation of SQL Pack tool.
+â¢ Worked on service requests, incidents and critical issues.
+â¢ Involved in conference calls to provide DBA support for critical issues.
+â¢ Performance tuning.
+Environment: SQL Server 2016/2014/2012/2008R2/2008, Windows Server 2012/2008R2/2008
+company - Mphasis
+description - 
+company - Mphasis
+description - Responsibilities: â¢ MS SQL Server 2012/ 2008 R2/ 2008  installation, configuration, and administration.
+â¢ Worked on Always on availability groups, log shipping, database mirroring and clustering.
+â¢ Performed SQL server patching activity â¢ Worked on daily reports like cluster failover, backup, AG/LS/Mirror report and server disk space report.
+â¢ Worked on service requests, incidents and critical issues.
+â¢ Participated in quarterly DR activity.
+â¢ Involved in conference calls to provide DBA support for critical issues.
+â¢ Provided support to windows team during patching for AG-mirror-cluster failover/failback and database health check.
+â¢ Performed all the health checks for market open servers and provided update in market open call â¢ Deeply involved in   resolution of the issue and finding the root cause analysis of the issue â¢ Performance tuning.
+Environment: SQL Server 2012/2008R2/2008, Windows Server 2008R2/2008
+company - Synechron Technologies Pvt. Ltd
+description - Responsibilities: â¢ SQL server, Oracle and Netezza databases support tasks.
+â¢ MS SQL Server 2008 R2/ 2008 installation, upgrade, and administration.
+â¢ Done capacity planning for database growth for all SQL servers.
+â¢ Troubleshooting alerts.
+â¢ Worked on log shipping and mirroring.
+Environment: SQL Server 2008R2/2008, Windows Server 2008R2/2008, Oracle 10g/RAC
+company - Synechron Technologies Pvt. Ltd
+description - 
+company - Synechron Technologies Pvt. Ltd
+description - Responsibilities: â¢ Pursued in-depth training on Oracle 11g Architecture and SQL Server.
+Environment: SQL Server 2008R2/2008, Windows Server 2008R2/2008, Oracle 10g
+company - Synechron Technologies Pvt. Ltd
+description - Responsibilities: â¢ Carried out version changes for schemas from PE8 version to EE11 version as per the process given
+Environment: Oracle 11g
+company - Mastek Ltd
+description - Responsibilities: â¢ SQL Server 2008 R2/ 2008 installation, upgrade, and administration â¢ database backup/restore.
+â¢ Performed MS SQL Server audits â¢ Worked with database mirroring, replication, log shipping and clustering.
+â¢ Supported UAT and PROD environments â¢ Performed deployment document review.
+â¢ Carried out deployments for different applications
+Environment: SQL Server 2008R2/2008, Windows Server 2008R2/2008
+company - Mastek Ltd
+description - 
+company - PP Software and Systems Ltd
+description - 
+company - PP Software and Systems Ltd
+description - Description: The system provides Master Data Management and Procurement modules for dairy industry.
+Responsibilities: â¢ Designed, coded, and tested â¢ Customized ERP system as per the requirement
+Environment: Core Java, PostgreSQL",Applicant 25
+Database,"SKILLSET Oracle DBA, MySQL, MARIADB, PostgreSQL Database Administration ITSKILLS SQL Oracle 10g, 11g, MYSQL, MariaDB, postgreSQL Windows, Linux Putty Education Details 
+January 2018 MCS  Pune, Maharashtra Pune University
+Database administrator 
+
+Database administrator  - Infiniteworx Omnichannel Pvt. Ltd
+Skill Details 
+DATABASE- Exprience - 17 months
+MYSQL- Exprience - 17 months
+ORACLE- Exprience - 17 months
+SQL- Exprience - 17 months
+DATABASE ADMINISTRATION- Exprience - 6 monthsCompany Details 
+company - Infiniteworx Omnichannel Pvt. Ltd
+description - Pune Sept 2017 to Present
+
+RESPONSIBILITIES:
+â¢ Creating tablespaces and planning the location of data, monitoring the tablespaces growth periodically.
+â¢ All replication setup
+â¢ Moved database Schema changes to stage.
+â¢ Dba support query resolution.
+â¢ Creating user and giving specific privileges
+â¢ Database management.
+â¢ Database recovery, moving data files to different locations.
+â¢ Planning the backup policies and Backup/ Recovery of databases based on the criticality.
+â¢ IMPORT/EXPORT.
+â¢ Degine schemas
+
+Key Result Areas:
+
+â¢ Providing 24 /7 support to resolve database performance issues, Job failures, Sessions & diagnose root causes
+â¢ Installation, configuring and updating Oracle server software and related Oracle products. Installation, configuraing and updating Mysql, Sql server, MariaDB, MongoDB
+â¢ Supported multiple databases and administered Oracle Databases of Large DB Sizes for production, development & test setups.
+
+â¢ Maintaining table spaces & data files, Control files, Online Redo log files
+
+â¢ Creating Users, granting Roles & Privileges to users and managing tablespaces for different users by granting quota on Default & Temporary tablespaces.
+
+â¢ Taking Oracle RMAN Backups (Scheduling for day wise backup)
+
+â¢ Implementing the incremental, cumulative and full RMAN backup for each database to have space management and effective recovery.
+â¢ Logical Backup Using Export & Import/datapump Export of important tables at regular intervals.
+
+â¢ Regular checking of trace, alert log file, all ORA errors
+
+â¢ Working on incidents like User creation/deletion incidents, backup failed incidents.
+â¢ Checking Listener Status, connectivity Troubleshooting and fixing database listener issues.
+â¢ Look for any new alert / error log entries / errors, error details in Trace files generated. Executing DDL & DML scripts as per customer requirements
+
+â¢ Mentoring, coaching and appraising team members with active involvement in the recruitment process
+
+â¢ Contributing in Project Documentation and generating daily reports
+
+â¢ Ensuring compliance to quality norms and taking steps for any non-conformance Spearheading complete project activities ensuring timely completion of project
+â¢ Implementing security policies on different database systems with granting and revoking privileges to the users
+
+â¢ Following change management processes and participated in related meetings
+
+â¢ Verifying all Instances/DB are running, Tablespaces are online, Monitor Backround processes and status.
+company - InnovativeTechnologies
+description - Clients: BANKING DOMAIN",Applicant 26
+Database,"Education Details 
+January 2016 BSc.  Mumbai, Maharashtra Mumbai University
+January 2013 H.S.C.   Maharashtra Board
+January 2011 S.S.C.   Maharashtra Board
+MySQL Database Administrator 
+
+2+ Years of experience in MySQL Database Administrator ( MySQL DBA)
+Skill Details 
+MySQL DBA , Centos , Backup , Restore , Replication , Query Optimazation- Exprience - 24 monthsCompany Details 
+company - Trimax IT Infrastructure & Services Ltd
+description - Â·Â Â Â Â Â Â Â MYSQL Installation, maintenance and Upgrades (Version 5.5 , 5.6)
+Â·Â Â Â Â Â Â Â MySQL database administration on a large scale MySQL installation
+Â·Â Â Â Â Â Â Â Experience with MySQL on both Linux and Windows
+Â·Â Â Â Â Â Â Â MySQL processes, security management and queries optimization.
+Â·Â Â Â Â Â Â Â Performed query analysis for slow and problematic queries.
+Â·Â Â Â Â Â Â Â Performed Structural changes to Database like creating tables, adding columns according to business requirement
+Â·Â Â Â Â Â Â Â Creating and MaintainingÂ Database Maintenance Plans.
+
+
+
+Â·Â Â Â Â Â Â Â Writing scripts to Create Jobs for Backup & Restore Plans.
+Â·Â Â Â Â Â Â Â Working on MYISAM to INNODB engine.
+Â·Â Â Â Â Â Â Â Working on Server shifting , tuning parameter , database purging
+Â·Â Â Â Â Â Â Â Working on Mysql master slave Replication
+Â·Â Â Â Â Â Â Â Handling Release management and user acceptance.
+Â·Â Â Â Â Â Â Â Restore using xtrabackup.
+Â·Â Â Â Â Â Â Â Responsibilities include monitoring daily, weekly and monthly system maintenance tasks such as database backup, replication verification, database integrity verification and indexing updates
+Â·Â Â Â Â Â Â Â Work in 24/7 production database support.
+company - Trimax IT Infrastructure & Services Ltd
+description - Â·Â Â Â Â Â Â Â MYSQL Installation, maintenance and Upgrades (Version 5.5 , 5.6)
+Â·Â Â Â Â Â Â Â MySQL database administration on a large scale MySQL installation
+Â·Â Â Â Â Â Â Â Experience with MySQL on both Linux and Windows
+Â·Â Â Â Â Â Â Â MySQL processes, security management and queries optimization.
+Â·Â Â Â Â Â Â Â Performed query analysis for slow and problematic queries.
+Â·Â Â Â Â Â Â Â Performed Structural changes to Database like creating tables, adding columns according to business requirement
+Â·Â Â Â Â Â Â Â Creating and MaintainingÂ Database Maintenance Plans.
+
+
+
+Â·Â Â Â Â Â Â Â Writing scripts to Create Jobs for Backup & Restore Plans.
+Â·Â Â Â Â Â Â Â Working on MYISAM to INNODB engine.
+Â·Â Â Â Â Â Â Â Working on Server shifting , tuning parameter , database purging
+Â·Â Â Â Â Â Â Â Working on Mysql master slave Replication
+Â·Â Â Â Â Â Â Â Handling Release management and user acceptance.
+Â·Â Â Â Â Â Â Â Restore using xtrabackup.
+Â·Â Â Â Â Â Â Â Responsibilities include monitoring daily, weekly and monthly system maintenance tasks such as database backup, replication verification, database integrity verification and indexing updates
+Â·Â Â Â Â Â Â Â Work in 24/7 production database support.",Applicant 27
+Database,"TECHNICAL SKILL: Operating System LINUX, Windows Server 2012 R2, Windows 98, Windows 2000/ XP Tools & Utility Packages SQL* Loader, SQL*PLUS, OEM, Datapump, expdp/impdp, PLSQL Developer, Jenkins Database Oracle 10g, Oracle 11g, Oracle 12c Scripting UNIX Shell Scripting Language SQL Education Details 
+January 2011 M.B.A.  Amravati, Maharashtra Amravati University
+January 2007 B.C.A.  Nagpur, Maharashtra Nagpur University
+Oracle Database Administrator 
+
+ORACLE DATABASE ADMINISTRATOR ON LINUX/MICROSOFT WITH 4 YEARS EXPERIENCE.
+Skill Details 
+ORACLE- Exprience - 48 months
+LINUX- Exprience - 6 months
+ORACLE DBA- Exprience - Less than 1 year months
+RAC- Exprience - Less than 1 year months
+GOLDEN GATE- Exprience - Less than 1 year months
+ASM- Exprience - Less than 1 year months
+DATAGUARD- Exprience - Less than 1 year monthsCompany Details 
+company - TIETO INDIA PVT. LTD
+description - Pune From February 2015 till present
+
+Project Profile:
+Oil and Gas unit of Tieto India Pvt. Ltd. is working for Environmental Components (EC) application. Tieto is the authorized service provider in EC. Energy Components is a complete end-to-end hydrocarbon accounting solution following the hydrocarbons from production to transport, sales and revenue recognition. Globally market-leading hydrocarbon accounting software with functionality coverage exceeding other available solutions. Modern, flexible and scalable technology platform. Selected as the global standard and best practice by oil & gas super majors.
+Responsibilities: â¢ Oracle Database Administration 11g R2, 12c and 18c â¢ Supporting databases in 24x7 environments and coordinate with Application, OS, Storage and Development Teams. Test and Production environments â¢ Regularly monitoring the trace files and Alert log files for database related issues.
+â¢ Experience in monitoring the CPU usage, IO and memory utilization at OS level.
+â¢ Checking the Alert log file to analyze the ORA errors if any to raise SR with Oracle.
+â¢ Monitoring the log files, backups, database space usage and the use of system resources.
+â¢ Configuring Backup (RMAN) for database and restoring database.
+â¢ Installation, configuring and updating Oracle server software and related Oracle products of 11g and 12C.
+â¢ Oracle Server installation, client installation and configuration, PLSQL developer installation.
+â¢ Creating database using DBCA and manually.
+â¢ Creating of Oracle user and granting proper privileges to user as per request.
+â¢ Creating AWR, ASH and ADDM reports for database performance analysis.
+â¢ Handling space management and performance issues in Oracle databases.
+â¢ Creating remote database link.
+â¢ Renaming and resizing of data files in Oracle database if needed.
+â¢ Tablespace shrinking with regular time interval to reclaim server space.
+â¢ Expertise in Export and Import using data pump in Oracle database.
+â¢ Expertise in Configuration of Listener and Tnsnames through NETMGR and NETCA and statically also.
+â¢ Managing Oracle Listener and Oracle Network Files.
+â¢ Creating user Profiles, granting specific privileges and roles to the users in Oracle database.
+â¢ Maintaining tablespaces & data files, Control files, Online Redo log files in Oracle database.
+â¢ Worked on AWS cloud services like EC2, S3, RDS, ELB, EBS, VPC, Route53, Auto, Cloud watch, Cloud Front, IAM for installing configuring and troubleshooting on various Amazon images for server migration from physical into cloud.",Applicant 28
+Database,"Technical Skills Databases: Oracle RDBMS- 10g, 11g & 12c Technology/utilities: Data Pump, RMAN, Data guard, ASM, RAC, Golden Gate Tools: OCC, PUTTY, SQLPLUS, SQL Developer, Netbackup, SCOM, SCCM, VMWare Vsphere Operating Systems: RHEL 6.0, RHEL 6.5, UNIX and Microsoft WindowsEducation Details 
+
+Database Administrator 
+
+Database Administrator - BNY Mellon
+Skill Details 
+DATABASES- Exprience - 24 months
+ORACLE- Exprience - 24 months
+RMAN- Exprience - 24 months
+NETBACKUP- Exprience - 24 months
+SCOM- Exprience - 24 monthsCompany Details 
+company - BNY Mellon
+description - Databases: 600+
+Team Size: 8
+Duration: Jan 2017 - Till Date
+Clients: Over 130+ investment banking organizations who are hosted with Eagle
+
+Responsibilities: Database Management (Support and managing critical production, Pre-production, test and reporting databases in different platforms), Capacity Management Upgrades.
+â¢ Handling day to day database activities monitoring and incident management.
+â¢ Building new databases as per the requirement and prepare them for go live with the help of multiple teams.
+â¢ Working on scheduled activity of database patching (CPU, PSU) â¢ Installing latest path on production, Dev and Test databases as per the suggestion from Oracle support.
+â¢ Database Upgrade from 11g and to 12c.
+â¢ Adding disks to ASM disk groups.
+â¢ Building DR database using Active Data guard, Make it sync with prod and resolving issues if persists â¢ Data Guard Management- Checking lagging status, removing lagging of archives, checking processes like RFS/MRP, Archives Management â¢ Working on tablespace related issues â¢ Managing user access and profiles â¢ Importing and exporting using datapump â¢ Maintaining inventory of all databases in the single centralize database â¢ Refreshing test environment from production database.
+â¢ Working with Oracle Support to resolve oracle errors.
+â¢ Schedule daily and weekly databases backup using RMAN, Troubleshooting in RMAN issues.
+â¢ Database cloning using RMAN.
+â¢ Take part in cutover to upgrade application to higher version.
+â¢ Strictly following ITIL process in incident management and change management.
+â¢ Providing weekly report of issues in team meeting also participating and suggesting service improvement plans.
+â¢ Database Migrations from one server to another or to different platforms â¢ RCA and impact analysis reporting during any production outage.
+
+Previous Organization: Brose India
+Project I: Central IT Management
+company - 
+description - Responsibilities: Managing our internal databases and servers of Brose global.
+â¢ Providing 24x7 on-call support in the rotational shifts.
+â¢ Performing day-to-day database activity â¢ Monitoring and responding DBA group Mails for all alerts, issues and ad-hoc business user requests, etc.
+â¢ Database creation, patching â¢ Backup of Database in frequent cycles using Data pump/RMAN.
+â¢ Database refreshes using RMAN, Datapump.
+â¢ Recovery using copy of data / RMAN â¢ Monitoring logs and trace for resolving issues.
+â¢ Creating new VM servers and prepare it for go live, Also decommissioning as per requirements.
+â¢ Weekly patching of windows servers using SCCM and taking actions for patching if needed â¢ Monitoring and troubleshooting of daily and weekly OS backup using Symantec Netbackup â¢ Managing user accounts of OS users and database users â¢ Monitoring OS level alerts using SCOM
+
+Project II: Data Center Migration (Onsite Project)
+Responsibilities: Data center migration was one of activity for migration of our datacenter from one location to another. Where our all servers and databases were moved successfully.
+â¢ Installation of Oracle 11g on Linux platforms â¢ Worked on service requests (Incidents / Change / Request) â¢ Creation of users, managing user privileges â¢ Configured RMAN backup for databases â¢ Patching of databases â¢ Configuring physical standby database using Dataguard â¢ Cloning of servers and migrate to another cluster
+
+ACADEMIA / PERSONAL DETAILS â¢ Bachelor of Engineering (B.E.) in Computer Science and Engineering From SGBAU Amravati University, Amravati in 2014 with CGPA of 7.21
+
+Current Address:-       Mr. Yogesh Tikhat, C/O: Raj Ahmad, Flat# G2-702, Dreams Aakruti, Kalepadal, Hadapsar, Pune - 411028
+Highest Qualification   BE (cse)
+
+PAN: -                  AOFPT5052C",Applicant 29
+Database,"Software Skills: * RDBMS: MS SQL SERVER 2000/2005/2008 & 2012, 2014 * Operating Systems: WINDOWS XP/7, WINDOWS SERVER 2008, 12 * Fundamentals: MS Office 03/07 * Tools: SSMS, Performance Monitor, Sql profiler, SQL lite speed. Company name: Barclays Technology Centre India. Team Size: 24 Role: Database Administrator Support Description: Barclays Technology is a UK based retail & invest bank and 300 years of old bank.. It has operations in over 40 countries and employs approximately 120, 000 people. Barclays is organised into four core businesses: Personal & Corporate (Personal Banking, Corporate Banking, Wealth & Investment Management), Barclaycard, Investment Banking. Responsibilities: â Attending various calls from all over the world on various database issues. â Working on Web Gui alerts and resolving incident tickets within the time lines. â Troubleshoooting log shipping issues and fixing the related alerts. â Identifying and Resolving Blocking and locking related issues. â Configuration and monitoring Replication, Log shipping and mirroring setup. â Working on replication issues and Always ON issue. â Granting and revoking permissions on various account provisioning tasks. â Working on call support during the weekend and performing DR test's. and working on weekly maintenance jobs and weekend change requests. Education Details 
+ B.Sc. Maths  Kakatiya University Board secured
+SQL server database administrator 
+
+Database administrator
+Skill Details 
+DATABASE- Exprience - 120 months
+DATABASE ADMINISTRATOR- Exprience - 72 months
+MAINTENANCE- Exprience - 48 months
+MS SQL SERVER- Exprience - 48 months
+REPLICATION- Exprience - 48 monthsCompany Details 
+company - Barclays global services centre
+description - SQL server databases implementation and maintenances
+
+Log shipping, replication, High availability, clustering, performance tuning, database mirroring, Installation, configuration, upgradation, migration
+company - Wipro Infotech Pvt Ltd
+description - SQL server database administrator
+company - CITI Bank
+description - Worked as Database Support at Accord Fintech, Sanpada from Sep 2008 to 2013 Feb.
+company - 
+description - 2012.
+â¢     Sound knowledge in Database Backup, Restore, Attach, and Detach and Disaster Recovery procedures.
+â¢     Developed backup and recovery strategies for production environment.
+â¢     Ensuring data consistency in the database through DBCC and DMV commands.
+â¢     Experience in query tuning and stored procedures and troubleshooting performance issues.
+â¢     Having hands on experience in DR process including log shipping and database mirroring.
+â¢     Experience in scheduling   monitoring of Jobs.
+â¢     Experience in configure and troubleshooting in Always ON.
+â¢     Creating and Maintaining of Maintenance Plan.
+â¢     Expertise in planning and implementing MS SQL Server Security and Database permissions.
+â¢     Clear understanding of Implementation of Log Shipping, Replication and mirroring of databases between the servers.
+â¢     Performance Tuning (Performance Monitor, SQL Profiler Query Analyzer) â¢     Security for server & Databases Implementing security by creating roles/users,
+Added users in roles, assigning rights to roles.
+â¢     Create and maintaining the linked servers between sql Instances.
+â¢     Create and maintaining and Database mail.
+â¢     Monitor and troubleshoot database issues.
+â¢     Creating DTS packages for executing the required tasks.
+â¢     Experts in create indexes, Maintaining indexes and rebuilds and reorganizes.
+â¢     Daily Maintenance of SQL Servers included reviewing
+SQL error logs, Event Viewer.",Applicant 30
+Database,"Areas of Expertise â¢ Oracle Databases 12c, 11g, 10g â¢ Weblogic 12c, 11g â¢ Grid Infrastructure â¢ RMAN â¢ ASM â¢ Middleware: OIM, OAM, SOA â¢ Shell Scripts â¢ DataGuard â¢ Web servers - OHS, Apache â¢ Architecture Designs â¢ Proof of Concepts â¢ DevOpsEducation Details 
+January 2007 Bachelor of Engineering Information Technology Sangli, Maharashtra Walchand College
+January 2004 Diploma Computer Engineering Jalgaon, Maharashtra Govt. Polytechnic
+Lead Database Administrator 
+
+Lead Database Administrator - Tieto Software
+Skill Details 
+DATABASES- Exprience - 108 months
+MIDDLEWARE- Exprience - 96 months
+RMAN- Exprience - 84 months
+SHELL SCRIPTS- Exprience - 48 monthsCompany Details 
+company - Tieto Software
+description - As a part of AO (Application Operations) team, scope in project is quite wide than typical database administration. Range of accomplishments are extended right from Data Tier to Middle Tier & Application Tier:
+- Maximized availability of applications from 99.3% to 99.8%
+- Raised business by presenting Proof of Concepts for 10+ cases
+- Delivered upgrades of various applications time to time to keep it on supported platform
+- Saved SLAs as per contract by means of handling P1, P2 issues effectively
+- Produced Capacity reports comprising all layers (Data, Middleware, Web) of various applications
+- Generated Work Orders as per customer need
+company - Tieto Software
+description - - Designed databases of various applications
+- Planned RMAN backup and recovery, BCP strategies
+- Executed Business Continuity Testing for various applications
+- Introduced Zero Cost high availability solutions - Active-Passive Failover
+- Optimized performance by means of scripting automation
+- Established cloning procedures for all layers of various applications
+- Delivered Infrastructure changes, like FW Openings & LoadBalancer configuration for new applications
+- Eliminated downtime by troubleshoot issues for Middleware products - OIM, OAM, SOA
+- Contributed to build & maintain Integration Layer- SMTP, ftp, Reverse Proxy, OCM
+company - Tieto Software
+description - - Provided database support to environments - PROD, UAT, TEST, DEV
+- Performed Database Refresh/Cloning from production to development and support databases
+- Reduced risk level by means of upgrading & patching databases time to time
+- Protected databases by assigning appropriate roles and privileges as per SOD
+- Generated & maintained Middleware schemas using RCU
+- Exceeded scope of work by supporting & maintaining WebLogic platform - installation, patching, troubleshooting issues
+- Expanded duty scope to web servers: Install & maintain- OHS, apache, tomcat
+company - HSBC Software
+description - Being part of project supporting HSBC Bank France, I achieved:
+- Handled incidents & service requests as Day to day database administration tasks
+- Delivered basic implementation services - Database installation, patching, upgrades
+- Performed capacity planning - managing tablespaces, compressions
+- Contributed in maintaining quality of databases - managing instances, indexes, re-organization, performance monitoring & tuning using AWR, ADDM reports
+- Maintained backups & recovery of database - logical backups (exp/imp), datapump (expdp/impdp), cold backups, hot backups, RMAN backup/restore, RMAN Duplication
+- Reduced efforts by automation - Value add initiatives which includes writing shell scripts for automated housekeeping operations, scheduling backups, use crontab/at to schedule tasks
+- Implemented high availability solutions - Dataguard",Applicant 31
+Database,"Education Details 
+May 2011 to May 2014 Bachelor of science Information technology Mumbai, Maharashtra Mumbai university
+Oracle DBA 
+
+Oracle database administrator
+Skill Details 
+Installation of Oracle on RH Linux & Windows. Creating/Managing user profiles and analyzing their privileges and tablespace quotas Backup of database Logical and Physical procedures. Recovery of database in case of database crash, disk/media failure, etc. Standard DBA functions like space management, Rollback segments, Extents. Database Management and Monitoring the database. Willing to learn new things. Being a constructive team member, contributing practically to the success of the team.- Exprience - 48 monthsCompany Details 
+company - Accelya kale solutions ltd
+description - Database Administrator working in 24*7 support environment maintaining Databases running on Oracle 11g, 12c.
+Database Up-gradation from Oracle 11g to Oracle 12c.
+Installation of Database critical patches.
+Taking cold and hot backups on scheduled times and monitoring backups.
+Importing the export dump to another database as per demands.
+Automating most of the daily activities through cronjobs, shell scripts or schedulers.
+Making Plan of Actions for Various Activities.
+Raising SR with Oracle Support for different severity issues.
+Handling the Userâs request and proper client interaction.
+Monitoring & managing database growth, tablespaces, adding ,resizing and renaming the datafiles.
+Restoration of database using RMAN backups for backup consistency checks.
+Migration of Database using export / import and RMAN backups.
+Configuring & managing Physical Standby database.
+Creating database links, Tablespaces, database directories.
+Managing network settings through listener.ora and tnsnames.ora files.
+Restoration of data using old logical backup as per client request.
+Schema replication across databases through data pump tool.
+Taking cold and hot backups on scheduled times and monitoring backups
+Taking EXPDP of database, database objects and a particular schema
+Using SCP ticketing tool in order keeping track of client requests.Â 
+Performing Maintenance Activities such as Index Rebuilding and stats gather.
+Troubleshooting the Basic LevelÂ performance issuesÂ 
+Setting up a new environmentÂ from database perspective within the requested timelines
+Adding/Deleting disks in ASM and monitoring the ASM diskgroups.
+Creating users & privileges with appropriate roles and levels of security.Â 
+Database Administrator working in 24*7 support environment maintaining Databases running on Oracle 11g, 12c.
+Performing database online and offline database re-organization for database enhancement.Â 
+Migrating database from Non-ASM to ASM file system.
+Grid up-gradation from 11g to 12C.
+company - Insolutions Global Ltd
+description - Oracle software installation(graphical/silent),Database upgrade,Patch upgrade.
+Maintaining around 80+ UAT DB servers, 40 production DB and 28 standby/DR DB.
+Managing/creating DR & standby servers, DB sync.
+Backup and recovery (RMAN/ Datapump).
+Performing activities like switchover and failover .
+Allocating system storage and planning future storage requirements for the database system
+Enrolling users and maintaining system security.
+Monitoring Alert log, Snap ID generation, db size, Server space, OEM reports, User validity.
+Controlling and monitoring user access to the database .
+Scheduling shell scripts or dbms_jobs using Crontab or DBMS_SCHEDULER (monitoring script, listener check, backup script, AWR reports) etc.
+Planning for backup and recovery of database.
+Managing the production database for Oracle and SQL Server and resize the space of database/Datafiles/Tablespace/Transactional Logs.
+Managing Temp and Undo tablespaces.
+Creating primary database storage structures (tablespaces) after application developers have designed an application.",Applicant 32
+Database,"TECHNICAL SKILLS â¢ SQL â¢ Oracle v10, v11, v12 â¢ R programming, Python, linear regression, machine learning and statistical modelling techniques(obtained certification through Edvancer Eduventures training institute) KEY SKILLS â¢ Multitasking, working to meet client SLA in high pressure scenarios, handling sensitive clients along with improved skills at being a team player. â¢ Excellent communication skills and quick learner. â¢ Leadership qualities, team networking and courage to take up the problems proactively.Education Details 
+June 2012    Sadvidya Pre-University College
+Application Database Administrator-DBMS (Oracle) 
+
+Application Database Administrator-DBMS (Oracle) - IBM India Pvt Ltd
+Skill Details 
+CLIENTS- Exprience - 30 months
+MACHINE LEARNING- Exprience - 30 months
+ORACLE- Exprience - 30 months
+SQL- Exprience - 30 months
+EXCELLENT COMMUNICATION SKILLS- Exprience - 6 monthsCompany Details 
+company - IBM India Pvt Ltd
+description - Client: Blue Cross Blue Shield MA: Massachusetts Health Insurance
+â¢   Used Oracle SQL to store and organize data. This includes capacity planning, installation, configuration, database
+design, migration, security, troubleshooting, backup and data recovery.
+â¢   Worked with client databases installed on Oracle v10, v11, v12 on a Linux platform.
+
+â¢   Proficient communication with clients across locations facilitating data elicitation.
+
+â¢   Handling numerous business requests and solving them diligently within the given time frame and responding quickly and effectively to production issues within SLA.
+
+â¢   Leading a team in co ordination with business to conduct weekly checkouts of the database servers and systems
+
+IBM Certifications
+Statistics 101, Applied Data Science with R, Big Data Foundations, Data Science Foundations
+
+Business Analytics Certification (Pune)
+Worked on Retail and Banking projects, to design a predictive business model using machine learning techniques in
+R programming for an efficient business and marketing strategy.",Applicant 33

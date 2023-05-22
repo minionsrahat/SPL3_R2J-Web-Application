@@ -28,7 +28,9 @@ if not os.path.exists(outdir):
     os.mkdir(outdir)
 
 nlp = spacy.load("en_core_web_sm")
-
+skills_patterns_path =os.path.join(outdir, 'Resources/data/skills.jsonl') 
+majors_patterns_path = os.path.join(outdir, 'Resources/data/majors.jsonl') 
+degrees_patterns_path = os.path.join(outdir, 'Resources/data/degrees.jsonl') 
 
 def extract_text_from_pdf(pdf_path):
     '''
@@ -160,7 +162,6 @@ def extract_experience(resume_text):
 
 
 def extract_majors(job):
-        majors_patterns_path = os.path.join(outdir, 'Resources/data/majors.jsonl') 
         nlp = English()
         # Add the pattern to the matcher
         patterns_path = majors_patterns_path
@@ -179,7 +180,6 @@ def extract_majors(job):
         return acceptable_majors
 
 def extract_degrees(job):
-        degrees_patterns_path = os.path.join(outdir, 'Resources/data/degrees.jsonl') 
         nlp = English()
         # Add the pattern to the matcher
         patterns_path = degrees_patterns_path
@@ -196,7 +196,6 @@ def extract_degrees(job):
         return degree_levels
 
 def extract_skills(job):
-        skills_patterns_path =os.path.join(outdir, 'Resources/data/skills.jsonl') 
         nlp = English()
         patterns_path = skills_patterns_path
         ruler = nlp.add_pipe("entity_ruler")

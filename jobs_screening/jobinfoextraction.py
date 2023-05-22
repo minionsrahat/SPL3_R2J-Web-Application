@@ -10,9 +10,11 @@ outdir = './Dataset/'
 if not os.path.exists(outdir):
     os.mkdir(outdir)
 dataset = os.path.join(outdir, dataset) 
+majors_patterns_path = os.path.join(outdir, 'Resources/data/majors.jsonl') 
+degrees_patterns_path = os.path.join(outdir, 'Resources/data/degrees.jsonl') 
+skills_patterns_path =os.path.join(outdir, 'Resources/data/skills.jsonl') 
 
 def match_majors_by_spacy(job):
-        majors_patterns_path = os.path.join(outdir, 'Resources/data/majors.jsonl') 
         nlp = English()
         # Add the pattern to the matcher
         patterns_path = majors_patterns_path
@@ -31,7 +33,6 @@ def match_majors_by_spacy(job):
         return acceptable_majors
 
 def match_degrees_by_spacy(job):
-        degrees_patterns_path = os.path.join(outdir, 'Resources/data/degrees.jsonl') 
         nlp = English()
         # Add the pattern to the matcher
         patterns_path = degrees_patterns_path
@@ -48,7 +49,6 @@ def match_degrees_by_spacy(job):
         return degree_levels
 
 def match_skills_by_spacy(job):
-        skills_patterns_path =os.path.join(outdir, 'Resources/data/skills.jsonl') 
         nlp = English()
         patterns_path = skills_patterns_path
         ruler = nlp.add_pipe("entity_ruler")

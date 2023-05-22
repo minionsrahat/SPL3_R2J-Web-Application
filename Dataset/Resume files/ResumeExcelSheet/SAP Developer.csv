@@ -1,0 +1,1437 @@
+Category,Resume,candidate_num
+SAP Developer,"Skills: â¢ ETL â¢ Data Warehousing â¢ SQL/PL SQL â¢ Basic Core Java â¢ Basic Python Tools: â¢ SAP BODS â¢ SAP BO â¢ Oracle 11g â¢ Sybase Education Details 
+August 2008 to July 2012 Bachelor of Engineering Navi Mumbai Panvel, Maharashtra Mumbai University
+June 2006 to May 2007 B.E Computer Engineering Navi Mumbai, Maharashtra Ryan International School
+SAP BO/BODS Developer/Administrator, Tata Consultancy Services Limited 
+
+SAP BP/BODS Developer/Administrator, Tata Consultancy - SAP BODS
+Skill Details 
+DATA WAREHOUSING- Exprience - 6 months
+SAP BO ADMIN- Exprience - Less than 1 year months
+SAP BODS- Exprience - Less than 1 year months
+ETL- Exprience - Less than 1 year months
+BASIC CORE JAVA- Exprience - Less than 1 year months
+SAP BO- Exprience - Less than 1 year months
+SAP BODS ADMIN- Exprience - Less than 1 year months
+BASIC PYTHON- Exprience - Less than 1 year monthsCompany Details 
+company - SAP BODS
+description - â¢ 
+Client: Royal Bank of Canada
+
+â¢ Developed BODS jobs and created/modified packages during migration from Sybase to Oracle Database.
+â¢ Taking up regular performance enhancement activities by co-coordinating with other teams like database team, Server Team, Data Center team to identify bottlenecks in the running of jobs.
+â¢ Developed BODS jobs to fetch data from SAP R3 using various data transfer modes.
+â¢ Implemented Central repositories to move jobs seamlessly in multi-developer environment
+company - Tata Consultancy Services Limited
+description - â¢ Installed and configured all the five environments of BO 4.0 and BODS 4.0/4.2 (DEV/QA/PROD/Standby/DR) with Apache and Tomcat as web and app servers on windows
+â¢ Loading dataÂ received from various source systems like TCS BaNCS, SAP R3, LOS, Credence and flat files using SCD1 and SCD2 to Data Warehouse to generate consolidated reports.
+â¢ Developed BODS jobs to fetch data from SAP R3 using various data transfer modes.Â 
+â¢ Implemented Central repositories to move jobs seamlessly in multi-developer environment.
+â¢ Configuration and creation of BODS repositories using Repository Manager and Sever Manager
+â¢ Used Formats and Transforms including Flat File formats, Query, Table Comparison, History Preserving, Validation Transform, Key Generation and Map Operation
+â¢ Â Deployed BODS in Active-Active mode using server groups to improve performance and availability of the system
+â¢ Using BO Java SDK to build custom java programs to automate various administration tasks and fetching metadata about BO system.
+â¢ Implemented BO Mobile and used wdeploy to separate static and dynamic contents into web server and web application.
+â¢ Developed audit reports in web Intelligence using audit universe to gather information about the usage of various reports in the BO system.
+â¢ Â Implemented and deployed features like Trusted authentication,VintelaÂ sso to make application easy to use for end users.
+â¢ Daily administrator tasks involved migration of resources from one environment to another, publication creation and monitoring, troubleshooting any issues with the application and monitoring the application through the tools available to ensure that the application is up and available round the clock.
+â¢ Have been involved in testing of backup systems in Standby and DR to make sure that application continue to service business users in case the primary systems are down.
+company - Tata Consultancy Services Limited
+description - Client: Tata Capital Financial Services Limited
+
+â¢ Installed and configured all the five environments of BO 4.0 and BODS 4.0/4.2
+â¢ (DEV/QA/PROD/Standby/DR) with Apache and Tomcat as web and app servers on windows.
+â¢ Loading data received from various source systems like TCS BaNCS, SAP R3, LOS, Credence and flat files using SCD1 and SCD2 to Data Warehouse to generate consolidated reports.
+â¢ Configuration and creation of BODS repositories using Repository Manager and Sever Manager.
+â¢ Used Formats and Transforms including Flat File formats, Query, Table Comparison, History
+â¢ Preserving, Validation Transform, Key Generation and Map Operation.
+â¢ Deployed BODS in Active-Active mode using server groups to improve performance and availability of the system.
+â¢ Using BO Java SDK to build custom java programs to automate various administration tasks and fetching metadata about BO system.
+â¢ Implemented BO Mobile and used wdeploy to separate static and dynamic contents into web server and web application.
+â¢ Developed audit reports in web Intelligence using audit universe to gather information about the usage of various reports in the BO system.
+â¢ Implemented and deployed features like Trusted authentication, Vintela sso to make application easy to use for end users.
+â¢ Daily administrator tasks involved migration of resources from one environment to another,publication creation and monitoring, troubleshooting any issues with the application and monitoring the application through the tools available to ensure that the application is up and available round the clock.
+â¢ Have been involved in testing of backup systems in Standby and DR to make sure that application continue to service business users in case the primary systems are down.",Applicant 1
+SAP Developer,"Competencies: SAP Business Intelligence Version SAP BO 4.2 BO Tools Design Studio, IDT, Webi, UDT, CMC activities Backend DB HANA, BW, Bex Queries, SQLEducation Details 
+
+SAP BO Developer and SAP HANA Developer 
+
+SAP BO Developer - Credit Suisse
+Skill Details 
+Sap Bi- Exprience - 72 months
+CMC- Exprience - 72 months
+HANA- Exprience - 36 months
+BUSINESS INTELLIGENCE- Exprience - 72 months
+SQL- Exprience - 72 months
+SAP BO- Exprience - 72 monthsCompany Details 
+company - Accenture
+description - Company Accenture, Pune
+Environment SAP BO 4.2, IDT, HANA views
+Role SAP BO Developer and HANA developer
+
+Description:
+This Project aims to provide reporting solution for Swiss business users.The universe supports analyzing customer funds purchase order patterns and order lifecycle reporting.
+The purpose of reports is to provide an end-to-end view of the entire sales order transaction, and to track the investment orders in various funds, including the status of orders, order types along with the gross value and net value to be generated from these orders.
+
+Roles & Responsibilities:
+â¢ Analyzed user requirements and sorted the best possible ways of optimizing performance of universe.
+â¢ CV and generated views development in HANA studio
+â¢ Handling day to day activities involved in development of Business Objects as per the client requirements.
+â¢ Worked as a team member with backend counterpart to understand the Business Requirements.
+â¢ Developing and maintaining universes.
+â¢ Raised OSS tickets to SAP for issues and implemented suggestion/workaround in development.
+â¢ Fixed webi issues reported by users.
+â¢ Created BIAR file and promoted to higher environments by change request.
+â¢ Project handover to team and documentation for reference.
+
+Project 2:
+
+Project Name Nestle
+Client Nestle Globe
+Company Tech Mahindra Pvt. Ltd. Bangalore
+Environment SAP BO 4.2, IDT, HANA views
+Role SAP BO Developer and HANA developer
+
+Description:
+This Project aims to provide reporting solution for Global business users. The Globe Integrated Order (IO), Billing Detail and Order Detail universes combines orders, deliveries, shipment and billing documents at the order item level.
+The universe supports analyzing customer order patterns and order lifecycle reporting.
+The purpose of reports on this universe is to provide an end-to-end view of the entire sales order transaction, and to track the sales orders in various ways, including the status of orders, order types along with the gross value and net value to be generated from these orders.
+
+Roles & Responsibilities:
+â¢ Analyzed user requirements and sorted the best possible ways of optimizing performance of universe.
+â¢ CV and generated views development in HANA studio
+â¢ Handling day to day activities involved in development of Business Objects as per the client requirements.
+â¢ Worked as a team member with backend counterpart to understand the Business Requirements.
+â¢ Developing and maintaining universes.
+â¢ Raised OSS tickets to SAP for issues and implemented suggestion/workaround in development.
+â¢ Implemented Union pruning in concept in universe to optimize performance by partition selection in HANA views by passing value to prompt.
+â¢ Fixed webi issues reported by users.
+â¢ Created BIAR file and promoted to higher environments by change request.
+â¢ Project handover to team and documentation for reference.
+
+Project 3:
+
+Project Name Nestle
+Client Nestle TCT
+Company Tech Mahindra Pvt. Ltd. Bangalore
+Environment SAP BO XI 4.2, Design Studio 1.6 SP6 & Bex Queries
+Role SAP BO Developer
+
+Description:
+The Project was developed to show delay in Nestle freight orders by hours on cross tab, bar chart, geo map due to weather conditions.
+
+Basic Source for the data was BW Bex queries and the top of these Queries dashboard was designed.
+
+This main user audience was transport control tower members to analyze and take decision to send consignments via other modes of transport due to weather conditions to avoid delay and reduce expenditure.
+
+Roles & Responsibilities:
+â¢ Involved with users to understand the Business Requirements and implement feature in a generic way.
+â¢ Suggested best visualization components in dashboard to use.
+â¢ Analyzing user requirements and finding the best possible ways of representing the data.
+â¢ Bug Fixes and feature enhancement in application.
+
+Project 4:
+
+Project Name Nestle
+Client Nestle BA
+Company Tech Mahindra Pvt. Ltd. Bangalore
+Environment SAP BO 4.2, Design Studio 1.6 & Bex Queries
+Role SAP BO Developer
+
+Description:
+The Project ""Nestle BA Catalogue Reporting"" for Nestle is basically to provide Dashboard in Design studio with the information of all the reports used within Nestle.
+And this dashboard is been used by all the users of Nestle within different region of globe.
+Basic Source for the data was BW Bex Queries and the top of these Queries Dashboard was designed.
+This main purpose of the project was to help users to understand about usage of different reports on portal and to help them to take decision for decommissioning of a report.
+
+Roles & Responsibilities:
+â¢ Involved with customer to understand the Business Requirements in order to present the data in a meaningful manner and suggested component selection to visualize data in most effectively.
+â¢ Analyzing user requirements and finding the best possible ways of representing the data.
+â¢ Changes in BW query according to requirement
+â¢ Interacting with client team for requirement gathering and analysis.
+â¢ Implemented ideas in bex and design studio app to optimize performance with help of successful POC.
+
+Project 5:
+
+Project Name Warner Bros
+Client Marvin Pictures, US
+Company CapGemini Pvt. Ltd. Bangalore
+Tools Teradata DB, SAP BO 4.1 Webi, IDT, CMC, Query builder, HPSM ticketing tool
+Role SAP BO Developer
+
+Description:
+The purpose of the project is tracking of DVD and comic sale worldwide. The Application will be used by End Users to analyze their sales Information and to help them in taking decision for their Business Growth.
+
+Sales reports in webi were based on universe. Teradata tables were source to universe.
+
+Worked as shared resource for CMC activities and webi/universe issues tickets.
+
+Roles & Responsibilities:
+â¢ Working as a team member to understand the Business Requirements.
+â¢ Performed CMC activities like user & user group creation, providing access to objects and folders. Created folders for reports, connection, universes and provided user security, connection pointing to universe.
+â¢ Worked on issue related to connection, universe objects and webi reports enhancements.
+â¢ Raised OSS messages to SAP to seek solution related to BO tool and limitations.
+â¢ Worked on webi report, universe defects and enhancements.
+â¢ Meeting with users to understand issue, suggest best solution and ETA.
+â¢ Worked on query builder to find BO objects metadata for investigation.
+â¢ Created of BIAR format using promotion management.
+
+Project 6:
+
+Project Name Nordea
+Client Nordea Bank, Sweden
+Company CapGemini Pvt. Ltd. Bangalore
+Environment SAP BO 4.1, IDT, Webi, Teradata
+Role SAP BO Developer
+
+Description:
+The Project report Analytics for Nordea aims to provide clear analysis of personal, company accounts in bank around the world. In all regions reports have data related to users and their account type.
+
+Webi reports based on universe based on Teradata DB financial tables.
+
+This project mainly tracks firm's Sales with respect to different criteria's like customer wise sales for different categories. It helps various end Users to analyze their sales related information and to help in their business growth and make precise decisions.
+
+Roles & Responsibilities:
+â¢ Involved in activities to understand the Business Requirements.
+â¢ Analyzing user requirements and finding the best possible ways of representing the data.
+â¢ Designing and developing interactive webi reports as per client's dynamic requirements.
+â¢ Developed webi reports having blocks, graphs and linked report with summary report.
+â¢ After development performing unit test activities and presentation to users.
+â¢ Implementation of Business Object i.e. Webi from one Environment to another using BIAR File.
+â¢ Fixed issues in webi reports related to data and report formatting and made changes in report requested by users in MAT.
+â¢ Prepared RDD for reports and performed unit testing.
+â¢ Provided KT to users and supports teams.
+company - Tech Mahindra
+description - 
+company - Capgemini
+description - ",Applicant 2
+SAP Developer,"Education Details 
+July 2008 to February 2012 BE COMPUTER SCIENCE Nagpur, Maharashtra NAGPUR UNIVERSITY
+SAP HANA Developer 
+
+SAP HANA Developer - Schlumberger
+Skill Details 
+SAP HANA- Exprience - 60 months
+SAP BO- Exprience - 36 monthsCompany Details 
+company - Schlumberger
+description - Schlumberger is the world's leading provider of technology for reservoir characterization, drilling, production, and processing to the oil and gas industry. Working in more than 85 countries.
+Role-SAP HANA Developer
+Team Size: 12
+Duration: Feb 2017 to Till Date
+Responsibilities:
+Working on Suit on HANA and Native HANA Systems.
+Working on end to end implementation for Release 2.3 and 2.4.
+Developing HANA Information Models Calculation Views, Table Functions, Procedures.
+Actively involved in cutover activities, Dry Runs Production Go live and Post Production Go Live and resolving issues.
+Worked on HANA functionalities like Currency Conversions and analyzing the Planviz for performance related issues etc.
+Worked on to bring the Tables in SAP HANA Landing zone using SDA.
+Working on to resolve the performance issues in HANA views by applying filter, joins etc.
+Interacting with the Business and functional team members, based on the discussion Creating Design Documents, Technical Specification and Test Documents.
+Successfully implemented the Release 2.2 and 2.3 for US, Ecuador and Canada.
+Successfully completed the Self-service project for Finance Domain and created Reports in Analysis of office.
+Working on to create the Power BI Reports.
+Working on to resolve production defects and Incidents by using HPALM and Remedy Tools.
+Working on to resolve the issues in an existing HANA Views.
+Working on to promote the Objects in different environment by using Charm/Solmon.
+Working on to enhance the performance of the HANA views by using PLANVIZ.
+Worked on to create the BO Reports for Vendor Master.
+ 2. Aero Space Design/Honeywell
+company - Fujitsu Consulting India
+description - Responsibilities: 
+â¢ HANA Data Model Development and Modification of Existing Models.
+â¢ Providing estimation to create the data model based on business Request.
+â¢ Creating Views- Attribute, Analytical and Calculation Views base on business requirement â¢ Creation of Design document and Technical design document.
+â¢ Brought the data into HANA Landing zone using SLT and SDA.
+â¢ Handled complex performance issues.
+â¢ Worked SAP Landscape transformation for data replication from source DB to HANA DB â¢ Solved SIT tickets on HANA Information Model.
+â¢ Developing HANA Information Models Calculation Views, Table Functions, Procedures.
+â¢ Modifying existing models to include tables, columns etc. necessary to complete the requirement.
+â¢ Configuring business objects to fetch data from HANA.
+â¢ Editing, Modifying exiting reports to fetch data from HANA as per the requirement.
+ 3. Mc Donald
+Company- Fujitsu Consulting India
+Client- MC Donald
+Role-SAP BO Developer
+Team Size: 3
+Duration: July2013to June2014
+Responsibilities: 
+â¢ Providing estimation to create the Universe and Webi Reports based on business request.
+â¢ Worked on creating the Universes on top of SAP HANA and BW Resources.
+â¢ Worked on creating the Complex Reports in webi.
+â¢ Worked on providing the Row level and Folder level security.
+â¢ Worked on Scheduling the Reports.
+
+Tools and Technology Knowledge
+SAP HANA SPS12
+SAP ECC 6.0
+SQL
+Remedy
+SharePoint
+SAP Logon
+WEBI
+Power BI",Applicant 3
+SAP Developer,"Education Details 
+May 2013 Master Computer Application Mumbai, Maharashtra IMCOST College
+April 2010 BSc Computer Science Mumbai, Maharashtra V.K.K. Menon College
+March 2005  SpringerNature Pune, Maharashtra S.V.V.M School
+ABAP Developer 
+
+ABAP Developer - SAP EXPOSURE
+Skill Details 
+Company Details 
+company - SAP EXPOSURE
+description - 1. Organization: SpringerNature.
+Duration: MAR 2017 -Till date â¢ Project: Support for springer Nature
+Project Type: Support
+Role: ABAP Developer
+
+Major Contribution: â¢ Writing new reports and modification for existing reports.
+â¢ Worked on smartforms.
+â¢ Standard debugging for issues â¢ For unit testing created contracts, orders, and invoices and tested individually.
+company - Atos Pvt. Ltd
+description - Duration: MAY 2014 -DEC 2015 â¢ Project: lenM - It's a Ministry of Netherland Project â¢ Project: DSP - DSM Sinochem Pharmaceuticals â¢ Project: AkzoNobel - Akzonobel is a leading global paints and coatings company  and a major producer of specialty chemicals.
+Project Type: Support
+Role: ABAP Developer
+Major Contribution: â¢ Modified SAP Script as per the requirement specified.
+â¢ Modified Invoice Smart Form.
+â¢ Created custom tables, data elements, structures.",Applicant 4
+SAP Developer,"Education Details 
+January 2016 Bachelor Of Engineering LEAN PROJECTS Mumbai, Maharashtra Mumbai University
+January 2013 Diploma Computer Engineering Ratnagiri, Maharashtra Maharashtra State Board of Technical Education
+SAP CONSULTANT 
+
+SAP CONSULTANT - Quick Learner
+Skill Details 
+Company Details 
+company - Quick Learner
+description - Groomed skills with Microsoft Excel.
+Job Responsibilities:
+Working on Centralized SAP Security project which includes User            â¢ VBA programming for automation.
+Level authorizations including Role creation and changes. and
+Compliance policy maintenance for SAP systems.
+â¢ Confidence and Positive Attitude.
+Assisting users in troubleshooting and identifying authorization
+issues using SU53 and trace analysis.
+Willingness to learn & work in team.
+Working on GRC 10.X Access Control application and all its
+component.
+â¢ Strong analytical thinking, documentation and design skills
+Assisting in defining the scope of a project/opportunities,
+estimating efforts and project timelines.
+Hands on experience in SAP Market Place for creating User /                â¢ Adaptable to new environment, with ability to get along with
+OSS Ids/Developer Keys.		people.",Applicant 5
+SAP Developer,"Education Details 
+
+SAP Technical Architect 
+
+SAP Technical Consultant -  (ALE/IDOC/oDATA/Fiori/S4HANA/EWM/APO/Retail)
+Skill Details 
+SAP ABAP- Exprience - 120 months
+SAP ABAP ( ALE / IDOC / EDI )- Exprience - 96 months
+SAP Netweaver Gateway / oData / Fiori- Exprience - 24 months
+SAP Techno Functional- Exprience - 36 months
+SAP ABAP ( IS-Retail / APO / IS-Auto / EWM)- Exprience - 36 months
+SAP Techno-functional- Exprience - 48 months
+SAP SD- Exprience - 36 months
+NetWeaver Gateway (oDATA, Fiori)- Exprience - 24 months
+SAP S/4HANA (new features Extensibility, Embedded Analytics)- Exprience - 12 monthsCompany Details 
+company - 
+description - 13+ years of work experience in SAP which includes roles varies from developer to subject matter expert
+â¢ Strong project experience in implementation, upgrade, application development and maintenance
+â¢ SAP ABAP Certified associate and has certification in ITIL 2011 Foundation and PRINCE2 practitioner
+â¢ SAP project Full-Lifecycle implementations across multiple global projects
+â¢ Direct client exposure of 1.3 years in United States of America and 1.2 years in Malaysia
+â¢ Expertise on SAP ABAP FRICEW components
+â¢ Experience in various SAP modules like MM, FI, CO, SD, PS, PP, CS, PM, QM and HR
+â¢ Experience on S/4HANA, IS-Auto, IS-Retail, SCM 7.0, SOLMAN, SAP GTS, SAP PI 7.3, SAP BI 7.0/ 7.3, Vistex, ProShip, HPQC, IBM ManageNow, CA service desk, Loftware, Data Matrix
+â¢ Experience in SAP Netweaver Gateway (Fiori) and also created number of POCs for potential customers
+â¢ Successfully completed 9 implementation, 7 support, 1 roll-out, and 1 upgrade projects
+â¢ Expertise in understanding different requirements of the client for diverse industries
+â¢ Experience in leading technical team of different sizes
+â¢ Customization experience in various areas of SD, FI & MM modules
+â¢ Experience in Upgrading to ECC6.0
+â¢ Experience in Unicode conversion related issues/tasks.
+â¢ Skilled in document processes, identifying issues, handling multiple tasks, and training end users.
+â¢ Proven ability to interact with business system analysts and end-users in design phase
+â¢ Extensive experience in analyzing complicated business processes, effort estimations and creating technical specifications.
+â¢ Experienced with onsite-offshore support model of work and lead the team
+â¢ Excellent communication skills, team participation, inter-team co-ordination, team leadership abilities and customer oriented attitude
+â¢ Experience in pre-sales activities
+â¢ Thorough understanding of the project management and quality processes",Applicant 6
+SAP Developer,"Skills: â¢ ETL â¢ Data Warehousing â¢ SQL/PL SQL â¢ Basic Core Java â¢ Basic Python Tools: â¢ SAP BODS â¢ SAP BO â¢ Oracle 11g â¢ Sybase Education Details 
+August 2008 to July 2012 Bachelor of Engineering Navi Mumbai Panvel, Maharashtra Mumbai University
+June 2006 to May 2007 B.E Computer Engineering Navi Mumbai, Maharashtra Ryan International School
+SAP BO/BODS Developer/Administrator, Tata Consultancy Services Limited 
+
+SAP BP/BODS Developer/Administrator, Tata Consultancy - SAP BODS
+Skill Details 
+DATA WAREHOUSING- Exprience - 6 months
+SAP BO ADMIN- Exprience - Less than 1 year months
+SAP BODS- Exprience - Less than 1 year months
+ETL- Exprience - Less than 1 year months
+BASIC CORE JAVA- Exprience - Less than 1 year months
+SAP BO- Exprience - Less than 1 year months
+SAP BODS ADMIN- Exprience - Less than 1 year months
+BASIC PYTHON- Exprience - Less than 1 year monthsCompany Details 
+company - SAP BODS
+description - â¢ 
+Client: Royal Bank of Canada
+
+â¢ Developed BODS jobs and created/modified packages during migration from Sybase to Oracle Database.
+â¢ Taking up regular performance enhancement activities by co-coordinating with other teams like database team, Server Team, Data Center team to identify bottlenecks in the running of jobs.
+â¢ Developed BODS jobs to fetch data from SAP R3 using various data transfer modes.
+â¢ Implemented Central repositories to move jobs seamlessly in multi-developer environment
+company - Tata Consultancy Services Limited
+description - â¢ Installed and configured all the five environments of BO 4.0 and BODS 4.0/4.2 (DEV/QA/PROD/Standby/DR) with Apache and Tomcat as web and app servers on windows
+â¢ Loading dataÂ received from various source systems like TCS BaNCS, SAP R3, LOS, Credence and flat files using SCD1 and SCD2 to Data Warehouse to generate consolidated reports.
+â¢ Developed BODS jobs to fetch data from SAP R3 using various data transfer modes.Â 
+â¢ Implemented Central repositories to move jobs seamlessly in multi-developer environment.
+â¢ Configuration and creation of BODS repositories using Repository Manager and Sever Manager
+â¢ Used Formats and Transforms including Flat File formats, Query, Table Comparison, History Preserving, Validation Transform, Key Generation and Map Operation
+â¢ Â Deployed BODS in Active-Active mode using server groups to improve performance and availability of the system
+â¢ Using BO Java SDK to build custom java programs to automate various administration tasks and fetching metadata about BO system.
+â¢ Implemented BO Mobile and used wdeploy to separate static and dynamic contents into web server and web application.
+â¢ Developed audit reports in web Intelligence using audit universe to gather information about the usage of various reports in the BO system.
+â¢ Â Implemented and deployed features like Trusted authentication,VintelaÂ sso to make application easy to use for end users.
+â¢ Daily administrator tasks involved migration of resources from one environment to another, publication creation and monitoring, troubleshooting any issues with the application and monitoring the application through the tools available to ensure that the application is up and available round the clock.
+â¢ Have been involved in testing of backup systems in Standby and DR to make sure that application continue to service business users in case the primary systems are down.
+company - Tata Consultancy Services Limited
+description - Client: Tata Capital Financial Services Limited
+
+â¢ Installed and configured all the five environments of BO 4.0 and BODS 4.0/4.2
+â¢ (DEV/QA/PROD/Standby/DR) with Apache and Tomcat as web and app servers on windows.
+â¢ Loading data received from various source systems like TCS BaNCS, SAP R3, LOS, Credence and flat files using SCD1 and SCD2 to Data Warehouse to generate consolidated reports.
+â¢ Configuration and creation of BODS repositories using Repository Manager and Sever Manager.
+â¢ Used Formats and Transforms including Flat File formats, Query, Table Comparison, History
+â¢ Preserving, Validation Transform, Key Generation and Map Operation.
+â¢ Deployed BODS in Active-Active mode using server groups to improve performance and availability of the system.
+â¢ Using BO Java SDK to build custom java programs to automate various administration tasks and fetching metadata about BO system.
+â¢ Implemented BO Mobile and used wdeploy to separate static and dynamic contents into web server and web application.
+â¢ Developed audit reports in web Intelligence using audit universe to gather information about the usage of various reports in the BO system.
+â¢ Implemented and deployed features like Trusted authentication, Vintela sso to make application easy to use for end users.
+â¢ Daily administrator tasks involved migration of resources from one environment to another,publication creation and monitoring, troubleshooting any issues with the application and monitoring the application through the tools available to ensure that the application is up and available round the clock.
+â¢ Have been involved in testing of backup systems in Standby and DR to make sure that application continue to service business users in case the primary systems are down.",Applicant 7
+SAP Developer,"Competencies: SAP Business Intelligence Version SAP BO 4.2 BO Tools Design Studio, IDT, Webi, UDT, CMC activities Backend DB HANA, BW, Bex Queries, SQLEducation Details 
+
+SAP BO Developer and SAP HANA Developer 
+
+SAP BO Developer - Credit Suisse
+Skill Details 
+Sap Bi- Exprience - 72 months
+CMC- Exprience - 72 months
+HANA- Exprience - 36 months
+BUSINESS INTELLIGENCE- Exprience - 72 months
+SQL- Exprience - 72 months
+SAP BO- Exprience - 72 monthsCompany Details 
+company - Accenture
+description - Company Accenture, Pune
+Environment SAP BO 4.2, IDT, HANA views
+Role SAP BO Developer and HANA developer
+
+Description:
+This Project aims to provide reporting solution for Swiss business users.The universe supports analyzing customer funds purchase order patterns and order lifecycle reporting.
+The purpose of reports is to provide an end-to-end view of the entire sales order transaction, and to track the investment orders in various funds, including the status of orders, order types along with the gross value and net value to be generated from these orders.
+
+Roles & Responsibilities:
+â¢ Analyzed user requirements and sorted the best possible ways of optimizing performance of universe.
+â¢ CV and generated views development in HANA studio
+â¢ Handling day to day activities involved in development of Business Objects as per the client requirements.
+â¢ Worked as a team member with backend counterpart to understand the Business Requirements.
+â¢ Developing and maintaining universes.
+â¢ Raised OSS tickets to SAP for issues and implemented suggestion/workaround in development.
+â¢ Fixed webi issues reported by users.
+â¢ Created BIAR file and promoted to higher environments by change request.
+â¢ Project handover to team and documentation for reference.
+
+Project 2:
+
+Project Name Nestle
+Client Nestle Globe
+Company Tech Mahindra Pvt. Ltd. Bangalore
+Environment SAP BO 4.2, IDT, HANA views
+Role SAP BO Developer and HANA developer
+
+Description:
+This Project aims to provide reporting solution for Global business users. The Globe Integrated Order (IO), Billing Detail and Order Detail universes combines orders, deliveries, shipment and billing documents at the order item level.
+The universe supports analyzing customer order patterns and order lifecycle reporting.
+The purpose of reports on this universe is to provide an end-to-end view of the entire sales order transaction, and to track the sales orders in various ways, including the status of orders, order types along with the gross value and net value to be generated from these orders.
+
+Roles & Responsibilities:
+â¢ Analyzed user requirements and sorted the best possible ways of optimizing performance of universe.
+â¢ CV and generated views development in HANA studio
+â¢ Handling day to day activities involved in development of Business Objects as per the client requirements.
+â¢ Worked as a team member with backend counterpart to understand the Business Requirements.
+â¢ Developing and maintaining universes.
+â¢ Raised OSS tickets to SAP for issues and implemented suggestion/workaround in development.
+â¢ Implemented Union pruning in concept in universe to optimize performance by partition selection in HANA views by passing value to prompt.
+â¢ Fixed webi issues reported by users.
+â¢ Created BIAR file and promoted to higher environments by change request.
+â¢ Project handover to team and documentation for reference.
+
+Project 3:
+
+Project Name Nestle
+Client Nestle TCT
+Company Tech Mahindra Pvt. Ltd. Bangalore
+Environment SAP BO XI 4.2, Design Studio 1.6 SP6 & Bex Queries
+Role SAP BO Developer
+
+Description:
+The Project was developed to show delay in Nestle freight orders by hours on cross tab, bar chart, geo map due to weather conditions.
+
+Basic Source for the data was BW Bex queries and the top of these Queries dashboard was designed.
+
+This main user audience was transport control tower members to analyze and take decision to send consignments via other modes of transport due to weather conditions to avoid delay and reduce expenditure.
+
+Roles & Responsibilities:
+â¢ Involved with users to understand the Business Requirements and implement feature in a generic way.
+â¢ Suggested best visualization components in dashboard to use.
+â¢ Analyzing user requirements and finding the best possible ways of representing the data.
+â¢ Bug Fixes and feature enhancement in application.
+
+Project 4:
+
+Project Name Nestle
+Client Nestle BA
+Company Tech Mahindra Pvt. Ltd. Bangalore
+Environment SAP BO 4.2, Design Studio 1.6 & Bex Queries
+Role SAP BO Developer
+
+Description:
+The Project ""Nestle BA Catalogue Reporting"" for Nestle is basically to provide Dashboard in Design studio with the information of all the reports used within Nestle.
+And this dashboard is been used by all the users of Nestle within different region of globe.
+Basic Source for the data was BW Bex Queries and the top of these Queries Dashboard was designed.
+This main purpose of the project was to help users to understand about usage of different reports on portal and to help them to take decision for decommissioning of a report.
+
+Roles & Responsibilities:
+â¢ Involved with customer to understand the Business Requirements in order to present the data in a meaningful manner and suggested component selection to visualize data in most effectively.
+â¢ Analyzing user requirements and finding the best possible ways of representing the data.
+â¢ Changes in BW query according to requirement
+â¢ Interacting with client team for requirement gathering and analysis.
+â¢ Implemented ideas in bex and design studio app to optimize performance with help of successful POC.
+
+Project 5:
+
+Project Name Warner Bros
+Client Marvin Pictures, US
+Company CapGemini Pvt. Ltd. Bangalore
+Tools Teradata DB, SAP BO 4.1 Webi, IDT, CMC, Query builder, HPSM ticketing tool
+Role SAP BO Developer
+
+Description:
+The purpose of the project is tracking of DVD and comic sale worldwide. The Application will be used by End Users to analyze their sales Information and to help them in taking decision for their Business Growth.
+
+Sales reports in webi were based on universe. Teradata tables were source to universe.
+
+Worked as shared resource for CMC activities and webi/universe issues tickets.
+
+Roles & Responsibilities:
+â¢ Working as a team member to understand the Business Requirements.
+â¢ Performed CMC activities like user & user group creation, providing access to objects and folders. Created folders for reports, connection, universes and provided user security, connection pointing to universe.
+â¢ Worked on issue related to connection, universe objects and webi reports enhancements.
+â¢ Raised OSS messages to SAP to seek solution related to BO tool and limitations.
+â¢ Worked on webi report, universe defects and enhancements.
+â¢ Meeting with users to understand issue, suggest best solution and ETA.
+â¢ Worked on query builder to find BO objects metadata for investigation.
+â¢ Created of BIAR format using promotion management.
+
+Project 6:
+
+Project Name Nordea
+Client Nordea Bank, Sweden
+Company CapGemini Pvt. Ltd. Bangalore
+Environment SAP BO 4.1, IDT, Webi, Teradata
+Role SAP BO Developer
+
+Description:
+The Project report Analytics for Nordea aims to provide clear analysis of personal, company accounts in bank around the world. In all regions reports have data related to users and their account type.
+
+Webi reports based on universe based on Teradata DB financial tables.
+
+This project mainly tracks firm's Sales with respect to different criteria's like customer wise sales for different categories. It helps various end Users to analyze their sales related information and to help in their business growth and make precise decisions.
+
+Roles & Responsibilities:
+â¢ Involved in activities to understand the Business Requirements.
+â¢ Analyzing user requirements and finding the best possible ways of representing the data.
+â¢ Designing and developing interactive webi reports as per client's dynamic requirements.
+â¢ Developed webi reports having blocks, graphs and linked report with summary report.
+â¢ After development performing unit test activities and presentation to users.
+â¢ Implementation of Business Object i.e. Webi from one Environment to another using BIAR File.
+â¢ Fixed issues in webi reports related to data and report formatting and made changes in report requested by users in MAT.
+â¢ Prepared RDD for reports and performed unit testing.
+â¢ Provided KT to users and supports teams.
+company - Tech Mahindra
+description - 
+company - Capgemini
+description - ",Applicant 8
+SAP Developer,"Education Details 
+July 2008 to February 2012 BE COMPUTER SCIENCE Nagpur, Maharashtra NAGPUR UNIVERSITY
+SAP HANA Developer 
+
+SAP HANA Developer - Schlumberger
+Skill Details 
+SAP HANA- Exprience - 60 months
+SAP BO- Exprience - 36 monthsCompany Details 
+company - Schlumberger
+description - Schlumberger is the world's leading provider of technology for reservoir characterization, drilling, production, and processing to the oil and gas industry. Working in more than 85 countries.
+Role-SAP HANA Developer
+Team Size: 12
+Duration: Feb 2017 to Till Date
+Responsibilities:
+Working on Suit on HANA and Native HANA Systems.
+Working on end to end implementation for Release 2.3 and 2.4.
+Developing HANA Information Models Calculation Views, Table Functions, Procedures.
+Actively involved in cutover activities, Dry Runs Production Go live and Post Production Go Live and resolving issues.
+Worked on HANA functionalities like Currency Conversions and analyzing the Planviz for performance related issues etc.
+Worked on to bring the Tables in SAP HANA Landing zone using SDA.
+Working on to resolve the performance issues in HANA views by applying filter, joins etc.
+Interacting with the Business and functional team members, based on the discussion Creating Design Documents, Technical Specification and Test Documents.
+Successfully implemented the Release 2.2 and 2.3 for US, Ecuador and Canada.
+Successfully completed the Self-service project for Finance Domain and created Reports in Analysis of office.
+Working on to create the Power BI Reports.
+Working on to resolve production defects and Incidents by using HPALM and Remedy Tools.
+Working on to resolve the issues in an existing HANA Views.
+Working on to promote the Objects in different environment by using Charm/Solmon.
+Working on to enhance the performance of the HANA views by using PLANVIZ.
+Worked on to create the BO Reports for Vendor Master.
+ 2. Aero Space Design/Honeywell
+company - Fujitsu Consulting India
+description - Responsibilities: 
+â¢ HANA Data Model Development and Modification of Existing Models.
+â¢ Providing estimation to create the data model based on business Request.
+â¢ Creating Views- Attribute, Analytical and Calculation Views base on business requirement â¢ Creation of Design document and Technical design document.
+â¢ Brought the data into HANA Landing zone using SLT and SDA.
+â¢ Handled complex performance issues.
+â¢ Worked SAP Landscape transformation for data replication from source DB to HANA DB â¢ Solved SIT tickets on HANA Information Model.
+â¢ Developing HANA Information Models Calculation Views, Table Functions, Procedures.
+â¢ Modifying existing models to include tables, columns etc. necessary to complete the requirement.
+â¢ Configuring business objects to fetch data from HANA.
+â¢ Editing, Modifying exiting reports to fetch data from HANA as per the requirement.
+ 3. Mc Donald
+Company- Fujitsu Consulting India
+Client- MC Donald
+Role-SAP BO Developer
+Team Size: 3
+Duration: July2013to June2014
+Responsibilities: 
+â¢ Providing estimation to create the Universe and Webi Reports based on business request.
+â¢ Worked on creating the Universes on top of SAP HANA and BW Resources.
+â¢ Worked on creating the Complex Reports in webi.
+â¢ Worked on providing the Row level and Folder level security.
+â¢ Worked on Scheduling the Reports.
+
+Tools and Technology Knowledge
+SAP HANA SPS12
+SAP ECC 6.0
+SQL
+Remedy
+SharePoint
+SAP Logon
+WEBI
+Power BI",Applicant 9
+SAP Developer,"Education Details 
+May 2013 Master Computer Application Mumbai, Maharashtra IMCOST College
+April 2010 BSc Computer Science Mumbai, Maharashtra V.K.K. Menon College
+March 2005  SpringerNature Pune, Maharashtra S.V.V.M School
+ABAP Developer 
+
+ABAP Developer - SAP EXPOSURE
+Skill Details 
+Company Details 
+company - SAP EXPOSURE
+description - 1. Organization: SpringerNature.
+Duration: MAR 2017 -Till date â¢ Project: Support for springer Nature
+Project Type: Support
+Role: ABAP Developer
+
+Major Contribution: â¢ Writing new reports and modification for existing reports.
+â¢ Worked on smartforms.
+â¢ Standard debugging for issues â¢ For unit testing created contracts, orders, and invoices and tested individually.
+company - Atos Pvt. Ltd
+description - Duration: MAY 2014 -DEC 2015 â¢ Project: lenM - It's a Ministry of Netherland Project â¢ Project: DSP - DSM Sinochem Pharmaceuticals â¢ Project: AkzoNobel - Akzonobel is a leading global paints and coatings company  and a major producer of specialty chemicals.
+Project Type: Support
+Role: ABAP Developer
+Major Contribution: â¢ Modified SAP Script as per the requirement specified.
+â¢ Modified Invoice Smart Form.
+â¢ Created custom tables, data elements, structures.",Applicant 10
+SAP Developer,"Education Details 
+January 2016 Bachelor Of Engineering LEAN PROJECTS Mumbai, Maharashtra Mumbai University
+January 2013 Diploma Computer Engineering Ratnagiri, Maharashtra Maharashtra State Board of Technical Education
+SAP CONSULTANT 
+
+SAP CONSULTANT - Quick Learner
+Skill Details 
+Company Details 
+company - Quick Learner
+description - Groomed skills with Microsoft Excel.
+Job Responsibilities:
+Working on Centralized SAP Security project which includes User            â¢ VBA programming for automation.
+Level authorizations including Role creation and changes. and
+Compliance policy maintenance for SAP systems.
+â¢ Confidence and Positive Attitude.
+Assisting users in troubleshooting and identifying authorization
+issues using SU53 and trace analysis.
+Willingness to learn & work in team.
+Working on GRC 10.X Access Control application and all its
+component.
+â¢ Strong analytical thinking, documentation and design skills
+Assisting in defining the scope of a project/opportunities,
+estimating efforts and project timelines.
+Hands on experience in SAP Market Place for creating User /                â¢ Adaptable to new environment, with ability to get along with
+OSS Ids/Developer Keys.		people.",Applicant 11
+SAP Developer,"Education Details 
+
+SAP Technical Architect 
+
+SAP Technical Consultant -  (ALE/IDOC/oDATA/Fiori/S4HANA/EWM/APO/Retail)
+Skill Details 
+SAP ABAP- Exprience - 120 months
+SAP ABAP ( ALE / IDOC / EDI )- Exprience - 96 months
+SAP Netweaver Gateway / oData / Fiori- Exprience - 24 months
+SAP Techno Functional- Exprience - 36 months
+SAP ABAP ( IS-Retail / APO / IS-Auto / EWM)- Exprience - 36 months
+SAP Techno-functional- Exprience - 48 months
+SAP SD- Exprience - 36 months
+NetWeaver Gateway (oDATA, Fiori)- Exprience - 24 months
+SAP S/4HANA (new features Extensibility, Embedded Analytics)- Exprience - 12 monthsCompany Details 
+company - 
+description - 13+ years of work experience in SAP which includes roles varies from developer to subject matter expert
+â¢ Strong project experience in implementation, upgrade, application development and maintenance
+â¢ SAP ABAP Certified associate and has certification in ITIL 2011 Foundation and PRINCE2 practitioner
+â¢ SAP project Full-Lifecycle implementations across multiple global projects
+â¢ Direct client exposure of 1.3 years in United States of America and 1.2 years in Malaysia
+â¢ Expertise on SAP ABAP FRICEW components
+â¢ Experience in various SAP modules like MM, FI, CO, SD, PS, PP, CS, PM, QM and HR
+â¢ Experience on S/4HANA, IS-Auto, IS-Retail, SCM 7.0, SOLMAN, SAP GTS, SAP PI 7.3, SAP BI 7.0/ 7.3, Vistex, ProShip, HPQC, IBM ManageNow, CA service desk, Loftware, Data Matrix
+â¢ Experience in SAP Netweaver Gateway (Fiori) and also created number of POCs for potential customers
+â¢ Successfully completed 9 implementation, 7 support, 1 roll-out, and 1 upgrade projects
+â¢ Expertise in understanding different requirements of the client for diverse industries
+â¢ Experience in leading technical team of different sizes
+â¢ Customization experience in various areas of SD, FI & MM modules
+â¢ Experience in Upgrading to ECC6.0
+â¢ Experience in Unicode conversion related issues/tasks.
+â¢ Skilled in document processes, identifying issues, handling multiple tasks, and training end users.
+â¢ Proven ability to interact with business system analysts and end-users in design phase
+â¢ Extensive experience in analyzing complicated business processes, effort estimations and creating technical specifications.
+â¢ Experienced with onsite-offshore support model of work and lead the team
+â¢ Excellent communication skills, team participation, inter-team co-ordination, team leadership abilities and customer oriented attitude
+â¢ Experience in pre-sales activities
+â¢ Thorough understanding of the project management and quality processes",Applicant 12
+SAP Developer,"Skills: â¢ ETL â¢ Data Warehousing â¢ SQL/PL SQL â¢ Basic Core Java â¢ Basic Python Tools: â¢ SAP BODS â¢ SAP BO â¢ Oracle 11g â¢ Sybase Education Details 
+August 2008 to July 2012 Bachelor of Engineering Navi Mumbai Panvel, Maharashtra Mumbai University
+June 2006 to May 2007 B.E Computer Engineering Navi Mumbai, Maharashtra Ryan International School
+SAP BO/BODS Developer/Administrator, Tata Consultancy Services Limited 
+
+SAP BP/BODS Developer/Administrator, Tata Consultancy - SAP BODS
+Skill Details 
+DATA WAREHOUSING- Exprience - 6 months
+SAP BO ADMIN- Exprience - Less than 1 year months
+SAP BODS- Exprience - Less than 1 year months
+ETL- Exprience - Less than 1 year months
+BASIC CORE JAVA- Exprience - Less than 1 year months
+SAP BO- Exprience - Less than 1 year months
+SAP BODS ADMIN- Exprience - Less than 1 year months
+BASIC PYTHON- Exprience - Less than 1 year monthsCompany Details 
+company - SAP BODS
+description - â¢ 
+Client: Royal Bank of Canada
+
+â¢ Developed BODS jobs and created/modified packages during migration from Sybase to Oracle Database.
+â¢ Taking up regular performance enhancement activities by co-coordinating with other teams like database team, Server Team, Data Center team to identify bottlenecks in the running of jobs.
+â¢ Developed BODS jobs to fetch data from SAP R3 using various data transfer modes.
+â¢ Implemented Central repositories to move jobs seamlessly in multi-developer environment
+company - Tata Consultancy Services Limited
+description - â¢ Installed and configured all the five environments of BO 4.0 and BODS 4.0/4.2 (DEV/QA/PROD/Standby/DR) with Apache and Tomcat as web and app servers on windows
+â¢ Loading dataÂ received from various source systems like TCS BaNCS, SAP R3, LOS, Credence and flat files using SCD1 and SCD2 to Data Warehouse to generate consolidated reports.
+â¢ Developed BODS jobs to fetch data from SAP R3 using various data transfer modes.Â 
+â¢ Implemented Central repositories to move jobs seamlessly in multi-developer environment.
+â¢ Configuration and creation of BODS repositories using Repository Manager and Sever Manager
+â¢ Used Formats and Transforms including Flat File formats, Query, Table Comparison, History Preserving, Validation Transform, Key Generation and Map Operation
+â¢ Â Deployed BODS in Active-Active mode using server groups to improve performance and availability of the system
+â¢ Using BO Java SDK to build custom java programs to automate various administration tasks and fetching metadata about BO system.
+â¢ Implemented BO Mobile and used wdeploy to separate static and dynamic contents into web server and web application.
+â¢ Developed audit reports in web Intelligence using audit universe to gather information about the usage of various reports in the BO system.
+â¢ Â Implemented and deployed features like Trusted authentication,VintelaÂ sso to make application easy to use for end users.
+â¢ Daily administrator tasks involved migration of resources from one environment to another, publication creation and monitoring, troubleshooting any issues with the application and monitoring the application through the tools available to ensure that the application is up and available round the clock.
+â¢ Have been involved in testing of backup systems in Standby and DR to make sure that application continue to service business users in case the primary systems are down.
+company - Tata Consultancy Services Limited
+description - Client: Tata Capital Financial Services Limited
+
+â¢ Installed and configured all the five environments of BO 4.0 and BODS 4.0/4.2
+â¢ (DEV/QA/PROD/Standby/DR) with Apache and Tomcat as web and app servers on windows.
+â¢ Loading data received from various source systems like TCS BaNCS, SAP R3, LOS, Credence and flat files using SCD1 and SCD2 to Data Warehouse to generate consolidated reports.
+â¢ Configuration and creation of BODS repositories using Repository Manager and Sever Manager.
+â¢ Used Formats and Transforms including Flat File formats, Query, Table Comparison, History
+â¢ Preserving, Validation Transform, Key Generation and Map Operation.
+â¢ Deployed BODS in Active-Active mode using server groups to improve performance and availability of the system.
+â¢ Using BO Java SDK to build custom java programs to automate various administration tasks and fetching metadata about BO system.
+â¢ Implemented BO Mobile and used wdeploy to separate static and dynamic contents into web server and web application.
+â¢ Developed audit reports in web Intelligence using audit universe to gather information about the usage of various reports in the BO system.
+â¢ Implemented and deployed features like Trusted authentication, Vintela sso to make application easy to use for end users.
+â¢ Daily administrator tasks involved migration of resources from one environment to another,publication creation and monitoring, troubleshooting any issues with the application and monitoring the application through the tools available to ensure that the application is up and available round the clock.
+â¢ Have been involved in testing of backup systems in Standby and DR to make sure that application continue to service business users in case the primary systems are down.",Applicant 13
+SAP Developer,"Competencies: SAP Business Intelligence Version SAP BO 4.2 BO Tools Design Studio, IDT, Webi, UDT, CMC activities Backend DB HANA, BW, Bex Queries, SQLEducation Details 
+
+SAP BO Developer and SAP HANA Developer 
+
+SAP BO Developer - Credit Suisse
+Skill Details 
+Sap Bi- Exprience - 72 months
+CMC- Exprience - 72 months
+HANA- Exprience - 36 months
+BUSINESS INTELLIGENCE- Exprience - 72 months
+SQL- Exprience - 72 months
+SAP BO- Exprience - 72 monthsCompany Details 
+company - Accenture
+description - Company Accenture, Pune
+Environment SAP BO 4.2, IDT, HANA views
+Role SAP BO Developer and HANA developer
+
+Description:
+This Project aims to provide reporting solution for Swiss business users.The universe supports analyzing customer funds purchase order patterns and order lifecycle reporting.
+The purpose of reports is to provide an end-to-end view of the entire sales order transaction, and to track the investment orders in various funds, including the status of orders, order types along with the gross value and net value to be generated from these orders.
+
+Roles & Responsibilities:
+â¢ Analyzed user requirements and sorted the best possible ways of optimizing performance of universe.
+â¢ CV and generated views development in HANA studio
+â¢ Handling day to day activities involved in development of Business Objects as per the client requirements.
+â¢ Worked as a team member with backend counterpart to understand the Business Requirements.
+â¢ Developing and maintaining universes.
+â¢ Raised OSS tickets to SAP for issues and implemented suggestion/workaround in development.
+â¢ Fixed webi issues reported by users.
+â¢ Created BIAR file and promoted to higher environments by change request.
+â¢ Project handover to team and documentation for reference.
+
+Project 2:
+
+Project Name Nestle
+Client Nestle Globe
+Company Tech Mahindra Pvt. Ltd. Bangalore
+Environment SAP BO 4.2, IDT, HANA views
+Role SAP BO Developer and HANA developer
+
+Description:
+This Project aims to provide reporting solution for Global business users. The Globe Integrated Order (IO), Billing Detail and Order Detail universes combines orders, deliveries, shipment and billing documents at the order item level.
+The universe supports analyzing customer order patterns and order lifecycle reporting.
+The purpose of reports on this universe is to provide an end-to-end view of the entire sales order transaction, and to track the sales orders in various ways, including the status of orders, order types along with the gross value and net value to be generated from these orders.
+
+Roles & Responsibilities:
+â¢ Analyzed user requirements and sorted the best possible ways of optimizing performance of universe.
+â¢ CV and generated views development in HANA studio
+â¢ Handling day to day activities involved in development of Business Objects as per the client requirements.
+â¢ Worked as a team member with backend counterpart to understand the Business Requirements.
+â¢ Developing and maintaining universes.
+â¢ Raised OSS tickets to SAP for issues and implemented suggestion/workaround in development.
+â¢ Implemented Union pruning in concept in universe to optimize performance by partition selection in HANA views by passing value to prompt.
+â¢ Fixed webi issues reported by users.
+â¢ Created BIAR file and promoted to higher environments by change request.
+â¢ Project handover to team and documentation for reference.
+
+Project 3:
+
+Project Name Nestle
+Client Nestle TCT
+Company Tech Mahindra Pvt. Ltd. Bangalore
+Environment SAP BO XI 4.2, Design Studio 1.6 SP6 & Bex Queries
+Role SAP BO Developer
+
+Description:
+The Project was developed to show delay in Nestle freight orders by hours on cross tab, bar chart, geo map due to weather conditions.
+
+Basic Source for the data was BW Bex queries and the top of these Queries dashboard was designed.
+
+This main user audience was transport control tower members to analyze and take decision to send consignments via other modes of transport due to weather conditions to avoid delay and reduce expenditure.
+
+Roles & Responsibilities:
+â¢ Involved with users to understand the Business Requirements and implement feature in a generic way.
+â¢ Suggested best visualization components in dashboard to use.
+â¢ Analyzing user requirements and finding the best possible ways of representing the data.
+â¢ Bug Fixes and feature enhancement in application.
+
+Project 4:
+
+Project Name Nestle
+Client Nestle BA
+Company Tech Mahindra Pvt. Ltd. Bangalore
+Environment SAP BO 4.2, Design Studio 1.6 & Bex Queries
+Role SAP BO Developer
+
+Description:
+The Project ""Nestle BA Catalogue Reporting"" for Nestle is basically to provide Dashboard in Design studio with the information of all the reports used within Nestle.
+And this dashboard is been used by all the users of Nestle within different region of globe.
+Basic Source for the data was BW Bex Queries and the top of these Queries Dashboard was designed.
+This main purpose of the project was to help users to understand about usage of different reports on portal and to help them to take decision for decommissioning of a report.
+
+Roles & Responsibilities:
+â¢ Involved with customer to understand the Business Requirements in order to present the data in a meaningful manner and suggested component selection to visualize data in most effectively.
+â¢ Analyzing user requirements and finding the best possible ways of representing the data.
+â¢ Changes in BW query according to requirement
+â¢ Interacting with client team for requirement gathering and analysis.
+â¢ Implemented ideas in bex and design studio app to optimize performance with help of successful POC.
+
+Project 5:
+
+Project Name Warner Bros
+Client Marvin Pictures, US
+Company CapGemini Pvt. Ltd. Bangalore
+Tools Teradata DB, SAP BO 4.1 Webi, IDT, CMC, Query builder, HPSM ticketing tool
+Role SAP BO Developer
+
+Description:
+The purpose of the project is tracking of DVD and comic sale worldwide. The Application will be used by End Users to analyze their sales Information and to help them in taking decision for their Business Growth.
+
+Sales reports in webi were based on universe. Teradata tables were source to universe.
+
+Worked as shared resource for CMC activities and webi/universe issues tickets.
+
+Roles & Responsibilities:
+â¢ Working as a team member to understand the Business Requirements.
+â¢ Performed CMC activities like user & user group creation, providing access to objects and folders. Created folders for reports, connection, universes and provided user security, connection pointing to universe.
+â¢ Worked on issue related to connection, universe objects and webi reports enhancements.
+â¢ Raised OSS messages to SAP to seek solution related to BO tool and limitations.
+â¢ Worked on webi report, universe defects and enhancements.
+â¢ Meeting with users to understand issue, suggest best solution and ETA.
+â¢ Worked on query builder to find BO objects metadata for investigation.
+â¢ Created of BIAR format using promotion management.
+
+Project 6:
+
+Project Name Nordea
+Client Nordea Bank, Sweden
+Company CapGemini Pvt. Ltd. Bangalore
+Environment SAP BO 4.1, IDT, Webi, Teradata
+Role SAP BO Developer
+
+Description:
+The Project report Analytics for Nordea aims to provide clear analysis of personal, company accounts in bank around the world. In all regions reports have data related to users and their account type.
+
+Webi reports based on universe based on Teradata DB financial tables.
+
+This project mainly tracks firm's Sales with respect to different criteria's like customer wise sales for different categories. It helps various end Users to analyze their sales related information and to help in their business growth and make precise decisions.
+
+Roles & Responsibilities:
+â¢ Involved in activities to understand the Business Requirements.
+â¢ Analyzing user requirements and finding the best possible ways of representing the data.
+â¢ Designing and developing interactive webi reports as per client's dynamic requirements.
+â¢ Developed webi reports having blocks, graphs and linked report with summary report.
+â¢ After development performing unit test activities and presentation to users.
+â¢ Implementation of Business Object i.e. Webi from one Environment to another using BIAR File.
+â¢ Fixed issues in webi reports related to data and report formatting and made changes in report requested by users in MAT.
+â¢ Prepared RDD for reports and performed unit testing.
+â¢ Provided KT to users and supports teams.
+company - Tech Mahindra
+description - 
+company - Capgemini
+description - ",Applicant 14
+SAP Developer,"Education Details 
+July 2008 to February 2012 BE COMPUTER SCIENCE Nagpur, Maharashtra NAGPUR UNIVERSITY
+SAP HANA Developer 
+
+SAP HANA Developer - Schlumberger
+Skill Details 
+SAP HANA- Exprience - 60 months
+SAP BO- Exprience - 36 monthsCompany Details 
+company - Schlumberger
+description - Schlumberger is the world's leading provider of technology for reservoir characterization, drilling, production, and processing to the oil and gas industry. Working in more than 85 countries.
+Role-SAP HANA Developer
+Team Size: 12
+Duration: Feb 2017 to Till Date
+Responsibilities:
+Working on Suit on HANA and Native HANA Systems.
+Working on end to end implementation for Release 2.3 and 2.4.
+Developing HANA Information Models Calculation Views, Table Functions, Procedures.
+Actively involved in cutover activities, Dry Runs Production Go live and Post Production Go Live and resolving issues.
+Worked on HANA functionalities like Currency Conversions and analyzing the Planviz for performance related issues etc.
+Worked on to bring the Tables in SAP HANA Landing zone using SDA.
+Working on to resolve the performance issues in HANA views by applying filter, joins etc.
+Interacting with the Business and functional team members, based on the discussion Creating Design Documents, Technical Specification and Test Documents.
+Successfully implemented the Release 2.2 and 2.3 for US, Ecuador and Canada.
+Successfully completed the Self-service project for Finance Domain and created Reports in Analysis of office.
+Working on to create the Power BI Reports.
+Working on to resolve production defects and Incidents by using HPALM and Remedy Tools.
+Working on to resolve the issues in an existing HANA Views.
+Working on to promote the Objects in different environment by using Charm/Solmon.
+Working on to enhance the performance of the HANA views by using PLANVIZ.
+Worked on to create the BO Reports for Vendor Master.
+ 2. Aero Space Design/Honeywell
+company - Fujitsu Consulting India
+description - Responsibilities: 
+â¢ HANA Data Model Development and Modification of Existing Models.
+â¢ Providing estimation to create the data model based on business Request.
+â¢ Creating Views- Attribute, Analytical and Calculation Views base on business requirement â¢ Creation of Design document and Technical design document.
+â¢ Brought the data into HANA Landing zone using SLT and SDA.
+â¢ Handled complex performance issues.
+â¢ Worked SAP Landscape transformation for data replication from source DB to HANA DB â¢ Solved SIT tickets on HANA Information Model.
+â¢ Developing HANA Information Models Calculation Views, Table Functions, Procedures.
+â¢ Modifying existing models to include tables, columns etc. necessary to complete the requirement.
+â¢ Configuring business objects to fetch data from HANA.
+â¢ Editing, Modifying exiting reports to fetch data from HANA as per the requirement.
+ 3. Mc Donald
+Company- Fujitsu Consulting India
+Client- MC Donald
+Role-SAP BO Developer
+Team Size: 3
+Duration: July2013to June2014
+Responsibilities: 
+â¢ Providing estimation to create the Universe and Webi Reports based on business request.
+â¢ Worked on creating the Universes on top of SAP HANA and BW Resources.
+â¢ Worked on creating the Complex Reports in webi.
+â¢ Worked on providing the Row level and Folder level security.
+â¢ Worked on Scheduling the Reports.
+
+Tools and Technology Knowledge
+SAP HANA SPS12
+SAP ECC 6.0
+SQL
+Remedy
+SharePoint
+SAP Logon
+WEBI
+Power BI",Applicant 15
+SAP Developer,"Education Details 
+May 2013 Master Computer Application Mumbai, Maharashtra IMCOST College
+April 2010 BSc Computer Science Mumbai, Maharashtra V.K.K. Menon College
+March 2005  SpringerNature Pune, Maharashtra S.V.V.M School
+ABAP Developer 
+
+ABAP Developer - SAP EXPOSURE
+Skill Details 
+Company Details 
+company - SAP EXPOSURE
+description - 1. Organization: SpringerNature.
+Duration: MAR 2017 -Till date â¢ Project: Support for springer Nature
+Project Type: Support
+Role: ABAP Developer
+
+Major Contribution: â¢ Writing new reports and modification for existing reports.
+â¢ Worked on smartforms.
+â¢ Standard debugging for issues â¢ For unit testing created contracts, orders, and invoices and tested individually.
+company - Atos Pvt. Ltd
+description - Duration: MAY 2014 -DEC 2015 â¢ Project: lenM - It's a Ministry of Netherland Project â¢ Project: DSP - DSM Sinochem Pharmaceuticals â¢ Project: AkzoNobel - Akzonobel is a leading global paints and coatings company  and a major producer of specialty chemicals.
+Project Type: Support
+Role: ABAP Developer
+Major Contribution: â¢ Modified SAP Script as per the requirement specified.
+â¢ Modified Invoice Smart Form.
+â¢ Created custom tables, data elements, structures.",Applicant 16
+SAP Developer,"Education Details 
+January 2016 Bachelor Of Engineering LEAN PROJECTS Mumbai, Maharashtra Mumbai University
+January 2013 Diploma Computer Engineering Ratnagiri, Maharashtra Maharashtra State Board of Technical Education
+SAP CONSULTANT 
+
+SAP CONSULTANT - Quick Learner
+Skill Details 
+Company Details 
+company - Quick Learner
+description - Groomed skills with Microsoft Excel.
+Job Responsibilities:
+Working on Centralized SAP Security project which includes User            â¢ VBA programming for automation.
+Level authorizations including Role creation and changes. and
+Compliance policy maintenance for SAP systems.
+â¢ Confidence and Positive Attitude.
+Assisting users in troubleshooting and identifying authorization
+issues using SU53 and trace analysis.
+Willingness to learn & work in team.
+Working on GRC 10.X Access Control application and all its
+component.
+â¢ Strong analytical thinking, documentation and design skills
+Assisting in defining the scope of a project/opportunities,
+estimating efforts and project timelines.
+Hands on experience in SAP Market Place for creating User /                â¢ Adaptable to new environment, with ability to get along with
+OSS Ids/Developer Keys.		people.",Applicant 17
+SAP Developer,"Education Details 
+
+SAP Technical Architect 
+
+SAP Technical Consultant -  (ALE/IDOC/oDATA/Fiori/S4HANA/EWM/APO/Retail)
+Skill Details 
+SAP ABAP- Exprience - 120 months
+SAP ABAP ( ALE / IDOC / EDI )- Exprience - 96 months
+SAP Netweaver Gateway / oData / Fiori- Exprience - 24 months
+SAP Techno Functional- Exprience - 36 months
+SAP ABAP ( IS-Retail / APO / IS-Auto / EWM)- Exprience - 36 months
+SAP Techno-functional- Exprience - 48 months
+SAP SD- Exprience - 36 months
+NetWeaver Gateway (oDATA, Fiori)- Exprience - 24 months
+SAP S/4HANA (new features Extensibility, Embedded Analytics)- Exprience - 12 monthsCompany Details 
+company - 
+description - 13+ years of work experience in SAP which includes roles varies from developer to subject matter expert
+â¢ Strong project experience in implementation, upgrade, application development and maintenance
+â¢ SAP ABAP Certified associate and has certification in ITIL 2011 Foundation and PRINCE2 practitioner
+â¢ SAP project Full-Lifecycle implementations across multiple global projects
+â¢ Direct client exposure of 1.3 years in United States of America and 1.2 years in Malaysia
+â¢ Expertise on SAP ABAP FRICEW components
+â¢ Experience in various SAP modules like MM, FI, CO, SD, PS, PP, CS, PM, QM and HR
+â¢ Experience on S/4HANA, IS-Auto, IS-Retail, SCM 7.0, SOLMAN, SAP GTS, SAP PI 7.3, SAP BI 7.0/ 7.3, Vistex, ProShip, HPQC, IBM ManageNow, CA service desk, Loftware, Data Matrix
+â¢ Experience in SAP Netweaver Gateway (Fiori) and also created number of POCs for potential customers
+â¢ Successfully completed 9 implementation, 7 support, 1 roll-out, and 1 upgrade projects
+â¢ Expertise in understanding different requirements of the client for diverse industries
+â¢ Experience in leading technical team of different sizes
+â¢ Customization experience in various areas of SD, FI & MM modules
+â¢ Experience in Upgrading to ECC6.0
+â¢ Experience in Unicode conversion related issues/tasks.
+â¢ Skilled in document processes, identifying issues, handling multiple tasks, and training end users.
+â¢ Proven ability to interact with business system analysts and end-users in design phase
+â¢ Extensive experience in analyzing complicated business processes, effort estimations and creating technical specifications.
+â¢ Experienced with onsite-offshore support model of work and lead the team
+â¢ Excellent communication skills, team participation, inter-team co-ordination, team leadership abilities and customer oriented attitude
+â¢ Experience in pre-sales activities
+â¢ Thorough understanding of the project management and quality processes",Applicant 18
+SAP Developer,"Skills: â¢ ETL â¢ Data Warehousing â¢ SQL/PL SQL â¢ Basic Core Java â¢ Basic Python Tools: â¢ SAP BODS â¢ SAP BO â¢ Oracle 11g â¢ Sybase Education Details 
+August 2008 to July 2012 Bachelor of Engineering Navi Mumbai Panvel, Maharashtra Mumbai University
+June 2006 to May 2007 B.E Computer Engineering Navi Mumbai, Maharashtra Ryan International School
+SAP BO/BODS Developer/Administrator, Tata Consultancy Services Limited 
+
+SAP BP/BODS Developer/Administrator, Tata Consultancy - SAP BODS
+Skill Details 
+DATA WAREHOUSING- Exprience - 6 months
+SAP BO ADMIN- Exprience - Less than 1 year months
+SAP BODS- Exprience - Less than 1 year months
+ETL- Exprience - Less than 1 year months
+BASIC CORE JAVA- Exprience - Less than 1 year months
+SAP BO- Exprience - Less than 1 year months
+SAP BODS ADMIN- Exprience - Less than 1 year months
+BASIC PYTHON- Exprience - Less than 1 year monthsCompany Details 
+company - SAP BODS
+description - â¢ 
+Client: Royal Bank of Canada
+
+â¢ Developed BODS jobs and created/modified packages during migration from Sybase to Oracle Database.
+â¢ Taking up regular performance enhancement activities by co-coordinating with other teams like database team, Server Team, Data Center team to identify bottlenecks in the running of jobs.
+â¢ Developed BODS jobs to fetch data from SAP R3 using various data transfer modes.
+â¢ Implemented Central repositories to move jobs seamlessly in multi-developer environment
+company - Tata Consultancy Services Limited
+description - â¢ Installed and configured all the five environments of BO 4.0 and BODS 4.0/4.2 (DEV/QA/PROD/Standby/DR) with Apache and Tomcat as web and app servers on windows
+â¢ Loading dataÂ received from various source systems like TCS BaNCS, SAP R3, LOS, Credence and flat files using SCD1 and SCD2 to Data Warehouse to generate consolidated reports.
+â¢ Developed BODS jobs to fetch data from SAP R3 using various data transfer modes.Â 
+â¢ Implemented Central repositories to move jobs seamlessly in multi-developer environment.
+â¢ Configuration and creation of BODS repositories using Repository Manager and Sever Manager
+â¢ Used Formats and Transforms including Flat File formats, Query, Table Comparison, History Preserving, Validation Transform, Key Generation and Map Operation
+â¢ Â Deployed BODS in Active-Active mode using server groups to improve performance and availability of the system
+â¢ Using BO Java SDK to build custom java programs to automate various administration tasks and fetching metadata about BO system.
+â¢ Implemented BO Mobile and used wdeploy to separate static and dynamic contents into web server and web application.
+â¢ Developed audit reports in web Intelligence using audit universe to gather information about the usage of various reports in the BO system.
+â¢ Â Implemented and deployed features like Trusted authentication,VintelaÂ sso to make application easy to use for end users.
+â¢ Daily administrator tasks involved migration of resources from one environment to another, publication creation and monitoring, troubleshooting any issues with the application and monitoring the application through the tools available to ensure that the application is up and available round the clock.
+â¢ Have been involved in testing of backup systems in Standby and DR to make sure that application continue to service business users in case the primary systems are down.
+company - Tata Consultancy Services Limited
+description - Client: Tata Capital Financial Services Limited
+
+â¢ Installed and configured all the five environments of BO 4.0 and BODS 4.0/4.2
+â¢ (DEV/QA/PROD/Standby/DR) with Apache and Tomcat as web and app servers on windows.
+â¢ Loading data received from various source systems like TCS BaNCS, SAP R3, LOS, Credence and flat files using SCD1 and SCD2 to Data Warehouse to generate consolidated reports.
+â¢ Configuration and creation of BODS repositories using Repository Manager and Sever Manager.
+â¢ Used Formats and Transforms including Flat File formats, Query, Table Comparison, History
+â¢ Preserving, Validation Transform, Key Generation and Map Operation.
+â¢ Deployed BODS in Active-Active mode using server groups to improve performance and availability of the system.
+â¢ Using BO Java SDK to build custom java programs to automate various administration tasks and fetching metadata about BO system.
+â¢ Implemented BO Mobile and used wdeploy to separate static and dynamic contents into web server and web application.
+â¢ Developed audit reports in web Intelligence using audit universe to gather information about the usage of various reports in the BO system.
+â¢ Implemented and deployed features like Trusted authentication, Vintela sso to make application easy to use for end users.
+â¢ Daily administrator tasks involved migration of resources from one environment to another,publication creation and monitoring, troubleshooting any issues with the application and monitoring the application through the tools available to ensure that the application is up and available round the clock.
+â¢ Have been involved in testing of backup systems in Standby and DR to make sure that application continue to service business users in case the primary systems are down.",Applicant 19
+SAP Developer,"Competencies: SAP Business Intelligence Version SAP BO 4.2 BO Tools Design Studio, IDT, Webi, UDT, CMC activities Backend DB HANA, BW, Bex Queries, SQLEducation Details 
+
+SAP BO Developer and SAP HANA Developer 
+
+SAP BO Developer - Credit Suisse
+Skill Details 
+Sap Bi- Exprience - 72 months
+CMC- Exprience - 72 months
+HANA- Exprience - 36 months
+BUSINESS INTELLIGENCE- Exprience - 72 months
+SQL- Exprience - 72 months
+SAP BO- Exprience - 72 monthsCompany Details 
+company - Accenture
+description - Company Accenture, Pune
+Environment SAP BO 4.2, IDT, HANA views
+Role SAP BO Developer and HANA developer
+
+Description:
+This Project aims to provide reporting solution for Swiss business users.The universe supports analyzing customer funds purchase order patterns and order lifecycle reporting.
+The purpose of reports is to provide an end-to-end view of the entire sales order transaction, and to track the investment orders in various funds, including the status of orders, order types along with the gross value and net value to be generated from these orders.
+
+Roles & Responsibilities:
+â¢ Analyzed user requirements and sorted the best possible ways of optimizing performance of universe.
+â¢ CV and generated views development in HANA studio
+â¢ Handling day to day activities involved in development of Business Objects as per the client requirements.
+â¢ Worked as a team member with backend counterpart to understand the Business Requirements.
+â¢ Developing and maintaining universes.
+â¢ Raised OSS tickets to SAP for issues and implemented suggestion/workaround in development.
+â¢ Fixed webi issues reported by users.
+â¢ Created BIAR file and promoted to higher environments by change request.
+â¢ Project handover to team and documentation for reference.
+
+Project 2:
+
+Project Name Nestle
+Client Nestle Globe
+Company Tech Mahindra Pvt. Ltd. Bangalore
+Environment SAP BO 4.2, IDT, HANA views
+Role SAP BO Developer and HANA developer
+
+Description:
+This Project aims to provide reporting solution for Global business users. The Globe Integrated Order (IO), Billing Detail and Order Detail universes combines orders, deliveries, shipment and billing documents at the order item level.
+The universe supports analyzing customer order patterns and order lifecycle reporting.
+The purpose of reports on this universe is to provide an end-to-end view of the entire sales order transaction, and to track the sales orders in various ways, including the status of orders, order types along with the gross value and net value to be generated from these orders.
+
+Roles & Responsibilities:
+â¢ Analyzed user requirements and sorted the best possible ways of optimizing performance of universe.
+â¢ CV and generated views development in HANA studio
+â¢ Handling day to day activities involved in development of Business Objects as per the client requirements.
+â¢ Worked as a team member with backend counterpart to understand the Business Requirements.
+â¢ Developing and maintaining universes.
+â¢ Raised OSS tickets to SAP for issues and implemented suggestion/workaround in development.
+â¢ Implemented Union pruning in concept in universe to optimize performance by partition selection in HANA views by passing value to prompt.
+â¢ Fixed webi issues reported by users.
+â¢ Created BIAR file and promoted to higher environments by change request.
+â¢ Project handover to team and documentation for reference.
+
+Project 3:
+
+Project Name Nestle
+Client Nestle TCT
+Company Tech Mahindra Pvt. Ltd. Bangalore
+Environment SAP BO XI 4.2, Design Studio 1.6 SP6 & Bex Queries
+Role SAP BO Developer
+
+Description:
+The Project was developed to show delay in Nestle freight orders by hours on cross tab, bar chart, geo map due to weather conditions.
+
+Basic Source for the data was BW Bex queries and the top of these Queries dashboard was designed.
+
+This main user audience was transport control tower members to analyze and take decision to send consignments via other modes of transport due to weather conditions to avoid delay and reduce expenditure.
+
+Roles & Responsibilities:
+â¢ Involved with users to understand the Business Requirements and implement feature in a generic way.
+â¢ Suggested best visualization components in dashboard to use.
+â¢ Analyzing user requirements and finding the best possible ways of representing the data.
+â¢ Bug Fixes and feature enhancement in application.
+
+Project 4:
+
+Project Name Nestle
+Client Nestle BA
+Company Tech Mahindra Pvt. Ltd. Bangalore
+Environment SAP BO 4.2, Design Studio 1.6 & Bex Queries
+Role SAP BO Developer
+
+Description:
+The Project ""Nestle BA Catalogue Reporting"" for Nestle is basically to provide Dashboard in Design studio with the information of all the reports used within Nestle.
+And this dashboard is been used by all the users of Nestle within different region of globe.
+Basic Source for the data was BW Bex Queries and the top of these Queries Dashboard was designed.
+This main purpose of the project was to help users to understand about usage of different reports on portal and to help them to take decision for decommissioning of a report.
+
+Roles & Responsibilities:
+â¢ Involved with customer to understand the Business Requirements in order to present the data in a meaningful manner and suggested component selection to visualize data in most effectively.
+â¢ Analyzing user requirements and finding the best possible ways of representing the data.
+â¢ Changes in BW query according to requirement
+â¢ Interacting with client team for requirement gathering and analysis.
+â¢ Implemented ideas in bex and design studio app to optimize performance with help of successful POC.
+
+Project 5:
+
+Project Name Warner Bros
+Client Marvin Pictures, US
+Company CapGemini Pvt. Ltd. Bangalore
+Tools Teradata DB, SAP BO 4.1 Webi, IDT, CMC, Query builder, HPSM ticketing tool
+Role SAP BO Developer
+
+Description:
+The purpose of the project is tracking of DVD and comic sale worldwide. The Application will be used by End Users to analyze their sales Information and to help them in taking decision for their Business Growth.
+
+Sales reports in webi were based on universe. Teradata tables were source to universe.
+
+Worked as shared resource for CMC activities and webi/universe issues tickets.
+
+Roles & Responsibilities:
+â¢ Working as a team member to understand the Business Requirements.
+â¢ Performed CMC activities like user & user group creation, providing access to objects and folders. Created folders for reports, connection, universes and provided user security, connection pointing to universe.
+â¢ Worked on issue related to connection, universe objects and webi reports enhancements.
+â¢ Raised OSS messages to SAP to seek solution related to BO tool and limitations.
+â¢ Worked on webi report, universe defects and enhancements.
+â¢ Meeting with users to understand issue, suggest best solution and ETA.
+â¢ Worked on query builder to find BO objects metadata for investigation.
+â¢ Created of BIAR format using promotion management.
+
+Project 6:
+
+Project Name Nordea
+Client Nordea Bank, Sweden
+Company CapGemini Pvt. Ltd. Bangalore
+Environment SAP BO 4.1, IDT, Webi, Teradata
+Role SAP BO Developer
+
+Description:
+The Project report Analytics for Nordea aims to provide clear analysis of personal, company accounts in bank around the world. In all regions reports have data related to users and their account type.
+
+Webi reports based on universe based on Teradata DB financial tables.
+
+This project mainly tracks firm's Sales with respect to different criteria's like customer wise sales for different categories. It helps various end Users to analyze their sales related information and to help in their business growth and make precise decisions.
+
+Roles & Responsibilities:
+â¢ Involved in activities to understand the Business Requirements.
+â¢ Analyzing user requirements and finding the best possible ways of representing the data.
+â¢ Designing and developing interactive webi reports as per client's dynamic requirements.
+â¢ Developed webi reports having blocks, graphs and linked report with summary report.
+â¢ After development performing unit test activities and presentation to users.
+â¢ Implementation of Business Object i.e. Webi from one Environment to another using BIAR File.
+â¢ Fixed issues in webi reports related to data and report formatting and made changes in report requested by users in MAT.
+â¢ Prepared RDD for reports and performed unit testing.
+â¢ Provided KT to users and supports teams.
+company - Tech Mahindra
+description - 
+company - Capgemini
+description - ",Applicant 20
+SAP Developer,"Education Details 
+July 2008 to February 2012 BE COMPUTER SCIENCE Nagpur, Maharashtra NAGPUR UNIVERSITY
+SAP HANA Developer 
+
+SAP HANA Developer - Schlumberger
+Skill Details 
+SAP HANA- Exprience - 60 months
+SAP BO- Exprience - 36 monthsCompany Details 
+company - Schlumberger
+description - Schlumberger is the world's leading provider of technology for reservoir characterization, drilling, production, and processing to the oil and gas industry. Working in more than 85 countries.
+Role-SAP HANA Developer
+Team Size: 12
+Duration: Feb 2017 to Till Date
+Responsibilities:
+Working on Suit on HANA and Native HANA Systems.
+Working on end to end implementation for Release 2.3 and 2.4.
+Developing HANA Information Models Calculation Views, Table Functions, Procedures.
+Actively involved in cutover activities, Dry Runs Production Go live and Post Production Go Live and resolving issues.
+Worked on HANA functionalities like Currency Conversions and analyzing the Planviz for performance related issues etc.
+Worked on to bring the Tables in SAP HANA Landing zone using SDA.
+Working on to resolve the performance issues in HANA views by applying filter, joins etc.
+Interacting with the Business and functional team members, based on the discussion Creating Design Documents, Technical Specification and Test Documents.
+Successfully implemented the Release 2.2 and 2.3 for US, Ecuador and Canada.
+Successfully completed the Self-service project for Finance Domain and created Reports in Analysis of office.
+Working on to create the Power BI Reports.
+Working on to resolve production defects and Incidents by using HPALM and Remedy Tools.
+Working on to resolve the issues in an existing HANA Views.
+Working on to promote the Objects in different environment by using Charm/Solmon.
+Working on to enhance the performance of the HANA views by using PLANVIZ.
+Worked on to create the BO Reports for Vendor Master.
+ 2. Aero Space Design/Honeywell
+company - Fujitsu Consulting India
+description - Responsibilities: 
+â¢ HANA Data Model Development and Modification of Existing Models.
+â¢ Providing estimation to create the data model based on business Request.
+â¢ Creating Views- Attribute, Analytical and Calculation Views base on business requirement â¢ Creation of Design document and Technical design document.
+â¢ Brought the data into HANA Landing zone using SLT and SDA.
+â¢ Handled complex performance issues.
+â¢ Worked SAP Landscape transformation for data replication from source DB to HANA DB â¢ Solved SIT tickets on HANA Information Model.
+â¢ Developing HANA Information Models Calculation Views, Table Functions, Procedures.
+â¢ Modifying existing models to include tables, columns etc. necessary to complete the requirement.
+â¢ Configuring business objects to fetch data from HANA.
+â¢ Editing, Modifying exiting reports to fetch data from HANA as per the requirement.
+ 3. Mc Donald
+Company- Fujitsu Consulting India
+Client- MC Donald
+Role-SAP BO Developer
+Team Size: 3
+Duration: July2013to June2014
+Responsibilities: 
+â¢ Providing estimation to create the Universe and Webi Reports based on business request.
+â¢ Worked on creating the Universes on top of SAP HANA and BW Resources.
+â¢ Worked on creating the Complex Reports in webi.
+â¢ Worked on providing the Row level and Folder level security.
+â¢ Worked on Scheduling the Reports.
+
+Tools and Technology Knowledge
+SAP HANA SPS12
+SAP ECC 6.0
+SQL
+Remedy
+SharePoint
+SAP Logon
+WEBI
+Power BI",Applicant 21
+SAP Developer,"Education Details 
+May 2013 Master Computer Application Mumbai, Maharashtra IMCOST College
+April 2010 BSc Computer Science Mumbai, Maharashtra V.K.K. Menon College
+March 2005  SpringerNature Pune, Maharashtra S.V.V.M School
+ABAP Developer 
+
+ABAP Developer - SAP EXPOSURE
+Skill Details 
+Company Details 
+company - SAP EXPOSURE
+description - 1. Organization: SpringerNature.
+Duration: MAR 2017 -Till date â¢ Project: Support for springer Nature
+Project Type: Support
+Role: ABAP Developer
+
+Major Contribution: â¢ Writing new reports and modification for existing reports.
+â¢ Worked on smartforms.
+â¢ Standard debugging for issues â¢ For unit testing created contracts, orders, and invoices and tested individually.
+company - Atos Pvt. Ltd
+description - Duration: MAY 2014 -DEC 2015 â¢ Project: lenM - It's a Ministry of Netherland Project â¢ Project: DSP - DSM Sinochem Pharmaceuticals â¢ Project: AkzoNobel - Akzonobel is a leading global paints and coatings company  and a major producer of specialty chemicals.
+Project Type: Support
+Role: ABAP Developer
+Major Contribution: â¢ Modified SAP Script as per the requirement specified.
+â¢ Modified Invoice Smart Form.
+â¢ Created custom tables, data elements, structures.",Applicant 22
+SAP Developer,"Education Details 
+January 2016 Bachelor Of Engineering LEAN PROJECTS Mumbai, Maharashtra Mumbai University
+January 2013 Diploma Computer Engineering Ratnagiri, Maharashtra Maharashtra State Board of Technical Education
+SAP CONSULTANT 
+
+SAP CONSULTANT - Quick Learner
+Skill Details 
+Company Details 
+company - Quick Learner
+description - Groomed skills with Microsoft Excel.
+Job Responsibilities:
+Working on Centralized SAP Security project which includes User            â¢ VBA programming for automation.
+Level authorizations including Role creation and changes. and
+Compliance policy maintenance for SAP systems.
+â¢ Confidence and Positive Attitude.
+Assisting users in troubleshooting and identifying authorization
+issues using SU53 and trace analysis.
+Willingness to learn & work in team.
+Working on GRC 10.X Access Control application and all its
+component.
+â¢ Strong analytical thinking, documentation and design skills
+Assisting in defining the scope of a project/opportunities,
+estimating efforts and project timelines.
+Hands on experience in SAP Market Place for creating User /                â¢ Adaptable to new environment, with ability to get along with
+OSS Ids/Developer Keys.		people.",Applicant 23
+SAP Developer,"Education Details 
+
+SAP Technical Architect 
+
+SAP Technical Consultant -  (ALE/IDOC/oDATA/Fiori/S4HANA/EWM/APO/Retail)
+Skill Details 
+SAP ABAP- Exprience - 120 months
+SAP ABAP ( ALE / IDOC / EDI )- Exprience - 96 months
+SAP Netweaver Gateway / oData / Fiori- Exprience - 24 months
+SAP Techno Functional- Exprience - 36 months
+SAP ABAP ( IS-Retail / APO / IS-Auto / EWM)- Exprience - 36 months
+SAP Techno-functional- Exprience - 48 months
+SAP SD- Exprience - 36 months
+NetWeaver Gateway (oDATA, Fiori)- Exprience - 24 months
+SAP S/4HANA (new features Extensibility, Embedded Analytics)- Exprience - 12 monthsCompany Details 
+company - 
+description - 13+ years of work experience in SAP which includes roles varies from developer to subject matter expert
+â¢ Strong project experience in implementation, upgrade, application development and maintenance
+â¢ SAP ABAP Certified associate and has certification in ITIL 2011 Foundation and PRINCE2 practitioner
+â¢ SAP project Full-Lifecycle implementations across multiple global projects
+â¢ Direct client exposure of 1.3 years in United States of America and 1.2 years in Malaysia
+â¢ Expertise on SAP ABAP FRICEW components
+â¢ Experience in various SAP modules like MM, FI, CO, SD, PS, PP, CS, PM, QM and HR
+â¢ Experience on S/4HANA, IS-Auto, IS-Retail, SCM 7.0, SOLMAN, SAP GTS, SAP PI 7.3, SAP BI 7.0/ 7.3, Vistex, ProShip, HPQC, IBM ManageNow, CA service desk, Loftware, Data Matrix
+â¢ Experience in SAP Netweaver Gateway (Fiori) and also created number of POCs for potential customers
+â¢ Successfully completed 9 implementation, 7 support, 1 roll-out, and 1 upgrade projects
+â¢ Expertise in understanding different requirements of the client for diverse industries
+â¢ Experience in leading technical team of different sizes
+â¢ Customization experience in various areas of SD, FI & MM modules
+â¢ Experience in Upgrading to ECC6.0
+â¢ Experience in Unicode conversion related issues/tasks.
+â¢ Skilled in document processes, identifying issues, handling multiple tasks, and training end users.
+â¢ Proven ability to interact with business system analysts and end-users in design phase
+â¢ Extensive experience in analyzing complicated business processes, effort estimations and creating technical specifications.
+â¢ Experienced with onsite-offshore support model of work and lead the team
+â¢ Excellent communication skills, team participation, inter-team co-ordination, team leadership abilities and customer oriented attitude
+â¢ Experience in pre-sales activities
+â¢ Thorough understanding of the project management and quality processes",Applicant 24

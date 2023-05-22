@@ -5,16 +5,30 @@ from resume_screening import utils
 import os
 import spacy
 from spacy.matcher import Matcher
+import pandas as pd
 
 # init params of skill extractor
 nlp = spacy.load("en_core_web_lg")
 
 resume_dir = './Dataset/Resume files'
-
+resume_excelsheet_dir = './Dataset/Resume files/ResumeExcelSheet'
+resume_excelsheet_savedir = './Dataset/Resume files/ResumeExcelSheet/ParsedResumes'
 outdir = './Dataset'
 if not os.path.exists(outdir):
     os.mkdir(outdir)
 
+
+
+def resume_excelsheet_parser(filename):
+    df = pd.read_csv(os.path.join(resume_excelsheet_dir, filename))
+    df=df.reset_index(drop=True)
+    df.drop(df.columns[df.columns.str.contains(
+        'unnamed', case=False)], axis=1, inplace=True)
+    df['majors']=df['Resume'].apply(utils.extract_majors)
+    df['degrees']=df['Resume'].apply(utils.extract_degrees)
+    df['skills']=df['Resume'].apply(utils.extract_skills)
+    df.to_csv(os.path.join(resume_excelsheet_savedir,'Paesed_Resume_ExceelSheet.csv'))
+    return df
 
 def parser(resume_file):
     nlp = spacy.load('en_core_web_sm')
@@ -90,9 +104,10 @@ def resume_score(resume_details):
 
 def main():
     resume_file = "CV2.pdf"
-    details = parser(resume_file)
-    print(details)
-    print("Resume Score:" +str(resume_score(details)))
+    # details = parser(resume_file)
+    # print(details)
+    # print("Resume Score:" +str(resume_score(details)))
+    resume_excelsheet_parser('Java Developer.csv')
 
 
 if __name__ == '__main__':

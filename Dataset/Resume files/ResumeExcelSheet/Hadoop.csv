@@ -1,0 +1,1939 @@
+Category,Resume,candidate_num
+Hadoop,"Education Details 
+
+Hadoop Developer 
+
+Hadoop Developer - INFOSYS
+Skill Details 
+Company Details 
+company - INFOSYS
+description - Project Description: The banking information had stored the data in different data ware house systems for each department but it becomes difficult for the organization to manage the data and to perform some analytics on the past data, so it is combined them into a single global repository in Hadoop for analysis.
+
+Responsibilities:
+â¢       Analyze the banking rates data set.
+â¢       Create specification document.
+â¢       Provide effort estimation.
+â¢       Develop SPARK Scala, SPARK SQL Programs using Eclipse IDE on Windows/Linux environment.
+â¢       Create KPI's test scenarios, test cases, test result document.
+â¢       Test the Scala programs in Linux Spark Standalone mode.
+â¢       setup multi cluster on AWS, deploy the Spark Scala programs
+â¢       Provided solution using Hadoop ecosystem - HDFS, MapReduce, Pig, Hive, HBase, and Zookeeper.
+â¢       Provided solution using large scale server-side systems with distributed processing algorithms.
+â¢       Created reports for the BI team using Sqoop to export data into HDFS and Hive.
+â¢       Provided solution in supporting and assisting in troubleshooting and optimization of MapReduce jobs and
+Pig Latin scripts.
+â¢       Deep understanding of Hadoop design principles, cluster connectivity, security and the factors that affect
+system performance.
+â¢       Worked on Importing and exporting data from different databases like Oracle, Teradata into HDFS and Hive
+using Sqoop, TPT and Connect Direct.
+â¢       Import and export the data from RDBMS to HDFS/HBASE
+â¢       Wrote script and placed it in client side so that the data moved to HDFS will be stored in temporary file and then it will start loading it in hive tables.
+â¢       Developed the Sqoop scripts in order to make the interaction between Pig and MySQL Database.
+â¢       Involved in developing the Hive Reports, Partitions of Hive tables.
+â¢       Created and maintained technical documentation for launching HADOOP Clusters and for executing HIVE
+queries and PIG scripts.
+â¢       Involved in running Hadoop jobs for processing millions of records of text data
+
+Environment: Java, Hadoop, HDFS, Map-Reduce, Pig, Hive, Sqoop, Flume, Oozie, HBase, Spark, Scala,
+Linux, NoSQL, Storm, Tomcat, Putty, SVN, GitHub, IBM WebSphere v8.5.
+
+Project #1: TELECOMMUNICATIONS
+Hadoop Developer
+
+Description To identify customers who are likely to churn and 360-degree view of the customer is created from different heterogeneous data sources. The data is brought into data lake (HDFS) from different sources and analyzed using different Hadoop tools like pig and hive.
+
+Responsibilities:
+â¢       Installed and Configured Apache Hadoop tools like Hive, Pig, HBase and Sqoop for application development and unit testing.
+â¢       Wrote MapReduce jobs to discover trends in data usage by users.
+â¢       Involved in database connection using SQOOP.
+â¢       Involved in creating Hive tables, loading data and writing hive queries Using the HiveQL.
+â¢       Involved in partitioning and joining Hive tables for Hive query optimization.
+â¢       Experienced in SQL DB Migration to HDFS.
+â¢       Used NoSQL(HBase) for faster performance, which maintains the data in the De-Normalized way for OLTP.
+â¢       The data is collected from distributed sources into Avro models. Applied transformations and standardizations and loaded into HBase for further data processing.
+â¢       Experienced in defining job flows.
+â¢       Used Oozie to orchestrate the workflow.
+â¢       Implemented Fair schedulers on the Job tracker to share the resources of the Cluster for the Map Reduce
+jobs given by the users.
+â¢       Exported the analyzed data to the relational databases using HIVE for visualization and to generate reports for the BI team.
+
+Environment: Hadoop, Hive, Linux, MapReduce, HDFS, Hive, Python, Pig, Sqoop, Cloudera, Shell Scripting,
+Java (JDK 1.6), Java 6, Oracle 10g, PL/SQL, SQL*PLUS",Applicant 1
+Hadoop,"Skill Set: Hadoop, Map Reduce, HDFS, Hive, Sqoop, java. Duration: 2016 to 2017. Role: Hadoop Developer Rplus offers an quick, simple and powerful cloud based Solution, Demand Sense to accurately predict demand for your product in all your markets which Combines Enterprise and External Data to predict demand more accurately through Uses Social Conversation and Sentiments to derive demand and Identifies significant drivers of sale out of hordes of factors that Selects the best suited model out of multiple forecasting models for each product. Responsibilities: â¢ Involved in deploying the product for customers, gathering requirements and algorithm optimization at backend of the product. â¢ Load and transform Large Datasets of structured semi structured. â¢ Responsible to manage data coming from different sources and application â¢ Supported Map Reduce Programs those are running on the cluster â¢ Involved in creating Hive tables, loading with data and writing hive queries which will run internally in map reduce way.Education Details 
+
+Hadoop Developer 
+
+Hadoop Developer - Braindatawire
+Skill Details 
+APACHE HADOOP HDFS- Exprience - 49 months
+APACHE HADOOP SQOOP- Exprience - 49 months
+Hadoop- Exprience - 49 months
+HADOOP- Exprience - 49 months
+HADOOP DISTRIBUTED FILE SYSTEM- Exprience - 49 monthsCompany Details 
+company - Braindatawire
+description - Technical Skills:
+â¢   Programming: Core Java, Map Reduce, Scala
+â¢   Hadoop Tools: HDFS, Spark, Map Reduce, Sqoop, Hive, Hbase
+â¢   Database: MySQL, Oracle
+â¢   Scripting: Shell Scripting
+â¢   IDE: Eclipse
+â¢   Operating Systems: Linux (CentOS), Windows
+â¢   Source Control: Git (Github)",Applicant 2
+Hadoop,"â¢ Operating systems:-Linux- Ubuntu, Windows 2007/08 â¢ Other tools:- Tableau, SVN, Beyond Compare.Education Details 
+January 2016 Bachelors of Engineering Engineering  Gujarat Technological University
+Systems Engineer/Hadoop Developer 
+
+Systems Engineer/Hadoop Developer - Tata Consultancy Services
+Skill Details 
+Hadoop,Spark,Sqoop,Hive,Flume,Pig- Exprience - 24 monthsCompany Details 
+company - Tata Consultancy Services
+description - Roles and responsibility:
+
+Working for a American pharmaceutical company (one of the world's premier
+biopharmaceutical) who develops and produces medicines and vaccines for a wide range of medical
+disciplines, including immunology, oncology, cardiology, endocrinology, and neurology. To handle large
+amount of United Healthcare data big data analytics is used. Data from all possible data sources like records of all Patients(Old and New), records of medicines, Treatment Pathways & Patient Journey for
+Health Outcomes, Patient Finder (or Rare Disease Patient Finder), etc being gathered, stored and processed at one place.
+
+â¢     Worked on cluster with specs as:
+o    Cluster Architecture: Fully
+Distributed Package Used:
+CDH3
+o    Cluster Capacity: 20 TB
+o    No. of Nodes: 10 Data Nodes + 3 Masters + NFS Backup For NN
+
+â¢     Developed proof of concepts for enterprise adoption of Hadoop.
+â¢   Used SparkAPI over Cloudera Hadoop YARN to perform analytics on the Healthcare data in Cloudera
+distribution.
+â¢   Responsible for cluster maintenance, adding and removing cluster nodes, cluster monitoring and trouble-shooting, manage and review data backups, and reviewing Hadoop log files.
+â¢   Imported & exported large data sets of data into HDFS and vice-versa using sqoop.
+â¢   Involved developing the Pig scripts and Hive Reports
+â¢   Worked on Hive partition and bucketing concepts and created hive external and Internal tables with Hive
+partition.Monitoring Hadoop scripts which take the input from HDFS and load the data into Hive.
+â¢   Developed Spark scripts by using Scala shell commands as per the requirement and worked with both
+Data frames/SQL/Data sets and RDD/MapReduce in Spark. Optimizing of existing algorithms in Hadoop
+using SparkContext, Spark-SQL, Data Frames and RDD's.
+â¢   Collaborated with infrastructure, network, database, application and BI to ensure data, quality and availability.
+â¢   Developed reports using TABLEAU and exported data to HDFS and hive using Sqoop.
+â¢   Used ORC & Parquet file formats for serialization of data, and Snappy for the compression of the data.
+
+Achievements
+
+â¢   Appreciation for showing articulate leadership qualities in doing work with the team.
+â¢   Completed the internal certification of TCS Certified Hadoop Developer.
+
+Ongoing Learning
+â¢   Preparing and scheduled the Cloudera Certified Spark Developer CCA 175.",Applicant 3
+Hadoop,"Areas of expertise â¢ Big Data Ecosystems: Hadoop-HDFS, MapReduce, Hive, Pig, Sqoop, HBase Oozie, Spark, Pyspark, HUE and having knowledge on cassandra â¢ Programming Languages: Python, Core Java and have an idea on Scala â¢ Databases: Oracle 10g, MySQL, Sqlserver NoSQL - HBase, Cassandra â¢ Tools: Eclipse, Toad, FTP, Tectia, Putty, Autosys, Anaconda, Jupyter notebool and Devops - RTC, RLM. â¢ Scripting Languages: JSP â¢ Platforms: Windows, UnixEducation Details 
+ M.Tech (IT-DBS) B.Tech (CSE)  SRM University
+Software Engineer 
+
+Software Engineer - Larsen and Toubro
+Skill Details 
+Company Details 
+company - Larsen and Toubro
+description - Worked as a Software Engineer in Technosoft Corporation, Chennai from Aug 2015 to sep 2016.
+company - Current Project
+description - Duration: September 2016 to Till date
+Vendor: Citi bank
+Description:
+Citibank's (Citi) Anti-Money Laundering (AML) Transaction Monitoring (TM) program is a future state solution and a rules-based system for transaction monitoring of ICG-Markets business.
+Roles and Responesbilities:
+â¢ Building and providing domain knowledge for Anti Money Laundering among team members.
+â¢ The layered architecture has Data Warehouse and Workspace layers which are used by Business Analysts.
+â¢ Actively involved in designing of star-schema model involving various Dimensions and Fact tables.
+â¢ Designed SCD2 for maintaining history of the DIM data.
+â¢ Developing Hive Queries for mapping data between different layers of architecture, and it's usage in Oozie Workflows.
+â¢ Integration with Data Quality and Reconciliation Module.
+â¢ Regression and Integration testing of solution for any issues in integration with other modules and effectively testing the data flow from layer-to-layer.
+â¢ Transaction monitoring system development to generate Alerts for the suspicious and fraudulent transactions based on requirements provide by BAs.
+â¢ Developing spark Jobs for various business rules.
+â¢ Learning ""Machine Learning"", which will be used further in the project for developing an effective model for Fraud detection for Anti Money Laundering system.
+â¢ Scheduling Jobs using Autosys tool.
+â¢ Deployment and Code Management using RTC and RLM(Release Lifecycle Management)
+
+Hadoop Developer
+#  Current Project: PRTS - RAN
+Environment: Hadoop 2.x, HDFS, Yarn, Hive, Sqoop, HBase, Tez, Tableau, Sqlserver, Teradata
+Cluster Size: 96 Node Cluster.
+Distribution: Horton works - HDP2.3
+company - Alcatel lucent
+description - 1X) and  Ruckus Wireless
+Description:
+The scope of this project is to maintain and store the operational and parameters data collected from the multiple vendors networks by the mediation team into the OMS data store and make it available for RF engineers to boost the network performance.
+Responsibilities:
+â¢ Working with Hadoop Distributed File System.
+â¢ Involved in importing data from MySQL to HDFS using SQOOP.
+â¢ Involved in creating Hive tables, loading with data and writing hive queries which will run  on top of  Tez execution Engine.
+â¢ Involved in Preparing Test cases Document.
+â¢ Involved in Integrating Hive and HBase to store the operational data.
+â¢ Monitoring the Jobs through Oozie.
+company - Current Project
+description - Anti - Money laundering
+Environment: Hadoop 2.x, HDFS, Yarn, Hive, Oozie, Spark, Unix, Autosys, Python, RTC, RLM, ETL Framwe work
+Cluster Size: 56 Node Cluster.
+Distribution: Cloudera 5.9.14",Applicant 4
+Hadoop,"Technical Skill Set: Programming Languages Apache Hadoop, Python, shell scripting, SQL Technologies Hive, Pig, Sqoop, Flume, Oozie, Impala, hdfs Tools Dataiku, Unravel, Cloudera, Putty, HUE, Cloudera Manager, Eclipse, Resource Manager Initial Learning Program: Tata Consultancy Services: June 2015 to August 2015 Description: This is a learning program conducted by TCS for the newly joined employees, to accomplish them to learn the working standard of the organization. During this period employee are groomed with various technical as well as ethical aspects. Education Details 
+ B.E. Electronics & Communication Indore, Madhya Pradesh Medi-caps Institute of Technology & Management
+Hadoop developer 
+
+hadoop,hive,sqoop,flume,pig,mapreduce,python,impala,spark,scala,sql,unix.
+Skill Details 
+APACHE HADOOP SQOOP- Exprience - 31 months
+Hadoop- Exprience - 31 months
+HADOOP- Exprience - 31 months
+Hive- Exprience - 31 months
+SQOOP- Exprience - 31 months
+python- Exprience - Less than 1 year months
+hdfs- Exprience - Less than 1 year months
+unix- Exprience - Less than 1 year months
+impala- Exprience - Less than 1 year months
+pig- Exprience - Less than 1 year months
+unravel- Exprience - Less than 1 year months
+mapreduce- Exprience - Less than 1 year months
+dataiku- Exprience - Less than 1 year monthsCompany Details 
+company - Tata Consultancy Services
+description - Project Description
+Data warehouse division has multiple products for injecting, storing, analysing and presenting data. The Data Lake program is started to provide multi-talent, secure data hub to store application's data on Hadoop platform with strong data governance, lineage, auditing and monitoring capabilities. The object of the project is to provide necessary engineering support to analytics and application teams so that they can focus on the business logic development. In this project, the major task is to set up the Hadoop cluster and govern all the activities which are required for the smooth functioning of various Hadoop ecosystems. As the day and day data increasing so to provide stability to the ecosystem and smooth working of it, Developing and automating the various requirement specific utilities.
+
+Responsibility 1. Developed proactive Health Check utility for Data Lake. The utility proactively checks the smooth functioning of all Hadoop components on the cluster and sends the result to email in HTML format. The utility is being used for daily Health Checks as well as after upgrades.
+2. Getting the data in different formats and processing the data in Hadoop ecosystem after filtering the data using the appropriate techniques.
+3. Developed data pipeline utility to ingest data from RDBMS database to Hive external tables using Sqoop commands. The utility also offers the data quality check like row count validation.
+4. Developed and automated various cluster health check, usage, capacity related reports using Unix shell scripting.
+5. Optimization of hive queries in order to increase the performance and minimize the Hadoop resource utilizations.
+6. Creating flume agents to process the data to Hadoop ecosystem side.
+7. Performed benchmark testing on the Hive Queries and impala queries.
+8. Involved in setting up the cluster and its components like edge node and HA implementation of the services: Hive Server2, Impala, and HDFS.
+9. Filtering the required data from available data using different technologies like pig, regex Serde etc.
+10. Dataiku benchmark testing on top of impala and hive in compare to Greenplum database.
+11. Moving the data from Greenplum database to Hadoop side with help of Sqoop pipeline, process the data to Hadoop side and storing the data into hive tables to do the performance testing.
+12. Dealing with the Hadoop ecosystem related issues in order to provide stability to WM Hadoop ecosystem.
+13. Rescheduling of job from autosys job hosting to TWS job hosting for better performance.
+
+Declaration:
+I hereby declare that the above mentioned information is authentic to the best of my knowledge
+company - Tata Consultancy Services
+description - Clients: 1. Barclays 2. Union bank of California (UBC) 3. Morgan Stanley (MS)
+
+KEY PROJECTS HANDLED
+Project Name ABSA- Reconciliations, UBC and WMDATALAKE COE
+company - Tata Consultancy Services
+description - Project Description
+Migration of data from RDBMS database to Hive (Hadoop ecosystem) . Hadoop platform ability with strong data governance, lineage, auditing and monitoring capabilities. The objective of this project was to speed up the data processing so that the analysis and decision making become easy. Due to RDBMS limitations to process waste amount of data at once and produce the results at the earliest, Client wanted to move the data to Hadoop ecosystem so that they can over-come from those limitations and focus on business improvement only.
+
+Responsibility 1. Optimising the SQL queries for those data which were not required to move from RDBMS to any other platform.
+2. Writing the Hive queries and logic to move the data from RDBMS to Hadoop ecosystem.
+3. Writing the hive queries to analyse the required data as per the business requirements.
+4. Optimization of hive queries in order to increase the performance and minimize the Hadoop resource utilizations.
+5. Writing the sqoop commands and scripts to move the data from RDBMS to Hadoop side.
+company - Tata Consultancy Services
+description - Project Description
+Create recs and migrating static setup of reconciliations from 8.1 version to 9.1 version of the environment Intellimatch.
+
+Responsibility 1. Have worked on extracting business requirements, analyzing and implementing them in developing Recs 2. Worked on migrating static setup of reconciliations from 8.1 version to 9.1 version of the environment Intellimatch.
+3. Done the back end work where most of the things were related to writing the sql queries and provide the data for the new recs.
+
+Project Name   PSO",Applicant 5
+Hadoop,"Technical Skills Programming Languages: C, C++, Java, .Net., J2EE, HTML5, CSS, MapReduce Scripting Languages: Javascript, Python Databases: Oracle (PL-SQL), MY-SQL, IBM DB2 Tools:IBM Rational Rose, R, Weka Operating Systems: Windows XP, Vista, UNIX, Windows 7, Red Hat 7Education Details 
+January 2015 B.E  Pimpri Chinchwad, MAHARASHTRA, IN Pimpri Chinchwad College of Engineering
+January 2012 Diploma MSBTE  Dnyanganaga Polytechnic
+ S.S.C   New English School Takali
+Hadoop/Big Data Developer 
+
+Hadoop/Big Data Developer - British Telecom
+Skill Details 
+APACHE HADOOP MAPREDUCE- Exprience - 37 months
+MapReduce- Exprience - 37 months
+MAPREDUCE- Exprience - 37 months
+JAVA- Exprience - 32 months
+.NET- Exprience - 6 monthsCompany Details 
+company - British Telecom
+description - Project: British Telecom project (UK)
+Responsibilities:
+â¢ Working on HDFS, MapReduce, Hive, Spark, Scala, Sqoop, Kerberos etc. technologies
+â¢ Implemented various data mining algorithms on Spark like K-means clustering, Random forest, NaÃ¯ve bayes etc.
+â¢ A knowledge of installing, configuring, maintaining and securing Hadoop.
+company - DXC technology
+description - HPE legacy), Bangalore
+â¢ Worked on Hadoop + Java programming
+â¢ Worked on Azure and AWS (EMR) services.
+â¢ Worked on HDInsight Hadoop cluster..
+â¢ Design, develop, document and architect Hadoop applications
+â¢ Develop MapReduce coding that works seamlessly on Hadoop clusters.
+â¢ Analyzing and processing the large data sets on HDFS.
+â¢ An analytical bent of mind and ability to learn-unlearn-relearn surely comes in handy.",Applicant 6
+Hadoop,"Technical Skill Set Big Data Ecosystems: Hadoop, HDFS, HBase, Map Reduce, Sqoop, Hive, Pig, Spark-Core, Flume. Other Language: Scala, Core-Java, SQL, PLSQL, Sell Scripting ETL Tools: Informatica Power Center8.x/9.6, Talend 5.6 Tools: Eclipse, Intellij Idea. Platforms: Windows Family, Linux /UNIX, Cloudera. Databases: MySQL, Oracle.10/11gEducation Details 
+ M.C.A  Pune, MAHARASHTRA, IN Pune University
+Hodoop Developer 
+
+Hodoop Developer - PRGX India Private Limited Pune
+Skill Details 
+Company Details 
+company - PRGX India Private Limited Pune
+description - Team Size: 10+
+Environment: Hive, Spark, Sqoop, Scala and Flume.
+
+Project Description:
+The bank wanted to help its customers to avail different products of the bank through analyzing their expenditure behavior. The customers spending ranges from online shopping, medical expenses in hospitals, cash transactions, and debit card usage etc. the behavior allows the bank to create an analytical report and based on which the bank used to display the product offers on the customer portal which was built using java. The portal allows the customers to login and see their transactions which they make on a day to day basis .the analytics also help the customers plan their budgets through the budget watch and my financial forecast applications embedded into the portal. The portal used hadoop framework to analyes the data as per the rules and regulations placed by the regulators from the respective countries. The offers and the interest rates also complied with the regulations and all these processing was done using the hadoop framework as big data analytics system.
+
+Role & Responsibilities:
+â Import data from legacy system to hadoop using Sqoop, flume.
+â Implement the business logic to analyses  the data
+â Per-process data using spark.
+â Create hive script and loading data into hive.
+â Sourcing various attributes to the data processing logic to retrieve the correct results.
+
+Project 2
+company - PRGX India Private Limited Pune
+description - 
+company - PRGX India Private Limited Pune
+description - Team Size: 11+
+Environment: Hadoop, HDFS, Hive, Sqoop, MySQL, Map Reduce
+
+Project Description:-
+The Purpose of this project is to store terabytes of information from the web application and extract meaningful information out of it.the solution was based on the open source s/w hadoop. The data will be stored in hadoop file system and processed using Map/Reduce jobs. Which in trun includes getting the raw html data from the micro websites, process the html to obtain product and user information, extract various reports out of the vistor tracking information and export the information for further processing
+
+Role & Responsibilities:
+â Move all crawl data flat files generated from various micro sites to HDFS for further processing.
+â Sqoop implementation for interaction with database
+â Write Map Reduce scripts to process the data file.
+â Create hive tables to store the processed data in tabular formats.
+â Reports creation from hive data.
+
+Project 3
+company - PRGX India Private Limited Pune
+description - Team Size: 15+
+Environment: Informatica 9.5, Oracle11g, UNIX
+
+Project Description:
+Pfizer Inc. is an American global pharmaceutical corporation headquartered in New York City. The main objective of the project is to build a Development Data Repository for Pfizer Inc. Because all the downstream application are like Etrack, TSP database, RTS, SADMS, GFS, GDO having their own sql request on the OLTP system directly due to which the performance of OLTP system goes slows down. For this we have created a Development Data Repository to replace the entire sql request directly on the OLTP system. DDR process extracts all clinical, pre-clinical, study, product, subject, sites related information from the upstream applications like EPECS, CDSS, RCM, PRC, E-CLINICAL, EDH and after applying some business logic put it into DDR core tables. From these snapshot and dimensional layer are created which are used for reporting application.
+
+Role & Responsibilities:
+â To understand & analyze the requirement documents and resolve the queries.
+â To design Informatica mappings by using various basic transformations like Filter, Router, Source qualifier, Lookup etc and advance transformations like Aggregators, Joiner, Sorters and so on.
+â Perform cross Unit and Integration testing for mappings developed within the team. Reporting bugs and bug fixing.
+â Create workflow/batches and set the session dependencies.
+â Implemented Change Data Capture using mapping parameters, SCD and SK generation.
+â Developed Mapplet, reusable transformations to populate the data into data warehouse.
+â Created Sessions & Worklets using workflow Manager to load the data into the Target Database.
+â Involved in Unit Case Testing (UTC)
+â Performing Unit Testing and UAT for SCD Type1/Type2, fact load and CDC implementation.
+
+Personal Scan
+
+Address: Jijayi Heights, Flat no 118, Narhe, (Police chowki) Pune- 411041",Applicant 7
+Hadoop,"Education Details 
+
+Hadoop Developer 
+
+Hadoop Developer - INFOSYS
+Skill Details 
+Company Details 
+company - INFOSYS
+description - Project Description: The banking information had stored the data in different data ware house systems for each department but it becomes difficult for the organization to manage the data and to perform some analytics on the past data, so it is combined them into a single global repository in Hadoop for analysis.
+
+Responsibilities:
+â¢       Analyze the banking rates data set.
+â¢       Create specification document.
+â¢       Provide effort estimation.
+â¢       Develop SPARK Scala, SPARK SQL Programs using Eclipse IDE on Windows/Linux environment.
+â¢       Create KPI's test scenarios, test cases, test result document.
+â¢       Test the Scala programs in Linux Spark Standalone mode.
+â¢       setup multi cluster on AWS, deploy the Spark Scala programs
+â¢       Provided solution using Hadoop ecosystem - HDFS, MapReduce, Pig, Hive, HBase, and Zookeeper.
+â¢       Provided solution using large scale server-side systems with distributed processing algorithms.
+â¢       Created reports for the BI team using Sqoop to export data into HDFS and Hive.
+â¢       Provided solution in supporting and assisting in troubleshooting and optimization of MapReduce jobs and
+Pig Latin scripts.
+â¢       Deep understanding of Hadoop design principles, cluster connectivity, security and the factors that affect
+system performance.
+â¢       Worked on Importing and exporting data from different databases like Oracle, Teradata into HDFS and Hive
+using Sqoop, TPT and Connect Direct.
+â¢       Import and export the data from RDBMS to HDFS/HBASE
+â¢       Wrote script and placed it in client side so that the data moved to HDFS will be stored in temporary file and then it will start loading it in hive tables.
+â¢       Developed the Sqoop scripts in order to make the interaction between Pig and MySQL Database.
+â¢       Involved in developing the Hive Reports, Partitions of Hive tables.
+â¢       Created and maintained technical documentation for launching HADOOP Clusters and for executing HIVE
+queries and PIG scripts.
+â¢       Involved in running Hadoop jobs for processing millions of records of text data
+
+Environment: Java, Hadoop, HDFS, Map-Reduce, Pig, Hive, Sqoop, Flume, Oozie, HBase, Spark, Scala,
+Linux, NoSQL, Storm, Tomcat, Putty, SVN, GitHub, IBM WebSphere v8.5.
+
+Project #1: TELECOMMUNICATIONS
+Hadoop Developer
+
+Description To identify customers who are likely to churn and 360-degree view of the customer is created from different heterogeneous data sources. The data is brought into data lake (HDFS) from different sources and analyzed using different Hadoop tools like pig and hive.
+
+Responsibilities:
+â¢       Installed and Configured Apache Hadoop tools like Hive, Pig, HBase and Sqoop for application development and unit testing.
+â¢       Wrote MapReduce jobs to discover trends in data usage by users.
+â¢       Involved in database connection using SQOOP.
+â¢       Involved in creating Hive tables, loading data and writing hive queries Using the HiveQL.
+â¢       Involved in partitioning and joining Hive tables for Hive query optimization.
+â¢       Experienced in SQL DB Migration to HDFS.
+â¢       Used NoSQL(HBase) for faster performance, which maintains the data in the De-Normalized way for OLTP.
+â¢       The data is collected from distributed sources into Avro models. Applied transformations and standardizations and loaded into HBase for further data processing.
+â¢       Experienced in defining job flows.
+â¢       Used Oozie to orchestrate the workflow.
+â¢       Implemented Fair schedulers on the Job tracker to share the resources of the Cluster for the Map Reduce
+jobs given by the users.
+â¢       Exported the analyzed data to the relational databases using HIVE for visualization and to generate reports for the BI team.
+
+Environment: Hadoop, Hive, Linux, MapReduce, HDFS, Hive, Python, Pig, Sqoop, Cloudera, Shell Scripting,
+Java (JDK 1.6), Java 6, Oracle 10g, PL/SQL, SQL*PLUS",Applicant 8
+Hadoop,"Skill Set: Hadoop, Map Reduce, HDFS, Hive, Sqoop, java. Duration: 2016 to 2017. Role: Hadoop Developer Rplus offers an quick, simple and powerful cloud based Solution, Demand Sense to accurately predict demand for your product in all your markets which Combines Enterprise and External Data to predict demand more accurately through Uses Social Conversation and Sentiments to derive demand and Identifies significant drivers of sale out of hordes of factors that Selects the best suited model out of multiple forecasting models for each product. Responsibilities: â¢ Involved in deploying the product for customers, gathering requirements and algorithm optimization at backend of the product. â¢ Load and transform Large Datasets of structured semi structured. â¢ Responsible to manage data coming from different sources and application â¢ Supported Map Reduce Programs those are running on the cluster â¢ Involved in creating Hive tables, loading with data and writing hive queries which will run internally in map reduce way.Education Details 
+
+Hadoop Developer 
+
+Hadoop Developer - Braindatawire
+Skill Details 
+APACHE HADOOP HDFS- Exprience - 49 months
+APACHE HADOOP SQOOP- Exprience - 49 months
+Hadoop- Exprience - 49 months
+HADOOP- Exprience - 49 months
+HADOOP DISTRIBUTED FILE SYSTEM- Exprience - 49 monthsCompany Details 
+company - Braindatawire
+description - Technical Skills:
+â¢   Programming: Core Java, Map Reduce, Scala
+â¢   Hadoop Tools: HDFS, Spark, Map Reduce, Sqoop, Hive, Hbase
+â¢   Database: MySQL, Oracle
+â¢   Scripting: Shell Scripting
+â¢   IDE: Eclipse
+â¢   Operating Systems: Linux (CentOS), Windows
+â¢   Source Control: Git (Github)",Applicant 9
+Hadoop,"â¢ Operating systems:-Linux- Ubuntu, Windows 2007/08 â¢ Other tools:- Tableau, SVN, Beyond Compare.Education Details 
+January 2016 Bachelors of Engineering Engineering  Gujarat Technological University
+Systems Engineer/Hadoop Developer 
+
+Systems Engineer/Hadoop Developer - Tata Consultancy Services
+Skill Details 
+Hadoop,Spark,Sqoop,Hive,Flume,Pig- Exprience - 24 monthsCompany Details 
+company - Tata Consultancy Services
+description - Roles and responsibility:
+
+Working for a American pharmaceutical company (one of the world's premier
+biopharmaceutical) who develops and produces medicines and vaccines for a wide range of medical
+disciplines, including immunology, oncology, cardiology, endocrinology, and neurology. To handle large
+amount of United Healthcare data big data analytics is used. Data from all possible data sources like records of all Patients(Old and New), records of medicines, Treatment Pathways & Patient Journey for
+Health Outcomes, Patient Finder (or Rare Disease Patient Finder), etc being gathered, stored and processed at one place.
+
+â¢     Worked on cluster with specs as:
+o    Cluster Architecture: Fully
+Distributed Package Used:
+CDH3
+o    Cluster Capacity: 20 TB
+o    No. of Nodes: 10 Data Nodes + 3 Masters + NFS Backup For NN
+
+â¢     Developed proof of concepts for enterprise adoption of Hadoop.
+â¢   Used SparkAPI over Cloudera Hadoop YARN to perform analytics on the Healthcare data in Cloudera
+distribution.
+â¢   Responsible for cluster maintenance, adding and removing cluster nodes, cluster monitoring and trouble-shooting, manage and review data backups, and reviewing Hadoop log files.
+â¢   Imported & exported large data sets of data into HDFS and vice-versa using sqoop.
+â¢   Involved developing the Pig scripts and Hive Reports
+â¢   Worked on Hive partition and bucketing concepts and created hive external and Internal tables with Hive
+partition.Monitoring Hadoop scripts which take the input from HDFS and load the data into Hive.
+â¢   Developed Spark scripts by using Scala shell commands as per the requirement and worked with both
+Data frames/SQL/Data sets and RDD/MapReduce in Spark. Optimizing of existing algorithms in Hadoop
+using SparkContext, Spark-SQL, Data Frames and RDD's.
+â¢   Collaborated with infrastructure, network, database, application and BI to ensure data, quality and availability.
+â¢   Developed reports using TABLEAU and exported data to HDFS and hive using Sqoop.
+â¢   Used ORC & Parquet file formats for serialization of data, and Snappy for the compression of the data.
+
+Achievements
+
+â¢   Appreciation for showing articulate leadership qualities in doing work with the team.
+â¢   Completed the internal certification of TCS Certified Hadoop Developer.
+
+Ongoing Learning
+â¢   Preparing and scheduled the Cloudera Certified Spark Developer CCA 175.",Applicant 10
+Hadoop,"Areas of expertise â¢ Big Data Ecosystems: Hadoop-HDFS, MapReduce, Hive, Pig, Sqoop, HBase Oozie, Spark, Pyspark, HUE and having knowledge on cassandra â¢ Programming Languages: Python, Core Java and have an idea on Scala â¢ Databases: Oracle 10g, MySQL, Sqlserver NoSQL - HBase, Cassandra â¢ Tools: Eclipse, Toad, FTP, Tectia, Putty, Autosys, Anaconda, Jupyter notebool and Devops - RTC, RLM. â¢ Scripting Languages: JSP â¢ Platforms: Windows, UnixEducation Details 
+ M.Tech (IT-DBS) B.Tech (CSE)  SRM University
+Software Engineer 
+
+Software Engineer - Larsen and Toubro
+Skill Details 
+Company Details 
+company - Larsen and Toubro
+description - Worked as a Software Engineer in Technosoft Corporation, Chennai from Aug 2015 to sep 2016.
+company - Current Project
+description - Duration: September 2016 to Till date
+Vendor: Citi bank
+Description:
+Citibank's (Citi) Anti-Money Laundering (AML) Transaction Monitoring (TM) program is a future state solution and a rules-based system for transaction monitoring of ICG-Markets business.
+Roles and Responesbilities:
+â¢ Building and providing domain knowledge for Anti Money Laundering among team members.
+â¢ The layered architecture has Data Warehouse and Workspace layers which are used by Business Analysts.
+â¢ Actively involved in designing of star-schema model involving various Dimensions and Fact tables.
+â¢ Designed SCD2 for maintaining history of the DIM data.
+â¢ Developing Hive Queries for mapping data between different layers of architecture, and it's usage in Oozie Workflows.
+â¢ Integration with Data Quality and Reconciliation Module.
+â¢ Regression and Integration testing of solution for any issues in integration with other modules and effectively testing the data flow from layer-to-layer.
+â¢ Transaction monitoring system development to generate Alerts for the suspicious and fraudulent transactions based on requirements provide by BAs.
+â¢ Developing spark Jobs for various business rules.
+â¢ Learning ""Machine Learning"", which will be used further in the project for developing an effective model for Fraud detection for Anti Money Laundering system.
+â¢ Scheduling Jobs using Autosys tool.
+â¢ Deployment and Code Management using RTC and RLM(Release Lifecycle Management)
+
+Hadoop Developer
+#  Current Project: PRTS - RAN
+Environment: Hadoop 2.x, HDFS, Yarn, Hive, Sqoop, HBase, Tez, Tableau, Sqlserver, Teradata
+Cluster Size: 96 Node Cluster.
+Distribution: Horton works - HDP2.3
+company - Alcatel lucent
+description - 1X) and  Ruckus Wireless
+Description:
+The scope of this project is to maintain and store the operational and parameters data collected from the multiple vendors networks by the mediation team into the OMS data store and make it available for RF engineers to boost the network performance.
+Responsibilities:
+â¢ Working with Hadoop Distributed File System.
+â¢ Involved in importing data from MySQL to HDFS using SQOOP.
+â¢ Involved in creating Hive tables, loading with data and writing hive queries which will run  on top of  Tez execution Engine.
+â¢ Involved in Preparing Test cases Document.
+â¢ Involved in Integrating Hive and HBase to store the operational data.
+â¢ Monitoring the Jobs through Oozie.
+company - Current Project
+description - Anti - Money laundering
+Environment: Hadoop 2.x, HDFS, Yarn, Hive, Oozie, Spark, Unix, Autosys, Python, RTC, RLM, ETL Framwe work
+Cluster Size: 56 Node Cluster.
+Distribution: Cloudera 5.9.14",Applicant 11
+Hadoop,"Technical Skill Set: Programming Languages Apache Hadoop, Python, shell scripting, SQL Technologies Hive, Pig, Sqoop, Flume, Oozie, Impala, hdfs Tools Dataiku, Unravel, Cloudera, Putty, HUE, Cloudera Manager, Eclipse, Resource Manager Initial Learning Program: Tata Consultancy Services: June 2015 to August 2015 Description: This is a learning program conducted by TCS for the newly joined employees, to accomplish them to learn the working standard of the organization. During this period employee are groomed with various technical as well as ethical aspects. Education Details 
+ B.E. Electronics & Communication Indore, Madhya Pradesh Medi-caps Institute of Technology & Management
+Hadoop developer 
+
+hadoop,hive,sqoop,flume,pig,mapreduce,python,impala,spark,scala,sql,unix.
+Skill Details 
+APACHE HADOOP SQOOP- Exprience - 31 months
+Hadoop- Exprience - 31 months
+HADOOP- Exprience - 31 months
+Hive- Exprience - 31 months
+SQOOP- Exprience - 31 months
+python- Exprience - Less than 1 year months
+hdfs- Exprience - Less than 1 year months
+unix- Exprience - Less than 1 year months
+impala- Exprience - Less than 1 year months
+pig- Exprience - Less than 1 year months
+unravel- Exprience - Less than 1 year months
+mapreduce- Exprience - Less than 1 year months
+dataiku- Exprience - Less than 1 year monthsCompany Details 
+company - Tata Consultancy Services
+description - Project Description
+Data warehouse division has multiple products for injecting, storing, analysing and presenting data. The Data Lake program is started to provide multi-talent, secure data hub to store application's data on Hadoop platform with strong data governance, lineage, auditing and monitoring capabilities. The object of the project is to provide necessary engineering support to analytics and application teams so that they can focus on the business logic development. In this project, the major task is to set up the Hadoop cluster and govern all the activities which are required for the smooth functioning of various Hadoop ecosystems. As the day and day data increasing so to provide stability to the ecosystem and smooth working of it, Developing and automating the various requirement specific utilities.
+
+Responsibility 1. Developed proactive Health Check utility for Data Lake. The utility proactively checks the smooth functioning of all Hadoop components on the cluster and sends the result to email in HTML format. The utility is being used for daily Health Checks as well as after upgrades.
+2. Getting the data in different formats and processing the data in Hadoop ecosystem after filtering the data using the appropriate techniques.
+3. Developed data pipeline utility to ingest data from RDBMS database to Hive external tables using Sqoop commands. The utility also offers the data quality check like row count validation.
+4. Developed and automated various cluster health check, usage, capacity related reports using Unix shell scripting.
+5. Optimization of hive queries in order to increase the performance and minimize the Hadoop resource utilizations.
+6. Creating flume agents to process the data to Hadoop ecosystem side.
+7. Performed benchmark testing on the Hive Queries and impala queries.
+8. Involved in setting up the cluster and its components like edge node and HA implementation of the services: Hive Server2, Impala, and HDFS.
+9. Filtering the required data from available data using different technologies like pig, regex Serde etc.
+10. Dataiku benchmark testing on top of impala and hive in compare to Greenplum database.
+11. Moving the data from Greenplum database to Hadoop side with help of Sqoop pipeline, process the data to Hadoop side and storing the data into hive tables to do the performance testing.
+12. Dealing with the Hadoop ecosystem related issues in order to provide stability to WM Hadoop ecosystem.
+13. Rescheduling of job from autosys job hosting to TWS job hosting for better performance.
+
+Declaration:
+I hereby declare that the above mentioned information is authentic to the best of my knowledge
+company - Tata Consultancy Services
+description - Clients: 1. Barclays 2. Union bank of California (UBC) 3. Morgan Stanley (MS)
+
+KEY PROJECTS HANDLED
+Project Name ABSA- Reconciliations, UBC and WMDATALAKE COE
+company - Tata Consultancy Services
+description - Project Description
+Migration of data from RDBMS database to Hive (Hadoop ecosystem) . Hadoop platform ability with strong data governance, lineage, auditing and monitoring capabilities. The objective of this project was to speed up the data processing so that the analysis and decision making become easy. Due to RDBMS limitations to process waste amount of data at once and produce the results at the earliest, Client wanted to move the data to Hadoop ecosystem so that they can over-come from those limitations and focus on business improvement only.
+
+Responsibility 1. Optimising the SQL queries for those data which were not required to move from RDBMS to any other platform.
+2. Writing the Hive queries and logic to move the data from RDBMS to Hadoop ecosystem.
+3. Writing the hive queries to analyse the required data as per the business requirements.
+4. Optimization of hive queries in order to increase the performance and minimize the Hadoop resource utilizations.
+5. Writing the sqoop commands and scripts to move the data from RDBMS to Hadoop side.
+company - Tata Consultancy Services
+description - Project Description
+Create recs and migrating static setup of reconciliations from 8.1 version to 9.1 version of the environment Intellimatch.
+
+Responsibility 1. Have worked on extracting business requirements, analyzing and implementing them in developing Recs 2. Worked on migrating static setup of reconciliations from 8.1 version to 9.1 version of the environment Intellimatch.
+3. Done the back end work where most of the things were related to writing the sql queries and provide the data for the new recs.
+
+Project Name   PSO",Applicant 12
+Hadoop,"Technical Skills Programming Languages: C, C++, Java, .Net., J2EE, HTML5, CSS, MapReduce Scripting Languages: Javascript, Python Databases: Oracle (PL-SQL), MY-SQL, IBM DB2 Tools:IBM Rational Rose, R, Weka Operating Systems: Windows XP, Vista, UNIX, Windows 7, Red Hat 7Education Details 
+January 2015 B.E  Pimpri Chinchwad, MAHARASHTRA, IN Pimpri Chinchwad College of Engineering
+January 2012 Diploma MSBTE  Dnyanganaga Polytechnic
+ S.S.C   New English School Takali
+Hadoop/Big Data Developer 
+
+Hadoop/Big Data Developer - British Telecom
+Skill Details 
+APACHE HADOOP MAPREDUCE- Exprience - 37 months
+MapReduce- Exprience - 37 months
+MAPREDUCE- Exprience - 37 months
+JAVA- Exprience - 32 months
+.NET- Exprience - 6 monthsCompany Details 
+company - British Telecom
+description - Project: British Telecom project (UK)
+Responsibilities:
+â¢ Working on HDFS, MapReduce, Hive, Spark, Scala, Sqoop, Kerberos etc. technologies
+â¢ Implemented various data mining algorithms on Spark like K-means clustering, Random forest, NaÃ¯ve bayes etc.
+â¢ A knowledge of installing, configuring, maintaining and securing Hadoop.
+company - DXC technology
+description - HPE legacy), Bangalore
+â¢ Worked on Hadoop + Java programming
+â¢ Worked on Azure and AWS (EMR) services.
+â¢ Worked on HDInsight Hadoop cluster..
+â¢ Design, develop, document and architect Hadoop applications
+â¢ Develop MapReduce coding that works seamlessly on Hadoop clusters.
+â¢ Analyzing and processing the large data sets on HDFS.
+â¢ An analytical bent of mind and ability to learn-unlearn-relearn surely comes in handy.",Applicant 13
+Hadoop,"Technical Skill Set Big Data Ecosystems: Hadoop, HDFS, HBase, Map Reduce, Sqoop, Hive, Pig, Spark-Core, Flume. Other Language: Scala, Core-Java, SQL, PLSQL, Sell Scripting ETL Tools: Informatica Power Center8.x/9.6, Talend 5.6 Tools: Eclipse, Intellij Idea. Platforms: Windows Family, Linux /UNIX, Cloudera. Databases: MySQL, Oracle.10/11gEducation Details 
+ M.C.A  Pune, MAHARASHTRA, IN Pune University
+Hodoop Developer 
+
+Hodoop Developer - PRGX India Private Limited Pune
+Skill Details 
+Company Details 
+company - PRGX India Private Limited Pune
+description - Team Size: 10+
+Environment: Hive, Spark, Sqoop, Scala and Flume.
+
+Project Description:
+The bank wanted to help its customers to avail different products of the bank through analyzing their expenditure behavior. The customers spending ranges from online shopping, medical expenses in hospitals, cash transactions, and debit card usage etc. the behavior allows the bank to create an analytical report and based on which the bank used to display the product offers on the customer portal which was built using java. The portal allows the customers to login and see their transactions which they make on a day to day basis .the analytics also help the customers plan their budgets through the budget watch and my financial forecast applications embedded into the portal. The portal used hadoop framework to analyes the data as per the rules and regulations placed by the regulators from the respective countries. The offers and the interest rates also complied with the regulations and all these processing was done using the hadoop framework as big data analytics system.
+
+Role & Responsibilities:
+â Import data from legacy system to hadoop using Sqoop, flume.
+â Implement the business logic to analyses  the data
+â Per-process data using spark.
+â Create hive script and loading data into hive.
+â Sourcing various attributes to the data processing logic to retrieve the correct results.
+
+Project 2
+company - PRGX India Private Limited Pune
+description - 
+company - PRGX India Private Limited Pune
+description - Team Size: 11+
+Environment: Hadoop, HDFS, Hive, Sqoop, MySQL, Map Reduce
+
+Project Description:-
+The Purpose of this project is to store terabytes of information from the web application and extract meaningful information out of it.the solution was based on the open source s/w hadoop. The data will be stored in hadoop file system and processed using Map/Reduce jobs. Which in trun includes getting the raw html data from the micro websites, process the html to obtain product and user information, extract various reports out of the vistor tracking information and export the information for further processing
+
+Role & Responsibilities:
+â Move all crawl data flat files generated from various micro sites to HDFS for further processing.
+â Sqoop implementation for interaction with database
+â Write Map Reduce scripts to process the data file.
+â Create hive tables to store the processed data in tabular formats.
+â Reports creation from hive data.
+
+Project 3
+company - PRGX India Private Limited Pune
+description - Team Size: 15+
+Environment: Informatica 9.5, Oracle11g, UNIX
+
+Project Description:
+Pfizer Inc. is an American global pharmaceutical corporation headquartered in New York City. The main objective of the project is to build a Development Data Repository for Pfizer Inc. Because all the downstream application are like Etrack, TSP database, RTS, SADMS, GFS, GDO having their own sql request on the OLTP system directly due to which the performance of OLTP system goes slows down. For this we have created a Development Data Repository to replace the entire sql request directly on the OLTP system. DDR process extracts all clinical, pre-clinical, study, product, subject, sites related information from the upstream applications like EPECS, CDSS, RCM, PRC, E-CLINICAL, EDH and after applying some business logic put it into DDR core tables. From these snapshot and dimensional layer are created which are used for reporting application.
+
+Role & Responsibilities:
+â To understand & analyze the requirement documents and resolve the queries.
+â To design Informatica mappings by using various basic transformations like Filter, Router, Source qualifier, Lookup etc and advance transformations like Aggregators, Joiner, Sorters and so on.
+â Perform cross Unit and Integration testing for mappings developed within the team. Reporting bugs and bug fixing.
+â Create workflow/batches and set the session dependencies.
+â Implemented Change Data Capture using mapping parameters, SCD and SK generation.
+â Developed Mapplet, reusable transformations to populate the data into data warehouse.
+â Created Sessions & Worklets using workflow Manager to load the data into the Target Database.
+â Involved in Unit Case Testing (UTC)
+â Performing Unit Testing and UAT for SCD Type1/Type2, fact load and CDC implementation.
+
+Personal Scan
+
+Address: Jijayi Heights, Flat no 118, Narhe, (Police chowki) Pune- 411041",Applicant 14
+Hadoop,"Education Details 
+
+Hadoop Developer 
+
+Hadoop Developer - INFOSYS
+Skill Details 
+Company Details 
+company - INFOSYS
+description - Project Description: The banking information had stored the data in different data ware house systems for each department but it becomes difficult for the organization to manage the data and to perform some analytics on the past data, so it is combined them into a single global repository in Hadoop for analysis.
+
+Responsibilities:
+â¢       Analyze the banking rates data set.
+â¢       Create specification document.
+â¢       Provide effort estimation.
+â¢       Develop SPARK Scala, SPARK SQL Programs using Eclipse IDE on Windows/Linux environment.
+â¢       Create KPI's test scenarios, test cases, test result document.
+â¢       Test the Scala programs in Linux Spark Standalone mode.
+â¢       setup multi cluster on AWS, deploy the Spark Scala programs
+â¢       Provided solution using Hadoop ecosystem - HDFS, MapReduce, Pig, Hive, HBase, and Zookeeper.
+â¢       Provided solution using large scale server-side systems with distributed processing algorithms.
+â¢       Created reports for the BI team using Sqoop to export data into HDFS and Hive.
+â¢       Provided solution in supporting and assisting in troubleshooting and optimization of MapReduce jobs and
+Pig Latin scripts.
+â¢       Deep understanding of Hadoop design principles, cluster connectivity, security and the factors that affect
+system performance.
+â¢       Worked on Importing and exporting data from different databases like Oracle, Teradata into HDFS and Hive
+using Sqoop, TPT and Connect Direct.
+â¢       Import and export the data from RDBMS to HDFS/HBASE
+â¢       Wrote script and placed it in client side so that the data moved to HDFS will be stored in temporary file and then it will start loading it in hive tables.
+â¢       Developed the Sqoop scripts in order to make the interaction between Pig and MySQL Database.
+â¢       Involved in developing the Hive Reports, Partitions of Hive tables.
+â¢       Created and maintained technical documentation for launching HADOOP Clusters and for executing HIVE
+queries and PIG scripts.
+â¢       Involved in running Hadoop jobs for processing millions of records of text data
+
+Environment: Java, Hadoop, HDFS, Map-Reduce, Pig, Hive, Sqoop, Flume, Oozie, HBase, Spark, Scala,
+Linux, NoSQL, Storm, Tomcat, Putty, SVN, GitHub, IBM WebSphere v8.5.
+
+Project #1: TELECOMMUNICATIONS
+Hadoop Developer
+
+Description To identify customers who are likely to churn and 360-degree view of the customer is created from different heterogeneous data sources. The data is brought into data lake (HDFS) from different sources and analyzed using different Hadoop tools like pig and hive.
+
+Responsibilities:
+â¢       Installed and Configured Apache Hadoop tools like Hive, Pig, HBase and Sqoop for application development and unit testing.
+â¢       Wrote MapReduce jobs to discover trends in data usage by users.
+â¢       Involved in database connection using SQOOP.
+â¢       Involved in creating Hive tables, loading data and writing hive queries Using the HiveQL.
+â¢       Involved in partitioning and joining Hive tables for Hive query optimization.
+â¢       Experienced in SQL DB Migration to HDFS.
+â¢       Used NoSQL(HBase) for faster performance, which maintains the data in the De-Normalized way for OLTP.
+â¢       The data is collected from distributed sources into Avro models. Applied transformations and standardizations and loaded into HBase for further data processing.
+â¢       Experienced in defining job flows.
+â¢       Used Oozie to orchestrate the workflow.
+â¢       Implemented Fair schedulers on the Job tracker to share the resources of the Cluster for the Map Reduce
+jobs given by the users.
+â¢       Exported the analyzed data to the relational databases using HIVE for visualization and to generate reports for the BI team.
+
+Environment: Hadoop, Hive, Linux, MapReduce, HDFS, Hive, Python, Pig, Sqoop, Cloudera, Shell Scripting,
+Java (JDK 1.6), Java 6, Oracle 10g, PL/SQL, SQL*PLUS",Applicant 15
+Hadoop,"Skill Set: Hadoop, Map Reduce, HDFS, Hive, Sqoop, java. Duration: 2016 to 2017. Role: Hadoop Developer Rplus offers an quick, simple and powerful cloud based Solution, Demand Sense to accurately predict demand for your product in all your markets which Combines Enterprise and External Data to predict demand more accurately through Uses Social Conversation and Sentiments to derive demand and Identifies significant drivers of sale out of hordes of factors that Selects the best suited model out of multiple forecasting models for each product. Responsibilities: â¢ Involved in deploying the product for customers, gathering requirements and algorithm optimization at backend of the product. â¢ Load and transform Large Datasets of structured semi structured. â¢ Responsible to manage data coming from different sources and application â¢ Supported Map Reduce Programs those are running on the cluster â¢ Involved in creating Hive tables, loading with data and writing hive queries which will run internally in map reduce way.Education Details 
+
+Hadoop Developer 
+
+Hadoop Developer - Braindatawire
+Skill Details 
+APACHE HADOOP HDFS- Exprience - 49 months
+APACHE HADOOP SQOOP- Exprience - 49 months
+Hadoop- Exprience - 49 months
+HADOOP- Exprience - 49 months
+HADOOP DISTRIBUTED FILE SYSTEM- Exprience - 49 monthsCompany Details 
+company - Braindatawire
+description - Technical Skills:
+â¢   Programming: Core Java, Map Reduce, Scala
+â¢   Hadoop Tools: HDFS, Spark, Map Reduce, Sqoop, Hive, Hbase
+â¢   Database: MySQL, Oracle
+â¢   Scripting: Shell Scripting
+â¢   IDE: Eclipse
+â¢   Operating Systems: Linux (CentOS), Windows
+â¢   Source Control: Git (Github)",Applicant 16
+Hadoop,"â¢ Operating systems:-Linux- Ubuntu, Windows 2007/08 â¢ Other tools:- Tableau, SVN, Beyond Compare.Education Details 
+January 2016 Bachelors of Engineering Engineering  Gujarat Technological University
+Systems Engineer/Hadoop Developer 
+
+Systems Engineer/Hadoop Developer - Tata Consultancy Services
+Skill Details 
+Hadoop,Spark,Sqoop,Hive,Flume,Pig- Exprience - 24 monthsCompany Details 
+company - Tata Consultancy Services
+description - Roles and responsibility:
+
+Working for a American pharmaceutical company (one of the world's premier
+biopharmaceutical) who develops and produces medicines and vaccines for a wide range of medical
+disciplines, including immunology, oncology, cardiology, endocrinology, and neurology. To handle large
+amount of United Healthcare data big data analytics is used. Data from all possible data sources like records of all Patients(Old and New), records of medicines, Treatment Pathways & Patient Journey for
+Health Outcomes, Patient Finder (or Rare Disease Patient Finder), etc being gathered, stored and processed at one place.
+
+â¢     Worked on cluster with specs as:
+o    Cluster Architecture: Fully
+Distributed Package Used:
+CDH3
+o    Cluster Capacity: 20 TB
+o    No. of Nodes: 10 Data Nodes + 3 Masters + NFS Backup For NN
+
+â¢     Developed proof of concepts for enterprise adoption of Hadoop.
+â¢   Used SparkAPI over Cloudera Hadoop YARN to perform analytics on the Healthcare data in Cloudera
+distribution.
+â¢   Responsible for cluster maintenance, adding and removing cluster nodes, cluster monitoring and trouble-shooting, manage and review data backups, and reviewing Hadoop log files.
+â¢   Imported & exported large data sets of data into HDFS and vice-versa using sqoop.
+â¢   Involved developing the Pig scripts and Hive Reports
+â¢   Worked on Hive partition and bucketing concepts and created hive external and Internal tables with Hive
+partition.Monitoring Hadoop scripts which take the input from HDFS and load the data into Hive.
+â¢   Developed Spark scripts by using Scala shell commands as per the requirement and worked with both
+Data frames/SQL/Data sets and RDD/MapReduce in Spark. Optimizing of existing algorithms in Hadoop
+using SparkContext, Spark-SQL, Data Frames and RDD's.
+â¢   Collaborated with infrastructure, network, database, application and BI to ensure data, quality and availability.
+â¢   Developed reports using TABLEAU and exported data to HDFS and hive using Sqoop.
+â¢   Used ORC & Parquet file formats for serialization of data, and Snappy for the compression of the data.
+
+Achievements
+
+â¢   Appreciation for showing articulate leadership qualities in doing work with the team.
+â¢   Completed the internal certification of TCS Certified Hadoop Developer.
+
+Ongoing Learning
+â¢   Preparing and scheduled the Cloudera Certified Spark Developer CCA 175.",Applicant 17
+Hadoop,"Areas of expertise â¢ Big Data Ecosystems: Hadoop-HDFS, MapReduce, Hive, Pig, Sqoop, HBase Oozie, Spark, Pyspark, HUE and having knowledge on cassandra â¢ Programming Languages: Python, Core Java and have an idea on Scala â¢ Databases: Oracle 10g, MySQL, Sqlserver NoSQL - HBase, Cassandra â¢ Tools: Eclipse, Toad, FTP, Tectia, Putty, Autosys, Anaconda, Jupyter notebool and Devops - RTC, RLM. â¢ Scripting Languages: JSP â¢ Platforms: Windows, UnixEducation Details 
+ M.Tech (IT-DBS) B.Tech (CSE)  SRM University
+Software Engineer 
+
+Software Engineer - Larsen and Toubro
+Skill Details 
+Company Details 
+company - Larsen and Toubro
+description - Worked as a Software Engineer in Technosoft Corporation, Chennai from Aug 2015 to sep 2016.
+company - Current Project
+description - Duration: September 2016 to Till date
+Vendor: Citi bank
+Description:
+Citibank's (Citi) Anti-Money Laundering (AML) Transaction Monitoring (TM) program is a future state solution and a rules-based system for transaction monitoring of ICG-Markets business.
+Roles and Responesbilities:
+â¢ Building and providing domain knowledge for Anti Money Laundering among team members.
+â¢ The layered architecture has Data Warehouse and Workspace layers which are used by Business Analysts.
+â¢ Actively involved in designing of star-schema model involving various Dimensions and Fact tables.
+â¢ Designed SCD2 for maintaining history of the DIM data.
+â¢ Developing Hive Queries for mapping data between different layers of architecture, and it's usage in Oozie Workflows.
+â¢ Integration with Data Quality and Reconciliation Module.
+â¢ Regression and Integration testing of solution for any issues in integration with other modules and effectively testing the data flow from layer-to-layer.
+â¢ Transaction monitoring system development to generate Alerts for the suspicious and fraudulent transactions based on requirements provide by BAs.
+â¢ Developing spark Jobs for various business rules.
+â¢ Learning ""Machine Learning"", which will be used further in the project for developing an effective model for Fraud detection for Anti Money Laundering system.
+â¢ Scheduling Jobs using Autosys tool.
+â¢ Deployment and Code Management using RTC and RLM(Release Lifecycle Management)
+
+Hadoop Developer
+#  Current Project: PRTS - RAN
+Environment: Hadoop 2.x, HDFS, Yarn, Hive, Sqoop, HBase, Tez, Tableau, Sqlserver, Teradata
+Cluster Size: 96 Node Cluster.
+Distribution: Horton works - HDP2.3
+company - Alcatel lucent
+description - 1X) and  Ruckus Wireless
+Description:
+The scope of this project is to maintain and store the operational and parameters data collected from the multiple vendors networks by the mediation team into the OMS data store and make it available for RF engineers to boost the network performance.
+Responsibilities:
+â¢ Working with Hadoop Distributed File System.
+â¢ Involved in importing data from MySQL to HDFS using SQOOP.
+â¢ Involved in creating Hive tables, loading with data and writing hive queries which will run  on top of  Tez execution Engine.
+â¢ Involved in Preparing Test cases Document.
+â¢ Involved in Integrating Hive and HBase to store the operational data.
+â¢ Monitoring the Jobs through Oozie.
+company - Current Project
+description - Anti - Money laundering
+Environment: Hadoop 2.x, HDFS, Yarn, Hive, Oozie, Spark, Unix, Autosys, Python, RTC, RLM, ETL Framwe work
+Cluster Size: 56 Node Cluster.
+Distribution: Cloudera 5.9.14",Applicant 18
+Hadoop,"Technical Skill Set: Programming Languages Apache Hadoop, Python, shell scripting, SQL Technologies Hive, Pig, Sqoop, Flume, Oozie, Impala, hdfs Tools Dataiku, Unravel, Cloudera, Putty, HUE, Cloudera Manager, Eclipse, Resource Manager Initial Learning Program: Tata Consultancy Services: June 2015 to August 2015 Description: This is a learning program conducted by TCS for the newly joined employees, to accomplish them to learn the working standard of the organization. During this period employee are groomed with various technical as well as ethical aspects. Education Details 
+ B.E. Electronics & Communication Indore, Madhya Pradesh Medi-caps Institute of Technology & Management
+Hadoop developer 
+
+hadoop,hive,sqoop,flume,pig,mapreduce,python,impala,spark,scala,sql,unix.
+Skill Details 
+APACHE HADOOP SQOOP- Exprience - 31 months
+Hadoop- Exprience - 31 months
+HADOOP- Exprience - 31 months
+Hive- Exprience - 31 months
+SQOOP- Exprience - 31 months
+python- Exprience - Less than 1 year months
+hdfs- Exprience - Less than 1 year months
+unix- Exprience - Less than 1 year months
+impala- Exprience - Less than 1 year months
+pig- Exprience - Less than 1 year months
+unravel- Exprience - Less than 1 year months
+mapreduce- Exprience - Less than 1 year months
+dataiku- Exprience - Less than 1 year monthsCompany Details 
+company - Tata Consultancy Services
+description - Project Description
+Data warehouse division has multiple products for injecting, storing, analysing and presenting data. The Data Lake program is started to provide multi-talent, secure data hub to store application's data on Hadoop platform with strong data governance, lineage, auditing and monitoring capabilities. The object of the project is to provide necessary engineering support to analytics and application teams so that they can focus on the business logic development. In this project, the major task is to set up the Hadoop cluster and govern all the activities which are required for the smooth functioning of various Hadoop ecosystems. As the day and day data increasing so to provide stability to the ecosystem and smooth working of it, Developing and automating the various requirement specific utilities.
+
+Responsibility 1. Developed proactive Health Check utility for Data Lake. The utility proactively checks the smooth functioning of all Hadoop components on the cluster and sends the result to email in HTML format. The utility is being used for daily Health Checks as well as after upgrades.
+2. Getting the data in different formats and processing the data in Hadoop ecosystem after filtering the data using the appropriate techniques.
+3. Developed data pipeline utility to ingest data from RDBMS database to Hive external tables using Sqoop commands. The utility also offers the data quality check like row count validation.
+4. Developed and automated various cluster health check, usage, capacity related reports using Unix shell scripting.
+5. Optimization of hive queries in order to increase the performance and minimize the Hadoop resource utilizations.
+6. Creating flume agents to process the data to Hadoop ecosystem side.
+7. Performed benchmark testing on the Hive Queries and impala queries.
+8. Involved in setting up the cluster and its components like edge node and HA implementation of the services: Hive Server2, Impala, and HDFS.
+9. Filtering the required data from available data using different technologies like pig, regex Serde etc.
+10. Dataiku benchmark testing on top of impala and hive in compare to Greenplum database.
+11. Moving the data from Greenplum database to Hadoop side with help of Sqoop pipeline, process the data to Hadoop side and storing the data into hive tables to do the performance testing.
+12. Dealing with the Hadoop ecosystem related issues in order to provide stability to WM Hadoop ecosystem.
+13. Rescheduling of job from autosys job hosting to TWS job hosting for better performance.
+
+Declaration:
+I hereby declare that the above mentioned information is authentic to the best of my knowledge
+company - Tata Consultancy Services
+description - Clients: 1. Barclays 2. Union bank of California (UBC) 3. Morgan Stanley (MS)
+
+KEY PROJECTS HANDLED
+Project Name ABSA- Reconciliations, UBC and WMDATALAKE COE
+company - Tata Consultancy Services
+description - Project Description
+Migration of data from RDBMS database to Hive (Hadoop ecosystem) . Hadoop platform ability with strong data governance, lineage, auditing and monitoring capabilities. The objective of this project was to speed up the data processing so that the analysis and decision making become easy. Due to RDBMS limitations to process waste amount of data at once and produce the results at the earliest, Client wanted to move the data to Hadoop ecosystem so that they can over-come from those limitations and focus on business improvement only.
+
+Responsibility 1. Optimising the SQL queries for those data which were not required to move from RDBMS to any other platform.
+2. Writing the Hive queries and logic to move the data from RDBMS to Hadoop ecosystem.
+3. Writing the hive queries to analyse the required data as per the business requirements.
+4. Optimization of hive queries in order to increase the performance and minimize the Hadoop resource utilizations.
+5. Writing the sqoop commands and scripts to move the data from RDBMS to Hadoop side.
+company - Tata Consultancy Services
+description - Project Description
+Create recs and migrating static setup of reconciliations from 8.1 version to 9.1 version of the environment Intellimatch.
+
+Responsibility 1. Have worked on extracting business requirements, analyzing and implementing them in developing Recs 2. Worked on migrating static setup of reconciliations from 8.1 version to 9.1 version of the environment Intellimatch.
+3. Done the back end work where most of the things were related to writing the sql queries and provide the data for the new recs.
+
+Project Name   PSO",Applicant 19
+Hadoop,"Technical Skills Programming Languages: C, C++, Java, .Net., J2EE, HTML5, CSS, MapReduce Scripting Languages: Javascript, Python Databases: Oracle (PL-SQL), MY-SQL, IBM DB2 Tools:IBM Rational Rose, R, Weka Operating Systems: Windows XP, Vista, UNIX, Windows 7, Red Hat 7Education Details 
+January 2015 B.E  Pimpri Chinchwad, MAHARASHTRA, IN Pimpri Chinchwad College of Engineering
+January 2012 Diploma MSBTE  Dnyanganaga Polytechnic
+ S.S.C   New English School Takali
+Hadoop/Big Data Developer 
+
+Hadoop/Big Data Developer - British Telecom
+Skill Details 
+APACHE HADOOP MAPREDUCE- Exprience - 37 months
+MapReduce- Exprience - 37 months
+MAPREDUCE- Exprience - 37 months
+JAVA- Exprience - 32 months
+.NET- Exprience - 6 monthsCompany Details 
+company - British Telecom
+description - Project: British Telecom project (UK)
+Responsibilities:
+â¢ Working on HDFS, MapReduce, Hive, Spark, Scala, Sqoop, Kerberos etc. technologies
+â¢ Implemented various data mining algorithms on Spark like K-means clustering, Random forest, NaÃ¯ve bayes etc.
+â¢ A knowledge of installing, configuring, maintaining and securing Hadoop.
+company - DXC technology
+description - HPE legacy), Bangalore
+â¢ Worked on Hadoop + Java programming
+â¢ Worked on Azure and AWS (EMR) services.
+â¢ Worked on HDInsight Hadoop cluster..
+â¢ Design, develop, document and architect Hadoop applications
+â¢ Develop MapReduce coding that works seamlessly on Hadoop clusters.
+â¢ Analyzing and processing the large data sets on HDFS.
+â¢ An analytical bent of mind and ability to learn-unlearn-relearn surely comes in handy.",Applicant 20
+Hadoop,"Technical Skill Set Big Data Ecosystems: Hadoop, HDFS, HBase, Map Reduce, Sqoop, Hive, Pig, Spark-Core, Flume. Other Language: Scala, Core-Java, SQL, PLSQL, Sell Scripting ETL Tools: Informatica Power Center8.x/9.6, Talend 5.6 Tools: Eclipse, Intellij Idea. Platforms: Windows Family, Linux /UNIX, Cloudera. Databases: MySQL, Oracle.10/11gEducation Details 
+ M.C.A  Pune, MAHARASHTRA, IN Pune University
+Hodoop Developer 
+
+Hodoop Developer - PRGX India Private Limited Pune
+Skill Details 
+Company Details 
+company - PRGX India Private Limited Pune
+description - Team Size: 10+
+Environment: Hive, Spark, Sqoop, Scala and Flume.
+
+Project Description:
+The bank wanted to help its customers to avail different products of the bank through analyzing their expenditure behavior. The customers spending ranges from online shopping, medical expenses in hospitals, cash transactions, and debit card usage etc. the behavior allows the bank to create an analytical report and based on which the bank used to display the product offers on the customer portal which was built using java. The portal allows the customers to login and see their transactions which they make on a day to day basis .the analytics also help the customers plan their budgets through the budget watch and my financial forecast applications embedded into the portal. The portal used hadoop framework to analyes the data as per the rules and regulations placed by the regulators from the respective countries. The offers and the interest rates also complied with the regulations and all these processing was done using the hadoop framework as big data analytics system.
+
+Role & Responsibilities:
+â Import data from legacy system to hadoop using Sqoop, flume.
+â Implement the business logic to analyses  the data
+â Per-process data using spark.
+â Create hive script and loading data into hive.
+â Sourcing various attributes to the data processing logic to retrieve the correct results.
+
+Project 2
+company - PRGX India Private Limited Pune
+description - 
+company - PRGX India Private Limited Pune
+description - Team Size: 11+
+Environment: Hadoop, HDFS, Hive, Sqoop, MySQL, Map Reduce
+
+Project Description:-
+The Purpose of this project is to store terabytes of information from the web application and extract meaningful information out of it.the solution was based on the open source s/w hadoop. The data will be stored in hadoop file system and processed using Map/Reduce jobs. Which in trun includes getting the raw html data from the micro websites, process the html to obtain product and user information, extract various reports out of the vistor tracking information and export the information for further processing
+
+Role & Responsibilities:
+â Move all crawl data flat files generated from various micro sites to HDFS for further processing.
+â Sqoop implementation for interaction with database
+â Write Map Reduce scripts to process the data file.
+â Create hive tables to store the processed data in tabular formats.
+â Reports creation from hive data.
+
+Project 3
+company - PRGX India Private Limited Pune
+description - Team Size: 15+
+Environment: Informatica 9.5, Oracle11g, UNIX
+
+Project Description:
+Pfizer Inc. is an American global pharmaceutical corporation headquartered in New York City. The main objective of the project is to build a Development Data Repository for Pfizer Inc. Because all the downstream application are like Etrack, TSP database, RTS, SADMS, GFS, GDO having their own sql request on the OLTP system directly due to which the performance of OLTP system goes slows down. For this we have created a Development Data Repository to replace the entire sql request directly on the OLTP system. DDR process extracts all clinical, pre-clinical, study, product, subject, sites related information from the upstream applications like EPECS, CDSS, RCM, PRC, E-CLINICAL, EDH and after applying some business logic put it into DDR core tables. From these snapshot and dimensional layer are created which are used for reporting application.
+
+Role & Responsibilities:
+â To understand & analyze the requirement documents and resolve the queries.
+â To design Informatica mappings by using various basic transformations like Filter, Router, Source qualifier, Lookup etc and advance transformations like Aggregators, Joiner, Sorters and so on.
+â Perform cross Unit and Integration testing for mappings developed within the team. Reporting bugs and bug fixing.
+â Create workflow/batches and set the session dependencies.
+â Implemented Change Data Capture using mapping parameters, SCD and SK generation.
+â Developed Mapplet, reusable transformations to populate the data into data warehouse.
+â Created Sessions & Worklets using workflow Manager to load the data into the Target Database.
+â Involved in Unit Case Testing (UTC)
+â Performing Unit Testing and UAT for SCD Type1/Type2, fact load and CDC implementation.
+
+Personal Scan
+
+Address: Jijayi Heights, Flat no 118, Narhe, (Police chowki) Pune- 411041",Applicant 21
+Hadoop,"Education Details 
+
+Hadoop Developer 
+
+Hadoop Developer - INFOSYS
+Skill Details 
+Company Details 
+company - INFOSYS
+description - Project Description: The banking information had stored the data in different data ware house systems for each department but it becomes difficult for the organization to manage the data and to perform some analytics on the past data, so it is combined them into a single global repository in Hadoop for analysis.
+
+Responsibilities:
+â¢       Analyze the banking rates data set.
+â¢       Create specification document.
+â¢       Provide effort estimation.
+â¢       Develop SPARK Scala, SPARK SQL Programs using Eclipse IDE on Windows/Linux environment.
+â¢       Create KPI's test scenarios, test cases, test result document.
+â¢       Test the Scala programs in Linux Spark Standalone mode.
+â¢       setup multi cluster on AWS, deploy the Spark Scala programs
+â¢       Provided solution using Hadoop ecosystem - HDFS, MapReduce, Pig, Hive, HBase, and Zookeeper.
+â¢       Provided solution using large scale server-side systems with distributed processing algorithms.
+â¢       Created reports for the BI team using Sqoop to export data into HDFS and Hive.
+â¢       Provided solution in supporting and assisting in troubleshooting and optimization of MapReduce jobs and
+Pig Latin scripts.
+â¢       Deep understanding of Hadoop design principles, cluster connectivity, security and the factors that affect
+system performance.
+â¢       Worked on Importing and exporting data from different databases like Oracle, Teradata into HDFS and Hive
+using Sqoop, TPT and Connect Direct.
+â¢       Import and export the data from RDBMS to HDFS/HBASE
+â¢       Wrote script and placed it in client side so that the data moved to HDFS will be stored in temporary file and then it will start loading it in hive tables.
+â¢       Developed the Sqoop scripts in order to make the interaction between Pig and MySQL Database.
+â¢       Involved in developing the Hive Reports, Partitions of Hive tables.
+â¢       Created and maintained technical documentation for launching HADOOP Clusters and for executing HIVE
+queries and PIG scripts.
+â¢       Involved in running Hadoop jobs for processing millions of records of text data
+
+Environment: Java, Hadoop, HDFS, Map-Reduce, Pig, Hive, Sqoop, Flume, Oozie, HBase, Spark, Scala,
+Linux, NoSQL, Storm, Tomcat, Putty, SVN, GitHub, IBM WebSphere v8.5.
+
+Project #1: TELECOMMUNICATIONS
+Hadoop Developer
+
+Description To identify customers who are likely to churn and 360-degree view of the customer is created from different heterogeneous data sources. The data is brought into data lake (HDFS) from different sources and analyzed using different Hadoop tools like pig and hive.
+
+Responsibilities:
+â¢       Installed and Configured Apache Hadoop tools like Hive, Pig, HBase and Sqoop for application development and unit testing.
+â¢       Wrote MapReduce jobs to discover trends in data usage by users.
+â¢       Involved in database connection using SQOOP.
+â¢       Involved in creating Hive tables, loading data and writing hive queries Using the HiveQL.
+â¢       Involved in partitioning and joining Hive tables for Hive query optimization.
+â¢       Experienced in SQL DB Migration to HDFS.
+â¢       Used NoSQL(HBase) for faster performance, which maintains the data in the De-Normalized way for OLTP.
+â¢       The data is collected from distributed sources into Avro models. Applied transformations and standardizations and loaded into HBase for further data processing.
+â¢       Experienced in defining job flows.
+â¢       Used Oozie to orchestrate the workflow.
+â¢       Implemented Fair schedulers on the Job tracker to share the resources of the Cluster for the Map Reduce
+jobs given by the users.
+â¢       Exported the analyzed data to the relational databases using HIVE for visualization and to generate reports for the BI team.
+
+Environment: Hadoop, Hive, Linux, MapReduce, HDFS, Hive, Python, Pig, Sqoop, Cloudera, Shell Scripting,
+Java (JDK 1.6), Java 6, Oracle 10g, PL/SQL, SQL*PLUS",Applicant 22
+Hadoop,"Skill Set: Hadoop, Map Reduce, HDFS, Hive, Sqoop, java. Duration: 2016 to 2017. Role: Hadoop Developer Rplus offers an quick, simple and powerful cloud based Solution, Demand Sense to accurately predict demand for your product in all your markets which Combines Enterprise and External Data to predict demand more accurately through Uses Social Conversation and Sentiments to derive demand and Identifies significant drivers of sale out of hordes of factors that Selects the best suited model out of multiple forecasting models for each product. Responsibilities: â¢ Involved in deploying the product for customers, gathering requirements and algorithm optimization at backend of the product. â¢ Load and transform Large Datasets of structured semi structured. â¢ Responsible to manage data coming from different sources and application â¢ Supported Map Reduce Programs those are running on the cluster â¢ Involved in creating Hive tables, loading with data and writing hive queries which will run internally in map reduce way.Education Details 
+
+Hadoop Developer 
+
+Hadoop Developer - Braindatawire
+Skill Details 
+APACHE HADOOP HDFS- Exprience - 49 months
+APACHE HADOOP SQOOP- Exprience - 49 months
+Hadoop- Exprience - 49 months
+HADOOP- Exprience - 49 months
+HADOOP DISTRIBUTED FILE SYSTEM- Exprience - 49 monthsCompany Details 
+company - Braindatawire
+description - Technical Skills:
+â¢   Programming: Core Java, Map Reduce, Scala
+â¢   Hadoop Tools: HDFS, Spark, Map Reduce, Sqoop, Hive, Hbase
+â¢   Database: MySQL, Oracle
+â¢   Scripting: Shell Scripting
+â¢   IDE: Eclipse
+â¢   Operating Systems: Linux (CentOS), Windows
+â¢   Source Control: Git (Github)",Applicant 23
+Hadoop,"â¢ Operating systems:-Linux- Ubuntu, Windows 2007/08 â¢ Other tools:- Tableau, SVN, Beyond Compare.Education Details 
+January 2016 Bachelors of Engineering Engineering  Gujarat Technological University
+Systems Engineer/Hadoop Developer 
+
+Systems Engineer/Hadoop Developer - Tata Consultancy Services
+Skill Details 
+Hadoop,Spark,Sqoop,Hive,Flume,Pig- Exprience - 24 monthsCompany Details 
+company - Tata Consultancy Services
+description - Roles and responsibility:
+
+Working for a American pharmaceutical company (one of the world's premier
+biopharmaceutical) who develops and produces medicines and vaccines for a wide range of medical
+disciplines, including immunology, oncology, cardiology, endocrinology, and neurology. To handle large
+amount of United Healthcare data big data analytics is used. Data from all possible data sources like records of all Patients(Old and New), records of medicines, Treatment Pathways & Patient Journey for
+Health Outcomes, Patient Finder (or Rare Disease Patient Finder), etc being gathered, stored and processed at one place.
+
+â¢     Worked on cluster with specs as:
+o    Cluster Architecture: Fully
+Distributed Package Used:
+CDH3
+o    Cluster Capacity: 20 TB
+o    No. of Nodes: 10 Data Nodes + 3 Masters + NFS Backup For NN
+
+â¢     Developed proof of concepts for enterprise adoption of Hadoop.
+â¢   Used SparkAPI over Cloudera Hadoop YARN to perform analytics on the Healthcare data in Cloudera
+distribution.
+â¢   Responsible for cluster maintenance, adding and removing cluster nodes, cluster monitoring and trouble-shooting, manage and review data backups, and reviewing Hadoop log files.
+â¢   Imported & exported large data sets of data into HDFS and vice-versa using sqoop.
+â¢   Involved developing the Pig scripts and Hive Reports
+â¢   Worked on Hive partition and bucketing concepts and created hive external and Internal tables with Hive
+partition.Monitoring Hadoop scripts which take the input from HDFS and load the data into Hive.
+â¢   Developed Spark scripts by using Scala shell commands as per the requirement and worked with both
+Data frames/SQL/Data sets and RDD/MapReduce in Spark. Optimizing of existing algorithms in Hadoop
+using SparkContext, Spark-SQL, Data Frames and RDD's.
+â¢   Collaborated with infrastructure, network, database, application and BI to ensure data, quality and availability.
+â¢   Developed reports using TABLEAU and exported data to HDFS and hive using Sqoop.
+â¢   Used ORC & Parquet file formats for serialization of data, and Snappy for the compression of the data.
+
+Achievements
+
+â¢   Appreciation for showing articulate leadership qualities in doing work with the team.
+â¢   Completed the internal certification of TCS Certified Hadoop Developer.
+
+Ongoing Learning
+â¢   Preparing and scheduled the Cloudera Certified Spark Developer CCA 175.",Applicant 24
+Hadoop,"Areas of expertise â¢ Big Data Ecosystems: Hadoop-HDFS, MapReduce, Hive, Pig, Sqoop, HBase Oozie, Spark, Pyspark, HUE and having knowledge on cassandra â¢ Programming Languages: Python, Core Java and have an idea on Scala â¢ Databases: Oracle 10g, MySQL, Sqlserver NoSQL - HBase, Cassandra â¢ Tools: Eclipse, Toad, FTP, Tectia, Putty, Autosys, Anaconda, Jupyter notebool and Devops - RTC, RLM. â¢ Scripting Languages: JSP â¢ Platforms: Windows, UnixEducation Details 
+ M.Tech (IT-DBS) B.Tech (CSE)  SRM University
+Software Engineer 
+
+Software Engineer - Larsen and Toubro
+Skill Details 
+Company Details 
+company - Larsen and Toubro
+description - Worked as a Software Engineer in Technosoft Corporation, Chennai from Aug 2015 to sep 2016.
+company - Current Project
+description - Duration: September 2016 to Till date
+Vendor: Citi bank
+Description:
+Citibank's (Citi) Anti-Money Laundering (AML) Transaction Monitoring (TM) program is a future state solution and a rules-based system for transaction monitoring of ICG-Markets business.
+Roles and Responesbilities:
+â¢ Building and providing domain knowledge for Anti Money Laundering among team members.
+â¢ The layered architecture has Data Warehouse and Workspace layers which are used by Business Analysts.
+â¢ Actively involved in designing of star-schema model involving various Dimensions and Fact tables.
+â¢ Designed SCD2 for maintaining history of the DIM data.
+â¢ Developing Hive Queries for mapping data between different layers of architecture, and it's usage in Oozie Workflows.
+â¢ Integration with Data Quality and Reconciliation Module.
+â¢ Regression and Integration testing of solution for any issues in integration with other modules and effectively testing the data flow from layer-to-layer.
+â¢ Transaction monitoring system development to generate Alerts for the suspicious and fraudulent transactions based on requirements provide by BAs.
+â¢ Developing spark Jobs for various business rules.
+â¢ Learning ""Machine Learning"", which will be used further in the project for developing an effective model for Fraud detection for Anti Money Laundering system.
+â¢ Scheduling Jobs using Autosys tool.
+â¢ Deployment and Code Management using RTC and RLM(Release Lifecycle Management)
+
+Hadoop Developer
+#  Current Project: PRTS - RAN
+Environment: Hadoop 2.x, HDFS, Yarn, Hive, Sqoop, HBase, Tez, Tableau, Sqlserver, Teradata
+Cluster Size: 96 Node Cluster.
+Distribution: Horton works - HDP2.3
+company - Alcatel lucent
+description - 1X) and  Ruckus Wireless
+Description:
+The scope of this project is to maintain and store the operational and parameters data collected from the multiple vendors networks by the mediation team into the OMS data store and make it available for RF engineers to boost the network performance.
+Responsibilities:
+â¢ Working with Hadoop Distributed File System.
+â¢ Involved in importing data from MySQL to HDFS using SQOOP.
+â¢ Involved in creating Hive tables, loading with data and writing hive queries which will run  on top of  Tez execution Engine.
+â¢ Involved in Preparing Test cases Document.
+â¢ Involved in Integrating Hive and HBase to store the operational data.
+â¢ Monitoring the Jobs through Oozie.
+company - Current Project
+description - Anti - Money laundering
+Environment: Hadoop 2.x, HDFS, Yarn, Hive, Oozie, Spark, Unix, Autosys, Python, RTC, RLM, ETL Framwe work
+Cluster Size: 56 Node Cluster.
+Distribution: Cloudera 5.9.14",Applicant 25
+Hadoop,"Technical Skill Set: Programming Languages Apache Hadoop, Python, shell scripting, SQL Technologies Hive, Pig, Sqoop, Flume, Oozie, Impala, hdfs Tools Dataiku, Unravel, Cloudera, Putty, HUE, Cloudera Manager, Eclipse, Resource Manager Initial Learning Program: Tata Consultancy Services: June 2015 to August 2015 Description: This is a learning program conducted by TCS for the newly joined employees, to accomplish them to learn the working standard of the organization. During this period employee are groomed with various technical as well as ethical aspects. Education Details 
+ B.E. Electronics & Communication Indore, Madhya Pradesh Medi-caps Institute of Technology & Management
+Hadoop developer 
+
+hadoop,hive,sqoop,flume,pig,mapreduce,python,impala,spark,scala,sql,unix.
+Skill Details 
+APACHE HADOOP SQOOP- Exprience - 31 months
+Hadoop- Exprience - 31 months
+HADOOP- Exprience - 31 months
+Hive- Exprience - 31 months
+SQOOP- Exprience - 31 months
+python- Exprience - Less than 1 year months
+hdfs- Exprience - Less than 1 year months
+unix- Exprience - Less than 1 year months
+impala- Exprience - Less than 1 year months
+pig- Exprience - Less than 1 year months
+unravel- Exprience - Less than 1 year months
+mapreduce- Exprience - Less than 1 year months
+dataiku- Exprience - Less than 1 year monthsCompany Details 
+company - Tata Consultancy Services
+description - Project Description
+Data warehouse division has multiple products for injecting, storing, analysing and presenting data. The Data Lake program is started to provide multi-talent, secure data hub to store application's data on Hadoop platform with strong data governance, lineage, auditing and monitoring capabilities. The object of the project is to provide necessary engineering support to analytics and application teams so that they can focus on the business logic development. In this project, the major task is to set up the Hadoop cluster and govern all the activities which are required for the smooth functioning of various Hadoop ecosystems. As the day and day data increasing so to provide stability to the ecosystem and smooth working of it, Developing and automating the various requirement specific utilities.
+
+Responsibility 1. Developed proactive Health Check utility for Data Lake. The utility proactively checks the smooth functioning of all Hadoop components on the cluster and sends the result to email in HTML format. The utility is being used for daily Health Checks as well as after upgrades.
+2. Getting the data in different formats and processing the data in Hadoop ecosystem after filtering the data using the appropriate techniques.
+3. Developed data pipeline utility to ingest data from RDBMS database to Hive external tables using Sqoop commands. The utility also offers the data quality check like row count validation.
+4. Developed and automated various cluster health check, usage, capacity related reports using Unix shell scripting.
+5. Optimization of hive queries in order to increase the performance and minimize the Hadoop resource utilizations.
+6. Creating flume agents to process the data to Hadoop ecosystem side.
+7. Performed benchmark testing on the Hive Queries and impala queries.
+8. Involved in setting up the cluster and its components like edge node and HA implementation of the services: Hive Server2, Impala, and HDFS.
+9. Filtering the required data from available data using different technologies like pig, regex Serde etc.
+10. Dataiku benchmark testing on top of impala and hive in compare to Greenplum database.
+11. Moving the data from Greenplum database to Hadoop side with help of Sqoop pipeline, process the data to Hadoop side and storing the data into hive tables to do the performance testing.
+12. Dealing with the Hadoop ecosystem related issues in order to provide stability to WM Hadoop ecosystem.
+13. Rescheduling of job from autosys job hosting to TWS job hosting for better performance.
+
+Declaration:
+I hereby declare that the above mentioned information is authentic to the best of my knowledge
+company - Tata Consultancy Services
+description - Clients: 1. Barclays 2. Union bank of California (UBC) 3. Morgan Stanley (MS)
+
+KEY PROJECTS HANDLED
+Project Name ABSA- Reconciliations, UBC and WMDATALAKE COE
+company - Tata Consultancy Services
+description - Project Description
+Migration of data from RDBMS database to Hive (Hadoop ecosystem) . Hadoop platform ability with strong data governance, lineage, auditing and monitoring capabilities. The objective of this project was to speed up the data processing so that the analysis and decision making become easy. Due to RDBMS limitations to process waste amount of data at once and produce the results at the earliest, Client wanted to move the data to Hadoop ecosystem so that they can over-come from those limitations and focus on business improvement only.
+
+Responsibility 1. Optimising the SQL queries for those data which were not required to move from RDBMS to any other platform.
+2. Writing the Hive queries and logic to move the data from RDBMS to Hadoop ecosystem.
+3. Writing the hive queries to analyse the required data as per the business requirements.
+4. Optimization of hive queries in order to increase the performance and minimize the Hadoop resource utilizations.
+5. Writing the sqoop commands and scripts to move the data from RDBMS to Hadoop side.
+company - Tata Consultancy Services
+description - Project Description
+Create recs and migrating static setup of reconciliations from 8.1 version to 9.1 version of the environment Intellimatch.
+
+Responsibility 1. Have worked on extracting business requirements, analyzing and implementing them in developing Recs 2. Worked on migrating static setup of reconciliations from 8.1 version to 9.1 version of the environment Intellimatch.
+3. Done the back end work where most of the things were related to writing the sql queries and provide the data for the new recs.
+
+Project Name   PSO",Applicant 26
+Hadoop,"Technical Skills Programming Languages: C, C++, Java, .Net., J2EE, HTML5, CSS, MapReduce Scripting Languages: Javascript, Python Databases: Oracle (PL-SQL), MY-SQL, IBM DB2 Tools:IBM Rational Rose, R, Weka Operating Systems: Windows XP, Vista, UNIX, Windows 7, Red Hat 7Education Details 
+January 2015 B.E  Pimpri Chinchwad, MAHARASHTRA, IN Pimpri Chinchwad College of Engineering
+January 2012 Diploma MSBTE  Dnyanganaga Polytechnic
+ S.S.C   New English School Takali
+Hadoop/Big Data Developer 
+
+Hadoop/Big Data Developer - British Telecom
+Skill Details 
+APACHE HADOOP MAPREDUCE- Exprience - 37 months
+MapReduce- Exprience - 37 months
+MAPREDUCE- Exprience - 37 months
+JAVA- Exprience - 32 months
+.NET- Exprience - 6 monthsCompany Details 
+company - British Telecom
+description - Project: British Telecom project (UK)
+Responsibilities:
+â¢ Working on HDFS, MapReduce, Hive, Spark, Scala, Sqoop, Kerberos etc. technologies
+â¢ Implemented various data mining algorithms on Spark like K-means clustering, Random forest, NaÃ¯ve bayes etc.
+â¢ A knowledge of installing, configuring, maintaining and securing Hadoop.
+company - DXC technology
+description - HPE legacy), Bangalore
+â¢ Worked on Hadoop + Java programming
+â¢ Worked on Azure and AWS (EMR) services.
+â¢ Worked on HDInsight Hadoop cluster..
+â¢ Design, develop, document and architect Hadoop applications
+â¢ Develop MapReduce coding that works seamlessly on Hadoop clusters.
+â¢ Analyzing and processing the large data sets on HDFS.
+â¢ An analytical bent of mind and ability to learn-unlearn-relearn surely comes in handy.",Applicant 27
+Hadoop,"Technical Skill Set Big Data Ecosystems: Hadoop, HDFS, HBase, Map Reduce, Sqoop, Hive, Pig, Spark-Core, Flume. Other Language: Scala, Core-Java, SQL, PLSQL, Sell Scripting ETL Tools: Informatica Power Center8.x/9.6, Talend 5.6 Tools: Eclipse, Intellij Idea. Platforms: Windows Family, Linux /UNIX, Cloudera. Databases: MySQL, Oracle.10/11gEducation Details 
+ M.C.A  Pune, MAHARASHTRA, IN Pune University
+Hodoop Developer 
+
+Hodoop Developer - PRGX India Private Limited Pune
+Skill Details 
+Company Details 
+company - PRGX India Private Limited Pune
+description - Team Size: 10+
+Environment: Hive, Spark, Sqoop, Scala and Flume.
+
+Project Description:
+The bank wanted to help its customers to avail different products of the bank through analyzing their expenditure behavior. The customers spending ranges from online shopping, medical expenses in hospitals, cash transactions, and debit card usage etc. the behavior allows the bank to create an analytical report and based on which the bank used to display the product offers on the customer portal which was built using java. The portal allows the customers to login and see their transactions which they make on a day to day basis .the analytics also help the customers plan their budgets through the budget watch and my financial forecast applications embedded into the portal. The portal used hadoop framework to analyes the data as per the rules and regulations placed by the regulators from the respective countries. The offers and the interest rates also complied with the regulations and all these processing was done using the hadoop framework as big data analytics system.
+
+Role & Responsibilities:
+â Import data from legacy system to hadoop using Sqoop, flume.
+â Implement the business logic to analyses  the data
+â Per-process data using spark.
+â Create hive script and loading data into hive.
+â Sourcing various attributes to the data processing logic to retrieve the correct results.
+
+Project 2
+company - PRGX India Private Limited Pune
+description - 
+company - PRGX India Private Limited Pune
+description - Team Size: 11+
+Environment: Hadoop, HDFS, Hive, Sqoop, MySQL, Map Reduce
+
+Project Description:-
+The Purpose of this project is to store terabytes of information from the web application and extract meaningful information out of it.the solution was based on the open source s/w hadoop. The data will be stored in hadoop file system and processed using Map/Reduce jobs. Which in trun includes getting the raw html data from the micro websites, process the html to obtain product and user information, extract various reports out of the vistor tracking information and export the information for further processing
+
+Role & Responsibilities:
+â Move all crawl data flat files generated from various micro sites to HDFS for further processing.
+â Sqoop implementation for interaction with database
+â Write Map Reduce scripts to process the data file.
+â Create hive tables to store the processed data in tabular formats.
+â Reports creation from hive data.
+
+Project 3
+company - PRGX India Private Limited Pune
+description - Team Size: 15+
+Environment: Informatica 9.5, Oracle11g, UNIX
+
+Project Description:
+Pfizer Inc. is an American global pharmaceutical corporation headquartered in New York City. The main objective of the project is to build a Development Data Repository for Pfizer Inc. Because all the downstream application are like Etrack, TSP database, RTS, SADMS, GFS, GDO having their own sql request on the OLTP system directly due to which the performance of OLTP system goes slows down. For this we have created a Development Data Repository to replace the entire sql request directly on the OLTP system. DDR process extracts all clinical, pre-clinical, study, product, subject, sites related information from the upstream applications like EPECS, CDSS, RCM, PRC, E-CLINICAL, EDH and after applying some business logic put it into DDR core tables. From these snapshot and dimensional layer are created which are used for reporting application.
+
+Role & Responsibilities:
+â To understand & analyze the requirement documents and resolve the queries.
+â To design Informatica mappings by using various basic transformations like Filter, Router, Source qualifier, Lookup etc and advance transformations like Aggregators, Joiner, Sorters and so on.
+â Perform cross Unit and Integration testing for mappings developed within the team. Reporting bugs and bug fixing.
+â Create workflow/batches and set the session dependencies.
+â Implemented Change Data Capture using mapping parameters, SCD and SK generation.
+â Developed Mapplet, reusable transformations to populate the data into data warehouse.
+â Created Sessions & Worklets using workflow Manager to load the data into the Target Database.
+â Involved in Unit Case Testing (UTC)
+â Performing Unit Testing and UAT for SCD Type1/Type2, fact load and CDC implementation.
+
+Personal Scan
+
+Address: Jijayi Heights, Flat no 118, Narhe, (Police chowki) Pune- 411041",Applicant 28
+Hadoop,"Education Details 
+
+Hadoop Developer 
+
+Hadoop Developer - INFOSYS
+Skill Details 
+Company Details 
+company - INFOSYS
+description - Project Description: The banking information had stored the data in different data ware house systems for each department but it becomes difficult for the organization to manage the data and to perform some analytics on the past data, so it is combined them into a single global repository in Hadoop for analysis.
+
+Responsibilities:
+â¢       Analyze the banking rates data set.
+â¢       Create specification document.
+â¢       Provide effort estimation.
+â¢       Develop SPARK Scala, SPARK SQL Programs using Eclipse IDE on Windows/Linux environment.
+â¢       Create KPI's test scenarios, test cases, test result document.
+â¢       Test the Scala programs in Linux Spark Standalone mode.
+â¢       setup multi cluster on AWS, deploy the Spark Scala programs
+â¢       Provided solution using Hadoop ecosystem - HDFS, MapReduce, Pig, Hive, HBase, and Zookeeper.
+â¢       Provided solution using large scale server-side systems with distributed processing algorithms.
+â¢       Created reports for the BI team using Sqoop to export data into HDFS and Hive.
+â¢       Provided solution in supporting and assisting in troubleshooting and optimization of MapReduce jobs and
+Pig Latin scripts.
+â¢       Deep understanding of Hadoop design principles, cluster connectivity, security and the factors that affect
+system performance.
+â¢       Worked on Importing and exporting data from different databases like Oracle, Teradata into HDFS and Hive
+using Sqoop, TPT and Connect Direct.
+â¢       Import and export the data from RDBMS to HDFS/HBASE
+â¢       Wrote script and placed it in client side so that the data moved to HDFS will be stored in temporary file and then it will start loading it in hive tables.
+â¢       Developed the Sqoop scripts in order to make the interaction between Pig and MySQL Database.
+â¢       Involved in developing the Hive Reports, Partitions of Hive tables.
+â¢       Created and maintained technical documentation for launching HADOOP Clusters and for executing HIVE
+queries and PIG scripts.
+â¢       Involved in running Hadoop jobs for processing millions of records of text data
+
+Environment: Java, Hadoop, HDFS, Map-Reduce, Pig, Hive, Sqoop, Flume, Oozie, HBase, Spark, Scala,
+Linux, NoSQL, Storm, Tomcat, Putty, SVN, GitHub, IBM WebSphere v8.5.
+
+Project #1: TELECOMMUNICATIONS
+Hadoop Developer
+
+Description To identify customers who are likely to churn and 360-degree view of the customer is created from different heterogeneous data sources. The data is brought into data lake (HDFS) from different sources and analyzed using different Hadoop tools like pig and hive.
+
+Responsibilities:
+â¢       Installed and Configured Apache Hadoop tools like Hive, Pig, HBase and Sqoop for application development and unit testing.
+â¢       Wrote MapReduce jobs to discover trends in data usage by users.
+â¢       Involved in database connection using SQOOP.
+â¢       Involved in creating Hive tables, loading data and writing hive queries Using the HiveQL.
+â¢       Involved in partitioning and joining Hive tables for Hive query optimization.
+â¢       Experienced in SQL DB Migration to HDFS.
+â¢       Used NoSQL(HBase) for faster performance, which maintains the data in the De-Normalized way for OLTP.
+â¢       The data is collected from distributed sources into Avro models. Applied transformations and standardizations and loaded into HBase for further data processing.
+â¢       Experienced in defining job flows.
+â¢       Used Oozie to orchestrate the workflow.
+â¢       Implemented Fair schedulers on the Job tracker to share the resources of the Cluster for the Map Reduce
+jobs given by the users.
+â¢       Exported the analyzed data to the relational databases using HIVE for visualization and to generate reports for the BI team.
+
+Environment: Hadoop, Hive, Linux, MapReduce, HDFS, Hive, Python, Pig, Sqoop, Cloudera, Shell Scripting,
+Java (JDK 1.6), Java 6, Oracle 10g, PL/SQL, SQL*PLUS",Applicant 29
+Hadoop,"Skill Set: Hadoop, Map Reduce, HDFS, Hive, Sqoop, java. Duration: 2016 to 2017. Role: Hadoop Developer Rplus offers an quick, simple and powerful cloud based Solution, Demand Sense to accurately predict demand for your product in all your markets which Combines Enterprise and External Data to predict demand more accurately through Uses Social Conversation and Sentiments to derive demand and Identifies significant drivers of sale out of hordes of factors that Selects the best suited model out of multiple forecasting models for each product. Responsibilities: â¢ Involved in deploying the product for customers, gathering requirements and algorithm optimization at backend of the product. â¢ Load and transform Large Datasets of structured semi structured. â¢ Responsible to manage data coming from different sources and application â¢ Supported Map Reduce Programs those are running on the cluster â¢ Involved in creating Hive tables, loading with data and writing hive queries which will run internally in map reduce way.Education Details 
+
+Hadoop Developer 
+
+Hadoop Developer - Braindatawire
+Skill Details 
+APACHE HADOOP HDFS- Exprience - 49 months
+APACHE HADOOP SQOOP- Exprience - 49 months
+Hadoop- Exprience - 49 months
+HADOOP- Exprience - 49 months
+HADOOP DISTRIBUTED FILE SYSTEM- Exprience - 49 monthsCompany Details 
+company - Braindatawire
+description - Technical Skills:
+â¢   Programming: Core Java, Map Reduce, Scala
+â¢   Hadoop Tools: HDFS, Spark, Map Reduce, Sqoop, Hive, Hbase
+â¢   Database: MySQL, Oracle
+â¢   Scripting: Shell Scripting
+â¢   IDE: Eclipse
+â¢   Operating Systems: Linux (CentOS), Windows
+â¢   Source Control: Git (Github)",Applicant 30
+Hadoop,"â¢ Operating systems:-Linux- Ubuntu, Windows 2007/08 â¢ Other tools:- Tableau, SVN, Beyond Compare.Education Details 
+January 2016 Bachelors of Engineering Engineering  Gujarat Technological University
+Systems Engineer/Hadoop Developer 
+
+Systems Engineer/Hadoop Developer - Tata Consultancy Services
+Skill Details 
+Hadoop,Spark,Sqoop,Hive,Flume,Pig- Exprience - 24 monthsCompany Details 
+company - Tata Consultancy Services
+description - Roles and responsibility:
+
+Working for a American pharmaceutical company (one of the world's premier
+biopharmaceutical) who develops and produces medicines and vaccines for a wide range of medical
+disciplines, including immunology, oncology, cardiology, endocrinology, and neurology. To handle large
+amount of United Healthcare data big data analytics is used. Data from all possible data sources like records of all Patients(Old and New), records of medicines, Treatment Pathways & Patient Journey for
+Health Outcomes, Patient Finder (or Rare Disease Patient Finder), etc being gathered, stored and processed at one place.
+
+â¢     Worked on cluster with specs as:
+o    Cluster Architecture: Fully
+Distributed Package Used:
+CDH3
+o    Cluster Capacity: 20 TB
+o    No. of Nodes: 10 Data Nodes + 3 Masters + NFS Backup For NN
+
+â¢     Developed proof of concepts for enterprise adoption of Hadoop.
+â¢   Used SparkAPI over Cloudera Hadoop YARN to perform analytics on the Healthcare data in Cloudera
+distribution.
+â¢   Responsible for cluster maintenance, adding and removing cluster nodes, cluster monitoring and trouble-shooting, manage and review data backups, and reviewing Hadoop log files.
+â¢   Imported & exported large data sets of data into HDFS and vice-versa using sqoop.
+â¢   Involved developing the Pig scripts and Hive Reports
+â¢   Worked on Hive partition and bucketing concepts and created hive external and Internal tables with Hive
+partition.Monitoring Hadoop scripts which take the input from HDFS and load the data into Hive.
+â¢   Developed Spark scripts by using Scala shell commands as per the requirement and worked with both
+Data frames/SQL/Data sets and RDD/MapReduce in Spark. Optimizing of existing algorithms in Hadoop
+using SparkContext, Spark-SQL, Data Frames and RDD's.
+â¢   Collaborated with infrastructure, network, database, application and BI to ensure data, quality and availability.
+â¢   Developed reports using TABLEAU and exported data to HDFS and hive using Sqoop.
+â¢   Used ORC & Parquet file formats for serialization of data, and Snappy for the compression of the data.
+
+Achievements
+
+â¢   Appreciation for showing articulate leadership qualities in doing work with the team.
+â¢   Completed the internal certification of TCS Certified Hadoop Developer.
+
+Ongoing Learning
+â¢   Preparing and scheduled the Cloudera Certified Spark Developer CCA 175.",Applicant 31
+Hadoop,"Areas of expertise â¢ Big Data Ecosystems: Hadoop-HDFS, MapReduce, Hive, Pig, Sqoop, HBase Oozie, Spark, Pyspark, HUE and having knowledge on cassandra â¢ Programming Languages: Python, Core Java and have an idea on Scala â¢ Databases: Oracle 10g, MySQL, Sqlserver NoSQL - HBase, Cassandra â¢ Tools: Eclipse, Toad, FTP, Tectia, Putty, Autosys, Anaconda, Jupyter notebool and Devops - RTC, RLM. â¢ Scripting Languages: JSP â¢ Platforms: Windows, UnixEducation Details 
+ M.Tech (IT-DBS) B.Tech (CSE)  SRM University
+Software Engineer 
+
+Software Engineer - Larsen and Toubro
+Skill Details 
+Company Details 
+company - Larsen and Toubro
+description - Worked as a Software Engineer in Technosoft Corporation, Chennai from Aug 2015 to sep 2016.
+company - Current Project
+description - Duration: September 2016 to Till date
+Vendor: Citi bank
+Description:
+Citibank's (Citi) Anti-Money Laundering (AML) Transaction Monitoring (TM) program is a future state solution and a rules-based system for transaction monitoring of ICG-Markets business.
+Roles and Responesbilities:
+â¢ Building and providing domain knowledge for Anti Money Laundering among team members.
+â¢ The layered architecture has Data Warehouse and Workspace layers which are used by Business Analysts.
+â¢ Actively involved in designing of star-schema model involving various Dimensions and Fact tables.
+â¢ Designed SCD2 for maintaining history of the DIM data.
+â¢ Developing Hive Queries for mapping data between different layers of architecture, and it's usage in Oozie Workflows.
+â¢ Integration with Data Quality and Reconciliation Module.
+â¢ Regression and Integration testing of solution for any issues in integration with other modules and effectively testing the data flow from layer-to-layer.
+â¢ Transaction monitoring system development to generate Alerts for the suspicious and fraudulent transactions based on requirements provide by BAs.
+â¢ Developing spark Jobs for various business rules.
+â¢ Learning ""Machine Learning"", which will be used further in the project for developing an effective model for Fraud detection for Anti Money Laundering system.
+â¢ Scheduling Jobs using Autosys tool.
+â¢ Deployment and Code Management using RTC and RLM(Release Lifecycle Management)
+
+Hadoop Developer
+#  Current Project: PRTS - RAN
+Environment: Hadoop 2.x, HDFS, Yarn, Hive, Sqoop, HBase, Tez, Tableau, Sqlserver, Teradata
+Cluster Size: 96 Node Cluster.
+Distribution: Horton works - HDP2.3
+company - Alcatel lucent
+description - 1X) and  Ruckus Wireless
+Description:
+The scope of this project is to maintain and store the operational and parameters data collected from the multiple vendors networks by the mediation team into the OMS data store and make it available for RF engineers to boost the network performance.
+Responsibilities:
+â¢ Working with Hadoop Distributed File System.
+â¢ Involved in importing data from MySQL to HDFS using SQOOP.
+â¢ Involved in creating Hive tables, loading with data and writing hive queries which will run  on top of  Tez execution Engine.
+â¢ Involved in Preparing Test cases Document.
+â¢ Involved in Integrating Hive and HBase to store the operational data.
+â¢ Monitoring the Jobs through Oozie.
+company - Current Project
+description - Anti - Money laundering
+Environment: Hadoop 2.x, HDFS, Yarn, Hive, Oozie, Spark, Unix, Autosys, Python, RTC, RLM, ETL Framwe work
+Cluster Size: 56 Node Cluster.
+Distribution: Cloudera 5.9.14",Applicant 32
+Hadoop,"Technical Skill Set: Programming Languages Apache Hadoop, Python, shell scripting, SQL Technologies Hive, Pig, Sqoop, Flume, Oozie, Impala, hdfs Tools Dataiku, Unravel, Cloudera, Putty, HUE, Cloudera Manager, Eclipse, Resource Manager Initial Learning Program: Tata Consultancy Services: June 2015 to August 2015 Description: This is a learning program conducted by TCS for the newly joined employees, to accomplish them to learn the working standard of the organization. During this period employee are groomed with various technical as well as ethical aspects. Education Details 
+ B.E. Electronics & Communication Indore, Madhya Pradesh Medi-caps Institute of Technology & Management
+Hadoop developer 
+
+hadoop,hive,sqoop,flume,pig,mapreduce,python,impala,spark,scala,sql,unix.
+Skill Details 
+APACHE HADOOP SQOOP- Exprience - 31 months
+Hadoop- Exprience - 31 months
+HADOOP- Exprience - 31 months
+Hive- Exprience - 31 months
+SQOOP- Exprience - 31 months
+python- Exprience - Less than 1 year months
+hdfs- Exprience - Less than 1 year months
+unix- Exprience - Less than 1 year months
+impala- Exprience - Less than 1 year months
+pig- Exprience - Less than 1 year months
+unravel- Exprience - Less than 1 year months
+mapreduce- Exprience - Less than 1 year months
+dataiku- Exprience - Less than 1 year monthsCompany Details 
+company - Tata Consultancy Services
+description - Project Description
+Data warehouse division has multiple products for injecting, storing, analysing and presenting data. The Data Lake program is started to provide multi-talent, secure data hub to store application's data on Hadoop platform with strong data governance, lineage, auditing and monitoring capabilities. The object of the project is to provide necessary engineering support to analytics and application teams so that they can focus on the business logic development. In this project, the major task is to set up the Hadoop cluster and govern all the activities which are required for the smooth functioning of various Hadoop ecosystems. As the day and day data increasing so to provide stability to the ecosystem and smooth working of it, Developing and automating the various requirement specific utilities.
+
+Responsibility 1. Developed proactive Health Check utility for Data Lake. The utility proactively checks the smooth functioning of all Hadoop components on the cluster and sends the result to email in HTML format. The utility is being used for daily Health Checks as well as after upgrades.
+2. Getting the data in different formats and processing the data in Hadoop ecosystem after filtering the data using the appropriate techniques.
+3. Developed data pipeline utility to ingest data from RDBMS database to Hive external tables using Sqoop commands. The utility also offers the data quality check like row count validation.
+4. Developed and automated various cluster health check, usage, capacity related reports using Unix shell scripting.
+5. Optimization of hive queries in order to increase the performance and minimize the Hadoop resource utilizations.
+6. Creating flume agents to process the data to Hadoop ecosystem side.
+7. Performed benchmark testing on the Hive Queries and impala queries.
+8. Involved in setting up the cluster and its components like edge node and HA implementation of the services: Hive Server2, Impala, and HDFS.
+9. Filtering the required data from available data using different technologies like pig, regex Serde etc.
+10. Dataiku benchmark testing on top of impala and hive in compare to Greenplum database.
+11. Moving the data from Greenplum database to Hadoop side with help of Sqoop pipeline, process the data to Hadoop side and storing the data into hive tables to do the performance testing.
+12. Dealing with the Hadoop ecosystem related issues in order to provide stability to WM Hadoop ecosystem.
+13. Rescheduling of job from autosys job hosting to TWS job hosting for better performance.
+
+Declaration:
+I hereby declare that the above mentioned information is authentic to the best of my knowledge
+company - Tata Consultancy Services
+description - Clients: 1. Barclays 2. Union bank of California (UBC) 3. Morgan Stanley (MS)
+
+KEY PROJECTS HANDLED
+Project Name ABSA- Reconciliations, UBC and WMDATALAKE COE
+company - Tata Consultancy Services
+description - Project Description
+Migration of data from RDBMS database to Hive (Hadoop ecosystem) . Hadoop platform ability with strong data governance, lineage, auditing and monitoring capabilities. The objective of this project was to speed up the data processing so that the analysis and decision making become easy. Due to RDBMS limitations to process waste amount of data at once and produce the results at the earliest, Client wanted to move the data to Hadoop ecosystem so that they can over-come from those limitations and focus on business improvement only.
+
+Responsibility 1. Optimising the SQL queries for those data which were not required to move from RDBMS to any other platform.
+2. Writing the Hive queries and logic to move the data from RDBMS to Hadoop ecosystem.
+3. Writing the hive queries to analyse the required data as per the business requirements.
+4. Optimization of hive queries in order to increase the performance and minimize the Hadoop resource utilizations.
+5. Writing the sqoop commands and scripts to move the data from RDBMS to Hadoop side.
+company - Tata Consultancy Services
+description - Project Description
+Create recs and migrating static setup of reconciliations from 8.1 version to 9.1 version of the environment Intellimatch.
+
+Responsibility 1. Have worked on extracting business requirements, analyzing and implementing them in developing Recs 2. Worked on migrating static setup of reconciliations from 8.1 version to 9.1 version of the environment Intellimatch.
+3. Done the back end work where most of the things were related to writing the sql queries and provide the data for the new recs.
+
+Project Name   PSO",Applicant 33
+Hadoop,"Technical Skills Programming Languages: C, C++, Java, .Net., J2EE, HTML5, CSS, MapReduce Scripting Languages: Javascript, Python Databases: Oracle (PL-SQL), MY-SQL, IBM DB2 Tools:IBM Rational Rose, R, Weka Operating Systems: Windows XP, Vista, UNIX, Windows 7, Red Hat 7Education Details 
+January 2015 B.E  Pimpri Chinchwad, MAHARASHTRA, IN Pimpri Chinchwad College of Engineering
+January 2012 Diploma MSBTE  Dnyanganaga Polytechnic
+ S.S.C   New English School Takali
+Hadoop/Big Data Developer 
+
+Hadoop/Big Data Developer - British Telecom
+Skill Details 
+APACHE HADOOP MAPREDUCE- Exprience - 37 months
+MapReduce- Exprience - 37 months
+MAPREDUCE- Exprience - 37 months
+JAVA- Exprience - 32 months
+.NET- Exprience - 6 monthsCompany Details 
+company - British Telecom
+description - Project: British Telecom project (UK)
+Responsibilities:
+â¢ Working on HDFS, MapReduce, Hive, Spark, Scala, Sqoop, Kerberos etc. technologies
+â¢ Implemented various data mining algorithms on Spark like K-means clustering, Random forest, NaÃ¯ve bayes etc.
+â¢ A knowledge of installing, configuring, maintaining and securing Hadoop.
+company - DXC technology
+description - HPE legacy), Bangalore
+â¢ Worked on Hadoop + Java programming
+â¢ Worked on Azure and AWS (EMR) services.
+â¢ Worked on HDInsight Hadoop cluster..
+â¢ Design, develop, document and architect Hadoop applications
+â¢ Develop MapReduce coding that works seamlessly on Hadoop clusters.
+â¢ Analyzing and processing the large data sets on HDFS.
+â¢ An analytical bent of mind and ability to learn-unlearn-relearn surely comes in handy.",Applicant 34
+Hadoop,"Technical Skill Set Big Data Ecosystems: Hadoop, HDFS, HBase, Map Reduce, Sqoop, Hive, Pig, Spark-Core, Flume. Other Language: Scala, Core-Java, SQL, PLSQL, Sell Scripting ETL Tools: Informatica Power Center8.x/9.6, Talend 5.6 Tools: Eclipse, Intellij Idea. Platforms: Windows Family, Linux /UNIX, Cloudera. Databases: MySQL, Oracle.10/11gEducation Details 
+ M.C.A  Pune, MAHARASHTRA, IN Pune University
+Hodoop Developer 
+
+Hodoop Developer - PRGX India Private Limited Pune
+Skill Details 
+Company Details 
+company - PRGX India Private Limited Pune
+description - Team Size: 10+
+Environment: Hive, Spark, Sqoop, Scala and Flume.
+
+Project Description:
+The bank wanted to help its customers to avail different products of the bank through analyzing their expenditure behavior. The customers spending ranges from online shopping, medical expenses in hospitals, cash transactions, and debit card usage etc. the behavior allows the bank to create an analytical report and based on which the bank used to display the product offers on the customer portal which was built using java. The portal allows the customers to login and see their transactions which they make on a day to day basis .the analytics also help the customers plan their budgets through the budget watch and my financial forecast applications embedded into the portal. The portal used hadoop framework to analyes the data as per the rules and regulations placed by the regulators from the respective countries. The offers and the interest rates also complied with the regulations and all these processing was done using the hadoop framework as big data analytics system.
+
+Role & Responsibilities:
+â Import data from legacy system to hadoop using Sqoop, flume.
+â Implement the business logic to analyses  the data
+â Per-process data using spark.
+â Create hive script and loading data into hive.
+â Sourcing various attributes to the data processing logic to retrieve the correct results.
+
+Project 2
+company - PRGX India Private Limited Pune
+description - 
+company - PRGX India Private Limited Pune
+description - Team Size: 11+
+Environment: Hadoop, HDFS, Hive, Sqoop, MySQL, Map Reduce
+
+Project Description:-
+The Purpose of this project is to store terabytes of information from the web application and extract meaningful information out of it.the solution was based on the open source s/w hadoop. The data will be stored in hadoop file system and processed using Map/Reduce jobs. Which in trun includes getting the raw html data from the micro websites, process the html to obtain product and user information, extract various reports out of the vistor tracking information and export the information for further processing
+
+Role & Responsibilities:
+â Move all crawl data flat files generated from various micro sites to HDFS for further processing.
+â Sqoop implementation for interaction with database
+â Write Map Reduce scripts to process the data file.
+â Create hive tables to store the processed data in tabular formats.
+â Reports creation from hive data.
+
+Project 3
+company - PRGX India Private Limited Pune
+description - Team Size: 15+
+Environment: Informatica 9.5, Oracle11g, UNIX
+
+Project Description:
+Pfizer Inc. is an American global pharmaceutical corporation headquartered in New York City. The main objective of the project is to build a Development Data Repository for Pfizer Inc. Because all the downstream application are like Etrack, TSP database, RTS, SADMS, GFS, GDO having their own sql request on the OLTP system directly due to which the performance of OLTP system goes slows down. For this we have created a Development Data Repository to replace the entire sql request directly on the OLTP system. DDR process extracts all clinical, pre-clinical, study, product, subject, sites related information from the upstream applications like EPECS, CDSS, RCM, PRC, E-CLINICAL, EDH and after applying some business logic put it into DDR core tables. From these snapshot and dimensional layer are created which are used for reporting application.
+
+Role & Responsibilities:
+â To understand & analyze the requirement documents and resolve the queries.
+â To design Informatica mappings by using various basic transformations like Filter, Router, Source qualifier, Lookup etc and advance transformations like Aggregators, Joiner, Sorters and so on.
+â Perform cross Unit and Integration testing for mappings developed within the team. Reporting bugs and bug fixing.
+â Create workflow/batches and set the session dependencies.
+â Implemented Change Data Capture using mapping parameters, SCD and SK generation.
+â Developed Mapplet, reusable transformations to populate the data into data warehouse.
+â Created Sessions & Worklets using workflow Manager to load the data into the Target Database.
+â Involved in Unit Case Testing (UTC)
+â Performing Unit Testing and UAT for SCD Type1/Type2, fact load and CDC implementation.
+
+Personal Scan
+
+Address: Jijayi Heights, Flat no 118, Narhe, (Police chowki) Pune- 411041",Applicant 35
+Hadoop,"Education Details 
+
+Hadoop Developer 
+
+Hadoop Developer - INFOSYS
+Skill Details 
+Company Details 
+company - INFOSYS
+description - Project Description: The banking information had stored the data in different data ware house systems for each department but it becomes difficult for the organization to manage the data and to perform some analytics on the past data, so it is combined them into a single global repository in Hadoop for analysis.
+
+Responsibilities:
+â¢       Analyze the banking rates data set.
+â¢       Create specification document.
+â¢       Provide effort estimation.
+â¢       Develop SPARK Scala, SPARK SQL Programs using Eclipse IDE on Windows/Linux environment.
+â¢       Create KPI's test scenarios, test cases, test result document.
+â¢       Test the Scala programs in Linux Spark Standalone mode.
+â¢       setup multi cluster on AWS, deploy the Spark Scala programs
+â¢       Provided solution using Hadoop ecosystem - HDFS, MapReduce, Pig, Hive, HBase, and Zookeeper.
+â¢       Provided solution using large scale server-side systems with distributed processing algorithms.
+â¢       Created reports for the BI team using Sqoop to export data into HDFS and Hive.
+â¢       Provided solution in supporting and assisting in troubleshooting and optimization of MapReduce jobs and
+Pig Latin scripts.
+â¢       Deep understanding of Hadoop design principles, cluster connectivity, security and the factors that affect
+system performance.
+â¢       Worked on Importing and exporting data from different databases like Oracle, Teradata into HDFS and Hive
+using Sqoop, TPT and Connect Direct.
+â¢       Import and export the data from RDBMS to HDFS/HBASE
+â¢       Wrote script and placed it in client side so that the data moved to HDFS will be stored in temporary file and then it will start loading it in hive tables.
+â¢       Developed the Sqoop scripts in order to make the interaction between Pig and MySQL Database.
+â¢       Involved in developing the Hive Reports, Partitions of Hive tables.
+â¢       Created and maintained technical documentation for launching HADOOP Clusters and for executing HIVE
+queries and PIG scripts.
+â¢       Involved in running Hadoop jobs for processing millions of records of text data
+
+Environment: Java, Hadoop, HDFS, Map-Reduce, Pig, Hive, Sqoop, Flume, Oozie, HBase, Spark, Scala,
+Linux, NoSQL, Storm, Tomcat, Putty, SVN, GitHub, IBM WebSphere v8.5.
+
+Project #1: TELECOMMUNICATIONS
+Hadoop Developer
+
+Description To identify customers who are likely to churn and 360-degree view of the customer is created from different heterogeneous data sources. The data is brought into data lake (HDFS) from different sources and analyzed using different Hadoop tools like pig and hive.
+
+Responsibilities:
+â¢       Installed and Configured Apache Hadoop tools like Hive, Pig, HBase and Sqoop for application development and unit testing.
+â¢       Wrote MapReduce jobs to discover trends in data usage by users.
+â¢       Involved in database connection using SQOOP.
+â¢       Involved in creating Hive tables, loading data and writing hive queries Using the HiveQL.
+â¢       Involved in partitioning and joining Hive tables for Hive query optimization.
+â¢       Experienced in SQL DB Migration to HDFS.
+â¢       Used NoSQL(HBase) for faster performance, which maintains the data in the De-Normalized way for OLTP.
+â¢       The data is collected from distributed sources into Avro models. Applied transformations and standardizations and loaded into HBase for further data processing.
+â¢       Experienced in defining job flows.
+â¢       Used Oozie to orchestrate the workflow.
+â¢       Implemented Fair schedulers on the Job tracker to share the resources of the Cluster for the Map Reduce
+jobs given by the users.
+â¢       Exported the analyzed data to the relational databases using HIVE for visualization and to generate reports for the BI team.
+
+Environment: Hadoop, Hive, Linux, MapReduce, HDFS, Hive, Python, Pig, Sqoop, Cloudera, Shell Scripting,
+Java (JDK 1.6), Java 6, Oracle 10g, PL/SQL, SQL*PLUS",Applicant 36
+Hadoop,"Skill Set: Hadoop, Map Reduce, HDFS, Hive, Sqoop, java. Duration: 2016 to 2017. Role: Hadoop Developer Rplus offers an quick, simple and powerful cloud based Solution, Demand Sense to accurately predict demand for your product in all your markets which Combines Enterprise and External Data to predict demand more accurately through Uses Social Conversation and Sentiments to derive demand and Identifies significant drivers of sale out of hordes of factors that Selects the best suited model out of multiple forecasting models for each product. Responsibilities: â¢ Involved in deploying the product for customers, gathering requirements and algorithm optimization at backend of the product. â¢ Load and transform Large Datasets of structured semi structured. â¢ Responsible to manage data coming from different sources and application â¢ Supported Map Reduce Programs those are running on the cluster â¢ Involved in creating Hive tables, loading with data and writing hive queries which will run internally in map reduce way.Education Details 
+
+Hadoop Developer 
+
+Hadoop Developer - Braindatawire
+Skill Details 
+APACHE HADOOP HDFS- Exprience - 49 months
+APACHE HADOOP SQOOP- Exprience - 49 months
+Hadoop- Exprience - 49 months
+HADOOP- Exprience - 49 months
+HADOOP DISTRIBUTED FILE SYSTEM- Exprience - 49 monthsCompany Details 
+company - Braindatawire
+description - Technical Skills:
+â¢   Programming: Core Java, Map Reduce, Scala
+â¢   Hadoop Tools: HDFS, Spark, Map Reduce, Sqoop, Hive, Hbase
+â¢   Database: MySQL, Oracle
+â¢   Scripting: Shell Scripting
+â¢   IDE: Eclipse
+â¢   Operating Systems: Linux (CentOS), Windows
+â¢   Source Control: Git (Github)",Applicant 37
+Hadoop,"â¢ Operating systems:-Linux- Ubuntu, Windows 2007/08 â¢ Other tools:- Tableau, SVN, Beyond Compare.Education Details 
+January 2016 Bachelors of Engineering Engineering  Gujarat Technological University
+Systems Engineer/Hadoop Developer 
+
+Systems Engineer/Hadoop Developer - Tata Consultancy Services
+Skill Details 
+Hadoop,Spark,Sqoop,Hive,Flume,Pig- Exprience - 24 monthsCompany Details 
+company - Tata Consultancy Services
+description - Roles and responsibility:
+
+Working for a American pharmaceutical company (one of the world's premier
+biopharmaceutical) who develops and produces medicines and vaccines for a wide range of medical
+disciplines, including immunology, oncology, cardiology, endocrinology, and neurology. To handle large
+amount of United Healthcare data big data analytics is used. Data from all possible data sources like records of all Patients(Old and New), records of medicines, Treatment Pathways & Patient Journey for
+Health Outcomes, Patient Finder (or Rare Disease Patient Finder), etc being gathered, stored and processed at one place.
+
+â¢     Worked on cluster with specs as:
+o    Cluster Architecture: Fully
+Distributed Package Used:
+CDH3
+o    Cluster Capacity: 20 TB
+o    No. of Nodes: 10 Data Nodes + 3 Masters + NFS Backup For NN
+
+â¢     Developed proof of concepts for enterprise adoption of Hadoop.
+â¢   Used SparkAPI over Cloudera Hadoop YARN to perform analytics on the Healthcare data in Cloudera
+distribution.
+â¢   Responsible for cluster maintenance, adding and removing cluster nodes, cluster monitoring and trouble-shooting, manage and review data backups, and reviewing Hadoop log files.
+â¢   Imported & exported large data sets of data into HDFS and vice-versa using sqoop.
+â¢   Involved developing the Pig scripts and Hive Reports
+â¢   Worked on Hive partition and bucketing concepts and created hive external and Internal tables with Hive
+partition.Monitoring Hadoop scripts which take the input from HDFS and load the data into Hive.
+â¢   Developed Spark scripts by using Scala shell commands as per the requirement and worked with both
+Data frames/SQL/Data sets and RDD/MapReduce in Spark. Optimizing of existing algorithms in Hadoop
+using SparkContext, Spark-SQL, Data Frames and RDD's.
+â¢   Collaborated with infrastructure, network, database, application and BI to ensure data, quality and availability.
+â¢   Developed reports using TABLEAU and exported data to HDFS and hive using Sqoop.
+â¢   Used ORC & Parquet file formats for serialization of data, and Snappy for the compression of the data.
+
+Achievements
+
+â¢   Appreciation for showing articulate leadership qualities in doing work with the team.
+â¢   Completed the internal certification of TCS Certified Hadoop Developer.
+
+Ongoing Learning
+â¢   Preparing and scheduled the Cloudera Certified Spark Developer CCA 175.",Applicant 38
+Hadoop,"Areas of expertise â¢ Big Data Ecosystems: Hadoop-HDFS, MapReduce, Hive, Pig, Sqoop, HBase Oozie, Spark, Pyspark, HUE and having knowledge on cassandra â¢ Programming Languages: Python, Core Java and have an idea on Scala â¢ Databases: Oracle 10g, MySQL, Sqlserver NoSQL - HBase, Cassandra â¢ Tools: Eclipse, Toad, FTP, Tectia, Putty, Autosys, Anaconda, Jupyter notebool and Devops - RTC, RLM. â¢ Scripting Languages: JSP â¢ Platforms: Windows, UnixEducation Details 
+ M.Tech (IT-DBS) B.Tech (CSE)  SRM University
+Software Engineer 
+
+Software Engineer - Larsen and Toubro
+Skill Details 
+Company Details 
+company - Larsen and Toubro
+description - Worked as a Software Engineer in Technosoft Corporation, Chennai from Aug 2015 to sep 2016.
+company - Current Project
+description - Duration: September 2016 to Till date
+Vendor: Citi bank
+Description:
+Citibank's (Citi) Anti-Money Laundering (AML) Transaction Monitoring (TM) program is a future state solution and a rules-based system for transaction monitoring of ICG-Markets business.
+Roles and Responesbilities:
+â¢ Building and providing domain knowledge for Anti Money Laundering among team members.
+â¢ The layered architecture has Data Warehouse and Workspace layers which are used by Business Analysts.
+â¢ Actively involved in designing of star-schema model involving various Dimensions and Fact tables.
+â¢ Designed SCD2 for maintaining history of the DIM data.
+â¢ Developing Hive Queries for mapping data between different layers of architecture, and it's usage in Oozie Workflows.
+â¢ Integration with Data Quality and Reconciliation Module.
+â¢ Regression and Integration testing of solution for any issues in integration with other modules and effectively testing the data flow from layer-to-layer.
+â¢ Transaction monitoring system development to generate Alerts for the suspicious and fraudulent transactions based on requirements provide by BAs.
+â¢ Developing spark Jobs for various business rules.
+â¢ Learning ""Machine Learning"", which will be used further in the project for developing an effective model for Fraud detection for Anti Money Laundering system.
+â¢ Scheduling Jobs using Autosys tool.
+â¢ Deployment and Code Management using RTC and RLM(Release Lifecycle Management)
+
+Hadoop Developer
+#  Current Project: PRTS - RAN
+Environment: Hadoop 2.x, HDFS, Yarn, Hive, Sqoop, HBase, Tez, Tableau, Sqlserver, Teradata
+Cluster Size: 96 Node Cluster.
+Distribution: Horton works - HDP2.3
+company - Alcatel lucent
+description - 1X) and  Ruckus Wireless
+Description:
+The scope of this project is to maintain and store the operational and parameters data collected from the multiple vendors networks by the mediation team into the OMS data store and make it available for RF engineers to boost the network performance.
+Responsibilities:
+â¢ Working with Hadoop Distributed File System.
+â¢ Involved in importing data from MySQL to HDFS using SQOOP.
+â¢ Involved in creating Hive tables, loading with data and writing hive queries which will run  on top of  Tez execution Engine.
+â¢ Involved in Preparing Test cases Document.
+â¢ Involved in Integrating Hive and HBase to store the operational data.
+â¢ Monitoring the Jobs through Oozie.
+company - Current Project
+description - Anti - Money laundering
+Environment: Hadoop 2.x, HDFS, Yarn, Hive, Oozie, Spark, Unix, Autosys, Python, RTC, RLM, ETL Framwe work
+Cluster Size: 56 Node Cluster.
+Distribution: Cloudera 5.9.14",Applicant 39
+Hadoop,"Technical Skill Set: Programming Languages Apache Hadoop, Python, shell scripting, SQL Technologies Hive, Pig, Sqoop, Flume, Oozie, Impala, hdfs Tools Dataiku, Unravel, Cloudera, Putty, HUE, Cloudera Manager, Eclipse, Resource Manager Initial Learning Program: Tata Consultancy Services: June 2015 to August 2015 Description: This is a learning program conducted by TCS for the newly joined employees, to accomplish them to learn the working standard of the organization. During this period employee are groomed with various technical as well as ethical aspects. Education Details 
+ B.E. Electronics & Communication Indore, Madhya Pradesh Medi-caps Institute of Technology & Management
+Hadoop developer 
+
+hadoop,hive,sqoop,flume,pig,mapreduce,python,impala,spark,scala,sql,unix.
+Skill Details 
+APACHE HADOOP SQOOP- Exprience - 31 months
+Hadoop- Exprience - 31 months
+HADOOP- Exprience - 31 months
+Hive- Exprience - 31 months
+SQOOP- Exprience - 31 months
+python- Exprience - Less than 1 year months
+hdfs- Exprience - Less than 1 year months
+unix- Exprience - Less than 1 year months
+impala- Exprience - Less than 1 year months
+pig- Exprience - Less than 1 year months
+unravel- Exprience - Less than 1 year months
+mapreduce- Exprience - Less than 1 year months
+dataiku- Exprience - Less than 1 year monthsCompany Details 
+company - Tata Consultancy Services
+description - Project Description
+Data warehouse division has multiple products for injecting, storing, analysing and presenting data. The Data Lake program is started to provide multi-talent, secure data hub to store application's data on Hadoop platform with strong data governance, lineage, auditing and monitoring capabilities. The object of the project is to provide necessary engineering support to analytics and application teams so that they can focus on the business logic development. In this project, the major task is to set up the Hadoop cluster and govern all the activities which are required for the smooth functioning of various Hadoop ecosystems. As the day and day data increasing so to provide stability to the ecosystem and smooth working of it, Developing and automating the various requirement specific utilities.
+
+Responsibility 1. Developed proactive Health Check utility for Data Lake. The utility proactively checks the smooth functioning of all Hadoop components on the cluster and sends the result to email in HTML format. The utility is being used for daily Health Checks as well as after upgrades.
+2. Getting the data in different formats and processing the data in Hadoop ecosystem after filtering the data using the appropriate techniques.
+3. Developed data pipeline utility to ingest data from RDBMS database to Hive external tables using Sqoop commands. The utility also offers the data quality check like row count validation.
+4. Developed and automated various cluster health check, usage, capacity related reports using Unix shell scripting.
+5. Optimization of hive queries in order to increase the performance and minimize the Hadoop resource utilizations.
+6. Creating flume agents to process the data to Hadoop ecosystem side.
+7. Performed benchmark testing on the Hive Queries and impala queries.
+8. Involved in setting up the cluster and its components like edge node and HA implementation of the services: Hive Server2, Impala, and HDFS.
+9. Filtering the required data from available data using different technologies like pig, regex Serde etc.
+10. Dataiku benchmark testing on top of impala and hive in compare to Greenplum database.
+11. Moving the data from Greenplum database to Hadoop side with help of Sqoop pipeline, process the data to Hadoop side and storing the data into hive tables to do the performance testing.
+12. Dealing with the Hadoop ecosystem related issues in order to provide stability to WM Hadoop ecosystem.
+13. Rescheduling of job from autosys job hosting to TWS job hosting for better performance.
+
+Declaration:
+I hereby declare that the above mentioned information is authentic to the best of my knowledge
+company - Tata Consultancy Services
+description - Clients: 1. Barclays 2. Union bank of California (UBC) 3. Morgan Stanley (MS)
+
+KEY PROJECTS HANDLED
+Project Name ABSA- Reconciliations, UBC and WMDATALAKE COE
+company - Tata Consultancy Services
+description - Project Description
+Migration of data from RDBMS database to Hive (Hadoop ecosystem) . Hadoop platform ability with strong data governance, lineage, auditing and monitoring capabilities. The objective of this project was to speed up the data processing so that the analysis and decision making become easy. Due to RDBMS limitations to process waste amount of data at once and produce the results at the earliest, Client wanted to move the data to Hadoop ecosystem so that they can over-come from those limitations and focus on business improvement only.
+
+Responsibility 1. Optimising the SQL queries for those data which were not required to move from RDBMS to any other platform.
+2. Writing the Hive queries and logic to move the data from RDBMS to Hadoop ecosystem.
+3. Writing the hive queries to analyse the required data as per the business requirements.
+4. Optimization of hive queries in order to increase the performance and minimize the Hadoop resource utilizations.
+5. Writing the sqoop commands and scripts to move the data from RDBMS to Hadoop side.
+company - Tata Consultancy Services
+description - Project Description
+Create recs and migrating static setup of reconciliations from 8.1 version to 9.1 version of the environment Intellimatch.
+
+Responsibility 1. Have worked on extracting business requirements, analyzing and implementing them in developing Recs 2. Worked on migrating static setup of reconciliations from 8.1 version to 9.1 version of the environment Intellimatch.
+3. Done the back end work where most of the things were related to writing the sql queries and provide the data for the new recs.
+
+Project Name   PSO",Applicant 40
+Hadoop,"Technical Skills Programming Languages: C, C++, Java, .Net., J2EE, HTML5, CSS, MapReduce Scripting Languages: Javascript, Python Databases: Oracle (PL-SQL), MY-SQL, IBM DB2 Tools:IBM Rational Rose, R, Weka Operating Systems: Windows XP, Vista, UNIX, Windows 7, Red Hat 7Education Details 
+January 2015 B.E  Pimpri Chinchwad, MAHARASHTRA, IN Pimpri Chinchwad College of Engineering
+January 2012 Diploma MSBTE  Dnyanganaga Polytechnic
+ S.S.C   New English School Takali
+Hadoop/Big Data Developer 
+
+Hadoop/Big Data Developer - British Telecom
+Skill Details 
+APACHE HADOOP MAPREDUCE- Exprience - 37 months
+MapReduce- Exprience - 37 months
+MAPREDUCE- Exprience - 37 months
+JAVA- Exprience - 32 months
+.NET- Exprience - 6 monthsCompany Details 
+company - British Telecom
+description - Project: British Telecom project (UK)
+Responsibilities:
+â¢ Working on HDFS, MapReduce, Hive, Spark, Scala, Sqoop, Kerberos etc. technologies
+â¢ Implemented various data mining algorithms on Spark like K-means clustering, Random forest, NaÃ¯ve bayes etc.
+â¢ A knowledge of installing, configuring, maintaining and securing Hadoop.
+company - DXC technology
+description - HPE legacy), Bangalore
+â¢ Worked on Hadoop + Java programming
+â¢ Worked on Azure and AWS (EMR) services.
+â¢ Worked on HDInsight Hadoop cluster..
+â¢ Design, develop, document and architect Hadoop applications
+â¢ Develop MapReduce coding that works seamlessly on Hadoop clusters.
+â¢ Analyzing and processing the large data sets on HDFS.
+â¢ An analytical bent of mind and ability to learn-unlearn-relearn surely comes in handy.",Applicant 41
+Hadoop,"Technical Skill Set Big Data Ecosystems: Hadoop, HDFS, HBase, Map Reduce, Sqoop, Hive, Pig, Spark-Core, Flume. Other Language: Scala, Core-Java, SQL, PLSQL, Sell Scripting ETL Tools: Informatica Power Center8.x/9.6, Talend 5.6 Tools: Eclipse, Intellij Idea. Platforms: Windows Family, Linux /UNIX, Cloudera. Databases: MySQL, Oracle.10/11gEducation Details 
+ M.C.A  Pune, MAHARASHTRA, IN Pune University
+Hodoop Developer 
+
+Hodoop Developer - PRGX India Private Limited Pune
+Skill Details 
+Company Details 
+company - PRGX India Private Limited Pune
+description - Team Size: 10+
+Environment: Hive, Spark, Sqoop, Scala and Flume.
+
+Project Description:
+The bank wanted to help its customers to avail different products of the bank through analyzing their expenditure behavior. The customers spending ranges from online shopping, medical expenses in hospitals, cash transactions, and debit card usage etc. the behavior allows the bank to create an analytical report and based on which the bank used to display the product offers on the customer portal which was built using java. The portal allows the customers to login and see their transactions which they make on a day to day basis .the analytics also help the customers plan their budgets through the budget watch and my financial forecast applications embedded into the portal. The portal used hadoop framework to analyes the data as per the rules and regulations placed by the regulators from the respective countries. The offers and the interest rates also complied with the regulations and all these processing was done using the hadoop framework as big data analytics system.
+
+Role & Responsibilities:
+â Import data from legacy system to hadoop using Sqoop, flume.
+â Implement the business logic to analyses  the data
+â Per-process data using spark.
+â Create hive script and loading data into hive.
+â Sourcing various attributes to the data processing logic to retrieve the correct results.
+
+Project 2
+company - PRGX India Private Limited Pune
+description - 
+company - PRGX India Private Limited Pune
+description - Team Size: 11+
+Environment: Hadoop, HDFS, Hive, Sqoop, MySQL, Map Reduce
+
+Project Description:-
+The Purpose of this project is to store terabytes of information from the web application and extract meaningful information out of it.the solution was based on the open source s/w hadoop. The data will be stored in hadoop file system and processed using Map/Reduce jobs. Which in trun includes getting the raw html data from the micro websites, process the html to obtain product and user information, extract various reports out of the vistor tracking information and export the information for further processing
+
+Role & Responsibilities:
+â Move all crawl data flat files generated from various micro sites to HDFS for further processing.
+â Sqoop implementation for interaction with database
+â Write Map Reduce scripts to process the data file.
+â Create hive tables to store the processed data in tabular formats.
+â Reports creation from hive data.
+
+Project 3
+company - PRGX India Private Limited Pune
+description - Team Size: 15+
+Environment: Informatica 9.5, Oracle11g, UNIX
+
+Project Description:
+Pfizer Inc. is an American global pharmaceutical corporation headquartered in New York City. The main objective of the project is to build a Development Data Repository for Pfizer Inc. Because all the downstream application are like Etrack, TSP database, RTS, SADMS, GFS, GDO having their own sql request on the OLTP system directly due to which the performance of OLTP system goes slows down. For this we have created a Development Data Repository to replace the entire sql request directly on the OLTP system. DDR process extracts all clinical, pre-clinical, study, product, subject, sites related information from the upstream applications like EPECS, CDSS, RCM, PRC, E-CLINICAL, EDH and after applying some business logic put it into DDR core tables. From these snapshot and dimensional layer are created which are used for reporting application.
+
+Role & Responsibilities:
+â To understand & analyze the requirement documents and resolve the queries.
+â To design Informatica mappings by using various basic transformations like Filter, Router, Source qualifier, Lookup etc and advance transformations like Aggregators, Joiner, Sorters and so on.
+â Perform cross Unit and Integration testing for mappings developed within the team. Reporting bugs and bug fixing.
+â Create workflow/batches and set the session dependencies.
+â Implemented Change Data Capture using mapping parameters, SCD and SK generation.
+â Developed Mapplet, reusable transformations to populate the data into data warehouse.
+â Created Sessions & Worklets using workflow Manager to load the data into the Target Database.
+â Involved in Unit Case Testing (UTC)
+â Performing Unit Testing and UAT for SCD Type1/Type2, fact load and CDC implementation.
+
+Personal Scan
+
+Address: Jijayi Heights, Flat no 118, Narhe, (Police chowki) Pune- 411041",Applicant 42

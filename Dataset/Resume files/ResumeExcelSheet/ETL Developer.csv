@@ -1,0 +1,1849 @@
+Category,Resume,candidate_num
+ETL Developer,"Technical Summary â¢ Knowledge of Informatica Power Center (ver. 9.1 and 10) ETL Tool: Mapping designing, usage of multiple transformations. Integration of various data source like SQL Server tables, Flat Files, etc. into target data warehouse. â¢ SQL/PLSQL working knowledge on Microsoft SQL server 2010. â¢ Unix Work Description: shell scripting, error debugging. â¢ Job scheduling using Autosys, Incident management and Change Requests through Service Now, JIRA, Agile Central â¢ Basic knowledge of Intellimatch (Reconciliation tool) Education Details 
+January 2010 to January 2014 BTech CSE Sangli, Maharashtra Walchand College of Engineering
+October 2009 H.S.C  Sangli, Maharashtra Willingdon College
+August 2007 S.S.C Achievements Sangli, Maharashtra Martin's English School
+ETL Developer 
+
+IT Analyst
+Skill Details 
+ETL- Exprience - 48 months
+EXTRACT, TRANSFORM, AND LOAD- Exprience - 48 months
+INFORMATICA- Exprience - 48 months
+MS SQL SERVER- Exprience - 48 months
+RECONCILIATION- Exprience - 48 months
+Jira- Exprience - 36 monthsCompany Details 
+company - Tata Consultancy Services
+description - Project Details
+Client/Project: Barclays UK London/HEXAD
+Environment: Informatica (Power Center), SQL Server, UNIX, Autosys, Intellimatch.
+
+Project Description:
+The objective is to implement a strategic technical solution to support the governance and monitoring of break standards - including enhancements to audit capabilities. As a part of this program, the required remediation of source system data feeds involves consolidation of data into standardized feeds.
+
+These remediated data feeds will be consumed by ETL layer. The reconciliation tool is
+designed to source data from an ETL layer. The data from the Front and Back office systems,
+together with static data must therefore be delivered to ETL. Here it will be pre-processed and delivered to reconciliation tool before the reconciliation process can be performed.
+
+Role and Responsibilities:
+â¢ Responsible for analyzing, designing and developing ETL strategies and processes,
+writing ETL specifications
+â¢ Requirement gathering
+â¢ Making functional documents and low level documents
+â¢ Developing and debugging the Informatica mappings to resolve bugs, and identify the causes of failures
+â¢ User interaction to identify the issues with the data loaded through the application
+â¢ Developed mappings using different transformations
+company - Tata Consultancy Services
+description - Project Details
+Client/Project: Barclays UK London/HEXAD
+Environment: Informatica (Power Center), SQL Server, UNIX, Autosys, Intellimatch.
+
+Project Description:
+The objective is to implement a strategic technical solution to support the governance and monitoring of break standards - including enhancements to audit capabilities. As a part of this program, the required remediation of source system data feeds involves consolidation of data into standardized feeds.
+
+These remediated data feeds will be consumed by ETL layer. The reconciliation tool is
+designed to source data from an ETL layer. The data from the Front and Back office systems,
+together with static data must therefore be delivered to ETL. Here it will be pre-processed and delivered to reconciliation tool before the reconciliation process can be performed.
+
+Role and Responsibilities:
+â¢ Responsible for analyzing, designing and developing ETL strategies and processes,
+writing ETL specifications
+â¢ Requirement gathering
+â¢ Making functional documents and low level documents
+â¢ Developing and debugging the Informatica mappings to resolve bugs, and identify the causes of failures
+â¢ User interaction to identify the issues with the data loaded through the application
+â¢ Developed mappings using different transformations",Applicant 1
+ETL Developer,"TechnicalProficiencies DB: Oracle 11g Domains: Investment Banking, Advertising, Insurance. Programming Skills: SQL, PLSQL BI Tools: Informatica 9.1 OS: Windows, Unix Professional Development Trainings â¢ Concepts in Data Warehousing, Business Intelligence, ETL. â¢ BI Tools -Informatica 9X Education Details 
+ BCA  Nanded, Maharashtra Nanded University
+ETL Developer 
+
+ETL Developer - Sun Trust Bank NY
+Skill Details 
+ETL- Exprience - 39 months
+EXTRACT, TRANSFORM, AND LOAD- Exprience - 39 months
+INFORMATICA- Exprience - 39 months
+ORACLE- Exprience - 39 months
+UNIX- Exprience - 39 monthsCompany Details 
+company - Sun Trust Bank NY
+description - Sun Trust Bank, NY JAN 2018 to present
+Client: Sun Trust Bank NY
+Environment: Informatica Power Center 9.1, Oracle 11g, unix.
+
+Role: ETL Developer
+
+Project Profile:
+Sun Trust Bank is a US based multinational financial services holding company, headquarters in NY that operates the Bank in New York and other financial services investments. The company is organized as a stock corporation with four divisions: investment banking, private banking, Retail banking and a shared services group that provides
+Financial services and support to the other divisions.
+The objective of the first module was to create a DR system for the bank with a central point of communication and storage for Listed, Cash securities, Loans, Bonds, Notes, Equities, Rates, Commodities, and
+FX asset classes.
+Contribution / Highlights:
+
+â¢ Liaising closely with Project Manager, Business Analysts, Product Architects, and Requirements Modelers (CFOC) to define Technical requirements and create project documentation.
+â¢ Development using Infa 9.1, 11g/Oracle, UNIX.
+â¢ Use Informatica PowerCenter for extraction, transformation and loading (ETL) of data in the Database.
+â¢ Created and configured Sessions in Informatica workflow Manager for loading data into Data base tables from various heterogeneous database sources like Flat Files, Oracle etc.
+â¢ Unit testing and system integration testing of the developed mappings.
+â¢ Providing production Support of the deployed code.
+â¢ Providing solutions to the business for the Production issues.
+â¢ Had one to One interaction with the client throughout the project and in daily meetings.
+
+Project #2
+company - Marshall Multimedia
+description - JUN 2016 to DEC 2017
+
+Client: Marshall Multimedia
+Environment: Informatica Power Center 9.1, Oracle 11g, unix.
+
+Role: ETL Developer
+
+Project Profile:
+Marshall Multimedia is a US based multimedia advertisement services based organization which has
+head courter in New York. EGC interface systems are advert management, Customer Management, Billing and
+Provisioning Systems for Consumer& Enterprise Customers.
+The main aim of the project was to create an enterprise data warehouse which would suffice the need of reports belonging to the following categories: Financial reports, management reports and
+rejection reports. The professional reports were created by Cognos and ETL work was performed by
+Informatica. This project is to load the advert details and magazine details coming in Relational tables into data warehouse and calculate the compensation and incentive amount monthly twice as per business
+rules.
+
+Contribution / Highlights:
+â¢ Developed mappings using different sources by using Informatica transformations.
+â¢ Created and configured Sessions in Informatica workflow Manager for loading data into Data Mart tables from various heterogeneous database sources like Flat Files, Oracle etc.
+
+2
+â¢ Unit testing and system integration testing of the developed mappings.
+â¢ Providing solutions to the business for the Production issues.
+
+Project #3
+company - Assurant healthcare/Insurance Miami USA
+description - Assurant, USA                                                                                                    NOV 2015 to MAY 2016
+
+Project: ACT BI - State Datamart
+Client: Assurant healthcare/Insurance Miami USA
+Environment: Informatica Power Center 9.1, Oracle 11g, unix.
+
+Role: ETL Developer
+
+Project Profile:
+Assurant, Inc. is a holding company with businesses that provide a diverse set of specialty, niche-market insurance
+products in the property, casualty, life and health insurance sectors. The company's four operating segments are Assurant
+Employee Benefits, Assurant Health, Assurant Solutions and Assurant Specialty Property.
+The project aim at building State Datamart for enterprise solution. I am part of team which is responsible for ETL
+Design & development along with testing.
+
+Contribution / Highlights:
+â¢   Performed small enhancement
+â¢   Daily load monitoring
+â¢   Attend to Informatica job failures by analyzing the root cause, resolving the failure using standard
+documented process.
+â¢   Experience in writing SQL statements.
+â¢   Strong Problem Analysis & Resolution skills and ability to work in Multi Platform Environments
+â¢   Scheduled the Informatica jobs using Informatica scheduler
+â¢   Extensively used ETL methodology for developing and supporting data extraction, transformations and loading process, in a corporate-wide-ETL Solution using Informatica.
+â¢   Involved in creating the Unit cases and uploaded in to Quality Center for Unit Testing and UTR
+â¢   Ensure that daily support tasks are done in accordance with the defined SLA.",Applicant 2
+ETL Developer,"Education Details 
+January 2015 Bachelor of Engineering EXTC Mumbai, Maharashtra Mumbai University
+January 2012 Diploma Industrial Electronics Vashi, MAHARASHTRA, IN Fr. Agnel Polytechnic
+ETL Developer 
+
+ETL Developer
+Skill Details 
+informatica- Exprience - 36 monthsCompany Details 
+company - Blue Shield of California
+description - Duration: (Mar 2016 - Sept 2017)
+
+Description:
+Blue Shield of California (BSC) is health plan provider. The intent of this project is to process feeds coming in and going out of BSC system related to eligibility, enrollment, and claims subject areas. All these feeds comes in different formats and are processed using Informatica 9.6.1, Oracle 11g, Facets 5.0 &Tidal.
+
+Technical environment: ETL tool (Informatica power Center 9.6.1), Oracle 11g (SQL, PL-SQL), UNIX, Facets, Tidal, JIRA, Putty.
+
+Role: ETL Developer
+Responsibilities: â¢ Responsible for analyzing the business requirement document â¢ Involved in development of Informatica mappings using different transformations like source qualifier, expression, filter, router, joiner, union, aggregator, normalizer, sorter, lookup and its corresponding sessions and workflows.
+â¢ Extensively used Informatica Debugger to figure out the problems in mapping and involved in troubleshooting the existing bugs.
+â¢ Writing Unix Scripts & SQL's as per the business requirement.
+â¢ Impact analysis of change requests & their development.
+â¢ Data fabrication using Facets screens as well as SQL statements in membership domain.
+â¢ Unit testing & trouble shooting using Informatica debugger, SQL query & preparation of Unit Test Cases.
+â¢ Prepare documents for design, unit testing and impact analysis.
+
+Awards & Achievements â¢ Received Kudos Award at Syntel for contribution in error free work, commitment towards learning, client appreciation and outstanding display of Syntel values Received appreciation from Management for outstanding performance in complete tenure.
+â¢ Received spot recognition for automation done in project.",Applicant 3
+ETL Developer,"SKILL SET â Talend Big Data â Informatica Power center â Microsoft SQL Server â SQL Platform 6.2.1 Management Studio Workbench â AWS Services â Talend Administration Console â Microsoft Visual â Redshift (TAC) Studio â Athena â Data Warehouse Concept - Star â SQL â S3 Schema, Facts, Dimensions â Data Modeling - â Data Integration Microsoft Access Education Details 
+January 2012 to January 2016 BE  Mumbai, Maharashtra University of Mumbai
+January 2012 CBSE Technology Kochi, Kerala St. Francis
+Talend ETL Developer 
+
+Talend ETL Developer - Tata Consultancy Services
+Skill Details 
+DATA WAREHOUSE- Exprience - 23 months
+DATABASE- Exprience - 20 months
+INTEGRATION- Exprience - 20 months
+INTEGRATOR- Exprience - 20 months
+MS SQL SERVER- Exprience - 20 monthsCompany Details 
+company - Tata Consultancy Services
+description - Prepared ETL mapping Documents for every mapping and Data Migration document for smooth transfer of project from development to testing environment and then to production environment. Performed Unit testing and System testing to
+validate data loads in the target. Troubleshoot long running jobs and fixed the issues.
+â¢ Expertise in creating mappings in TALEND using Big Data supporting components such as tJDBCConfiguration, tJDBCInput,
+tHDFSConfiguration, tS3configuration, tCacheOut, tCacheIn, tSqlRow and standard components like tFileInputDelimited,
+tFileOutputDelimited, tMap, tJoin, tReplicate, tParallelize, tConvertType, tAggregate, tSortRow, tFlowMeter, tLogCatcher,
+tRowGenerator, tJava, tJavarow, tAggregateRow, tFilter etc.
+â¢ Used ETL methodologies and best practices to create Talend ETL jobs. Followed and enhanced programming and naming
+standards. Developed jobs, components and Joblets in Talend. Used tRunJob component to run child job from a parent job and to pass parameters from parent to child job.
+â¢ Created and deployed physical objects including custom tables, custom views, stored procedures, and indexes to SQL server for Staging and Data-Warehouse environment. Involved in writing SQL Queries and used Joins to access data from MySQL.
+â¢ Created and managed Source to Target mapping documents for all Facts and Dimension tables. Broad design, development and testing experience with Talend Integration Suite and knowledge in Performance Tuning of mappings.
+â¢ Extensively used tMap component which does lookup & Joiner Functions. Experienced in writing expressions within tmap as per the business need. Handled insert and update Strategy using tSQLRow.
+â¢ Created Implicit, local and global Context variables in the job to run Talend jobs against different environments.
+â¢ Worked on Talend Administration Console (TAC) for scheduling jobs and adding users. Experienced in Building a Talend job outside of a Talend studio as well as on TAC server.
+â¢ Developed mappings to load Fact and Dimension tables, SCD Type 1 and SCD Type 2 dimensions and Incremental loading and unit tested the mappings.
+â¢ Developed Framework Integrated Job which schedules multiple jobs at a time and updates the last successful run time,
+success status, sending mail for failed jobs, maintaining the counts in SQL Database. Used tParalleize component and multi
+thread execution option to run subjobs in parallel which increases the performance of a job.
+â¢ Created Talend jobs to copy the files from one server to another and utilized Talend FTP components. Implemented FTP
+operations using Talend Studio to transfer files in between network folders as well as to FTP server using components like tFileList, tS3Put, tFTPut, tFileExist, tFTPConnection etc.
+â¢ Extracted data from flat files/ databases applied business logic to load them in the staging database as well as flat files.
+â¢ Successfully Loaded Data into different targets from various source systems like SQL Database, DB2, Flatfiles, XML files etc into the Staging table and then to the target database.
+company - Tata Consultancy Services
+description - Experience in development and design of ETL (Extract, Transform and Loading data) methodology for supporting data
+transformations and processing, in a corporate wide ETL Solution using TALEND Big Data Platform.
+â¢   Excellent working experience in Agile methodologies.
+â¢   Proficiency in gathering and understanding the client requirements and translate business needs into technical
+requirements.
+â¢   Design and develop end-to-end ETL process from various source systems to Staging area, from staging to Data Warehouse,
+soliciting and documenting business, functional and data requirements, context/variable diagrams, use cases and ETL
+related diagrams.
+â¢   Excellent oral/written communication with ability to effectively work with onsite and remote teams.
+â¢   A good team player with excellent problem solving ability and time management skills having profound insight to determine
+priorities, schedule work and meet critical deadlines.
+company - Tata Consultancy Services
+description - Prepared ETL mapping Documents for every mapping and Data Migration document for smooth transfer of project from development to testing environment and then to production environment. Performed Unit testing and System testing to
+validate data loads in the target. Troubleshoot long running jobs and fixed the issues.",Applicant 4
+ETL Developer,"Computer skills: - Yes. SQL knowledge-yes Unix knowledge-yes Data warehouse knowledge-yes Ab intio -yee MY HOBBIES: - â¢ Playing Cricket, football. â¢ Reading books â¢ Visiting new places/Travelling. DECLARATION:- I hereby declare that the above mentioned information is factual and correct up to the best of my knowledge and belief. Date: -.27.01.2019 MR. MANISH PRABHAKAR PATIL Place: -MUMBAI Education Details 
+June 2014 to June 2015 Bachelor's Electronics and Telecommunication  A C Patil college of Engineering
+January 2009 to January 2011  Engineering Navi Mumbai, Maharashtra Bharati vidyapeeth
+January 2008 H.S.C.  Mumbai, Maharashtra Khalsa college
+ETL Informatica Developer 
+
+ETL DEVELOPER
+Skill Details 
+ETL- Exprience - Less than 1 year months
+Data Warehouse- Exprience - Less than 1 year months
+Datastage- Exprience - Less than 1 year monthsCompany Details 
+company - Reliance Infocomm
+description - I havevbeen working as ETL Developer in reliance industries in India for the past 3years.I have very good knowledge of Informatica and SQL as well as good knowledge of Unix.I am willing to work in yours company as Developer.",Applicant 5
+ETL Developer,"Technical Summary â¢ Knowledge of Informatica Power Center (ver. 9.1 and 10) ETL Tool: Mapping designing, usage of multiple transformations. Integration of various data source like SQL Server tables, Flat Files, etc. into target data warehouse. â¢ SQL/PLSQL working knowledge on Microsoft SQL server 2010. â¢ Unix Work Description: shell scripting, error debugging. â¢ Job scheduling using Autosys, Incident management and Change Requests through Service Now, JIRA, Agile Central â¢ Basic knowledge of Intellimatch (Reconciliation tool) Education Details 
+January 2010 to January 2014 BTech CSE Sangli, Maharashtra Walchand College of Engineering
+October 2009 H.S.C  Sangli, Maharashtra Willingdon College
+August 2007 S.S.C Achievements Sangli, Maharashtra Martin's English School
+ETL Developer 
+
+IT Analyst
+Skill Details 
+ETL- Exprience - 48 months
+EXTRACT, TRANSFORM, AND LOAD- Exprience - 48 months
+INFORMATICA- Exprience - 48 months
+MS SQL SERVER- Exprience - 48 months
+RECONCILIATION- Exprience - 48 months
+Jira- Exprience - 36 monthsCompany Details 
+company - Tata Consultancy Services
+description - Project Details
+Client/Project: Barclays UK London/HEXAD
+Environment: Informatica (Power Center), SQL Server, UNIX, Autosys, Intellimatch.
+
+Project Description:
+The objective is to implement a strategic technical solution to support the governance and monitoring of break standards - including enhancements to audit capabilities. As a part of this program, the required remediation of source system data feeds involves consolidation of data into standardized feeds.
+
+These remediated data feeds will be consumed by ETL layer. The reconciliation tool is
+designed to source data from an ETL layer. The data from the Front and Back office systems,
+together with static data must therefore be delivered to ETL. Here it will be pre-processed and delivered to reconciliation tool before the reconciliation process can be performed.
+
+Role and Responsibilities:
+â¢ Responsible for analyzing, designing and developing ETL strategies and processes,
+writing ETL specifications
+â¢ Requirement gathering
+â¢ Making functional documents and low level documents
+â¢ Developing and debugging the Informatica mappings to resolve bugs, and identify the causes of failures
+â¢ User interaction to identify the issues with the data loaded through the application
+â¢ Developed mappings using different transformations
+company - Tata Consultancy Services
+description - Project Details
+Client/Project: Barclays UK London/HEXAD
+Environment: Informatica (Power Center), SQL Server, UNIX, Autosys, Intellimatch.
+
+Project Description:
+The objective is to implement a strategic technical solution to support the governance and monitoring of break standards - including enhancements to audit capabilities. As a part of this program, the required remediation of source system data feeds involves consolidation of data into standardized feeds.
+
+These remediated data feeds will be consumed by ETL layer. The reconciliation tool is
+designed to source data from an ETL layer. The data from the Front and Back office systems,
+together with static data must therefore be delivered to ETL. Here it will be pre-processed and delivered to reconciliation tool before the reconciliation process can be performed.
+
+Role and Responsibilities:
+â¢ Responsible for analyzing, designing and developing ETL strategies and processes,
+writing ETL specifications
+â¢ Requirement gathering
+â¢ Making functional documents and low level documents
+â¢ Developing and debugging the Informatica mappings to resolve bugs, and identify the causes of failures
+â¢ User interaction to identify the issues with the data loaded through the application
+â¢ Developed mappings using different transformations",Applicant 6
+ETL Developer,"TechnicalProficiencies DB: Oracle 11g Domains: Investment Banking, Advertising, Insurance. Programming Skills: SQL, PLSQL BI Tools: Informatica 9.1 OS: Windows, Unix Professional Development Trainings â¢ Concepts in Data Warehousing, Business Intelligence, ETL. â¢ BI Tools -Informatica 9X Education Details 
+ BCA  Nanded, Maharashtra Nanded University
+ETL Developer 
+
+ETL Developer - Sun Trust Bank NY
+Skill Details 
+ETL- Exprience - 39 months
+EXTRACT, TRANSFORM, AND LOAD- Exprience - 39 months
+INFORMATICA- Exprience - 39 months
+ORACLE- Exprience - 39 months
+UNIX- Exprience - 39 monthsCompany Details 
+company - Sun Trust Bank NY
+description - Sun Trust Bank, NY JAN 2018 to present
+Client: Sun Trust Bank NY
+Environment: Informatica Power Center 9.1, Oracle 11g, unix.
+
+Role: ETL Developer
+
+Project Profile:
+Sun Trust Bank is a US based multinational financial services holding company, headquarters in NY that operates the Bank in New York and other financial services investments. The company is organized as a stock corporation with four divisions: investment banking, private banking, Retail banking and a shared services group that provides
+Financial services and support to the other divisions.
+The objective of the first module was to create a DR system for the bank with a central point of communication and storage for Listed, Cash securities, Loans, Bonds, Notes, Equities, Rates, Commodities, and
+FX asset classes.
+Contribution / Highlights:
+
+â¢ Liaising closely with Project Manager, Business Analysts, Product Architects, and Requirements Modelers (CFOC) to define Technical requirements and create project documentation.
+â¢ Development using Infa 9.1, 11g/Oracle, UNIX.
+â¢ Use Informatica PowerCenter for extraction, transformation and loading (ETL) of data in the Database.
+â¢ Created and configured Sessions in Informatica workflow Manager for loading data into Data base tables from various heterogeneous database sources like Flat Files, Oracle etc.
+â¢ Unit testing and system integration testing of the developed mappings.
+â¢ Providing production Support of the deployed code.
+â¢ Providing solutions to the business for the Production issues.
+â¢ Had one to One interaction with the client throughout the project and in daily meetings.
+
+Project #2
+company - Marshall Multimedia
+description - JUN 2016 to DEC 2017
+
+Client: Marshall Multimedia
+Environment: Informatica Power Center 9.1, Oracle 11g, unix.
+
+Role: ETL Developer
+
+Project Profile:
+Marshall Multimedia is a US based multimedia advertisement services based organization which has
+head courter in New York. EGC interface systems are advert management, Customer Management, Billing and
+Provisioning Systems for Consumer& Enterprise Customers.
+The main aim of the project was to create an enterprise data warehouse which would suffice the need of reports belonging to the following categories: Financial reports, management reports and
+rejection reports. The professional reports were created by Cognos and ETL work was performed by
+Informatica. This project is to load the advert details and magazine details coming in Relational tables into data warehouse and calculate the compensation and incentive amount monthly twice as per business
+rules.
+
+Contribution / Highlights:
+â¢ Developed mappings using different sources by using Informatica transformations.
+â¢ Created and configured Sessions in Informatica workflow Manager for loading data into Data Mart tables from various heterogeneous database sources like Flat Files, Oracle etc.
+
+2
+â¢ Unit testing and system integration testing of the developed mappings.
+â¢ Providing solutions to the business for the Production issues.
+
+Project #3
+company - Assurant healthcare/Insurance Miami USA
+description - Assurant, USA                                                                                                    NOV 2015 to MAY 2016
+
+Project: ACT BI - State Datamart
+Client: Assurant healthcare/Insurance Miami USA
+Environment: Informatica Power Center 9.1, Oracle 11g, unix.
+
+Role: ETL Developer
+
+Project Profile:
+Assurant, Inc. is a holding company with businesses that provide a diverse set of specialty, niche-market insurance
+products in the property, casualty, life and health insurance sectors. The company's four operating segments are Assurant
+Employee Benefits, Assurant Health, Assurant Solutions and Assurant Specialty Property.
+The project aim at building State Datamart for enterprise solution. I am part of team which is responsible for ETL
+Design & development along with testing.
+
+Contribution / Highlights:
+â¢   Performed small enhancement
+â¢   Daily load monitoring
+â¢   Attend to Informatica job failures by analyzing the root cause, resolving the failure using standard
+documented process.
+â¢   Experience in writing SQL statements.
+â¢   Strong Problem Analysis & Resolution skills and ability to work in Multi Platform Environments
+â¢   Scheduled the Informatica jobs using Informatica scheduler
+â¢   Extensively used ETL methodology for developing and supporting data extraction, transformations and loading process, in a corporate-wide-ETL Solution using Informatica.
+â¢   Involved in creating the Unit cases and uploaded in to Quality Center for Unit Testing and UTR
+â¢   Ensure that daily support tasks are done in accordance with the defined SLA.",Applicant 7
+ETL Developer,"Education Details 
+January 2015 Bachelor of Engineering EXTC Mumbai, Maharashtra Mumbai University
+January 2012 Diploma Industrial Electronics Vashi, MAHARASHTRA, IN Fr. Agnel Polytechnic
+ETL Developer 
+
+ETL Developer
+Skill Details 
+informatica- Exprience - 36 monthsCompany Details 
+company - Blue Shield of California
+description - Duration: (Mar 2016 - Sept 2017)
+
+Description:
+Blue Shield of California (BSC) is health plan provider. The intent of this project is to process feeds coming in and going out of BSC system related to eligibility, enrollment, and claims subject areas. All these feeds comes in different formats and are processed using Informatica 9.6.1, Oracle 11g, Facets 5.0 &Tidal.
+
+Technical environment: ETL tool (Informatica power Center 9.6.1), Oracle 11g (SQL, PL-SQL), UNIX, Facets, Tidal, JIRA, Putty.
+
+Role: ETL Developer
+Responsibilities: â¢ Responsible for analyzing the business requirement document â¢ Involved in development of Informatica mappings using different transformations like source qualifier, expression, filter, router, joiner, union, aggregator, normalizer, sorter, lookup and its corresponding sessions and workflows.
+â¢ Extensively used Informatica Debugger to figure out the problems in mapping and involved in troubleshooting the existing bugs.
+â¢ Writing Unix Scripts & SQL's as per the business requirement.
+â¢ Impact analysis of change requests & their development.
+â¢ Data fabrication using Facets screens as well as SQL statements in membership domain.
+â¢ Unit testing & trouble shooting using Informatica debugger, SQL query & preparation of Unit Test Cases.
+â¢ Prepare documents for design, unit testing and impact analysis.
+
+Awards & Achievements â¢ Received Kudos Award at Syntel for contribution in error free work, commitment towards learning, client appreciation and outstanding display of Syntel values Received appreciation from Management for outstanding performance in complete tenure.
+â¢ Received spot recognition for automation done in project.",Applicant 8
+ETL Developer,"SKILL SET â Talend Big Data â Informatica Power center â Microsoft SQL Server â SQL Platform 6.2.1 Management Studio Workbench â AWS Services â Talend Administration Console â Microsoft Visual â Redshift (TAC) Studio â Athena â Data Warehouse Concept - Star â SQL â S3 Schema, Facts, Dimensions â Data Modeling - â Data Integration Microsoft Access Education Details 
+January 2012 to January 2016 BE  Mumbai, Maharashtra University of Mumbai
+January 2012 CBSE Technology Kochi, Kerala St. Francis
+Talend ETL Developer 
+
+Talend ETL Developer - Tata Consultancy Services
+Skill Details 
+DATA WAREHOUSE- Exprience - 23 months
+DATABASE- Exprience - 20 months
+INTEGRATION- Exprience - 20 months
+INTEGRATOR- Exprience - 20 months
+MS SQL SERVER- Exprience - 20 monthsCompany Details 
+company - Tata Consultancy Services
+description - Prepared ETL mapping Documents for every mapping and Data Migration document for smooth transfer of project from development to testing environment and then to production environment. Performed Unit testing and System testing to
+validate data loads in the target. Troubleshoot long running jobs and fixed the issues.
+â¢ Expertise in creating mappings in TALEND using Big Data supporting components such as tJDBCConfiguration, tJDBCInput,
+tHDFSConfiguration, tS3configuration, tCacheOut, tCacheIn, tSqlRow and standard components like tFileInputDelimited,
+tFileOutputDelimited, tMap, tJoin, tReplicate, tParallelize, tConvertType, tAggregate, tSortRow, tFlowMeter, tLogCatcher,
+tRowGenerator, tJava, tJavarow, tAggregateRow, tFilter etc.
+â¢ Used ETL methodologies and best practices to create Talend ETL jobs. Followed and enhanced programming and naming
+standards. Developed jobs, components and Joblets in Talend. Used tRunJob component to run child job from a parent job and to pass parameters from parent to child job.
+â¢ Created and deployed physical objects including custom tables, custom views, stored procedures, and indexes to SQL server for Staging and Data-Warehouse environment. Involved in writing SQL Queries and used Joins to access data from MySQL.
+â¢ Created and managed Source to Target mapping documents for all Facts and Dimension tables. Broad design, development and testing experience with Talend Integration Suite and knowledge in Performance Tuning of mappings.
+â¢ Extensively used tMap component which does lookup & Joiner Functions. Experienced in writing expressions within tmap as per the business need. Handled insert and update Strategy using tSQLRow.
+â¢ Created Implicit, local and global Context variables in the job to run Talend jobs against different environments.
+â¢ Worked on Talend Administration Console (TAC) for scheduling jobs and adding users. Experienced in Building a Talend job outside of a Talend studio as well as on TAC server.
+â¢ Developed mappings to load Fact and Dimension tables, SCD Type 1 and SCD Type 2 dimensions and Incremental loading and unit tested the mappings.
+â¢ Developed Framework Integrated Job which schedules multiple jobs at a time and updates the last successful run time,
+success status, sending mail for failed jobs, maintaining the counts in SQL Database. Used tParalleize component and multi
+thread execution option to run subjobs in parallel which increases the performance of a job.
+â¢ Created Talend jobs to copy the files from one server to another and utilized Talend FTP components. Implemented FTP
+operations using Talend Studio to transfer files in between network folders as well as to FTP server using components like tFileList, tS3Put, tFTPut, tFileExist, tFTPConnection etc.
+â¢ Extracted data from flat files/ databases applied business logic to load them in the staging database as well as flat files.
+â¢ Successfully Loaded Data into different targets from various source systems like SQL Database, DB2, Flatfiles, XML files etc into the Staging table and then to the target database.
+company - Tata Consultancy Services
+description - Experience in development and design of ETL (Extract, Transform and Loading data) methodology for supporting data
+transformations and processing, in a corporate wide ETL Solution using TALEND Big Data Platform.
+â¢   Excellent working experience in Agile methodologies.
+â¢   Proficiency in gathering and understanding the client requirements and translate business needs into technical
+requirements.
+â¢   Design and develop end-to-end ETL process from various source systems to Staging area, from staging to Data Warehouse,
+soliciting and documenting business, functional and data requirements, context/variable diagrams, use cases and ETL
+related diagrams.
+â¢   Excellent oral/written communication with ability to effectively work with onsite and remote teams.
+â¢   A good team player with excellent problem solving ability and time management skills having profound insight to determine
+priorities, schedule work and meet critical deadlines.
+company - Tata Consultancy Services
+description - Prepared ETL mapping Documents for every mapping and Data Migration document for smooth transfer of project from development to testing environment and then to production environment. Performed Unit testing and System testing to
+validate data loads in the target. Troubleshoot long running jobs and fixed the issues.",Applicant 9
+ETL Developer,"Computer skills: - Yes. SQL knowledge-yes Unix knowledge-yes Data warehouse knowledge-yes Ab intio -yee MY HOBBIES: - â¢ Playing Cricket, football. â¢ Reading books â¢ Visiting new places/Travelling. DECLARATION:- I hereby declare that the above mentioned information is factual and correct up to the best of my knowledge and belief. Date: -.27.01.2019 MR. MANISH PRABHAKAR PATIL Place: -MUMBAI Education Details 
+June 2014 to June 2015 Bachelor's Electronics and Telecommunication  A C Patil college of Engineering
+January 2009 to January 2011  Engineering Navi Mumbai, Maharashtra Bharati vidyapeeth
+January 2008 H.S.C.  Mumbai, Maharashtra Khalsa college
+ETL Informatica Developer 
+
+ETL DEVELOPER
+Skill Details 
+ETL- Exprience - Less than 1 year months
+Data Warehouse- Exprience - Less than 1 year months
+Datastage- Exprience - Less than 1 year monthsCompany Details 
+company - Reliance Infocomm
+description - I havevbeen working as ETL Developer in reliance industries in India for the past 3years.I have very good knowledge of Informatica and SQL as well as good knowledge of Unix.I am willing to work in yours company as Developer.",Applicant 10
+ETL Developer,"Technical Summary â¢ Knowledge of Informatica Power Center (ver. 9.1 and 10) ETL Tool: Mapping designing, usage of multiple transformations. Integration of various data source like SQL Server tables, Flat Files, etc. into target data warehouse. â¢ SQL/PLSQL working knowledge on Microsoft SQL server 2010. â¢ Unix Work Description: shell scripting, error debugging. â¢ Job scheduling using Autosys, Incident management and Change Requests through Service Now, JIRA, Agile Central â¢ Basic knowledge of Intellimatch (Reconciliation tool) Education Details 
+January 2010 to January 2014 BTech CSE Sangli, Maharashtra Walchand College of Engineering
+October 2009 H.S.C  Sangli, Maharashtra Willingdon College
+August 2007 S.S.C Achievements Sangli, Maharashtra Martin's English School
+ETL Developer 
+
+IT Analyst
+Skill Details 
+ETL- Exprience - 48 months
+EXTRACT, TRANSFORM, AND LOAD- Exprience - 48 months
+INFORMATICA- Exprience - 48 months
+MS SQL SERVER- Exprience - 48 months
+RECONCILIATION- Exprience - 48 months
+Jira- Exprience - 36 monthsCompany Details 
+company - Tata Consultancy Services
+description - Project Details
+Client/Project: Barclays UK London/HEXAD
+Environment: Informatica (Power Center), SQL Server, UNIX, Autosys, Intellimatch.
+
+Project Description:
+The objective is to implement a strategic technical solution to support the governance and monitoring of break standards - including enhancements to audit capabilities. As a part of this program, the required remediation of source system data feeds involves consolidation of data into standardized feeds.
+
+These remediated data feeds will be consumed by ETL layer. The reconciliation tool is
+designed to source data from an ETL layer. The data from the Front and Back office systems,
+together with static data must therefore be delivered to ETL. Here it will be pre-processed and delivered to reconciliation tool before the reconciliation process can be performed.
+
+Role and Responsibilities:
+â¢ Responsible for analyzing, designing and developing ETL strategies and processes,
+writing ETL specifications
+â¢ Requirement gathering
+â¢ Making functional documents and low level documents
+â¢ Developing and debugging the Informatica mappings to resolve bugs, and identify the causes of failures
+â¢ User interaction to identify the issues with the data loaded through the application
+â¢ Developed mappings using different transformations
+company - Tata Consultancy Services
+description - Project Details
+Client/Project: Barclays UK London/HEXAD
+Environment: Informatica (Power Center), SQL Server, UNIX, Autosys, Intellimatch.
+
+Project Description:
+The objective is to implement a strategic technical solution to support the governance and monitoring of break standards - including enhancements to audit capabilities. As a part of this program, the required remediation of source system data feeds involves consolidation of data into standardized feeds.
+
+These remediated data feeds will be consumed by ETL layer. The reconciliation tool is
+designed to source data from an ETL layer. The data from the Front and Back office systems,
+together with static data must therefore be delivered to ETL. Here it will be pre-processed and delivered to reconciliation tool before the reconciliation process can be performed.
+
+Role and Responsibilities:
+â¢ Responsible for analyzing, designing and developing ETL strategies and processes,
+writing ETL specifications
+â¢ Requirement gathering
+â¢ Making functional documents and low level documents
+â¢ Developing and debugging the Informatica mappings to resolve bugs, and identify the causes of failures
+â¢ User interaction to identify the issues with the data loaded through the application
+â¢ Developed mappings using different transformations",Applicant 11
+ETL Developer,"TechnicalProficiencies DB: Oracle 11g Domains: Investment Banking, Advertising, Insurance. Programming Skills: SQL, PLSQL BI Tools: Informatica 9.1 OS: Windows, Unix Professional Development Trainings â¢ Concepts in Data Warehousing, Business Intelligence, ETL. â¢ BI Tools -Informatica 9X Education Details 
+ BCA  Nanded, Maharashtra Nanded University
+ETL Developer 
+
+ETL Developer - Sun Trust Bank NY
+Skill Details 
+ETL- Exprience - 39 months
+EXTRACT, TRANSFORM, AND LOAD- Exprience - 39 months
+INFORMATICA- Exprience - 39 months
+ORACLE- Exprience - 39 months
+UNIX- Exprience - 39 monthsCompany Details 
+company - Sun Trust Bank NY
+description - Sun Trust Bank, NY JAN 2018 to present
+Client: Sun Trust Bank NY
+Environment: Informatica Power Center 9.1, Oracle 11g, unix.
+
+Role: ETL Developer
+
+Project Profile:
+Sun Trust Bank is a US based multinational financial services holding company, headquarters in NY that operates the Bank in New York and other financial services investments. The company is organized as a stock corporation with four divisions: investment banking, private banking, Retail banking and a shared services group that provides
+Financial services and support to the other divisions.
+The objective of the first module was to create a DR system for the bank with a central point of communication and storage for Listed, Cash securities, Loans, Bonds, Notes, Equities, Rates, Commodities, and
+FX asset classes.
+Contribution / Highlights:
+
+â¢ Liaising closely with Project Manager, Business Analysts, Product Architects, and Requirements Modelers (CFOC) to define Technical requirements and create project documentation.
+â¢ Development using Infa 9.1, 11g/Oracle, UNIX.
+â¢ Use Informatica PowerCenter for extraction, transformation and loading (ETL) of data in the Database.
+â¢ Created and configured Sessions in Informatica workflow Manager for loading data into Data base tables from various heterogeneous database sources like Flat Files, Oracle etc.
+â¢ Unit testing and system integration testing of the developed mappings.
+â¢ Providing production Support of the deployed code.
+â¢ Providing solutions to the business for the Production issues.
+â¢ Had one to One interaction with the client throughout the project and in daily meetings.
+
+Project #2
+company - Marshall Multimedia
+description - JUN 2016 to DEC 2017
+
+Client: Marshall Multimedia
+Environment: Informatica Power Center 9.1, Oracle 11g, unix.
+
+Role: ETL Developer
+
+Project Profile:
+Marshall Multimedia is a US based multimedia advertisement services based organization which has
+head courter in New York. EGC interface systems are advert management, Customer Management, Billing and
+Provisioning Systems for Consumer& Enterprise Customers.
+The main aim of the project was to create an enterprise data warehouse which would suffice the need of reports belonging to the following categories: Financial reports, management reports and
+rejection reports. The professional reports were created by Cognos and ETL work was performed by
+Informatica. This project is to load the advert details and magazine details coming in Relational tables into data warehouse and calculate the compensation and incentive amount monthly twice as per business
+rules.
+
+Contribution / Highlights:
+â¢ Developed mappings using different sources by using Informatica transformations.
+â¢ Created and configured Sessions in Informatica workflow Manager for loading data into Data Mart tables from various heterogeneous database sources like Flat Files, Oracle etc.
+
+2
+â¢ Unit testing and system integration testing of the developed mappings.
+â¢ Providing solutions to the business for the Production issues.
+
+Project #3
+company - Assurant healthcare/Insurance Miami USA
+description - Assurant, USA                                                                                                    NOV 2015 to MAY 2016
+
+Project: ACT BI - State Datamart
+Client: Assurant healthcare/Insurance Miami USA
+Environment: Informatica Power Center 9.1, Oracle 11g, unix.
+
+Role: ETL Developer
+
+Project Profile:
+Assurant, Inc. is a holding company with businesses that provide a diverse set of specialty, niche-market insurance
+products in the property, casualty, life and health insurance sectors. The company's four operating segments are Assurant
+Employee Benefits, Assurant Health, Assurant Solutions and Assurant Specialty Property.
+The project aim at building State Datamart for enterprise solution. I am part of team which is responsible for ETL
+Design & development along with testing.
+
+Contribution / Highlights:
+â¢   Performed small enhancement
+â¢   Daily load monitoring
+â¢   Attend to Informatica job failures by analyzing the root cause, resolving the failure using standard
+documented process.
+â¢   Experience in writing SQL statements.
+â¢   Strong Problem Analysis & Resolution skills and ability to work in Multi Platform Environments
+â¢   Scheduled the Informatica jobs using Informatica scheduler
+â¢   Extensively used ETL methodology for developing and supporting data extraction, transformations and loading process, in a corporate-wide-ETL Solution using Informatica.
+â¢   Involved in creating the Unit cases and uploaded in to Quality Center for Unit Testing and UTR
+â¢   Ensure that daily support tasks are done in accordance with the defined SLA.",Applicant 12
+ETL Developer,"Education Details 
+January 2015 Bachelor of Engineering EXTC Mumbai, Maharashtra Mumbai University
+January 2012 Diploma Industrial Electronics Vashi, MAHARASHTRA, IN Fr. Agnel Polytechnic
+ETL Developer 
+
+ETL Developer
+Skill Details 
+informatica- Exprience - 36 monthsCompany Details 
+company - Blue Shield of California
+description - Duration: (Mar 2016 - Sept 2017)
+
+Description:
+Blue Shield of California (BSC) is health plan provider. The intent of this project is to process feeds coming in and going out of BSC system related to eligibility, enrollment, and claims subject areas. All these feeds comes in different formats and are processed using Informatica 9.6.1, Oracle 11g, Facets 5.0 &Tidal.
+
+Technical environment: ETL tool (Informatica power Center 9.6.1), Oracle 11g (SQL, PL-SQL), UNIX, Facets, Tidal, JIRA, Putty.
+
+Role: ETL Developer
+Responsibilities: â¢ Responsible for analyzing the business requirement document â¢ Involved in development of Informatica mappings using different transformations like source qualifier, expression, filter, router, joiner, union, aggregator, normalizer, sorter, lookup and its corresponding sessions and workflows.
+â¢ Extensively used Informatica Debugger to figure out the problems in mapping and involved in troubleshooting the existing bugs.
+â¢ Writing Unix Scripts & SQL's as per the business requirement.
+â¢ Impact analysis of change requests & their development.
+â¢ Data fabrication using Facets screens as well as SQL statements in membership domain.
+â¢ Unit testing & trouble shooting using Informatica debugger, SQL query & preparation of Unit Test Cases.
+â¢ Prepare documents for design, unit testing and impact analysis.
+
+Awards & Achievements â¢ Received Kudos Award at Syntel for contribution in error free work, commitment towards learning, client appreciation and outstanding display of Syntel values Received appreciation from Management for outstanding performance in complete tenure.
+â¢ Received spot recognition for automation done in project.",Applicant 13
+ETL Developer,"SKILL SET â Talend Big Data â Informatica Power center â Microsoft SQL Server â SQL Platform 6.2.1 Management Studio Workbench â AWS Services â Talend Administration Console â Microsoft Visual â Redshift (TAC) Studio â Athena â Data Warehouse Concept - Star â SQL â S3 Schema, Facts, Dimensions â Data Modeling - â Data Integration Microsoft Access Education Details 
+January 2012 to January 2016 BE  Mumbai, Maharashtra University of Mumbai
+January 2012 CBSE Technology Kochi, Kerala St. Francis
+Talend ETL Developer 
+
+Talend ETL Developer - Tata Consultancy Services
+Skill Details 
+DATA WAREHOUSE- Exprience - 23 months
+DATABASE- Exprience - 20 months
+INTEGRATION- Exprience - 20 months
+INTEGRATOR- Exprience - 20 months
+MS SQL SERVER- Exprience - 20 monthsCompany Details 
+company - Tata Consultancy Services
+description - Prepared ETL mapping Documents for every mapping and Data Migration document for smooth transfer of project from development to testing environment and then to production environment. Performed Unit testing and System testing to
+validate data loads in the target. Troubleshoot long running jobs and fixed the issues.
+â¢ Expertise in creating mappings in TALEND using Big Data supporting components such as tJDBCConfiguration, tJDBCInput,
+tHDFSConfiguration, tS3configuration, tCacheOut, tCacheIn, tSqlRow and standard components like tFileInputDelimited,
+tFileOutputDelimited, tMap, tJoin, tReplicate, tParallelize, tConvertType, tAggregate, tSortRow, tFlowMeter, tLogCatcher,
+tRowGenerator, tJava, tJavarow, tAggregateRow, tFilter etc.
+â¢ Used ETL methodologies and best practices to create Talend ETL jobs. Followed and enhanced programming and naming
+standards. Developed jobs, components and Joblets in Talend. Used tRunJob component to run child job from a parent job and to pass parameters from parent to child job.
+â¢ Created and deployed physical objects including custom tables, custom views, stored procedures, and indexes to SQL server for Staging and Data-Warehouse environment. Involved in writing SQL Queries and used Joins to access data from MySQL.
+â¢ Created and managed Source to Target mapping documents for all Facts and Dimension tables. Broad design, development and testing experience with Talend Integration Suite and knowledge in Performance Tuning of mappings.
+â¢ Extensively used tMap component which does lookup & Joiner Functions. Experienced in writing expressions within tmap as per the business need. Handled insert and update Strategy using tSQLRow.
+â¢ Created Implicit, local and global Context variables in the job to run Talend jobs against different environments.
+â¢ Worked on Talend Administration Console (TAC) for scheduling jobs and adding users. Experienced in Building a Talend job outside of a Talend studio as well as on TAC server.
+â¢ Developed mappings to load Fact and Dimension tables, SCD Type 1 and SCD Type 2 dimensions and Incremental loading and unit tested the mappings.
+â¢ Developed Framework Integrated Job which schedules multiple jobs at a time and updates the last successful run time,
+success status, sending mail for failed jobs, maintaining the counts in SQL Database. Used tParalleize component and multi
+thread execution option to run subjobs in parallel which increases the performance of a job.
+â¢ Created Talend jobs to copy the files from one server to another and utilized Talend FTP components. Implemented FTP
+operations using Talend Studio to transfer files in between network folders as well as to FTP server using components like tFileList, tS3Put, tFTPut, tFileExist, tFTPConnection etc.
+â¢ Extracted data from flat files/ databases applied business logic to load them in the staging database as well as flat files.
+â¢ Successfully Loaded Data into different targets from various source systems like SQL Database, DB2, Flatfiles, XML files etc into the Staging table and then to the target database.
+company - Tata Consultancy Services
+description - Experience in development and design of ETL (Extract, Transform and Loading data) methodology for supporting data
+transformations and processing, in a corporate wide ETL Solution using TALEND Big Data Platform.
+â¢   Excellent working experience in Agile methodologies.
+â¢   Proficiency in gathering and understanding the client requirements and translate business needs into technical
+requirements.
+â¢   Design and develop end-to-end ETL process from various source systems to Staging area, from staging to Data Warehouse,
+soliciting and documenting business, functional and data requirements, context/variable diagrams, use cases and ETL
+related diagrams.
+â¢   Excellent oral/written communication with ability to effectively work with onsite and remote teams.
+â¢   A good team player with excellent problem solving ability and time management skills having profound insight to determine
+priorities, schedule work and meet critical deadlines.
+company - Tata Consultancy Services
+description - Prepared ETL mapping Documents for every mapping and Data Migration document for smooth transfer of project from development to testing environment and then to production environment. Performed Unit testing and System testing to
+validate data loads in the target. Troubleshoot long running jobs and fixed the issues.",Applicant 14
+ETL Developer,"Computer skills: - Yes. SQL knowledge-yes Unix knowledge-yes Data warehouse knowledge-yes Ab intio -yee MY HOBBIES: - â¢ Playing Cricket, football. â¢ Reading books â¢ Visiting new places/Travelling. DECLARATION:- I hereby declare that the above mentioned information is factual and correct up to the best of my knowledge and belief. Date: -.27.01.2019 MR. MANISH PRABHAKAR PATIL Place: -MUMBAI Education Details 
+June 2014 to June 2015 Bachelor's Electronics and Telecommunication  A C Patil college of Engineering
+January 2009 to January 2011  Engineering Navi Mumbai, Maharashtra Bharati vidyapeeth
+January 2008 H.S.C.  Mumbai, Maharashtra Khalsa college
+ETL Informatica Developer 
+
+ETL DEVELOPER
+Skill Details 
+ETL- Exprience - Less than 1 year months
+Data Warehouse- Exprience - Less than 1 year months
+Datastage- Exprience - Less than 1 year monthsCompany Details 
+company - Reliance Infocomm
+description - I havevbeen working as ETL Developer in reliance industries in India for the past 3years.I have very good knowledge of Informatica and SQL as well as good knowledge of Unix.I am willing to work in yours company as Developer.",Applicant 15
+ETL Developer,"Technical Summary â¢ Knowledge of Informatica Power Center (ver. 9.1 and 10) ETL Tool: Mapping designing, usage of multiple transformations. Integration of various data source like SQL Server tables, Flat Files, etc. into target data warehouse. â¢ SQL/PLSQL working knowledge on Microsoft SQL server 2010. â¢ Unix Work Description: shell scripting, error debugging. â¢ Job scheduling using Autosys, Incident management and Change Requests through Service Now, JIRA, Agile Central â¢ Basic knowledge of Intellimatch (Reconciliation tool) Education Details 
+January 2010 to January 2014 BTech CSE Sangli, Maharashtra Walchand College of Engineering
+October 2009 H.S.C  Sangli, Maharashtra Willingdon College
+August 2007 S.S.C Achievements Sangli, Maharashtra Martin's English School
+ETL Developer 
+
+IT Analyst
+Skill Details 
+ETL- Exprience - 48 months
+EXTRACT, TRANSFORM, AND LOAD- Exprience - 48 months
+INFORMATICA- Exprience - 48 months
+MS SQL SERVER- Exprience - 48 months
+RECONCILIATION- Exprience - 48 months
+Jira- Exprience - 36 monthsCompany Details 
+company - Tata Consultancy Services
+description - Project Details
+Client/Project: Barclays UK London/HEXAD
+Environment: Informatica (Power Center), SQL Server, UNIX, Autosys, Intellimatch.
+
+Project Description:
+The objective is to implement a strategic technical solution to support the governance and monitoring of break standards - including enhancements to audit capabilities. As a part of this program, the required remediation of source system data feeds involves consolidation of data into standardized feeds.
+
+These remediated data feeds will be consumed by ETL layer. The reconciliation tool is
+designed to source data from an ETL layer. The data from the Front and Back office systems,
+together with static data must therefore be delivered to ETL. Here it will be pre-processed and delivered to reconciliation tool before the reconciliation process can be performed.
+
+Role and Responsibilities:
+â¢ Responsible for analyzing, designing and developing ETL strategies and processes,
+writing ETL specifications
+â¢ Requirement gathering
+â¢ Making functional documents and low level documents
+â¢ Developing and debugging the Informatica mappings to resolve bugs, and identify the causes of failures
+â¢ User interaction to identify the issues with the data loaded through the application
+â¢ Developed mappings using different transformations
+company - Tata Consultancy Services
+description - Project Details
+Client/Project: Barclays UK London/HEXAD
+Environment: Informatica (Power Center), SQL Server, UNIX, Autosys, Intellimatch.
+
+Project Description:
+The objective is to implement a strategic technical solution to support the governance and monitoring of break standards - including enhancements to audit capabilities. As a part of this program, the required remediation of source system data feeds involves consolidation of data into standardized feeds.
+
+These remediated data feeds will be consumed by ETL layer. The reconciliation tool is
+designed to source data from an ETL layer. The data from the Front and Back office systems,
+together with static data must therefore be delivered to ETL. Here it will be pre-processed and delivered to reconciliation tool before the reconciliation process can be performed.
+
+Role and Responsibilities:
+â¢ Responsible for analyzing, designing and developing ETL strategies and processes,
+writing ETL specifications
+â¢ Requirement gathering
+â¢ Making functional documents and low level documents
+â¢ Developing and debugging the Informatica mappings to resolve bugs, and identify the causes of failures
+â¢ User interaction to identify the issues with the data loaded through the application
+â¢ Developed mappings using different transformations",Applicant 16
+ETL Developer,"TechnicalProficiencies DB: Oracle 11g Domains: Investment Banking, Advertising, Insurance. Programming Skills: SQL, PLSQL BI Tools: Informatica 9.1 OS: Windows, Unix Professional Development Trainings â¢ Concepts in Data Warehousing, Business Intelligence, ETL. â¢ BI Tools -Informatica 9X Education Details 
+ BCA  Nanded, Maharashtra Nanded University
+ETL Developer 
+
+ETL Developer - Sun Trust Bank NY
+Skill Details 
+ETL- Exprience - 39 months
+EXTRACT, TRANSFORM, AND LOAD- Exprience - 39 months
+INFORMATICA- Exprience - 39 months
+ORACLE- Exprience - 39 months
+UNIX- Exprience - 39 monthsCompany Details 
+company - Sun Trust Bank NY
+description - Sun Trust Bank, NY JAN 2018 to present
+Client: Sun Trust Bank NY
+Environment: Informatica Power Center 9.1, Oracle 11g, unix.
+
+Role: ETL Developer
+
+Project Profile:
+Sun Trust Bank is a US based multinational financial services holding company, headquarters in NY that operates the Bank in New York and other financial services investments. The company is organized as a stock corporation with four divisions: investment banking, private banking, Retail banking and a shared services group that provides
+Financial services and support to the other divisions.
+The objective of the first module was to create a DR system for the bank with a central point of communication and storage for Listed, Cash securities, Loans, Bonds, Notes, Equities, Rates, Commodities, and
+FX asset classes.
+Contribution / Highlights:
+
+â¢ Liaising closely with Project Manager, Business Analysts, Product Architects, and Requirements Modelers (CFOC) to define Technical requirements and create project documentation.
+â¢ Development using Infa 9.1, 11g/Oracle, UNIX.
+â¢ Use Informatica PowerCenter for extraction, transformation and loading (ETL) of data in the Database.
+â¢ Created and configured Sessions in Informatica workflow Manager for loading data into Data base tables from various heterogeneous database sources like Flat Files, Oracle etc.
+â¢ Unit testing and system integration testing of the developed mappings.
+â¢ Providing production Support of the deployed code.
+â¢ Providing solutions to the business for the Production issues.
+â¢ Had one to One interaction with the client throughout the project and in daily meetings.
+
+Project #2
+company - Marshall Multimedia
+description - JUN 2016 to DEC 2017
+
+Client: Marshall Multimedia
+Environment: Informatica Power Center 9.1, Oracle 11g, unix.
+
+Role: ETL Developer
+
+Project Profile:
+Marshall Multimedia is a US based multimedia advertisement services based organization which has
+head courter in New York. EGC interface systems are advert management, Customer Management, Billing and
+Provisioning Systems for Consumer& Enterprise Customers.
+The main aim of the project was to create an enterprise data warehouse which would suffice the need of reports belonging to the following categories: Financial reports, management reports and
+rejection reports. The professional reports were created by Cognos and ETL work was performed by
+Informatica. This project is to load the advert details and magazine details coming in Relational tables into data warehouse and calculate the compensation and incentive amount monthly twice as per business
+rules.
+
+Contribution / Highlights:
+â¢ Developed mappings using different sources by using Informatica transformations.
+â¢ Created and configured Sessions in Informatica workflow Manager for loading data into Data Mart tables from various heterogeneous database sources like Flat Files, Oracle etc.
+
+2
+â¢ Unit testing and system integration testing of the developed mappings.
+â¢ Providing solutions to the business for the Production issues.
+
+Project #3
+company - Assurant healthcare/Insurance Miami USA
+description - Assurant, USA                                                                                                    NOV 2015 to MAY 2016
+
+Project: ACT BI - State Datamart
+Client: Assurant healthcare/Insurance Miami USA
+Environment: Informatica Power Center 9.1, Oracle 11g, unix.
+
+Role: ETL Developer
+
+Project Profile:
+Assurant, Inc. is a holding company with businesses that provide a diverse set of specialty, niche-market insurance
+products in the property, casualty, life and health insurance sectors. The company's four operating segments are Assurant
+Employee Benefits, Assurant Health, Assurant Solutions and Assurant Specialty Property.
+The project aim at building State Datamart for enterprise solution. I am part of team which is responsible for ETL
+Design & development along with testing.
+
+Contribution / Highlights:
+â¢   Performed small enhancement
+â¢   Daily load monitoring
+â¢   Attend to Informatica job failures by analyzing the root cause, resolving the failure using standard
+documented process.
+â¢   Experience in writing SQL statements.
+â¢   Strong Problem Analysis & Resolution skills and ability to work in Multi Platform Environments
+â¢   Scheduled the Informatica jobs using Informatica scheduler
+â¢   Extensively used ETL methodology for developing and supporting data extraction, transformations and loading process, in a corporate-wide-ETL Solution using Informatica.
+â¢   Involved in creating the Unit cases and uploaded in to Quality Center for Unit Testing and UTR
+â¢   Ensure that daily support tasks are done in accordance with the defined SLA.",Applicant 17
+ETL Developer,"Education Details 
+January 2015 Bachelor of Engineering EXTC Mumbai, Maharashtra Mumbai University
+January 2012 Diploma Industrial Electronics Vashi, MAHARASHTRA, IN Fr. Agnel Polytechnic
+ETL Developer 
+
+ETL Developer
+Skill Details 
+informatica- Exprience - 36 monthsCompany Details 
+company - Blue Shield of California
+description - Duration: (Mar 2016 - Sept 2017)
+
+Description:
+Blue Shield of California (BSC) is health plan provider. The intent of this project is to process feeds coming in and going out of BSC system related to eligibility, enrollment, and claims subject areas. All these feeds comes in different formats and are processed using Informatica 9.6.1, Oracle 11g, Facets 5.0 &Tidal.
+
+Technical environment: ETL tool (Informatica power Center 9.6.1), Oracle 11g (SQL, PL-SQL), UNIX, Facets, Tidal, JIRA, Putty.
+
+Role: ETL Developer
+Responsibilities: â¢ Responsible for analyzing the business requirement document â¢ Involved in development of Informatica mappings using different transformations like source qualifier, expression, filter, router, joiner, union, aggregator, normalizer, sorter, lookup and its corresponding sessions and workflows.
+â¢ Extensively used Informatica Debugger to figure out the problems in mapping and involved in troubleshooting the existing bugs.
+â¢ Writing Unix Scripts & SQL's as per the business requirement.
+â¢ Impact analysis of change requests & their development.
+â¢ Data fabrication using Facets screens as well as SQL statements in membership domain.
+â¢ Unit testing & trouble shooting using Informatica debugger, SQL query & preparation of Unit Test Cases.
+â¢ Prepare documents for design, unit testing and impact analysis.
+
+Awards & Achievements â¢ Received Kudos Award at Syntel for contribution in error free work, commitment towards learning, client appreciation and outstanding display of Syntel values Received appreciation from Management for outstanding performance in complete tenure.
+â¢ Received spot recognition for automation done in project.",Applicant 18
+ETL Developer,"SKILL SET â Talend Big Data â Informatica Power center â Microsoft SQL Server â SQL Platform 6.2.1 Management Studio Workbench â AWS Services â Talend Administration Console â Microsoft Visual â Redshift (TAC) Studio â Athena â Data Warehouse Concept - Star â SQL â S3 Schema, Facts, Dimensions â Data Modeling - â Data Integration Microsoft Access Education Details 
+January 2012 to January 2016 BE  Mumbai, Maharashtra University of Mumbai
+January 2012 CBSE Technology Kochi, Kerala St. Francis
+Talend ETL Developer 
+
+Talend ETL Developer - Tata Consultancy Services
+Skill Details 
+DATA WAREHOUSE- Exprience - 23 months
+DATABASE- Exprience - 20 months
+INTEGRATION- Exprience - 20 months
+INTEGRATOR- Exprience - 20 months
+MS SQL SERVER- Exprience - 20 monthsCompany Details 
+company - Tata Consultancy Services
+description - Prepared ETL mapping Documents for every mapping and Data Migration document for smooth transfer of project from development to testing environment and then to production environment. Performed Unit testing and System testing to
+validate data loads in the target. Troubleshoot long running jobs and fixed the issues.
+â¢ Expertise in creating mappings in TALEND using Big Data supporting components such as tJDBCConfiguration, tJDBCInput,
+tHDFSConfiguration, tS3configuration, tCacheOut, tCacheIn, tSqlRow and standard components like tFileInputDelimited,
+tFileOutputDelimited, tMap, tJoin, tReplicate, tParallelize, tConvertType, tAggregate, tSortRow, tFlowMeter, tLogCatcher,
+tRowGenerator, tJava, tJavarow, tAggregateRow, tFilter etc.
+â¢ Used ETL methodologies and best practices to create Talend ETL jobs. Followed and enhanced programming and naming
+standards. Developed jobs, components and Joblets in Talend. Used tRunJob component to run child job from a parent job and to pass parameters from parent to child job.
+â¢ Created and deployed physical objects including custom tables, custom views, stored procedures, and indexes to SQL server for Staging and Data-Warehouse environment. Involved in writing SQL Queries and used Joins to access data from MySQL.
+â¢ Created and managed Source to Target mapping documents for all Facts and Dimension tables. Broad design, development and testing experience with Talend Integration Suite and knowledge in Performance Tuning of mappings.
+â¢ Extensively used tMap component which does lookup & Joiner Functions. Experienced in writing expressions within tmap as per the business need. Handled insert and update Strategy using tSQLRow.
+â¢ Created Implicit, local and global Context variables in the job to run Talend jobs against different environments.
+â¢ Worked on Talend Administration Console (TAC) for scheduling jobs and adding users. Experienced in Building a Talend job outside of a Talend studio as well as on TAC server.
+â¢ Developed mappings to load Fact and Dimension tables, SCD Type 1 and SCD Type 2 dimensions and Incremental loading and unit tested the mappings.
+â¢ Developed Framework Integrated Job which schedules multiple jobs at a time and updates the last successful run time,
+success status, sending mail for failed jobs, maintaining the counts in SQL Database. Used tParalleize component and multi
+thread execution option to run subjobs in parallel which increases the performance of a job.
+â¢ Created Talend jobs to copy the files from one server to another and utilized Talend FTP components. Implemented FTP
+operations using Talend Studio to transfer files in between network folders as well as to FTP server using components like tFileList, tS3Put, tFTPut, tFileExist, tFTPConnection etc.
+â¢ Extracted data from flat files/ databases applied business logic to load them in the staging database as well as flat files.
+â¢ Successfully Loaded Data into different targets from various source systems like SQL Database, DB2, Flatfiles, XML files etc into the Staging table and then to the target database.
+company - Tata Consultancy Services
+description - Experience in development and design of ETL (Extract, Transform and Loading data) methodology for supporting data
+transformations and processing, in a corporate wide ETL Solution using TALEND Big Data Platform.
+â¢   Excellent working experience in Agile methodologies.
+â¢   Proficiency in gathering and understanding the client requirements and translate business needs into technical
+requirements.
+â¢   Design and develop end-to-end ETL process from various source systems to Staging area, from staging to Data Warehouse,
+soliciting and documenting business, functional and data requirements, context/variable diagrams, use cases and ETL
+related diagrams.
+â¢   Excellent oral/written communication with ability to effectively work with onsite and remote teams.
+â¢   A good team player with excellent problem solving ability and time management skills having profound insight to determine
+priorities, schedule work and meet critical deadlines.
+company - Tata Consultancy Services
+description - Prepared ETL mapping Documents for every mapping and Data Migration document for smooth transfer of project from development to testing environment and then to production environment. Performed Unit testing and System testing to
+validate data loads in the target. Troubleshoot long running jobs and fixed the issues.",Applicant 19
+ETL Developer,"Computer skills: - Yes. SQL knowledge-yes Unix knowledge-yes Data warehouse knowledge-yes Ab intio -yee MY HOBBIES: - â¢ Playing Cricket, football. â¢ Reading books â¢ Visiting new places/Travelling. DECLARATION:- I hereby declare that the above mentioned information is factual and correct up to the best of my knowledge and belief. Date: -.27.01.2019 MR. MANISH PRABHAKAR PATIL Place: -MUMBAI Education Details 
+June 2014 to June 2015 Bachelor's Electronics and Telecommunication  A C Patil college of Engineering
+January 2009 to January 2011  Engineering Navi Mumbai, Maharashtra Bharati vidyapeeth
+January 2008 H.S.C.  Mumbai, Maharashtra Khalsa college
+ETL Informatica Developer 
+
+ETL DEVELOPER
+Skill Details 
+ETL- Exprience - Less than 1 year months
+Data Warehouse- Exprience - Less than 1 year months
+Datastage- Exprience - Less than 1 year monthsCompany Details 
+company - Reliance Infocomm
+description - I havevbeen working as ETL Developer in reliance industries in India for the past 3years.I have very good knowledge of Informatica and SQL as well as good knowledge of Unix.I am willing to work in yours company as Developer.",Applicant 20
+ETL Developer,"Technical Summary â¢ Knowledge of Informatica Power Center (ver. 9.1 and 10) ETL Tool: Mapping designing, usage of multiple transformations. Integration of various data source like SQL Server tables, Flat Files, etc. into target data warehouse. â¢ SQL/PLSQL working knowledge on Microsoft SQL server 2010. â¢ Unix Work Description: shell scripting, error debugging. â¢ Job scheduling using Autosys, Incident management and Change Requests through Service Now, JIRA, Agile Central â¢ Basic knowledge of Intellimatch (Reconciliation tool) Education Details 
+January 2010 to January 2014 BTech CSE Sangli, Maharashtra Walchand College of Engineering
+October 2009 H.S.C  Sangli, Maharashtra Willingdon College
+August 2007 S.S.C Achievements Sangli, Maharashtra Martin's English School
+ETL Developer 
+
+IT Analyst
+Skill Details 
+ETL- Exprience - 48 months
+EXTRACT, TRANSFORM, AND LOAD- Exprience - 48 months
+INFORMATICA- Exprience - 48 months
+MS SQL SERVER- Exprience - 48 months
+RECONCILIATION- Exprience - 48 months
+Jira- Exprience - 36 monthsCompany Details 
+company - Tata Consultancy Services
+description - Project Details
+Client/Project: Barclays UK London/HEXAD
+Environment: Informatica (Power Center), SQL Server, UNIX, Autosys, Intellimatch.
+
+Project Description:
+The objective is to implement a strategic technical solution to support the governance and monitoring of break standards - including enhancements to audit capabilities. As a part of this program, the required remediation of source system data feeds involves consolidation of data into standardized feeds.
+
+These remediated data feeds will be consumed by ETL layer. The reconciliation tool is
+designed to source data from an ETL layer. The data from the Front and Back office systems,
+together with static data must therefore be delivered to ETL. Here it will be pre-processed and delivered to reconciliation tool before the reconciliation process can be performed.
+
+Role and Responsibilities:
+â¢ Responsible for analyzing, designing and developing ETL strategies and processes,
+writing ETL specifications
+â¢ Requirement gathering
+â¢ Making functional documents and low level documents
+â¢ Developing and debugging the Informatica mappings to resolve bugs, and identify the causes of failures
+â¢ User interaction to identify the issues with the data loaded through the application
+â¢ Developed mappings using different transformations
+company - Tata Consultancy Services
+description - Project Details
+Client/Project: Barclays UK London/HEXAD
+Environment: Informatica (Power Center), SQL Server, UNIX, Autosys, Intellimatch.
+
+Project Description:
+The objective is to implement a strategic technical solution to support the governance and monitoring of break standards - including enhancements to audit capabilities. As a part of this program, the required remediation of source system data feeds involves consolidation of data into standardized feeds.
+
+These remediated data feeds will be consumed by ETL layer. The reconciliation tool is
+designed to source data from an ETL layer. The data from the Front and Back office systems,
+together with static data must therefore be delivered to ETL. Here it will be pre-processed and delivered to reconciliation tool before the reconciliation process can be performed.
+
+Role and Responsibilities:
+â¢ Responsible for analyzing, designing and developing ETL strategies and processes,
+writing ETL specifications
+â¢ Requirement gathering
+â¢ Making functional documents and low level documents
+â¢ Developing and debugging the Informatica mappings to resolve bugs, and identify the causes of failures
+â¢ User interaction to identify the issues with the data loaded through the application
+â¢ Developed mappings using different transformations",Applicant 21
+ETL Developer,"TechnicalProficiencies DB: Oracle 11g Domains: Investment Banking, Advertising, Insurance. Programming Skills: SQL, PLSQL BI Tools: Informatica 9.1 OS: Windows, Unix Professional Development Trainings â¢ Concepts in Data Warehousing, Business Intelligence, ETL. â¢ BI Tools -Informatica 9X Education Details 
+ BCA  Nanded, Maharashtra Nanded University
+ETL Developer 
+
+ETL Developer - Sun Trust Bank NY
+Skill Details 
+ETL- Exprience - 39 months
+EXTRACT, TRANSFORM, AND LOAD- Exprience - 39 months
+INFORMATICA- Exprience - 39 months
+ORACLE- Exprience - 39 months
+UNIX- Exprience - 39 monthsCompany Details 
+company - Sun Trust Bank NY
+description - Sun Trust Bank, NY JAN 2018 to present
+Client: Sun Trust Bank NY
+Environment: Informatica Power Center 9.1, Oracle 11g, unix.
+
+Role: ETL Developer
+
+Project Profile:
+Sun Trust Bank is a US based multinational financial services holding company, headquarters in NY that operates the Bank in New York and other financial services investments. The company is organized as a stock corporation with four divisions: investment banking, private banking, Retail banking and a shared services group that provides
+Financial services and support to the other divisions.
+The objective of the first module was to create a DR system for the bank with a central point of communication and storage for Listed, Cash securities, Loans, Bonds, Notes, Equities, Rates, Commodities, and
+FX asset classes.
+Contribution / Highlights:
+
+â¢ Liaising closely with Project Manager, Business Analysts, Product Architects, and Requirements Modelers (CFOC) to define Technical requirements and create project documentation.
+â¢ Development using Infa 9.1, 11g/Oracle, UNIX.
+â¢ Use Informatica PowerCenter for extraction, transformation and loading (ETL) of data in the Database.
+â¢ Created and configured Sessions in Informatica workflow Manager for loading data into Data base tables from various heterogeneous database sources like Flat Files, Oracle etc.
+â¢ Unit testing and system integration testing of the developed mappings.
+â¢ Providing production Support of the deployed code.
+â¢ Providing solutions to the business for the Production issues.
+â¢ Had one to One interaction with the client throughout the project and in daily meetings.
+
+Project #2
+company - Marshall Multimedia
+description - JUN 2016 to DEC 2017
+
+Client: Marshall Multimedia
+Environment: Informatica Power Center 9.1, Oracle 11g, unix.
+
+Role: ETL Developer
+
+Project Profile:
+Marshall Multimedia is a US based multimedia advertisement services based organization which has
+head courter in New York. EGC interface systems are advert management, Customer Management, Billing and
+Provisioning Systems for Consumer& Enterprise Customers.
+The main aim of the project was to create an enterprise data warehouse which would suffice the need of reports belonging to the following categories: Financial reports, management reports and
+rejection reports. The professional reports were created by Cognos and ETL work was performed by
+Informatica. This project is to load the advert details and magazine details coming in Relational tables into data warehouse and calculate the compensation and incentive amount monthly twice as per business
+rules.
+
+Contribution / Highlights:
+â¢ Developed mappings using different sources by using Informatica transformations.
+â¢ Created and configured Sessions in Informatica workflow Manager for loading data into Data Mart tables from various heterogeneous database sources like Flat Files, Oracle etc.
+
+2
+â¢ Unit testing and system integration testing of the developed mappings.
+â¢ Providing solutions to the business for the Production issues.
+
+Project #3
+company - Assurant healthcare/Insurance Miami USA
+description - Assurant, USA                                                                                                    NOV 2015 to MAY 2016
+
+Project: ACT BI - State Datamart
+Client: Assurant healthcare/Insurance Miami USA
+Environment: Informatica Power Center 9.1, Oracle 11g, unix.
+
+Role: ETL Developer
+
+Project Profile:
+Assurant, Inc. is a holding company with businesses that provide a diverse set of specialty, niche-market insurance
+products in the property, casualty, life and health insurance sectors. The company's four operating segments are Assurant
+Employee Benefits, Assurant Health, Assurant Solutions and Assurant Specialty Property.
+The project aim at building State Datamart for enterprise solution. I am part of team which is responsible for ETL
+Design & development along with testing.
+
+Contribution / Highlights:
+â¢   Performed small enhancement
+â¢   Daily load monitoring
+â¢   Attend to Informatica job failures by analyzing the root cause, resolving the failure using standard
+documented process.
+â¢   Experience in writing SQL statements.
+â¢   Strong Problem Analysis & Resolution skills and ability to work in Multi Platform Environments
+â¢   Scheduled the Informatica jobs using Informatica scheduler
+â¢   Extensively used ETL methodology for developing and supporting data extraction, transformations and loading process, in a corporate-wide-ETL Solution using Informatica.
+â¢   Involved in creating the Unit cases and uploaded in to Quality Center for Unit Testing and UTR
+â¢   Ensure that daily support tasks are done in accordance with the defined SLA.",Applicant 22
+ETL Developer,"Education Details 
+January 2015 Bachelor of Engineering EXTC Mumbai, Maharashtra Mumbai University
+January 2012 Diploma Industrial Electronics Vashi, MAHARASHTRA, IN Fr. Agnel Polytechnic
+ETL Developer 
+
+ETL Developer
+Skill Details 
+informatica- Exprience - 36 monthsCompany Details 
+company - Blue Shield of California
+description - Duration: (Mar 2016 - Sept 2017)
+
+Description:
+Blue Shield of California (BSC) is health plan provider. The intent of this project is to process feeds coming in and going out of BSC system related to eligibility, enrollment, and claims subject areas. All these feeds comes in different formats and are processed using Informatica 9.6.1, Oracle 11g, Facets 5.0 &Tidal.
+
+Technical environment: ETL tool (Informatica power Center 9.6.1), Oracle 11g (SQL, PL-SQL), UNIX, Facets, Tidal, JIRA, Putty.
+
+Role: ETL Developer
+Responsibilities: â¢ Responsible for analyzing the business requirement document â¢ Involved in development of Informatica mappings using different transformations like source qualifier, expression, filter, router, joiner, union, aggregator, normalizer, sorter, lookup and its corresponding sessions and workflows.
+â¢ Extensively used Informatica Debugger to figure out the problems in mapping and involved in troubleshooting the existing bugs.
+â¢ Writing Unix Scripts & SQL's as per the business requirement.
+â¢ Impact analysis of change requests & their development.
+â¢ Data fabrication using Facets screens as well as SQL statements in membership domain.
+â¢ Unit testing & trouble shooting using Informatica debugger, SQL query & preparation of Unit Test Cases.
+â¢ Prepare documents for design, unit testing and impact analysis.
+
+Awards & Achievements â¢ Received Kudos Award at Syntel for contribution in error free work, commitment towards learning, client appreciation and outstanding display of Syntel values Received appreciation from Management for outstanding performance in complete tenure.
+â¢ Received spot recognition for automation done in project.",Applicant 23
+ETL Developer,"SKILL SET â Talend Big Data â Informatica Power center â Microsoft SQL Server â SQL Platform 6.2.1 Management Studio Workbench â AWS Services â Talend Administration Console â Microsoft Visual â Redshift (TAC) Studio â Athena â Data Warehouse Concept - Star â SQL â S3 Schema, Facts, Dimensions â Data Modeling - â Data Integration Microsoft Access Education Details 
+January 2012 to January 2016 BE  Mumbai, Maharashtra University of Mumbai
+January 2012 CBSE Technology Kochi, Kerala St. Francis
+Talend ETL Developer 
+
+Talend ETL Developer - Tata Consultancy Services
+Skill Details 
+DATA WAREHOUSE- Exprience - 23 months
+DATABASE- Exprience - 20 months
+INTEGRATION- Exprience - 20 months
+INTEGRATOR- Exprience - 20 months
+MS SQL SERVER- Exprience - 20 monthsCompany Details 
+company - Tata Consultancy Services
+description - Prepared ETL mapping Documents for every mapping and Data Migration document for smooth transfer of project from development to testing environment and then to production environment. Performed Unit testing and System testing to
+validate data loads in the target. Troubleshoot long running jobs and fixed the issues.
+â¢ Expertise in creating mappings in TALEND using Big Data supporting components such as tJDBCConfiguration, tJDBCInput,
+tHDFSConfiguration, tS3configuration, tCacheOut, tCacheIn, tSqlRow and standard components like tFileInputDelimited,
+tFileOutputDelimited, tMap, tJoin, tReplicate, tParallelize, tConvertType, tAggregate, tSortRow, tFlowMeter, tLogCatcher,
+tRowGenerator, tJava, tJavarow, tAggregateRow, tFilter etc.
+â¢ Used ETL methodologies and best practices to create Talend ETL jobs. Followed and enhanced programming and naming
+standards. Developed jobs, components and Joblets in Talend. Used tRunJob component to run child job from a parent job and to pass parameters from parent to child job.
+â¢ Created and deployed physical objects including custom tables, custom views, stored procedures, and indexes to SQL server for Staging and Data-Warehouse environment. Involved in writing SQL Queries and used Joins to access data from MySQL.
+â¢ Created and managed Source to Target mapping documents for all Facts and Dimension tables. Broad design, development and testing experience with Talend Integration Suite and knowledge in Performance Tuning of mappings.
+â¢ Extensively used tMap component which does lookup & Joiner Functions. Experienced in writing expressions within tmap as per the business need. Handled insert and update Strategy using tSQLRow.
+â¢ Created Implicit, local and global Context variables in the job to run Talend jobs against different environments.
+â¢ Worked on Talend Administration Console (TAC) for scheduling jobs and adding users. Experienced in Building a Talend job outside of a Talend studio as well as on TAC server.
+â¢ Developed mappings to load Fact and Dimension tables, SCD Type 1 and SCD Type 2 dimensions and Incremental loading and unit tested the mappings.
+â¢ Developed Framework Integrated Job which schedules multiple jobs at a time and updates the last successful run time,
+success status, sending mail for failed jobs, maintaining the counts in SQL Database. Used tParalleize component and multi
+thread execution option to run subjobs in parallel which increases the performance of a job.
+â¢ Created Talend jobs to copy the files from one server to another and utilized Talend FTP components. Implemented FTP
+operations using Talend Studio to transfer files in between network folders as well as to FTP server using components like tFileList, tS3Put, tFTPut, tFileExist, tFTPConnection etc.
+â¢ Extracted data from flat files/ databases applied business logic to load them in the staging database as well as flat files.
+â¢ Successfully Loaded Data into different targets from various source systems like SQL Database, DB2, Flatfiles, XML files etc into the Staging table and then to the target database.
+company - Tata Consultancy Services
+description - Experience in development and design of ETL (Extract, Transform and Loading data) methodology for supporting data
+transformations and processing, in a corporate wide ETL Solution using TALEND Big Data Platform.
+â¢   Excellent working experience in Agile methodologies.
+â¢   Proficiency in gathering and understanding the client requirements and translate business needs into technical
+requirements.
+â¢   Design and develop end-to-end ETL process from various source systems to Staging area, from staging to Data Warehouse,
+soliciting and documenting business, functional and data requirements, context/variable diagrams, use cases and ETL
+related diagrams.
+â¢   Excellent oral/written communication with ability to effectively work with onsite and remote teams.
+â¢   A good team player with excellent problem solving ability and time management skills having profound insight to determine
+priorities, schedule work and meet critical deadlines.
+company - Tata Consultancy Services
+description - Prepared ETL mapping Documents for every mapping and Data Migration document for smooth transfer of project from development to testing environment and then to production environment. Performed Unit testing and System testing to
+validate data loads in the target. Troubleshoot long running jobs and fixed the issues.",Applicant 24
+ETL Developer,"Computer skills: - Yes. SQL knowledge-yes Unix knowledge-yes Data warehouse knowledge-yes Ab intio -yee MY HOBBIES: - â¢ Playing Cricket, football. â¢ Reading books â¢ Visiting new places/Travelling. DECLARATION:- I hereby declare that the above mentioned information is factual and correct up to the best of my knowledge and belief. Date: -.27.01.2019 MR. MANISH PRABHAKAR PATIL Place: -MUMBAI Education Details 
+June 2014 to June 2015 Bachelor's Electronics and Telecommunication  A C Patil college of Engineering
+January 2009 to January 2011  Engineering Navi Mumbai, Maharashtra Bharati vidyapeeth
+January 2008 H.S.C.  Mumbai, Maharashtra Khalsa college
+ETL Informatica Developer 
+
+ETL DEVELOPER
+Skill Details 
+ETL- Exprience - Less than 1 year months
+Data Warehouse- Exprience - Less than 1 year months
+Datastage- Exprience - Less than 1 year monthsCompany Details 
+company - Reliance Infocomm
+description - I havevbeen working as ETL Developer in reliance industries in India for the past 3years.I have very good knowledge of Informatica and SQL as well as good knowledge of Unix.I am willing to work in yours company as Developer.",Applicant 25
+ETL Developer,"Technical Summary â¢ Knowledge of Informatica Power Center (ver. 9.1 and 10) ETL Tool: Mapping designing, usage of multiple transformations. Integration of various data source like SQL Server tables, Flat Files, etc. into target data warehouse. â¢ SQL/PLSQL working knowledge on Microsoft SQL server 2010. â¢ Unix Work Description: shell scripting, error debugging. â¢ Job scheduling using Autosys, Incident management and Change Requests through Service Now, JIRA, Agile Central â¢ Basic knowledge of Intellimatch (Reconciliation tool) Education Details 
+January 2010 to January 2014 BTech CSE Sangli, Maharashtra Walchand College of Engineering
+October 2009 H.S.C  Sangli, Maharashtra Willingdon College
+August 2007 S.S.C Achievements Sangli, Maharashtra Martin's English School
+ETL Developer 
+
+IT Analyst
+Skill Details 
+ETL- Exprience - 48 months
+EXTRACT, TRANSFORM, AND LOAD- Exprience - 48 months
+INFORMATICA- Exprience - 48 months
+MS SQL SERVER- Exprience - 48 months
+RECONCILIATION- Exprience - 48 months
+Jira- Exprience - 36 monthsCompany Details 
+company - Tata Consultancy Services
+description - Project Details
+Client/Project: Barclays UK London/HEXAD
+Environment: Informatica (Power Center), SQL Server, UNIX, Autosys, Intellimatch.
+
+Project Description:
+The objective is to implement a strategic technical solution to support the governance and monitoring of break standards - including enhancements to audit capabilities. As a part of this program, the required remediation of source system data feeds involves consolidation of data into standardized feeds.
+
+These remediated data feeds will be consumed by ETL layer. The reconciliation tool is
+designed to source data from an ETL layer. The data from the Front and Back office systems,
+together with static data must therefore be delivered to ETL. Here it will be pre-processed and delivered to reconciliation tool before the reconciliation process can be performed.
+
+Role and Responsibilities:
+â¢ Responsible for analyzing, designing and developing ETL strategies and processes,
+writing ETL specifications
+â¢ Requirement gathering
+â¢ Making functional documents and low level documents
+â¢ Developing and debugging the Informatica mappings to resolve bugs, and identify the causes of failures
+â¢ User interaction to identify the issues with the data loaded through the application
+â¢ Developed mappings using different transformations
+company - Tata Consultancy Services
+description - Project Details
+Client/Project: Barclays UK London/HEXAD
+Environment: Informatica (Power Center), SQL Server, UNIX, Autosys, Intellimatch.
+
+Project Description:
+The objective is to implement a strategic technical solution to support the governance and monitoring of break standards - including enhancements to audit capabilities. As a part of this program, the required remediation of source system data feeds involves consolidation of data into standardized feeds.
+
+These remediated data feeds will be consumed by ETL layer. The reconciliation tool is
+designed to source data from an ETL layer. The data from the Front and Back office systems,
+together with static data must therefore be delivered to ETL. Here it will be pre-processed and delivered to reconciliation tool before the reconciliation process can be performed.
+
+Role and Responsibilities:
+â¢ Responsible for analyzing, designing and developing ETL strategies and processes,
+writing ETL specifications
+â¢ Requirement gathering
+â¢ Making functional documents and low level documents
+â¢ Developing and debugging the Informatica mappings to resolve bugs, and identify the causes of failures
+â¢ User interaction to identify the issues with the data loaded through the application
+â¢ Developed mappings using different transformations",Applicant 26
+ETL Developer,"TechnicalProficiencies DB: Oracle 11g Domains: Investment Banking, Advertising, Insurance. Programming Skills: SQL, PLSQL BI Tools: Informatica 9.1 OS: Windows, Unix Professional Development Trainings â¢ Concepts in Data Warehousing, Business Intelligence, ETL. â¢ BI Tools -Informatica 9X Education Details 
+ BCA  Nanded, Maharashtra Nanded University
+ETL Developer 
+
+ETL Developer - Sun Trust Bank NY
+Skill Details 
+ETL- Exprience - 39 months
+EXTRACT, TRANSFORM, AND LOAD- Exprience - 39 months
+INFORMATICA- Exprience - 39 months
+ORACLE- Exprience - 39 months
+UNIX- Exprience - 39 monthsCompany Details 
+company - Sun Trust Bank NY
+description - Sun Trust Bank, NY JAN 2018 to present
+Client: Sun Trust Bank NY
+Environment: Informatica Power Center 9.1, Oracle 11g, unix.
+
+Role: ETL Developer
+
+Project Profile:
+Sun Trust Bank is a US based multinational financial services holding company, headquarters in NY that operates the Bank in New York and other financial services investments. The company is organized as a stock corporation with four divisions: investment banking, private banking, Retail banking and a shared services group that provides
+Financial services and support to the other divisions.
+The objective of the first module was to create a DR system for the bank with a central point of communication and storage for Listed, Cash securities, Loans, Bonds, Notes, Equities, Rates, Commodities, and
+FX asset classes.
+Contribution / Highlights:
+
+â¢ Liaising closely with Project Manager, Business Analysts, Product Architects, and Requirements Modelers (CFOC) to define Technical requirements and create project documentation.
+â¢ Development using Infa 9.1, 11g/Oracle, UNIX.
+â¢ Use Informatica PowerCenter for extraction, transformation and loading (ETL) of data in the Database.
+â¢ Created and configured Sessions in Informatica workflow Manager for loading data into Data base tables from various heterogeneous database sources like Flat Files, Oracle etc.
+â¢ Unit testing and system integration testing of the developed mappings.
+â¢ Providing production Support of the deployed code.
+â¢ Providing solutions to the business for the Production issues.
+â¢ Had one to One interaction with the client throughout the project and in daily meetings.
+
+Project #2
+company - Marshall Multimedia
+description - JUN 2016 to DEC 2017
+
+Client: Marshall Multimedia
+Environment: Informatica Power Center 9.1, Oracle 11g, unix.
+
+Role: ETL Developer
+
+Project Profile:
+Marshall Multimedia is a US based multimedia advertisement services based organization which has
+head courter in New York. EGC interface systems are advert management, Customer Management, Billing and
+Provisioning Systems for Consumer& Enterprise Customers.
+The main aim of the project was to create an enterprise data warehouse which would suffice the need of reports belonging to the following categories: Financial reports, management reports and
+rejection reports. The professional reports were created by Cognos and ETL work was performed by
+Informatica. This project is to load the advert details and magazine details coming in Relational tables into data warehouse and calculate the compensation and incentive amount monthly twice as per business
+rules.
+
+Contribution / Highlights:
+â¢ Developed mappings using different sources by using Informatica transformations.
+â¢ Created and configured Sessions in Informatica workflow Manager for loading data into Data Mart tables from various heterogeneous database sources like Flat Files, Oracle etc.
+
+2
+â¢ Unit testing and system integration testing of the developed mappings.
+â¢ Providing solutions to the business for the Production issues.
+
+Project #3
+company - Assurant healthcare/Insurance Miami USA
+description - Assurant, USA                                                                                                    NOV 2015 to MAY 2016
+
+Project: ACT BI - State Datamart
+Client: Assurant healthcare/Insurance Miami USA
+Environment: Informatica Power Center 9.1, Oracle 11g, unix.
+
+Role: ETL Developer
+
+Project Profile:
+Assurant, Inc. is a holding company with businesses that provide a diverse set of specialty, niche-market insurance
+products in the property, casualty, life and health insurance sectors. The company's four operating segments are Assurant
+Employee Benefits, Assurant Health, Assurant Solutions and Assurant Specialty Property.
+The project aim at building State Datamart for enterprise solution. I am part of team which is responsible for ETL
+Design & development along with testing.
+
+Contribution / Highlights:
+â¢   Performed small enhancement
+â¢   Daily load monitoring
+â¢   Attend to Informatica job failures by analyzing the root cause, resolving the failure using standard
+documented process.
+â¢   Experience in writing SQL statements.
+â¢   Strong Problem Analysis & Resolution skills and ability to work in Multi Platform Environments
+â¢   Scheduled the Informatica jobs using Informatica scheduler
+â¢   Extensively used ETL methodology for developing and supporting data extraction, transformations and loading process, in a corporate-wide-ETL Solution using Informatica.
+â¢   Involved in creating the Unit cases and uploaded in to Quality Center for Unit Testing and UTR
+â¢   Ensure that daily support tasks are done in accordance with the defined SLA.",Applicant 27
+ETL Developer,"Education Details 
+January 2015 Bachelor of Engineering EXTC Mumbai, Maharashtra Mumbai University
+January 2012 Diploma Industrial Electronics Vashi, MAHARASHTRA, IN Fr. Agnel Polytechnic
+ETL Developer 
+
+ETL Developer
+Skill Details 
+informatica- Exprience - 36 monthsCompany Details 
+company - Blue Shield of California
+description - Duration: (Mar 2016 - Sept 2017)
+
+Description:
+Blue Shield of California (BSC) is health plan provider. The intent of this project is to process feeds coming in and going out of BSC system related to eligibility, enrollment, and claims subject areas. All these feeds comes in different formats and are processed using Informatica 9.6.1, Oracle 11g, Facets 5.0 &Tidal.
+
+Technical environment: ETL tool (Informatica power Center 9.6.1), Oracle 11g (SQL, PL-SQL), UNIX, Facets, Tidal, JIRA, Putty.
+
+Role: ETL Developer
+Responsibilities: â¢ Responsible for analyzing the business requirement document â¢ Involved in development of Informatica mappings using different transformations like source qualifier, expression, filter, router, joiner, union, aggregator, normalizer, sorter, lookup and its corresponding sessions and workflows.
+â¢ Extensively used Informatica Debugger to figure out the problems in mapping and involved in troubleshooting the existing bugs.
+â¢ Writing Unix Scripts & SQL's as per the business requirement.
+â¢ Impact analysis of change requests & their development.
+â¢ Data fabrication using Facets screens as well as SQL statements in membership domain.
+â¢ Unit testing & trouble shooting using Informatica debugger, SQL query & preparation of Unit Test Cases.
+â¢ Prepare documents for design, unit testing and impact analysis.
+
+Awards & Achievements â¢ Received Kudos Award at Syntel for contribution in error free work, commitment towards learning, client appreciation and outstanding display of Syntel values Received appreciation from Management for outstanding performance in complete tenure.
+â¢ Received spot recognition for automation done in project.",Applicant 28
+ETL Developer,"SKILL SET â Talend Big Data â Informatica Power center â Microsoft SQL Server â SQL Platform 6.2.1 Management Studio Workbench â AWS Services â Talend Administration Console â Microsoft Visual â Redshift (TAC) Studio â Athena â Data Warehouse Concept - Star â SQL â S3 Schema, Facts, Dimensions â Data Modeling - â Data Integration Microsoft Access Education Details 
+January 2012 to January 2016 BE  Mumbai, Maharashtra University of Mumbai
+January 2012 CBSE Technology Kochi, Kerala St. Francis
+Talend ETL Developer 
+
+Talend ETL Developer - Tata Consultancy Services
+Skill Details 
+DATA WAREHOUSE- Exprience - 23 months
+DATABASE- Exprience - 20 months
+INTEGRATION- Exprience - 20 months
+INTEGRATOR- Exprience - 20 months
+MS SQL SERVER- Exprience - 20 monthsCompany Details 
+company - Tata Consultancy Services
+description - Prepared ETL mapping Documents for every mapping and Data Migration document for smooth transfer of project from development to testing environment and then to production environment. Performed Unit testing and System testing to
+validate data loads in the target. Troubleshoot long running jobs and fixed the issues.
+â¢ Expertise in creating mappings in TALEND using Big Data supporting components such as tJDBCConfiguration, tJDBCInput,
+tHDFSConfiguration, tS3configuration, tCacheOut, tCacheIn, tSqlRow and standard components like tFileInputDelimited,
+tFileOutputDelimited, tMap, tJoin, tReplicate, tParallelize, tConvertType, tAggregate, tSortRow, tFlowMeter, tLogCatcher,
+tRowGenerator, tJava, tJavarow, tAggregateRow, tFilter etc.
+â¢ Used ETL methodologies and best practices to create Talend ETL jobs. Followed and enhanced programming and naming
+standards. Developed jobs, components and Joblets in Talend. Used tRunJob component to run child job from a parent job and to pass parameters from parent to child job.
+â¢ Created and deployed physical objects including custom tables, custom views, stored procedures, and indexes to SQL server for Staging and Data-Warehouse environment. Involved in writing SQL Queries and used Joins to access data from MySQL.
+â¢ Created and managed Source to Target mapping documents for all Facts and Dimension tables. Broad design, development and testing experience with Talend Integration Suite and knowledge in Performance Tuning of mappings.
+â¢ Extensively used tMap component which does lookup & Joiner Functions. Experienced in writing expressions within tmap as per the business need. Handled insert and update Strategy using tSQLRow.
+â¢ Created Implicit, local and global Context variables in the job to run Talend jobs against different environments.
+â¢ Worked on Talend Administration Console (TAC) for scheduling jobs and adding users. Experienced in Building a Talend job outside of a Talend studio as well as on TAC server.
+â¢ Developed mappings to load Fact and Dimension tables, SCD Type 1 and SCD Type 2 dimensions and Incremental loading and unit tested the mappings.
+â¢ Developed Framework Integrated Job which schedules multiple jobs at a time and updates the last successful run time,
+success status, sending mail for failed jobs, maintaining the counts in SQL Database. Used tParalleize component and multi
+thread execution option to run subjobs in parallel which increases the performance of a job.
+â¢ Created Talend jobs to copy the files from one server to another and utilized Talend FTP components. Implemented FTP
+operations using Talend Studio to transfer files in between network folders as well as to FTP server using components like tFileList, tS3Put, tFTPut, tFileExist, tFTPConnection etc.
+â¢ Extracted data from flat files/ databases applied business logic to load them in the staging database as well as flat files.
+â¢ Successfully Loaded Data into different targets from various source systems like SQL Database, DB2, Flatfiles, XML files etc into the Staging table and then to the target database.
+company - Tata Consultancy Services
+description - Experience in development and design of ETL (Extract, Transform and Loading data) methodology for supporting data
+transformations and processing, in a corporate wide ETL Solution using TALEND Big Data Platform.
+â¢   Excellent working experience in Agile methodologies.
+â¢   Proficiency in gathering and understanding the client requirements and translate business needs into technical
+requirements.
+â¢   Design and develop end-to-end ETL process from various source systems to Staging area, from staging to Data Warehouse,
+soliciting and documenting business, functional and data requirements, context/variable diagrams, use cases and ETL
+related diagrams.
+â¢   Excellent oral/written communication with ability to effectively work with onsite and remote teams.
+â¢   A good team player with excellent problem solving ability and time management skills having profound insight to determine
+priorities, schedule work and meet critical deadlines.
+company - Tata Consultancy Services
+description - Prepared ETL mapping Documents for every mapping and Data Migration document for smooth transfer of project from development to testing environment and then to production environment. Performed Unit testing and System testing to
+validate data loads in the target. Troubleshoot long running jobs and fixed the issues.",Applicant 29
+ETL Developer,"Computer skills: - Yes. SQL knowledge-yes Unix knowledge-yes Data warehouse knowledge-yes Ab intio -yee MY HOBBIES: - â¢ Playing Cricket, football. â¢ Reading books â¢ Visiting new places/Travelling. DECLARATION:- I hereby declare that the above mentioned information is factual and correct up to the best of my knowledge and belief. Date: -.27.01.2019 MR. MANISH PRABHAKAR PATIL Place: -MUMBAI Education Details 
+June 2014 to June 2015 Bachelor's Electronics and Telecommunication  A C Patil college of Engineering
+January 2009 to January 2011  Engineering Navi Mumbai, Maharashtra Bharati vidyapeeth
+January 2008 H.S.C.  Mumbai, Maharashtra Khalsa college
+ETL Informatica Developer 
+
+ETL DEVELOPER
+Skill Details 
+ETL- Exprience - Less than 1 year months
+Data Warehouse- Exprience - Less than 1 year months
+Datastage- Exprience - Less than 1 year monthsCompany Details 
+company - Reliance Infocomm
+description - I havevbeen working as ETL Developer in reliance industries in India for the past 3years.I have very good knowledge of Informatica and SQL as well as good knowledge of Unix.I am willing to work in yours company as Developer.",Applicant 30
+ETL Developer,"Technical Summary â¢ Knowledge of Informatica Power Center (ver. 9.1 and 10) ETL Tool: Mapping designing, usage of multiple transformations. Integration of various data source like SQL Server tables, Flat Files, etc. into target data warehouse. â¢ SQL/PLSQL working knowledge on Microsoft SQL server 2010. â¢ Unix Work Description: shell scripting, error debugging. â¢ Job scheduling using Autosys, Incident management and Change Requests through Service Now, JIRA, Agile Central â¢ Basic knowledge of Intellimatch (Reconciliation tool) Education Details 
+January 2010 to January 2014 BTech CSE Sangli, Maharashtra Walchand College of Engineering
+October 2009 H.S.C  Sangli, Maharashtra Willingdon College
+August 2007 S.S.C Achievements Sangli, Maharashtra Martin's English School
+ETL Developer 
+
+IT Analyst
+Skill Details 
+ETL- Exprience - 48 months
+EXTRACT, TRANSFORM, AND LOAD- Exprience - 48 months
+INFORMATICA- Exprience - 48 months
+MS SQL SERVER- Exprience - 48 months
+RECONCILIATION- Exprience - 48 months
+Jira- Exprience - 36 monthsCompany Details 
+company - Tata Consultancy Services
+description - Project Details
+Client/Project: Barclays UK London/HEXAD
+Environment: Informatica (Power Center), SQL Server, UNIX, Autosys, Intellimatch.
+
+Project Description:
+The objective is to implement a strategic technical solution to support the governance and monitoring of break standards - including enhancements to audit capabilities. As a part of this program, the required remediation of source system data feeds involves consolidation of data into standardized feeds.
+
+These remediated data feeds will be consumed by ETL layer. The reconciliation tool is
+designed to source data from an ETL layer. The data from the Front and Back office systems,
+together with static data must therefore be delivered to ETL. Here it will be pre-processed and delivered to reconciliation tool before the reconciliation process can be performed.
+
+Role and Responsibilities:
+â¢ Responsible for analyzing, designing and developing ETL strategies and processes,
+writing ETL specifications
+â¢ Requirement gathering
+â¢ Making functional documents and low level documents
+â¢ Developing and debugging the Informatica mappings to resolve bugs, and identify the causes of failures
+â¢ User interaction to identify the issues with the data loaded through the application
+â¢ Developed mappings using different transformations
+company - Tata Consultancy Services
+description - Project Details
+Client/Project: Barclays UK London/HEXAD
+Environment: Informatica (Power Center), SQL Server, UNIX, Autosys, Intellimatch.
+
+Project Description:
+The objective is to implement a strategic technical solution to support the governance and monitoring of break standards - including enhancements to audit capabilities. As a part of this program, the required remediation of source system data feeds involves consolidation of data into standardized feeds.
+
+These remediated data feeds will be consumed by ETL layer. The reconciliation tool is
+designed to source data from an ETL layer. The data from the Front and Back office systems,
+together with static data must therefore be delivered to ETL. Here it will be pre-processed and delivered to reconciliation tool before the reconciliation process can be performed.
+
+Role and Responsibilities:
+â¢ Responsible for analyzing, designing and developing ETL strategies and processes,
+writing ETL specifications
+â¢ Requirement gathering
+â¢ Making functional documents and low level documents
+â¢ Developing and debugging the Informatica mappings to resolve bugs, and identify the causes of failures
+â¢ User interaction to identify the issues with the data loaded through the application
+â¢ Developed mappings using different transformations",Applicant 31
+ETL Developer,"TechnicalProficiencies DB: Oracle 11g Domains: Investment Banking, Advertising, Insurance. Programming Skills: SQL, PLSQL BI Tools: Informatica 9.1 OS: Windows, Unix Professional Development Trainings â¢ Concepts in Data Warehousing, Business Intelligence, ETL. â¢ BI Tools -Informatica 9X Education Details 
+ BCA  Nanded, Maharashtra Nanded University
+ETL Developer 
+
+ETL Developer - Sun Trust Bank NY
+Skill Details 
+ETL- Exprience - 39 months
+EXTRACT, TRANSFORM, AND LOAD- Exprience - 39 months
+INFORMATICA- Exprience - 39 months
+ORACLE- Exprience - 39 months
+UNIX- Exprience - 39 monthsCompany Details 
+company - Sun Trust Bank NY
+description - Sun Trust Bank, NY JAN 2018 to present
+Client: Sun Trust Bank NY
+Environment: Informatica Power Center 9.1, Oracle 11g, unix.
+
+Role: ETL Developer
+
+Project Profile:
+Sun Trust Bank is a US based multinational financial services holding company, headquarters in NY that operates the Bank in New York and other financial services investments. The company is organized as a stock corporation with four divisions: investment banking, private banking, Retail banking and a shared services group that provides
+Financial services and support to the other divisions.
+The objective of the first module was to create a DR system for the bank with a central point of communication and storage for Listed, Cash securities, Loans, Bonds, Notes, Equities, Rates, Commodities, and
+FX asset classes.
+Contribution / Highlights:
+
+â¢ Liaising closely with Project Manager, Business Analysts, Product Architects, and Requirements Modelers (CFOC) to define Technical requirements and create project documentation.
+â¢ Development using Infa 9.1, 11g/Oracle, UNIX.
+â¢ Use Informatica PowerCenter for extraction, transformation and loading (ETL) of data in the Database.
+â¢ Created and configured Sessions in Informatica workflow Manager for loading data into Data base tables from various heterogeneous database sources like Flat Files, Oracle etc.
+â¢ Unit testing and system integration testing of the developed mappings.
+â¢ Providing production Support of the deployed code.
+â¢ Providing solutions to the business for the Production issues.
+â¢ Had one to One interaction with the client throughout the project and in daily meetings.
+
+Project #2
+company - Marshall Multimedia
+description - JUN 2016 to DEC 2017
+
+Client: Marshall Multimedia
+Environment: Informatica Power Center 9.1, Oracle 11g, unix.
+
+Role: ETL Developer
+
+Project Profile:
+Marshall Multimedia is a US based multimedia advertisement services based organization which has
+head courter in New York. EGC interface systems are advert management, Customer Management, Billing and
+Provisioning Systems for Consumer& Enterprise Customers.
+The main aim of the project was to create an enterprise data warehouse which would suffice the need of reports belonging to the following categories: Financial reports, management reports and
+rejection reports. The professional reports were created by Cognos and ETL work was performed by
+Informatica. This project is to load the advert details and magazine details coming in Relational tables into data warehouse and calculate the compensation and incentive amount monthly twice as per business
+rules.
+
+Contribution / Highlights:
+â¢ Developed mappings using different sources by using Informatica transformations.
+â¢ Created and configured Sessions in Informatica workflow Manager for loading data into Data Mart tables from various heterogeneous database sources like Flat Files, Oracle etc.
+
+2
+â¢ Unit testing and system integration testing of the developed mappings.
+â¢ Providing solutions to the business for the Production issues.
+
+Project #3
+company - Assurant healthcare/Insurance Miami USA
+description - Assurant, USA                                                                                                    NOV 2015 to MAY 2016
+
+Project: ACT BI - State Datamart
+Client: Assurant healthcare/Insurance Miami USA
+Environment: Informatica Power Center 9.1, Oracle 11g, unix.
+
+Role: ETL Developer
+
+Project Profile:
+Assurant, Inc. is a holding company with businesses that provide a diverse set of specialty, niche-market insurance
+products in the property, casualty, life and health insurance sectors. The company's four operating segments are Assurant
+Employee Benefits, Assurant Health, Assurant Solutions and Assurant Specialty Property.
+The project aim at building State Datamart for enterprise solution. I am part of team which is responsible for ETL
+Design & development along with testing.
+
+Contribution / Highlights:
+â¢   Performed small enhancement
+â¢   Daily load monitoring
+â¢   Attend to Informatica job failures by analyzing the root cause, resolving the failure using standard
+documented process.
+â¢   Experience in writing SQL statements.
+â¢   Strong Problem Analysis & Resolution skills and ability to work in Multi Platform Environments
+â¢   Scheduled the Informatica jobs using Informatica scheduler
+â¢   Extensively used ETL methodology for developing and supporting data extraction, transformations and loading process, in a corporate-wide-ETL Solution using Informatica.
+â¢   Involved in creating the Unit cases and uploaded in to Quality Center for Unit Testing and UTR
+â¢   Ensure that daily support tasks are done in accordance with the defined SLA.",Applicant 32
+ETL Developer,"Education Details 
+January 2015 Bachelor of Engineering EXTC Mumbai, Maharashtra Mumbai University
+January 2012 Diploma Industrial Electronics Vashi, MAHARASHTRA, IN Fr. Agnel Polytechnic
+ETL Developer 
+
+ETL Developer
+Skill Details 
+informatica- Exprience - 36 monthsCompany Details 
+company - Blue Shield of California
+description - Duration: (Mar 2016 - Sept 2017)
+
+Description:
+Blue Shield of California (BSC) is health plan provider. The intent of this project is to process feeds coming in and going out of BSC system related to eligibility, enrollment, and claims subject areas. All these feeds comes in different formats and are processed using Informatica 9.6.1, Oracle 11g, Facets 5.0 &Tidal.
+
+Technical environment: ETL tool (Informatica power Center 9.6.1), Oracle 11g (SQL, PL-SQL), UNIX, Facets, Tidal, JIRA, Putty.
+
+Role: ETL Developer
+Responsibilities: â¢ Responsible for analyzing the business requirement document â¢ Involved in development of Informatica mappings using different transformations like source qualifier, expression, filter, router, joiner, union, aggregator, normalizer, sorter, lookup and its corresponding sessions and workflows.
+â¢ Extensively used Informatica Debugger to figure out the problems in mapping and involved in troubleshooting the existing bugs.
+â¢ Writing Unix Scripts & SQL's as per the business requirement.
+â¢ Impact analysis of change requests & their development.
+â¢ Data fabrication using Facets screens as well as SQL statements in membership domain.
+â¢ Unit testing & trouble shooting using Informatica debugger, SQL query & preparation of Unit Test Cases.
+â¢ Prepare documents for design, unit testing and impact analysis.
+
+Awards & Achievements â¢ Received Kudos Award at Syntel for contribution in error free work, commitment towards learning, client appreciation and outstanding display of Syntel values Received appreciation from Management for outstanding performance in complete tenure.
+â¢ Received spot recognition for automation done in project.",Applicant 33
+ETL Developer,"SKILL SET â Talend Big Data â Informatica Power center â Microsoft SQL Server â SQL Platform 6.2.1 Management Studio Workbench â AWS Services â Talend Administration Console â Microsoft Visual â Redshift (TAC) Studio â Athena â Data Warehouse Concept - Star â SQL â S3 Schema, Facts, Dimensions â Data Modeling - â Data Integration Microsoft Access Education Details 
+January 2012 to January 2016 BE  Mumbai, Maharashtra University of Mumbai
+January 2012 CBSE Technology Kochi, Kerala St. Francis
+Talend ETL Developer 
+
+Talend ETL Developer - Tata Consultancy Services
+Skill Details 
+DATA WAREHOUSE- Exprience - 23 months
+DATABASE- Exprience - 20 months
+INTEGRATION- Exprience - 20 months
+INTEGRATOR- Exprience - 20 months
+MS SQL SERVER- Exprience - 20 monthsCompany Details 
+company - Tata Consultancy Services
+description - Prepared ETL mapping Documents for every mapping and Data Migration document for smooth transfer of project from development to testing environment and then to production environment. Performed Unit testing and System testing to
+validate data loads in the target. Troubleshoot long running jobs and fixed the issues.
+â¢ Expertise in creating mappings in TALEND using Big Data supporting components such as tJDBCConfiguration, tJDBCInput,
+tHDFSConfiguration, tS3configuration, tCacheOut, tCacheIn, tSqlRow and standard components like tFileInputDelimited,
+tFileOutputDelimited, tMap, tJoin, tReplicate, tParallelize, tConvertType, tAggregate, tSortRow, tFlowMeter, tLogCatcher,
+tRowGenerator, tJava, tJavarow, tAggregateRow, tFilter etc.
+â¢ Used ETL methodologies and best practices to create Talend ETL jobs. Followed and enhanced programming and naming
+standards. Developed jobs, components and Joblets in Talend. Used tRunJob component to run child job from a parent job and to pass parameters from parent to child job.
+â¢ Created and deployed physical objects including custom tables, custom views, stored procedures, and indexes to SQL server for Staging and Data-Warehouse environment. Involved in writing SQL Queries and used Joins to access data from MySQL.
+â¢ Created and managed Source to Target mapping documents for all Facts and Dimension tables. Broad design, development and testing experience with Talend Integration Suite and knowledge in Performance Tuning of mappings.
+â¢ Extensively used tMap component which does lookup & Joiner Functions. Experienced in writing expressions within tmap as per the business need. Handled insert and update Strategy using tSQLRow.
+â¢ Created Implicit, local and global Context variables in the job to run Talend jobs against different environments.
+â¢ Worked on Talend Administration Console (TAC) for scheduling jobs and adding users. Experienced in Building a Talend job outside of a Talend studio as well as on TAC server.
+â¢ Developed mappings to load Fact and Dimension tables, SCD Type 1 and SCD Type 2 dimensions and Incremental loading and unit tested the mappings.
+â¢ Developed Framework Integrated Job which schedules multiple jobs at a time and updates the last successful run time,
+success status, sending mail for failed jobs, maintaining the counts in SQL Database. Used tParalleize component and multi
+thread execution option to run subjobs in parallel which increases the performance of a job.
+â¢ Created Talend jobs to copy the files from one server to another and utilized Talend FTP components. Implemented FTP
+operations using Talend Studio to transfer files in between network folders as well as to FTP server using components like tFileList, tS3Put, tFTPut, tFileExist, tFTPConnection etc.
+â¢ Extracted data from flat files/ databases applied business logic to load them in the staging database as well as flat files.
+â¢ Successfully Loaded Data into different targets from various source systems like SQL Database, DB2, Flatfiles, XML files etc into the Staging table and then to the target database.
+company - Tata Consultancy Services
+description - Experience in development and design of ETL (Extract, Transform and Loading data) methodology for supporting data
+transformations and processing, in a corporate wide ETL Solution using TALEND Big Data Platform.
+â¢   Excellent working experience in Agile methodologies.
+â¢   Proficiency in gathering and understanding the client requirements and translate business needs into technical
+requirements.
+â¢   Design and develop end-to-end ETL process from various source systems to Staging area, from staging to Data Warehouse,
+soliciting and documenting business, functional and data requirements, context/variable diagrams, use cases and ETL
+related diagrams.
+â¢   Excellent oral/written communication with ability to effectively work with onsite and remote teams.
+â¢   A good team player with excellent problem solving ability and time management skills having profound insight to determine
+priorities, schedule work and meet critical deadlines.
+company - Tata Consultancy Services
+description - Prepared ETL mapping Documents for every mapping and Data Migration document for smooth transfer of project from development to testing environment and then to production environment. Performed Unit testing and System testing to
+validate data loads in the target. Troubleshoot long running jobs and fixed the issues.",Applicant 34
+ETL Developer,"Computer skills: - Yes. SQL knowledge-yes Unix knowledge-yes Data warehouse knowledge-yes Ab intio -yee MY HOBBIES: - â¢ Playing Cricket, football. â¢ Reading books â¢ Visiting new places/Travelling. DECLARATION:- I hereby declare that the above mentioned information is factual and correct up to the best of my knowledge and belief. Date: -.27.01.2019 MR. MANISH PRABHAKAR PATIL Place: -MUMBAI Education Details 
+June 2014 to June 2015 Bachelor's Electronics and Telecommunication  A C Patil college of Engineering
+January 2009 to January 2011  Engineering Navi Mumbai, Maharashtra Bharati vidyapeeth
+January 2008 H.S.C.  Mumbai, Maharashtra Khalsa college
+ETL Informatica Developer 
+
+ETL DEVELOPER
+Skill Details 
+ETL- Exprience - Less than 1 year months
+Data Warehouse- Exprience - Less than 1 year months
+Datastage- Exprience - Less than 1 year monthsCompany Details 
+company - Reliance Infocomm
+description - I havevbeen working as ETL Developer in reliance industries in India for the past 3years.I have very good knowledge of Informatica and SQL as well as good knowledge of Unix.I am willing to work in yours company as Developer.",Applicant 35
+ETL Developer,"Technical Summary â¢ Knowledge of Informatica Power Center (ver. 9.1 and 10) ETL Tool: Mapping designing, usage of multiple transformations. Integration of various data source like SQL Server tables, Flat Files, etc. into target data warehouse. â¢ SQL/PLSQL working knowledge on Microsoft SQL server 2010. â¢ Unix Work Description: shell scripting, error debugging. â¢ Job scheduling using Autosys, Incident management and Change Requests through Service Now, JIRA, Agile Central â¢ Basic knowledge of Intellimatch (Reconciliation tool) Education Details 
+January 2010 to January 2014 BTech CSE Sangli, Maharashtra Walchand College of Engineering
+October 2009 H.S.C  Sangli, Maharashtra Willingdon College
+August 2007 S.S.C Achievements Sangli, Maharashtra Martin's English School
+ETL Developer 
+
+IT Analyst
+Skill Details 
+ETL- Exprience - 48 months
+EXTRACT, TRANSFORM, AND LOAD- Exprience - 48 months
+INFORMATICA- Exprience - 48 months
+MS SQL SERVER- Exprience - 48 months
+RECONCILIATION- Exprience - 48 months
+Jira- Exprience - 36 monthsCompany Details 
+company - Tata Consultancy Services
+description - Project Details
+Client/Project: Barclays UK London/HEXAD
+Environment: Informatica (Power Center), SQL Server, UNIX, Autosys, Intellimatch.
+
+Project Description:
+The objective is to implement a strategic technical solution to support the governance and monitoring of break standards - including enhancements to audit capabilities. As a part of this program, the required remediation of source system data feeds involves consolidation of data into standardized feeds.
+
+These remediated data feeds will be consumed by ETL layer. The reconciliation tool is
+designed to source data from an ETL layer. The data from the Front and Back office systems,
+together with static data must therefore be delivered to ETL. Here it will be pre-processed and delivered to reconciliation tool before the reconciliation process can be performed.
+
+Role and Responsibilities:
+â¢ Responsible for analyzing, designing and developing ETL strategies and processes,
+writing ETL specifications
+â¢ Requirement gathering
+â¢ Making functional documents and low level documents
+â¢ Developing and debugging the Informatica mappings to resolve bugs, and identify the causes of failures
+â¢ User interaction to identify the issues with the data loaded through the application
+â¢ Developed mappings using different transformations
+company - Tata Consultancy Services
+description - Project Details
+Client/Project: Barclays UK London/HEXAD
+Environment: Informatica (Power Center), SQL Server, UNIX, Autosys, Intellimatch.
+
+Project Description:
+The objective is to implement a strategic technical solution to support the governance and monitoring of break standards - including enhancements to audit capabilities. As a part of this program, the required remediation of source system data feeds involves consolidation of data into standardized feeds.
+
+These remediated data feeds will be consumed by ETL layer. The reconciliation tool is
+designed to source data from an ETL layer. The data from the Front and Back office systems,
+together with static data must therefore be delivered to ETL. Here it will be pre-processed and delivered to reconciliation tool before the reconciliation process can be performed.
+
+Role and Responsibilities:
+â¢ Responsible for analyzing, designing and developing ETL strategies and processes,
+writing ETL specifications
+â¢ Requirement gathering
+â¢ Making functional documents and low level documents
+â¢ Developing and debugging the Informatica mappings to resolve bugs, and identify the causes of failures
+â¢ User interaction to identify the issues with the data loaded through the application
+â¢ Developed mappings using different transformations",Applicant 36
+ETL Developer,"TechnicalProficiencies DB: Oracle 11g Domains: Investment Banking, Advertising, Insurance. Programming Skills: SQL, PLSQL BI Tools: Informatica 9.1 OS: Windows, Unix Professional Development Trainings â¢ Concepts in Data Warehousing, Business Intelligence, ETL. â¢ BI Tools -Informatica 9X Education Details 
+ BCA  Nanded, Maharashtra Nanded University
+ETL Developer 
+
+ETL Developer - Sun Trust Bank NY
+Skill Details 
+ETL- Exprience - 39 months
+EXTRACT, TRANSFORM, AND LOAD- Exprience - 39 months
+INFORMATICA- Exprience - 39 months
+ORACLE- Exprience - 39 months
+UNIX- Exprience - 39 monthsCompany Details 
+company - Sun Trust Bank NY
+description - Sun Trust Bank, NY JAN 2018 to present
+Client: Sun Trust Bank NY
+Environment: Informatica Power Center 9.1, Oracle 11g, unix.
+
+Role: ETL Developer
+
+Project Profile:
+Sun Trust Bank is a US based multinational financial services holding company, headquarters in NY that operates the Bank in New York and other financial services investments. The company is organized as a stock corporation with four divisions: investment banking, private banking, Retail banking and a shared services group that provides
+Financial services and support to the other divisions.
+The objective of the first module was to create a DR system for the bank with a central point of communication and storage for Listed, Cash securities, Loans, Bonds, Notes, Equities, Rates, Commodities, and
+FX asset classes.
+Contribution / Highlights:
+
+â¢ Liaising closely with Project Manager, Business Analysts, Product Architects, and Requirements Modelers (CFOC) to define Technical requirements and create project documentation.
+â¢ Development using Infa 9.1, 11g/Oracle, UNIX.
+â¢ Use Informatica PowerCenter for extraction, transformation and loading (ETL) of data in the Database.
+â¢ Created and configured Sessions in Informatica workflow Manager for loading data into Data base tables from various heterogeneous database sources like Flat Files, Oracle etc.
+â¢ Unit testing and system integration testing of the developed mappings.
+â¢ Providing production Support of the deployed code.
+â¢ Providing solutions to the business for the Production issues.
+â¢ Had one to One interaction with the client throughout the project and in daily meetings.
+
+Project #2
+company - Marshall Multimedia
+description - JUN 2016 to DEC 2017
+
+Client: Marshall Multimedia
+Environment: Informatica Power Center 9.1, Oracle 11g, unix.
+
+Role: ETL Developer
+
+Project Profile:
+Marshall Multimedia is a US based multimedia advertisement services based organization which has
+head courter in New York. EGC interface systems are advert management, Customer Management, Billing and
+Provisioning Systems for Consumer& Enterprise Customers.
+The main aim of the project was to create an enterprise data warehouse which would suffice the need of reports belonging to the following categories: Financial reports, management reports and
+rejection reports. The professional reports were created by Cognos and ETL work was performed by
+Informatica. This project is to load the advert details and magazine details coming in Relational tables into data warehouse and calculate the compensation and incentive amount monthly twice as per business
+rules.
+
+Contribution / Highlights:
+â¢ Developed mappings using different sources by using Informatica transformations.
+â¢ Created and configured Sessions in Informatica workflow Manager for loading data into Data Mart tables from various heterogeneous database sources like Flat Files, Oracle etc.
+
+2
+â¢ Unit testing and system integration testing of the developed mappings.
+â¢ Providing solutions to the business for the Production issues.
+
+Project #3
+company - Assurant healthcare/Insurance Miami USA
+description - Assurant, USA                                                                                                    NOV 2015 to MAY 2016
+
+Project: ACT BI - State Datamart
+Client: Assurant healthcare/Insurance Miami USA
+Environment: Informatica Power Center 9.1, Oracle 11g, unix.
+
+Role: ETL Developer
+
+Project Profile:
+Assurant, Inc. is a holding company with businesses that provide a diverse set of specialty, niche-market insurance
+products in the property, casualty, life and health insurance sectors. The company's four operating segments are Assurant
+Employee Benefits, Assurant Health, Assurant Solutions and Assurant Specialty Property.
+The project aim at building State Datamart for enterprise solution. I am part of team which is responsible for ETL
+Design & development along with testing.
+
+Contribution / Highlights:
+â¢   Performed small enhancement
+â¢   Daily load monitoring
+â¢   Attend to Informatica job failures by analyzing the root cause, resolving the failure using standard
+documented process.
+â¢   Experience in writing SQL statements.
+â¢   Strong Problem Analysis & Resolution skills and ability to work in Multi Platform Environments
+â¢   Scheduled the Informatica jobs using Informatica scheduler
+â¢   Extensively used ETL methodology for developing and supporting data extraction, transformations and loading process, in a corporate-wide-ETL Solution using Informatica.
+â¢   Involved in creating the Unit cases and uploaded in to Quality Center for Unit Testing and UTR
+â¢   Ensure that daily support tasks are done in accordance with the defined SLA.",Applicant 37
+ETL Developer,"Education Details 
+January 2015 Bachelor of Engineering EXTC Mumbai, Maharashtra Mumbai University
+January 2012 Diploma Industrial Electronics Vashi, MAHARASHTRA, IN Fr. Agnel Polytechnic
+ETL Developer 
+
+ETL Developer
+Skill Details 
+informatica- Exprience - 36 monthsCompany Details 
+company - Blue Shield of California
+description - Duration: (Mar 2016 - Sept 2017)
+
+Description:
+Blue Shield of California (BSC) is health plan provider. The intent of this project is to process feeds coming in and going out of BSC system related to eligibility, enrollment, and claims subject areas. All these feeds comes in different formats and are processed using Informatica 9.6.1, Oracle 11g, Facets 5.0 &Tidal.
+
+Technical environment: ETL tool (Informatica power Center 9.6.1), Oracle 11g (SQL, PL-SQL), UNIX, Facets, Tidal, JIRA, Putty.
+
+Role: ETL Developer
+Responsibilities: â¢ Responsible for analyzing the business requirement document â¢ Involved in development of Informatica mappings using different transformations like source qualifier, expression, filter, router, joiner, union, aggregator, normalizer, sorter, lookup and its corresponding sessions and workflows.
+â¢ Extensively used Informatica Debugger to figure out the problems in mapping and involved in troubleshooting the existing bugs.
+â¢ Writing Unix Scripts & SQL's as per the business requirement.
+â¢ Impact analysis of change requests & their development.
+â¢ Data fabrication using Facets screens as well as SQL statements in membership domain.
+â¢ Unit testing & trouble shooting using Informatica debugger, SQL query & preparation of Unit Test Cases.
+â¢ Prepare documents for design, unit testing and impact analysis.
+
+Awards & Achievements â¢ Received Kudos Award at Syntel for contribution in error free work, commitment towards learning, client appreciation and outstanding display of Syntel values Received appreciation from Management for outstanding performance in complete tenure.
+â¢ Received spot recognition for automation done in project.",Applicant 38
+ETL Developer,"SKILL SET â Talend Big Data â Informatica Power center â Microsoft SQL Server â SQL Platform 6.2.1 Management Studio Workbench â AWS Services â Talend Administration Console â Microsoft Visual â Redshift (TAC) Studio â Athena â Data Warehouse Concept - Star â SQL â S3 Schema, Facts, Dimensions â Data Modeling - â Data Integration Microsoft Access Education Details 
+January 2012 to January 2016 BE  Mumbai, Maharashtra University of Mumbai
+January 2012 CBSE Technology Kochi, Kerala St. Francis
+Talend ETL Developer 
+
+Talend ETL Developer - Tata Consultancy Services
+Skill Details 
+DATA WAREHOUSE- Exprience - 23 months
+DATABASE- Exprience - 20 months
+INTEGRATION- Exprience - 20 months
+INTEGRATOR- Exprience - 20 months
+MS SQL SERVER- Exprience - 20 monthsCompany Details 
+company - Tata Consultancy Services
+description - Prepared ETL mapping Documents for every mapping and Data Migration document for smooth transfer of project from development to testing environment and then to production environment. Performed Unit testing and System testing to
+validate data loads in the target. Troubleshoot long running jobs and fixed the issues.
+â¢ Expertise in creating mappings in TALEND using Big Data supporting components such as tJDBCConfiguration, tJDBCInput,
+tHDFSConfiguration, tS3configuration, tCacheOut, tCacheIn, tSqlRow and standard components like tFileInputDelimited,
+tFileOutputDelimited, tMap, tJoin, tReplicate, tParallelize, tConvertType, tAggregate, tSortRow, tFlowMeter, tLogCatcher,
+tRowGenerator, tJava, tJavarow, tAggregateRow, tFilter etc.
+â¢ Used ETL methodologies and best practices to create Talend ETL jobs. Followed and enhanced programming and naming
+standards. Developed jobs, components and Joblets in Talend. Used tRunJob component to run child job from a parent job and to pass parameters from parent to child job.
+â¢ Created and deployed physical objects including custom tables, custom views, stored procedures, and indexes to SQL server for Staging and Data-Warehouse environment. Involved in writing SQL Queries and used Joins to access data from MySQL.
+â¢ Created and managed Source to Target mapping documents for all Facts and Dimension tables. Broad design, development and testing experience with Talend Integration Suite and knowledge in Performance Tuning of mappings.
+â¢ Extensively used tMap component which does lookup & Joiner Functions. Experienced in writing expressions within tmap as per the business need. Handled insert and update Strategy using tSQLRow.
+â¢ Created Implicit, local and global Context variables in the job to run Talend jobs against different environments.
+â¢ Worked on Talend Administration Console (TAC) for scheduling jobs and adding users. Experienced in Building a Talend job outside of a Talend studio as well as on TAC server.
+â¢ Developed mappings to load Fact and Dimension tables, SCD Type 1 and SCD Type 2 dimensions and Incremental loading and unit tested the mappings.
+â¢ Developed Framework Integrated Job which schedules multiple jobs at a time and updates the last successful run time,
+success status, sending mail for failed jobs, maintaining the counts in SQL Database. Used tParalleize component and multi
+thread execution option to run subjobs in parallel which increases the performance of a job.
+â¢ Created Talend jobs to copy the files from one server to another and utilized Talend FTP components. Implemented FTP
+operations using Talend Studio to transfer files in between network folders as well as to FTP server using components like tFileList, tS3Put, tFTPut, tFileExist, tFTPConnection etc.
+â¢ Extracted data from flat files/ databases applied business logic to load them in the staging database as well as flat files.
+â¢ Successfully Loaded Data into different targets from various source systems like SQL Database, DB2, Flatfiles, XML files etc into the Staging table and then to the target database.
+company - Tata Consultancy Services
+description - Experience in development and design of ETL (Extract, Transform and Loading data) methodology for supporting data
+transformations and processing, in a corporate wide ETL Solution using TALEND Big Data Platform.
+â¢   Excellent working experience in Agile methodologies.
+â¢   Proficiency in gathering and understanding the client requirements and translate business needs into technical
+requirements.
+â¢   Design and develop end-to-end ETL process from various source systems to Staging area, from staging to Data Warehouse,
+soliciting and documenting business, functional and data requirements, context/variable diagrams, use cases and ETL
+related diagrams.
+â¢   Excellent oral/written communication with ability to effectively work with onsite and remote teams.
+â¢   A good team player with excellent problem solving ability and time management skills having profound insight to determine
+priorities, schedule work and meet critical deadlines.
+company - Tata Consultancy Services
+description - Prepared ETL mapping Documents for every mapping and Data Migration document for smooth transfer of project from development to testing environment and then to production environment. Performed Unit testing and System testing to
+validate data loads in the target. Troubleshoot long running jobs and fixed the issues.",Applicant 39
+ETL Developer,"Computer skills: - Yes. SQL knowledge-yes Unix knowledge-yes Data warehouse knowledge-yes Ab intio -yee MY HOBBIES: - â¢ Playing Cricket, football. â¢ Reading books â¢ Visiting new places/Travelling. DECLARATION:- I hereby declare that the above mentioned information is factual and correct up to the best of my knowledge and belief. Date: -.27.01.2019 MR. MANISH PRABHAKAR PATIL Place: -MUMBAI Education Details 
+June 2014 to June 2015 Bachelor's Electronics and Telecommunication  A C Patil college of Engineering
+January 2009 to January 2011  Engineering Navi Mumbai, Maharashtra Bharati vidyapeeth
+January 2008 H.S.C.  Mumbai, Maharashtra Khalsa college
+ETL Informatica Developer 
+
+ETL DEVELOPER
+Skill Details 
+ETL- Exprience - Less than 1 year months
+Data Warehouse- Exprience - Less than 1 year months
+Datastage- Exprience - Less than 1 year monthsCompany Details 
+company - Reliance Infocomm
+description - I havevbeen working as ETL Developer in reliance industries in India for the past 3years.I have very good knowledge of Informatica and SQL as well as good knowledge of Unix.I am willing to work in yours company as Developer.",Applicant 40
