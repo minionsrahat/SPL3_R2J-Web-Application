@@ -37,6 +37,29 @@ class Vocabulary(object):
 
     def __len__(self):
         return len(self.word2idx)
+    
+
+def build_vocab_sort_resume(job, threshold=1):
+    """Build a simple vocabulary wrapper."""
+    counter = Counter()
+    caption = job['skills']
+    tokens = nltk.tokenize.word_tokenize(str(caption))
+    counter.update(tokens)
+
+    # If the word frequency is less than 'threshold', then the word is discarded.
+    words = [word for word, cnt in counter.items() if cnt >= threshold]
+
+    # Create a vocab wrapper and add some special tokens.
+    vocab = Vocabulary()
+    vocab.add_word('<pad>')
+    vocab.add_word('<start>')
+    vocab.add_word('<end>')
+    vocab.add_word('<unk>')
+
+    # Add the words to the vocabulary.
+    for i, word in enumerate(words):
+        vocab.add_word(word)
+    return vocab
 
 def build_vocab(df, threshold=1):
     """Build a simple vocabulary wrapper."""

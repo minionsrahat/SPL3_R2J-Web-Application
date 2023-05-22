@@ -27,7 +27,7 @@ def resume_excelsheet_parser(filename):
     df['majors']=df['Resume'].apply(utils.extract_majors)
     df['degrees']=df['Resume'].apply(utils.extract_degrees)
     df['skills']=df['Resume'].apply(utils.extract_skills)
-    df.to_csv(os.path.join(resume_excelsheet_savedir,'Paesed_Resume_ExceelSheet.csv'))
+    df.to_csv(os.path.join(resume_excelsheet_savedir,'Pared_Resume_ExceelSheet.csv'))
     return df
 
 def parser(resume_file):

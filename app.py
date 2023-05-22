@@ -5,11 +5,14 @@ import json
 from resume_screening import resume_parser
 from recommendation import R2J
 from recommendation import search_jobs
+from recommendation import resume_filtering
 from flask_cors import CORS
+from jobs_screening import jobinfoextraction
 
 
 outdir = './Dataset/Resume files'
 outdirforcsv = './Dataset/'
+resume_excelsheet_dir = './Dataset/Resume files/ResumeExcelSheet'
 if not os.path.exists(outdir):
     os.mkdir(outdir)
 
@@ -22,16 +25,48 @@ def index():
     return render_template("index.html")
 
 
-@app.route('/about')
-def about():
-    return render_template('about.html')
-
-
 @app.route("/get_jobs",methods=['GET'])
 def get_jobs():
 
     response={
         'jobs':search_jobs.get_cluster_wise_jobs()
+    }
+    json_response = json.dumps(response)
+    return json_response
+
+
+
+@app.route("/parse_resume_excel_sheet",methods=['POST'])
+def parse_resume_excel_sheets():
+    if request.method == 'POST':
+        f = request.files['excel_file']
+        f.save(os.path.join(resume_excelsheet_dir, f.filename))
+    # Parse Resume
+    df= resume_parser.resume_excelsheet_parser(f.filename)
+    resumes=df.to_dict(orient='records')
+    response={
+        'resumes':resumes
+    }
+    json_response = json.dumps(response)
+    print(json_response)
+    return json_response
+
+@app.route("/sort_resumes",methods=['POST'])
+def sort_resumes():
+    if request.method == 'POST':
+         data = request.get_json()
+         resumes = json.loads(data['resume'])
+         jobdes=data['job_desc']
+    # Parse Resume
+    resumes=pd.DataFrame(resumes)
+    job={}
+    job['Acceptable majors']=jobinfoextraction.match_majors_by_spacy(jobdes)
+    job['degrees']=jobinfoextraction.match_degrees_by_spacy(jobdes)
+    job['Minimum degree level']=jobinfoextraction.get_minimum_degree(job['degrees'])
+    job['skills']=jobinfoextraction.match_skills_by_spacy(jobdes)
+    sorted_resumes=resume_filtering.resume_filtering(resumes,job,[0.8,0.1,0.1])
+    response={
+        'sorted_resumes':sorted_resumes.to_dict(orient='records')
     }
     json_response = json.dumps(response)
     return json_response

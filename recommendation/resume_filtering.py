@@ -20,11 +20,12 @@ def load_model(filename):
 
 def resume_filtering(resumes,job_des,similarity_weights):
     # Vectorize user's skills and job descriptions
-    vocab = newclustering_method.build_vocab(job_des)
+    vocab = newclustering_method.build_vocab_sort_resume(job_des)
     # Define the vocabulary and vectorizer
     voc = list(vocab.word2idx.keys())
     vec = TfidfVectorizer(vocabulary=voc, decode_error='ignore')
     # Vectorize the resume descriptions
+
     resume_desc_matrix = vec.fit_transform(resumes['skills'])
     # Convert the matrix to a dataframe with feature names
     resume_desc_matrix = pd.DataFrame(resume_desc_matrix.todense())
@@ -32,14 +33,16 @@ def resume_filtering(resumes,job_des,similarity_weights):
     # Run PCA to reduce number of features
     pca = PCA(n_components=len(resume_desc_matrix.columns), random_state=42)
     comps = pca.fit_transform(resume_desc_matrix)
+    print(" Coms Shape:",comps.shape)
     # Put the components into a dataframe with feature names
     comps = pd.DataFrame(comps)
     skillz = pd.DataFrame(vec.transform([job_des['skills']]).todense())
     skillz.columns = vec.get_feature_names()
-        # Tranform feature matrix with pca
+    # Tranform feature matrix with pca
     job_comps = pd.DataFrame(pca.transform(skillz))
+    print("Job Coms Shape:",job_comps.shape)
     similarity_scores = []
-    for index, item in resumes.iterrows():
+    for index, item in comps.iterrows():
             semantic_similarity = utils.calculate_hybrid_similarity(item.T,job_comps.T)
             major_score=utils.major_matching(resumes.loc[index],job_des)
             degree_score=utils.degree_matching(resumes.loc[index],job_des)
