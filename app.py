@@ -3,8 +3,7 @@ from flask import Flask, render_template, redirect, request
 import os
 import json
 from resume_screening import resume_parser
-from recommendation import R2J
-from recommendation import search_jobs
+from recommendation import R2J,search_jobs,single_job_match
 from recommendation import resume_filtering
 from flask_cors import CORS
 from jobs_screening import jobinfoextraction
@@ -30,6 +29,17 @@ def get_jobs():
 
     response={
         'jobs':search_jobs.get_cluster_wise_jobs()
+    }
+    json_response = json.dumps(response)
+    return json_response
+
+@app.route("/get_job_by_id",methods=['POST'])
+def get_jobs_by_id():
+    if request.method == 'POST':
+         data = request.get_json()
+         job_id=data['job_id']
+    response={
+        'jobs_data':single_job_match.get_job_by_id(job_id)
     }
     json_response = json.dumps(response)
     return json_response
