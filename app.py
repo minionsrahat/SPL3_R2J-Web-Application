@@ -7,6 +7,8 @@ from recommendation import R2J,search_jobs,single_job_match
 from recommendation import resume_filtering
 from flask_cors import CORS
 from jobs_screening import jobinfoextraction
+from pymongo import MongoClient
+import jwt
 
 
 outdir = './Dataset/Resume files'
@@ -17,12 +19,63 @@ if not os.path.exists(outdir):
 
 app = Flask(__name__)
 CORS(app)
+app.config['MONGO_URI'] = 'mongodb+srv://rahatuddin786:QCYbAUcMjP1huWMw@layeredrec.xbrphfm.mongodb.net/?retryWrites=true&w=majority'  # Replace with your MongoDB URI
+mongo = MongoClient(app.config['MONGO_URI'])
+db = mongo.layered_rec  # Replace 'mydatabase' with your database name
 
 
-@app.route('/')
-def index():
-    return render_template("index.html")
+@app.route('/register', methods=['POST'])
+def register():
+    registration_data = request.json  # Assuming the frontend sends JSON data
+    email = registration_data.get('emailId')
+    print(registration_data)
 
+    # Check if user with the same email already exists
+    existing_user = db.users.find_one({'emailId': email})
+    if existing_user:
+        return {
+            'error': True,
+            'message': 'User with the same email already exists'
+        }
+    db.users.insert_one(registration_data)  # Save data into the "users" collection
+
+    # Generate access token
+    payload = {'name': registration_data['name']}
+    secret_key = 'your_secret_key'  # Replace with your secret key
+    access_token = jwt.encode(payload, secret_key, algorithm='HS256')
+
+    return {
+        'error': False,
+        'name': registration_data['name'],
+        'accessToken': access_token.decode('utf-8')
+    }
+
+
+
+@app.route('/login', methods=['POST'])
+def login():
+    login_data = request.json  # Assuming the frontend sends JSON data
+    email = login_data.get('emailId')
+    password = login_data.get('password')
+
+    # Check if user exists and password is correct
+    user = db.users.find_one({'emailId': email})
+    if not user or user['password'] != password:
+        return {
+            'error': True,
+            'message': 'Invalid email or password'
+        }
+
+    # Generate access token
+    payload = {'email': email}
+    secret_key = 'your_secret_key'  # Replace with your secret key
+    access_token = jwt.encode(payload, secret_key, algorithm='HS256')
+
+    return {
+        'error': False,
+        'email': user['name'],
+        'accessToken': access_token.decode('utf-8')
+    }
 
 @app.route("/get_jobs",methods=['GET'])
 def get_jobs():
